@@ -4,5 +4,5 @@
 <br/>
 
 ## 26 March 2023
-Weekend time with the family and we watched the movie **Lorax** from 2012, based upon a book by Dr. Seuss. A good movie for the whole family with an even great quote for future saving. <br/>
+Weekend time with the family and we watched the movie **Lorax** from 2012, based upon a book by Dr. Seuss. A good movie for the whole family with an even great quote for future saving. <br/><br/>
 *Be who you are and say what you feel because those who mind, don't matter, and those who matter, don't mind.* - Dr. Seuss
