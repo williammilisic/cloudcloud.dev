@@ -14,3 +14,6 @@ I # cloudcloud.dev
 
 * Recent years, months and weeks have seen a remarkable 
 progress in the field of generative AI and large language models. This [study](https://arxiv.org/pdf/2303.10130.pdf) made by OpenAI, Open Research and University of Pennsylvania investigates potential impact of Generative Pre-Trained Transformer (GPT) models on the US labour market. 
+
+* The [Guardian](https://www.theguardian.com/commentisfree/2023/mar/25/you-wait-ages-for-an-ai-chatbot-to-come-along-then-a-whole-bunch-turn-up-chatgpt) answers why the machine learning "breakthrough" moment happened to happen right now. A number of necessary but unconnected developments suddenly come together to create entirely new possibilities: 
+"the availability of truly massive cloud-computing power; unimaginable quantities of data provided by the internet for training LLMs; significant improvements in algorithms boosted by neural networks; and oodles of money, provided by insanely profitable tech giants."
