@@ -13,4 +13,4 @@ I # cloudcloud.dev
 *Be who you are and say what you feel because those who mind, don't matter, and those who matter, don't mind.* - Dr. Seuss
 
 * Recent years, months and weeks have seen a remarkable 
-progress in the field of generative AI and large language models. This [study](https://arxiv.org/pdf/2303.10130.pdf)made by OpenAI, Open Research and University of Pennsylvania investigates potential impact of Generative Pre-Trained Transformer (GPT) models on the US labour market. 
+progress in the field of generative AI and large language models. This [study](https://arxiv.org/pdf/2303.10130.pdf) made by OpenAI, Open Research and University of Pennsylvania investigates potential impact of Generative Pre-Trained Transformer (GPT) models on the US labour market. 
