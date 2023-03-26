@@ -17,3 +17,6 @@ progress in the field of generative AI and large language models. This [study](h
 
 * The [Guardian](https://www.theguardian.com/commentisfree/2023/mar/25/you-wait-ages-for-an-ai-chatbot-to-come-along-then-a-whole-bunch-turn-up-chatgpt) answers why the machine learning "breakthrough" moment happened to happen right now. A number of necessary but unconnected developments suddenly came together to create entirely new possibilities: 
 "the availability of truly massive cloud-computing power; unimaginable quantities of data provided by the internet for training LLMs; significant improvements in algorithms boosted by neural networks; and oodles of money, provided by insanely profitable tech giants."
+
+* Reflecting on the US lawmakers grilling TikTok's CEO about it's ties to China. While I very well understand the US lawmakers's concerns about TikTok being (ab)used as a potential weapon against the free world, it's hard not to draw parallels between the Chinese National Security Law from 2017 and the American Clarifying Lawful Overseas Use of Data Act or CLOUD Act from 2018.
+[Politico article on TikTok](https://www.politico.eu/article/tiktok-china-west-europe-ban-app-espionage-surveillance/amp/)
