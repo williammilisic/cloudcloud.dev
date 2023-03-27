@@ -13,7 +13,7 @@
 ## 27 March 2023
 * Sequoia Capital's [newest market map](https://media.licdn.com/dms/image/D5622AQFYS4hT4yMi3g/feedshare-shrink_2048_1536/0/1679679479724?e=1682553600&v=beta&t=t-B1CLx2ddYGvLA55ipMj1AwrMfqGHJsGR4R9kxZ6sk). It showcases Sequoia's belief that that the AI revolution is the most consequential computational trend in decades. AI is rewriting what software can do and expanding the pool of who can write software. Full article [here](https://www.sequoiacap.com/article/ai-powered-developer-tools/). <br/>
 * Quote-for-saving: *Skipping software tests to save time is like getting a head start in a race by not tying your shoes. You're not getting ahead, you're going to stumble.* 
-* Sequoia [paper](https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/) on Generative AI predicts rise of "killer" apps just like smartphones 15 years ago unleashed new types of applications through new capabilities like GPS, cameras and on-the-go connectivity. The paper speculates how different fundamental models will evolve over the coming years and what sort of associated applications will become possible. 
+* Sequoia [article](https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/) on Generative AI predicts rise of "killer" apps just like smartphones 15 years ago unleashed new types of applications through new capabilities like GPS, cameras and on-the-go connectivity. The article speculates how different fundamental models will evolve over the coming years and what sort of associated applications will become possible. 
 
 ## 26 March 2023
 * Weekend time with the family and we watched the movie **Lorax** from 2012, based upon a book by Dr. Seuss. A good movie for the whole family with a great quote for future saving. <br/>
