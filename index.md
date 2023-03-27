@@ -6,7 +6,7 @@
 <br/>
 
 ## 27 March 2023
-* Sequoia Capital's [newest market map](https://media.licdn.com/dms/image/D5622AQFYS4hT4yMi3g/feedshare-shrink_2048_1536/0/1679679479724?e=1682553600&v=beta&t=t-B1CLx2ddYGvLA55ipMj1AwrMfqGHJsGR4R9kxZ6sk). It showcases Sequoia's belief that that the AI revolution is the most consequential computational trend in decades. AI is rewriting what software can do and expanding the pool of who can write software.
+* Sequoia Capital's [newest market map](https://media.licdn.com/dms/image/D5622AQFYS4hT4yMi3g/feedshare-shrink_2048_1536/0/1679679479724?e=1682553600&v=beta&t=t-B1CLx2ddYGvLA55ipMj1AwrMfqGHJsGR4R9kxZ6sk). It showcases Sequoia's belief that that the AI revolution is the most consequential computational trend in decades. AI is rewriting what software can do and expanding the pool of who can write software. Full article [here](https://www.sequoiacap.com/article/ai-powered-developer-tools/). <br/>
 
 ## 26 March 2023
 * Weekend time with the family and we watched the movie **Lorax** from 2012, based upon a book by Dr. Seuss. A good movie for the whole family with a great quote for future saving. <br/><br/>
