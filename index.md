@@ -6,8 +6,8 @@
 <br/>
 
 ## 28 March 2023
-
-<br/>
+* Goldman Sachs estimates that two-thirds of current jobs in the US and the European Union are exposed to some degree of AI automation. Administrative and legal sectors are expected to be the most impacted, with 46% of administrative jobs and 44% of legal jobs being substitutable by AI. 
+The research shows that AI will impact roughly half of the activities people do across all sectors, and nearly all occupations will be affected by automation. [Financial Times article](https://www.ft.com/content/50b15701-855a-4788-9a4b-5a0a9ee10561)
 
 
 ## 27 March 2023
