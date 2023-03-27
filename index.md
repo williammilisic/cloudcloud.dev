@@ -5,6 +5,11 @@
 > I have wanted to start with journaling for a really long time but have always come up with some reason or excuse not to. This time, I will try to make journaling to be about things, topics and aha-moments I encounter on a daily basis, that might also be interesting for others to learn about or discover.
 <br/>
 
+## 28 March 2023
+
+<br/>
+
+
 ## 27 March 2023
 * Sequoia Capital's [newest market map](https://media.licdn.com/dms/image/D5622AQFYS4hT4yMi3g/feedshare-shrink_2048_1536/0/1679679479724?e=1682553600&v=beta&t=t-B1CLx2ddYGvLA55ipMj1AwrMfqGHJsGR4R9kxZ6sk). It showcases Sequoia's belief that that the AI revolution is the most consequential computational trend in decades. AI is rewriting what software can do and expanding the pool of who can write software. Full article [here](https://www.sequoiacap.com/article/ai-powered-developer-tools/). <br/>
 * Quote-for-saving: *Skipping software tests to save time is like getting a head start in a race by not tying your shoes. You're not getting ahead, you're going to stumble.* 
