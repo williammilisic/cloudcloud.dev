@@ -7,12 +7,11 @@
 
 ## 27 March 2023
 * Sequoia Capital's [newest market map](https://media.licdn.com/dms/image/D5622AQFYS4hT4yMi3g/feedshare-shrink_2048_1536/0/1679679479724?e=1682553600&v=beta&t=t-B1CLx2ddYGvLA55ipMj1AwrMfqGHJsGR4R9kxZ6sk). It showcases Sequoia's belief that that the AI revolution is the most consequential computational trend in decades. AI is rewriting what software can do and expanding the pool of who can write software. Full article [here](https://www.sequoiacap.com/article/ai-powered-developer-tools/). <br/>
-* *Skipping software tests to save time is like getting a head start in a race by not tying your shoes. You're not getting ahead, you're going to stumble.* 
-* 
+* Quote-for-saving: *Skipping software tests to save time is like getting a head start in a race by not tying your shoes. You're not getting ahead, you're going to stumble.* 
 
 ## 26 March 2023
 * Weekend time with the family and we watched the movie **Lorax** from 2012, based upon a book by Dr. Seuss. A good movie for the whole family with a great quote for future saving. <br/><br/>
-*Be who you are and say what you feel because those who mind, don't matter, and those who matter, don't mind.* - Dr. Seuss
+Quote-for-saving: *Be who you are and say what you feel because those who mind, don't matter, and those who matter, don't mind.* - Dr. Seuss
 
 * Recent years, months and weeks have seen a remarkable 
 progress in the field of generative AI and large language models. This [study](https://arxiv.org/pdf/2303.10130.pdf) made by OpenAI, Open Research and University of Pennsylvania investigates potential impact of Generative Pre-Trained Transformer (GPT) models on the US labour market. 
