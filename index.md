@@ -6,6 +6,7 @@
 <br/>
 
 ## 28 March 2023
+* Trying out [Perplexity AI](https://www.perplexity.ai) iPhone app. It's like ChatGPT but with cited sources and voice searches. Perplexity is backed by some of the key people and pioneers in search, consumer products, and artificial intelligence. <br/><br/>
 * [Cloud Security Podcast](https://cloud.withgoogle.com/cloudsecurity/podcast/ep96-cloud-security-observability-for-detection-and-response/) Episode 96 has some interesting insights and take-aways from Jeff Bollinger, Director of Incident Response and Detection Engineering at LinkedIn. The episode focuses on how to best approach observability in Cloud. One of many good take-aways is on using defined but not used subnets as honeypots. <br/><br/>
 * Goldman Sachs estimates that two-thirds of current jobs in the US and the European Union are exposed to some degree of AI automation. Administrative and legal sectors are expected to be the most impacted, with 46% of administrative jobs and 44% of legal jobs being substitutable by AI. 
 The research shows that AI will impact roughly half of the activities people do across all sectors, and nearly all occupations will be affected by automation. [Financial Times article](https://www.ft.com/content/50b15701-855a-4788-9a4b-5a0a9ee10561)
