@@ -7,7 +7,7 @@
 
 ## 29 March
 * Deep fakes and online bank runs are a scary combo. In a digital first world, toppling banks in an online bank run, happens at amazing speeds. And as deep fakes, with the help of AI, are becoming all the more plausible and believable, the risk of a deep fake video causing a run has become all the greater. [Bloomberg Opinion article](https://www.washingtonpost.com/business/2023/03/28/online-fakery-and-digital-bank-runs-are-a-scary-mix/1a63d426-cd57-11ed-8907-156f0390d081_story.html)<br/><br/>
-* Stumbled upon [Minimum Viable Secure Product Controls checklist](https://mvsp.dev/mvsp.en/) while listening to this episode 114 of [Cloud Security podcast](https://open.spotify.com/episode/515p7nUYU8MUdzyGfMuB9H). It's quite usable minimalistic security checklist for B2B software and business process outsourcing suppliers.
+* Stumbled upon [Minimum Viable Secure Product Controls checklist](https://mvsp.dev/mvsp.en/) while listening to episode 114 of [Cloud Security podcast](https://open.spotify.com/episode/515p7nUYU8MUdzyGfMuB9H). It's quite usable minimalistic security checklist for B2B software and business process outsourcing suppliers.
 
 ## 28 March 2023
 * Trying out [Perplexity AI](https://www.perplexity.ai) iPhone app. It's like ChatGPT but with cited sources and voice searches. Perplexity is backed by some of the key people and pioneers in search, consumer products, and artificial intelligence. <br/><br/>
