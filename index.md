@@ -6,6 +6,7 @@
 <br/>
 
 ## 29 March
+* Had great fun at a meet-up co-arranged with [Continuous Delivery Stockholm](https://www.linkedin.com/posts/williammilisic_cloud-cicd-continuousdelivery-activity-7046954939008303104-2XUk). Really glad to contribute in any way I can to getting the meet-up scene going after too many years of pandemic. <br/><br/>
 * Deep fakes and online bank runs are a scary combo. In a digital first world, toppling banks in an online bank run, happens at amazing speeds. And as deep fakes, with the help of AI, are becoming all the more plausible and believable, the risk of a deep fake video causing a run has become all the greater. [Bloomberg Opinion article](https://www.washingtonpost.com/business/2023/03/28/online-fakery-and-digital-bank-runs-are-a-scary-mix/1a63d426-cd57-11ed-8907-156f0390d081_story.html)<br/><br/>
 * Stumbled upon [Minimum Viable Secure Product Controls checklist](https://mvsp.dev/mvsp.en/) while listening to episode 114 of [Cloud Security podcast](https://open.spotify.com/episode/515p7nUYU8MUdzyGfMuB9H). It's a quite usable minimalistic security checklist for B2B software and business process outsourcing suppliers.
 
