@@ -5,6 +5,10 @@
 > I have wanted to start with journaling for a really long time but have always come up with some reason or excuse not to. This time, I will try to make journaling to be about things, topics and aha-moments I encounter on a daily basis, that might also be interesting for others to learn about or discover.
 <br/>
 
+## 29 March
+* Deep fakes and online bank runs are a scary combo. In a digital first world, toppling banks in an online bank run, happens at amazing speeds. And as deep fakes, with the help of AI, are becoming all the more plausible and believable, the risk of a deep fake video causing a run has become all the greater. [Bloomberg Opinion article](https://www.washingtonpost.com/business/2023/03/28/online-fakery-and-digital-bank-runs-are-a-scary-mix/1a63d426-cd57-11ed-8907-156f0390d081_story.html)
+
+
 ## 28 March 2023
 * [Cloud Security Podcast](https://cloud.withgoogle.com/cloudsecurity/podcast/ep96-cloud-security-observability-for-detection-and-response/) Episode 96 has some interesting insights and take-aways from Jeff Bollinger, Director of Incident Response and Detection Engineering at LinkedIn. The episode focuses on how to best approach observability in Cloud. One of many good take-aways is on using defined but not used subnets as honeypots. <br/><br/>
 * Goldman Sachs estimates that two-thirds of current jobs in the US and the European Union are exposed to some degree of AI automation. Administrative and legal sectors are expected to be the most impacted, with 46% of administrative jobs and 44% of legal jobs being substitutable by AI. 
