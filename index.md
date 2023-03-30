@@ -6,6 +6,7 @@
 <br/>
 
 ## 30 March
+* The leaps in AI are just massive. Here's a driverless [Cruise](https://getcruise.com) vehicle making its way through North Beach on St. Patrick's day. Seems AVs will be able to take on pretty hairy situations quite soon. Link to the [video](https://www.linkedin.com/feed/update/urn:li:activity:7046893618195795968/). <br/><br/>
 
 
 ## 29 March
@@ -37,3 +38,4 @@ progress in the field of generative AI and large language models. This [study](h
 
 * Reflecting on the US lawmakers grilling TikTok's CEO about it's ties to China. While I very well understand the US lawmakers's concerns about TikTok being (ab)used as a potential weapon against the free world, it's hard not to draw parallels between the Chinese National Security Law from 2017 and the American Clarifying Lawful Overseas Use of Data Act or CLOUD Act from 2018.
 [Politico article on TikTok](https://www.politico.eu/article/tiktok-china-west-europe-ban-app-espionage-surveillance/amp/)
+
