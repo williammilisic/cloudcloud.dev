@@ -10,7 +10,7 @@
 <!-- ![](../images/backstage-2023-03-30.png)<br/>-->
 * The leaps in AI are just massive. Here's a driverless [Cruise](https://getcruise.com) vehicle making its way through North Beach on St. Patrick's day. Seems AVs will be able to take on pretty hairy situations quite soon. Link to the [video](https://www.linkedin.com/feed/update/urn:li:activity:7046893618195795968/).<br/><br/>
 * Quote-for-saving: *"I can make the trains run on time. But that trait is not conducive to being a leader. That’s a great trait for being a manager. Leadership is a vision. It’s inspiration, it's execution, it’s instincts. It is not just letting the trains run on time."* From [20VC podcast episode with Sequoia'a Doug Leone](https://open.spotify.com/episode/1WuBfXCeERhgiXloheaaoo?si=QZlnTjvHStGEknTcPzFIPA&context=spotify%3Ashow%3A3j2KMcZTtgTNBKwtZBMHvl).<br/><br/>
-* Quote-for-saving: *"I hear and I forget. I see and I remember. I do and I understand." - Confucius
+* Quote-for-saving: *"I hear and I forget. I see and I remember. I do and I understand."* - Confucius
 
 
 
