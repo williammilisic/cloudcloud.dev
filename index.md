@@ -33,14 +33,11 @@ The research shows that AI will impact roughly half of the activities people do 
 
 ## 26 March 2023
 * Weekend time with the family and we watched the movie **Lorax** from 2012, based upon a book by Dr. Seuss. A good movie for the whole family with a great quote for future saving. <br/><br/>
-* Quote-for-saving: *"Be who you are and say what you feel because those who mind, don't matter, and those who matter, don't mind."* - Dr. Seuss
-
+* Quote-for-saving: *"Be who you are and say what you feel because those who mind, don't matter, and those who matter, don't mind."* - Dr. Seuss<br/><br/>
 * Recent years, months and weeks have seen a remarkable 
-progress in the field of generative AI and large language models. This [study](https://arxiv.org/pdf/2303.10130.pdf) made by OpenAI, Open Research and University of Pennsylvania investigates potential impact of Generative Pre-Trained Transformer (GPT) models on the US labour market. 
-
+progress in the field of generative AI and large language models. This [study](https://arxiv.org/pdf/2303.10130.pdf) made by OpenAI, Open Research and University of Pennsylvania investigates potential impact of Generative Pre-Trained Transformer (GPT) models on the US labour market. <br/><br/>
 * The [Guardian](https://www.theguardian.com/commentisfree/2023/mar/25/you-wait-ages-for-an-ai-chatbot-to-come-along-then-a-whole-bunch-turn-up-chatgpt) answers why the machine learning "breakthrough" moment happened to happen right now. A number of necessary but unconnected developments suddenly came together to create entirely new possibilities: 
 "the availability of truly massive cloud-computing power; unimaginable quantities of data provided by the internet for training LLMs; significant improvements in algorithms boosted by neural networks; and oodles of money, provided by insanely profitable tech giants."
-
 * Reflecting on the US lawmakers grilling TikTok's CEO about it's ties to China. While I very well understand the US lawmakers's concerns about TikTok being (ab)used as a potential weapon against the free world, it's hard not to draw parallels between the Chinese National Security Law from 2017 and the American Clarifying Lawful Overseas Use of Data Act or CLOUD Act from 2018.
 [Politico article on TikTok](https://www.politico.eu/article/tiktok-china-west-europe-ban-app-espionage-surveillance/amp/)
 
