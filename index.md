@@ -9,7 +9,8 @@
 * An interesting ROI measurement on [Backstage](https://backstage.io) was released today by Spotify. The developers that use Backstage are both more productive, content and retained longer at the company than non-users of Backstage. Check out the analysis right [here](https://backstage.spotify.com/blog/how-spotify-measures-backstage-roi/?utm_campaign=FY23%20-%20Blog%3A%20Backstage%20by%20the%20Numbers&utm_medium=email&_hsenc=p2ANqtz-8Xr0BcvVUXCm3gpI6IcWUIEqZqf1Ipoh6e7k94ex9oDnKWezlF0ar3heqk-gCosVcpnn85UJ0hB04QsUohmkitcVqHMw&_hsmi=252403474&utm_content=252403474&utm_source=hs_email&hsCtaTracking=08661d3f-d640-454b-bf55-ac04726b1ad3%7Cd00f0188-d378-4e37-9530-ded38d534323). <br/><br/>
 <!-- ![](../images/backstage-2023-03-30.png)<br/>-->
 * The leaps in AI are just massive. Here's a driverless [Cruise](https://getcruise.com) vehicle making its way through North Beach on St. Patrick's day. Seems AVs will be able to take on pretty hairy situations quite soon. Link to the [video](https://www.linkedin.com/feed/update/urn:li:activity:7046893618195795968/).<br/><br/>
-* Quote-for-saving: *I can make the trains run on time. But that trait is not conducive to being a leader. That’s a great trait for being a manager. Leadership is a vision. It’s inspiration, it's execution, it’s instincts. It is not just letting the trains run on time.* From [20VC podcast episode with Sequoia'a Doug Leone](https://open.spotify.com/episode/1WuBfXCeERhgiXloheaaoo?si=QZlnTjvHStGEknTcPzFIPA&context=spotify%3Ashow%3A3j2KMcZTtgTNBKwtZBMHvl).
+* Quote-for-saving: *"I can make the trains run on time. But that trait is not conducive to being a leader. That’s a great trait for being a manager. Leadership is a vision. It’s inspiration, it's execution, it’s instincts. It is not just letting the trains run on time."* From [20VC podcast episode with Sequoia'a Doug Leone](https://open.spotify.com/episode/1WuBfXCeERhgiXloheaaoo?si=QZlnTjvHStGEknTcPzFIPA&context=spotify%3Ashow%3A3j2KMcZTtgTNBKwtZBMHvl).
+* Quote-for-saving: *"I hear and I forget. I see and I remember. I do and I understand." - Confucius
 
 
 
@@ -27,12 +28,12 @@ The research shows that AI will impact roughly half of the activities people do 
 
 ## 27 March 2023
 * Sequoia Capital's [newest market map](https://media.licdn.com/dms/image/D5622AQFYS4hT4yMi3g/feedshare-shrink_2048_1536/0/1679679479724?e=1682553600&v=beta&t=t-B1CLx2ddYGvLA55ipMj1AwrMfqGHJsGR4R9kxZ6sk). It showcases Sequoia's belief that that the AI revolution is the most consequential computational trend in decades. AI is rewriting what software can do and expanding the pool of who can write software. Full article [here](https://www.sequoiacap.com/article/ai-powered-developer-tools/). <br/><br/>
-* Quote-for-saving: *Skipping software tests to save time is like getting a head start in a race by not tying your shoes. You're not getting ahead, you're going to stumble.* <br/><br/>
+* Quote-for-saving: *"Skipping software tests to save time is like getting a head start in a race by not tying your shoes. You're not getting ahead, you're going to stumble."* <br/><br/>
 * Sequoia [article](https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/) on Generative AI predicts rise of "killer" apps just like smartphones 15 years ago unleashed new types of applications through new capabilities like GPS, cameras and on-the-go connectivity. The article speculates how different fundamental models will evolve over the coming years and what sort of associated applications will become possible. <br/>
 
 ## 26 March 2023
 * Weekend time with the family and we watched the movie **Lorax** from 2012, based upon a book by Dr. Seuss. A good movie for the whole family with a great quote for future saving. <br/><br/>
-* Quote-for-saving: *Be who you are and say what you feel because those who mind, don't matter, and those who matter, don't mind.* - Dr. Seuss
+* Quote-for-saving: *"Be who you are and say what you feel because those who mind, don't matter, and those who matter, don't mind."* - Dr. Seuss
 
 * Recent years, months and weeks have seen a remarkable 
 progress in the field of generative AI and large language models. This [study](https://arxiv.org/pdf/2303.10130.pdf) made by OpenAI, Open Research and University of Pennsylvania investigates potential impact of Generative Pre-Trained Transformer (GPT) models on the US labour market. 
