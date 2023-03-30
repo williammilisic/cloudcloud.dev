@@ -6,6 +6,10 @@
 <br/>
 
 ## 30 March
+* An interesting ROI measurement on [Backstage](https://backstage.io) was released today by Spotify. The developers that use Backstage are both more productive, content and retained longer at the company than non-users of Backstage. Check out the analysis right [here](https://backstage.spotify.com/blog/how-spotify-measures-backstage-roi/?utm_campaign=FY23%20-%20Blog%3A%20Backstage%20by%20the%20Numbers&utm_medium=email&_hsenc=p2ANqtz-8Xr0BcvVUXCm3gpI6IcWUIEqZqf1Ipoh6e7k94ex9oDnKWezlF0ar3heqk-gCosVcpnn85UJ0hB04QsUohmkitcVqHMw&_hsmi=252403474&utm_content=252403474&utm_source=hs_email&hsCtaTracking=08661d3f-d640-454b-bf55-ac04726b1ad3%7Cd00f0188-d378-4e37-9530-ded38d534323). <br/>
+
+![](../images/backstage-2023-03-30.png)<br/>
+
 * The leaps in AI are just massive. Here's a driverless [Cruise](https://getcruise.com) vehicle making its way through North Beach on St. Patrick's day. Seems AVs will be able to take on pretty hairy situations quite soon. Link to the [video](https://www.linkedin.com/feed/update/urn:li:activity:7046893618195795968/). <br/><br/>
 
 
