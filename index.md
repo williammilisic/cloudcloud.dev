@@ -5,6 +5,9 @@
 > I have wanted to start journaling for a really long time but have always come up with some reason or excuse not to. This time, I will try to make journaling to be about things, topics and aha-moments I encounter on a daily basis, that might also be interesting for others to learn about or discover.
 <br/>
 
+## 1 April
+
+
 ## 31 March
 * Ars Technica is writing a [piece](https://arstechnica.com/gadgets/2023/03/google-assistant-might-be-doomed-division-reorganizes-to-focus-on-bard/) on Google refocusing efforts from Google Assistant to Bard. Just like [Alexa](https://arstechnica.com/gadgets/2022/11/amazon-alexa-is-a-colossal-failure-on-pace-to-lose-10-billion-this-year/) it seems Google Assistant, isn't making any money for the parent company. <br/><br/>
 * Quote-for-saving: *"Change is inevitable. Growth is optional."* - John C. Maxwell
