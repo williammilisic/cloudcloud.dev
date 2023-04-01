@@ -6,7 +6,8 @@
 <br/>
 
 ## 31 March
-* Ars Technica is writing a [piece](https://arstechnica.com/gadgets/2023/03/google-assistant-might-be-doomed-division-reorganizes-to-focus-on-bard/) on Google refocusing efforts from Google Assistant to Bard. Just like [Alexa](https://arstechnica.com/gadgets/2022/11/amazon-alexa-is-a-colossal-failure-on-pace-to-lose-10-billion-this-year/) it seems Google Assistant, isn't making any money for the parent company. 
+* Ars Technica is writing a [piece](https://arstechnica.com/gadgets/2023/03/google-assistant-might-be-doomed-division-reorganizes-to-focus-on-bard/) on Google refocusing efforts from Google Assistant to Bard. Just like [Alexa](https://arstechnica.com/gadgets/2022/11/amazon-alexa-is-a-colossal-failure-on-pace-to-lose-10-billion-this-year/) it seems Google Assistant, isn't making any money for the parent company. <br/><br/>
+* Quote-for-saving: "Change is inevitable. Growth is optional." - John C. Maxwell
 
 ## 30 March
 * An interesting ROI measurement on [Backstage](https://backstage.io) was released today by Spotify. The developers that use Backstage are both more productive, content and retained longer at the company than non-users of Backstage. Check out the analysis right [here](https://backstage.spotify.com/blog/how-spotify-measures-backstage-roi/?utm_campaign=FY23%20-%20Blog%3A%20Backstage%20by%20the%20Numbers&utm_medium=email&_hsenc=p2ANqtz-8Xr0BcvVUXCm3gpI6IcWUIEqZqf1Ipoh6e7k94ex9oDnKWezlF0ar3heqk-gCosVcpnn85UJ0hB04QsUohmkitcVqHMw&_hsmi=252403474&utm_content=252403474&utm_source=hs_email&hsCtaTracking=08661d3f-d640-454b-bf55-ac04726b1ad3%7Cd00f0188-d378-4e37-9530-ded38d534323). <br/><br/>
