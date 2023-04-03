@@ -11,7 +11,7 @@
 ## 1 April 2023
 * [Italian DPA](https://techcrunch.com/2023/03/31/chatgpt-blocked-italy/) issues order to block ChatGPT over GDPR breach concerns. <br/><br/>
 * [The Verge](https://www.theverge.com/2023/4/1/23665955/april-fools-day-2023-pranks-jokes-best-worst) tracks the best and worst April Fools' Day jokes of 2023. <br/><br/>
-* [Washington Post](https://www.washingtonpost.com/arts-entertainment/2023/04/01/april-fools-pranks-hoaxes-2023/) has a honourable? tradition of debunking April Fools' pranks. <br/></br>
+* [Washington Post](https://www.washingtonpost.com/arts-entertainment/2023/04/01/april-fools-pranks-hoaxes-2023/) has a honourable? tradition of debunking April Fools' pranks. <br/><br/>
 * A little [LinkedIn post](https://www.linkedin.com/posts/williammilisic_april1st-activity-7047821122788110336-i8hq) in the spirit of Aprils Fools as to why I think onprem is better than Cloud.
 
 ## 31 March 2023
