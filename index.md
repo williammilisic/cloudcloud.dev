@@ -6,7 +6,7 @@
 <br/>
 
 ## 3 April 2023
-
+# On the 30th March, Bloomberg announced [BloombergGPT](https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/). This LLM has been trained on a wide range of financial data to support a diverse set of NLP tasks within the financial industry. It has been trained using both public and private data sets, to produce an LLM with a competitive edge in the financial services on ChatGPT and other "generic" GPTs. 
 
 ## 1 April 2023
 * [Italian DPA](https://techcrunch.com/2023/03/31/chatgpt-blocked-italy/) issues order to block ChatGPT over GDPR breach concerns. <br/><br/>
