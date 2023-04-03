@@ -5,10 +5,14 @@
 > I have wanted to start journaling for a really long time but have always come up with some reason or excuse not to. This time, I will try to make journaling to be about things, topics and aha-moments I encounter on a daily basis, that might also be interesting for others to learn about or discover.
 <br/>
 
+## 3 April 2023
+
+
 ## 1 April 2023
 * [Italian DPA](https://techcrunch.com/2023/03/31/chatgpt-blocked-italy/) issues order to block ChatGPT over GDPR breach concerns. <br/><br/>
 * [The Verge](https://www.theverge.com/2023/4/1/23665955/april-fools-day-2023-pranks-jokes-best-worst) tracks the best and worst April Fools' Day jokes of 2023. <br/><br/>
-* [Washington Post](https://www.washingtonpost.com/arts-entertainment/2023/04/01/april-fools-pranks-hoaxes-2023/) has a honourable? tradition of debunking April Fools' pranks.
+* [Washington Post](https://www.washingtonpost.com/arts-entertainment/2023/04/01/april-fools-pranks-hoaxes-2023/) has a honourable? tradition of debunking April Fools' pranks. <br/></br>
+* A little [LinkedIn post](https://www.linkedin.com/posts/williammilisic_april1st-activity-7047821122788110336-i8hq) in the spirit of Aprils Fools as to why I think onprem is better than Cloud.
 
 ## 31 March 2023
 * Ars Technica is writing a [piece](https://arstechnica.com/gadgets/2023/03/google-assistant-might-be-doomed-division-reorganizes-to-focus-on-bard/) on Google refocusing efforts from Google Assistant to Bard. Just like [Alexa](https://arstechnica.com/gadgets/2022/11/amazon-alexa-is-a-colossal-failure-on-pace-to-lose-10-billion-this-year/) it seems Google Assistant, isn't making any money for the parent company. <br/><br/>
