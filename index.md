@@ -5,6 +5,9 @@
 > I have wanted to start journaling for a really long time but have always come up with some reason or excuse not to. This time, I will try to make journaling to be about things, topics and aha-moments I encounter on a daily basis, that might also be interesting for others to learn about or discover.
 <br/>
 
+## 4 April 2023
+* New Google Flights [feature](https://mashable.com/article/google-flights-price-guarantee) guarantees the lowest price, pays you back if it’s wrong. Caveat: it only works in the US right now and with airlines using "Book on Google" feature. Still interesting move. <br/><br/>
+
 ## 3 April 2023
 * On the 30th March, Bloomberg announced [BloombergGPT](https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/). This LLM has been trained on a wide range of financial data to support a diverse set of NLP tasks within the financial industry. It has been trained using both public and private data sets, to produce an LLM with a competitive edge in the financial services on ChatGPT and other "generic" GPTs. <br/><br/>
 * Quote-for-saving: *"Leaders are not the problem. Bad leaders are the problem. Challenge is to create a culture where good leadership is the norm.”*
