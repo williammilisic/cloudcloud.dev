@@ -5,6 +5,9 @@
 > I have wanted to start journaling for a really long time but have always come up with some reason or excuse not to. This time, I will try to make journaling to be about things, topics and aha-moments I encounter on a daily basis, that might also be interesting for others to learn about or discover.
 <br/>
 
+## 5 April 2023
+* Ofcom (Office of Communications - UK regulatory body for broadcasting, telecommunications and post) is highlightning anticompetitive practices by major Cloud providers: data egress costs, technical restrictions on interoperability, committed usage discounts. Article [here](https://www.ofcom.org.uk/news-centre/2023/ofcom-proposes-to-refer-uk-cloud-market-for-investigation). <br/><br/>
+
 ## 4 April 2023
 * New Google Flights [feature](https://mashable.com/article/google-flights-price-guarantee) guarantees the lowest price, pays you back if it’s wrong. Caveat: it only works in the US right now and with airlines using "Book on Google" feature. Still interesting move. <br/><br/>
 
