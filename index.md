@@ -5,6 +5,10 @@
 > I have wanted to start journaling for a really long time but have always come up with some reason or excuse not to. This time, I will try to make journaling to be about things, topics and aha-moments I encounter on a daily basis, that might also be interesting for others to learn about or discover.
 <br/>
 
+## 6 April 2023
+* Jennifer Brady tells the story how to introduce financial services governance to DevOps. [Article on Medium](https://medium.com/capital-one-tech/devops-and-governance-56f6ecae1181).<br/><br/>
+* Key takeaways from Stanford’s report on the [state of AI](https://techcrunch.com/2023/04/04/the-takeaways-from-stanfords-386-page-report-on-the-state-of-ai/). <br/><br/>
+
 ## 5 April 2023
 * Ofcom (Office of Communications - UK regulatory body for broadcasting, telecommunications and post) is highlightning anticompetitive practices by major Cloud providers: data egress costs, technical restrictions on interoperability, committed usage discounts. Article [here](https://www.ofcom.org.uk/news-centre/2023/ofcom-proposes-to-refer-uk-cloud-market-for-investigation). <br/><br/>
 
