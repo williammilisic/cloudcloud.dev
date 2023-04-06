@@ -6,7 +6,7 @@
 <br/>
 
 ## 6 April 2023
-* Quote-for-saving: *""The world has enough for everyone's needs, but not everyone's greed." - Mahatma Gandhi"* <br/><br/>
+* Quote-for-saving: *""The world has enough for everyone's needs, but not everyone's greed."* - Mahatma Gandhi <br/><br/>
 * Jennifer Brady tells the story how to introduce financial services governance to DevOps. [Article on Medium](https://medium.com/capital-one-tech/devops-and-governance-56f6ecae1181).<br/><br/>
 * Key takeaways from Stanford’s report on the [state of AI](https://techcrunch.com/2023/04/04/the-takeaways-from-stanfords-386-page-report-on-the-state-of-ai/). <br/><br/>
 
