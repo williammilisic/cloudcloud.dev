@@ -6,7 +6,7 @@
 <br/>
 
 ## 7 April 2023
-* Techcrunch has an interesting [piece](https://techcrunch.com/2023/04/03/a-knife-so-sharp-you-dont-feel-it-cut/) on how generative AI is near perfect an inoffensive, blend CorpSpeak and marketing copy, in turn disrupting and replacing millions of jobs engaged in just this endeavour. <br/><br/>
+* Techcrunch has an interesting [piece](https://techcrunch.com/2023/04/03/a-knife-so-sharp-you-dont-feel-it-cut/) on how generative AI is near perfect at inoffensive, blend CorpSpeak and marketing copy, in turn disrupting and replacing millions of jobs engaged in just this endeavour. <br/><br/>
 
 ## 6 April 2023
 * Quote-for-saving: *""The world has enough for everyone's needs, but not everyone's greed."* - Mahatma Gandhi <br/><br/>
