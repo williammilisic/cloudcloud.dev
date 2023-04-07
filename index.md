@@ -5,6 +5,9 @@
 > I have wanted to start journaling for a really long time but have always come up with some reason or excuse not to. This time, I will try to make journaling to be about things, topics and aha-moments I encounter on a daily basis, that might also be interesting for others to learn about or discover.
 <br/>
 
+## 7 April 2023
+* Techcrunch has an interesting [piece](https://techcrunch.com/2023/04/03/a-knife-so-sharp-you-dont-feel-it-cut/) on how generative AI is near perfect an inoffensive, blend CorpSpeak and marketing copy, in turn disrupting and replacing millions of jobs engaged in just this endeavour. <br/><br/>
+
 ## 6 April 2023
 * Quote-for-saving: *""The world has enough for everyone's needs, but not everyone's greed."* - Mahatma Gandhi <br/><br/>
 * Jennifer Brady tells the story how to introduce financial services governance to DevOps. [Article on Medium](https://medium.com/capital-one-tech/devops-and-governance-56f6ecae1181).<br/><br/>
