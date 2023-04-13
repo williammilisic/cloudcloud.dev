@@ -6,7 +6,8 @@
 <br/>
 
 ## 13 April 2023
-* Itamar Gilad has an insightful [article](https://itamargilad.com/net-promoter-score-part2/) why NPS (Net Promoter Score) (like any framework or methodology really) is not to be followed blindly.
+* Itamar Gilad has an insightful [article](https://itamargilad.com/net-promoter-score-part2/) why NPS (Net Promoter Score) (like any framework or methodology really) is not to be followed blindly. <br/><br/>
+* Sterling Bank's Engine SaaS branch on why Cloud is an innovation enabler as well as a compliance must for them. Article [here](https://www.finextra.com/newsarticle/41919/starling-on-scalability-and-being-cut-from-the-cloud/cloud).
 
 ## 7 April 2023
 * Techcrunch has an interesting [piece](https://techcrunch.com/2023/04/03/a-knife-so-sharp-you-dont-feel-it-cut/) on how generative AI is near perfect at inoffensive, blend CorpSpeak and marketing copy, in turn disrupting and replacing millions of jobs engaged in just this endeavour. <br/><br/>
