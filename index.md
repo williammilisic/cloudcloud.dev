@@ -6,7 +6,7 @@
 <br/>
 
 ## 13 April 2023
-Itamar Gilad has an insightful [article](https://itamargilad.com/net-promoter-score-part2/) why NPS (Net Promoter Score) (like any framework or methodology really) is not to be followed blindly.
+* Itamar Gilad has an insightful [article](https://itamargilad.com/net-promoter-score-part2/) why NPS (Net Promoter Score) (like any framework or methodology really) is not to be followed blindly.
 
 ## 7 April 2023
 * Techcrunch has an interesting [piece](https://techcrunch.com/2023/04/03/a-knife-so-sharp-you-dont-feel-it-cut/) on how generative AI is near perfect at inoffensive, blend CorpSpeak and marketing copy, in turn disrupting and replacing millions of jobs engaged in just this endeavour. <br/><br/>
