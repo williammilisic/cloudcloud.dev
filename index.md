@@ -10,6 +10,7 @@
 * It's been now 2 years at SEB, as I started in April of 2021 in the midst of the pandemic. Since day 1, it's been an eventful ride, with many highs and lows. Changing ways, practices and thinking in a nearly 170 years old institution requires patience, persistence, taking in different perspective and maintaining grit. Everyday has been a learning and growing opportunity and that's in essence what life is about, right?  <br/><br/>
 * Summarised some of my initial experiments and experiences with FinOps in this LinkedIn [post](https://www.linkedin.com/posts/williammilisic_stockholm-finops-roadshow-activity-7054171153765990400--zJx) plus put an advertisement out for the FinOps Roadshow in Stockholm on 12th of May.  <br/><br/>
 * Read the book Investments Unlimited from IT Revolution. Summary [here](https://www.linkedin.com/posts/williammilisic_investments-unlimited-it-revolution-activity-7052915404582625281-pVg7).<br/><br/>
+* [Bard](https://blog.google/technology/ai/code-with-bard/) can now generate, debug and explain code. 
 
 ## 13 April 2023
 * Itamar Gilad has an insightful [article](https://itamargilad.com/net-promoter-score-part2/) why NPS (Net Promoter Score) (like any framework or methodology really) is not to be followed blindly. <br/><br/>
