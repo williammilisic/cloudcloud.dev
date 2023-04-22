@@ -7,7 +7,7 @@
 
 ## 22 April 2023
 * Been a few days without content. Blame it on vacation and coming back to work after vacation. Anyways, here we go off again.  <br/><br/>
-* It's been now 2 years at SEB, as I started in April of 2021 in the midst of the pandemic. Since day 1, it's been an eventful ride, with many highs and lows. Everyday has been a learning and growing opportunity and that's in essence what life is about, right?  <br/><br/>
+* It's been now 2 years at SEB, as I started in April of 2021 in the midst of the pandemic. Since day 1, it's been an eventful ride, with many highs and lows. Changing ways, practices and thinking in a nearly 170 years old institution requires patience, persistence, perspective and grit. Everyday has been a learning and growing opportunity and that's in essence what life is about, right?  <br/><br/>
 * Summarised some of my initial experiments and experiences with FinOps in this LinkedIn [post](https://www.linkedin.com/posts/williammilisic_stockholm-finops-roadshow-activity-7054171153765990400--zJx) plus put an advertisement out for the FinOps Roadshow in Stockholm on 12th of May.  <br/><br/>
 * Read the book Investments Unlimited from IT Revolution. Summary [here](https://www.linkedin.com/posts/williammilisic_investments-unlimited-it-revolution-activity-7052915404582625281-pVg7).<br/><br/>
 
