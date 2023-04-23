@@ -5,6 +5,9 @@
 > I have wanted to start journaling for a really long time but have always come up with some reason or excuse not to. This time, I will try to make journaling to be about things, topics and aha-moments I encounter on a daily basis, that might also be interesting for others to learn about or discover.
 <br/>
 
+## 23 April 2023
+* Quote-for-saving: *"You can’t manage what you can’t measure. You can’t secure what you can’t see."*
+
 ## 22 April 2023
 * Been a few days without content. Blame it on vacation and coming back to work after vacation. Anyways, here we go off again.  <br/><br/>
 * It's been now 2 years at SEB, as I started in April of 2021 in the midst of the pandemic. Since day 1, it's been an eventful ride, with many highs and lows. Changing ways, practices and thinking in a nearly 170 years old institution requires patience, persistence, taking in different perspective and maintaining grit. Everyday has been a learning and growing opportunity and that's in essence what life is about, right?  <br/><br/>
