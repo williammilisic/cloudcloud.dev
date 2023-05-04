@@ -5,6 +5,9 @@
 > I have wanted to start journaling for a really long time but have always come up with some reason or excuse not to. This time, I will try to make journaling to be about things, topics and aha-moments I encounter on a daily basis, that might also be interesting for others to learn about or discover.
 <br/>
 
+## 30 April 2023
+* Reflections on importance of traditions and how each tradition arises in a particular time and context. Still, the best traditions are those that remain relevant over time. Ergo, I spent the last of April once again introducing my kids and spouse to the traditions of my hometown on this particular day. More about it in this [LinkedIn post](https://www.linkedin.com/posts/williammilisic_valborgsm%C3%A4ssofirande-vid-gunillaklockan-i-activity-7058691518240296960-uXik)
+
 ## 27 April 2023
 * Took part in a local event at the Google Stockholm office for financial services in Google Cloud. Really interesting to hear how Google sees the AI and ML space and what unique differentiators they are bringing to the table. [LinkedIn post](https://www.linkedin.com/posts/williammilisic_llms-googlecloud-financialservices-activity-7057393875702718464-Coz4)
 
