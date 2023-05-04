@@ -5,6 +5,10 @@
 > I have wanted to start journaling for a really long time but have always come up with some reason or excuse not to. This time, I will try to make journaling to be about things, topics and aha-moments I encounter on a daily basis, that might also be interesting for others to learn about or discover.
 <br/>
 
+## 4 May 2023
+* Some reflections on benefits of micro segmentation in Cloud environments and how difficult it can be in case you don't do right off the bat. [LinkedIn post](https://www.linkedin.com/posts/williammilisic_security-reliability-devops-activity-7059758409125904384-H6Q8)<br/><br/>
+* Great [post](https://tidyfirst.substack.com/p/bet-on-growth)by Kent Beck to always bet on the growth rate, on the subject of ChatGPT right now still lagging behind in (some) coding skills. Beck reminds that in technology growth matters far more than absolute values and that limits to growth are valuable to overcome and so receive resources. 
+
 ## 2 May 2023
 * Podcast tip of the week: [Engineering Enablement podcast](https://getdx.com/engineering-enablement-podcast). Plus a [throwback](https://www.linkedin.com/posts/williammilisic_developerproductivity-engineeringeffectiveness-activity-7059239786967932928-aR_Z) to a DevOps conference in 2017 with Nicole Forsgren and how much still remains valid today. 
 
