@@ -5,6 +5,9 @@
 > I have wanted to start journaling for a really long time but have always come up with some reason or excuse not to. This time, I will try to make journaling to be about things, topics and aha-moments I encounter on a daily basis, that might also be interesting for others to learn about or discover.
 <br/>
 
+## 24 April 2023
+* Blunt copying from one company to another of best practices, insights and implementations is at it's best just blunt, but at it's worst "inviting disaster" as per Deming. A [short post](https://www.linkedin.com/posts/williammilisic_people-copy-examples-and-wonder-why-they-activity-7056352166441009152-ROwH) on systems thinking and this topic. 
+
 ## 23 April 2023
 * Quote-for-saving: *"You can’t manage what you can’t measure. You can’t secure what you can’t see."*
 
