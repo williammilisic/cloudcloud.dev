@@ -5,6 +5,9 @@
 > I have wanted to start journaling for a really long time but have always come up with some reason or excuse not to. This time, I will try to make journaling to be about things, topics and aha-moments I encounter on a daily basis, that might also be interesting for others to learn about or discover.
 <br/>
 
+## 2 May 2023
+* Podcast tip of the week: [Engineering Enablement podcast](https://getdx.com/engineering-enablement-podcast). Plus a [throwback](https://www.linkedin.com/posts/williammilisic_developerproductivity-engineeringeffectiveness-activity-7059239786967932928-aR_Z)to a DevOps conference in 2017 with Nicole Forsgren and how much still remains valid today. 
+
 ## 30 April 2023
 * Reflections on importance of traditions and how each tradition arises in a particular time and context. Still, the best traditions are those that remain relevant over time. Ergo, I spent the last of April once again introducing my kids and spouse to the traditions of my hometown on this particular day. More about it in this [LinkedIn post](https://www.linkedin.com/posts/williammilisic_valborgsm%C3%A4ssofirande-vid-gunillaklockan-i-activity-7058691518240296960-uXik)
 
