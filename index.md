@@ -5,6 +5,9 @@
 > I have wanted to start journaling for a really long time but have always come up with some reason or excuse not to. This time, I will try to make journaling to be about things, topics and aha-moments I encounter on a daily basis, that might also be interesting for others to learn about or discover.
 <br/>
 
+## 27 April 2023
+* Took part in a local event at the Google Stockholm office for financial services in Google Cloud. Really interesting to hear how Google sees the AI and ML space and what unique differentiators they are bringing to the table. [LinkedIn post](https://www.linkedin.com/posts/williammilisic_llms-googlecloud-financialservices-activity-7057393875702718464-Coz4)
+
 ## 24 April 2023
 * Blunt copying from one company to another of best practices, insights and implementations is at it's best just blunt, but at it's worst "inviting disaster" as per Deming. A [short post](https://www.linkedin.com/posts/williammilisic_people-copy-examples-and-wonder-why-they-activity-7056352166441009152-ROwH) on systems thinking and this topic. 
 
