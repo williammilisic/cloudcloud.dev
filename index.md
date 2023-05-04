@@ -6,7 +6,7 @@
 <br/>
 
 ## 4 May 2023
-* Some reflections on benefits of micro segmentation in Cloud environments and how difficult it can be in case you don't do right off the bat. [LinkedIn post](https://www.linkedin.com/posts/williammilisic_security-reliability-devops-activity-7059758409125904384-H6Q8)<br/><br/>
+* Some reflections on benefits of micro segmentation in Cloud environments and how difficult it can be in case you don't do it right off the bat. [LinkedIn post](https://www.linkedin.com/posts/williammilisic_security-reliability-devops-activity-7059758409125904384-H6Q8)<br/><br/>
 * Great [post](https://tidyfirst.substack.com/p/bet-on-growth)by Kent Beck to always bet on the growth rate, on the subject of ChatGPT right now still lagging behind in (some) coding skills. Beck reminds that in technology growth matters far more than absolute values and that limits to growth are valuable to overcome and so receive resources. 
 
 ## 2 May 2023
