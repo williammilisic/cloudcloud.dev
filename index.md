@@ -5,6 +5,10 @@
 > I have wanted to start journaling for a really long time but have always come up with some reason or excuse not to. This time, I will try to make journaling to be about things, topics and aha-moments I encounter on a daily basis, that might also be interesting for others to learn about or discover.
 <br/>
 
+## 5 May 2023
+* Unlike bridges or buildings, software architecture are not meant to be frozen in time. Software architecture should frequently be revisited for small or big improvements, as well as fundamental changes. Walter Vogel looks at this from his perspective in an enlightened [post](https://www.allthingsdistributed.com/2023/05/monoliths-are-not-dinosaurs.html).<br/><br/>
+* Quote-for-saving: *"Intelligence is the ability to adapt to change.”* – Stephen Hawking
+
 ## 4 May 2023
 * Some reflections on benefits of micro segmentation in Cloud environments and how difficult it can be in case you don't do it right off the bat. [LinkedIn post](https://www.linkedin.com/posts/williammilisic_security-reliability-devops-activity-7059758409125904384-H6Q8)<br/><br/>
 * Great [post](https://tidyfirst.substack.com/p/bet-on-growth) by Kent Beck to always bet on the growth rate, on the subject of ChatGPT right now still lagging behind in (some) coding skills. Beck reminds that in technology growth matters far more than absolute values and that limits to growth are valuable to overcome and so receive due attention and funding. 
