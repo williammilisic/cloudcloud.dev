@@ -6,7 +6,7 @@
 <br/>
 
 ## 5 May 2023
-* Unlike bridges or buildings, software architecture are not meant to be frozen in time. Software architecture should frequently be revisited for small or big improvements, as well as fundamental changes. Walter Vogel looks at this from his perspective in an enlightened [post](https://www.allthingsdistributed.com/2023/05/monoliths-are-not-dinosaurs.html).<br/><br/>
+* Unlike bridges or buildings, software architectures are not meant to be frozen in time. Software architecture should frequently be revisited for small or big improvements, as well as fundamental changes. Walter Vogel looks at this from his perspective in an enlightened [post](https://www.allthingsdistributed.com/2023/05/monoliths-are-not-dinosaurs.html).<br/><br/>
 * Quote-for-saving: *"Intelligence is the ability to adapt to change.”* – Stephen Hawking
 
 ## 4 May 2023
