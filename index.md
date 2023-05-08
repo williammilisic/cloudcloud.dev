@@ -5,6 +5,10 @@
 > I have wanted to start journaling for a really long time but have always come up with some reason or excuse not to. This time, I will try to make journaling to be about things, topics and aha-moments I encounter on a daily basis, that might also be interesting for others to learn about or discover.
 <br/>
 
+## 8 May 2023
+* Quote-för-saving: *"People don't resist change. They resist being changed."* - Richard Beckhard <br/><br/>
+* The Backhard-Harris Change Model [DxVxF>R](http://pastatenaacp.org/wp-content/uploads/2017/03/Beckhard-Harris-Change-Model-DVF.pdf).
+
 ## 5 May 2023
 * Unlike bridges or buildings, software architectures are not meant to be frozen in time. Software architecture should frequently be revisited for small or big improvements, as well as fundamental changes. Walter Vogel looks at this from his perspective in an enlightened [post](https://www.allthingsdistributed.com/2023/05/monoliths-are-not-dinosaurs.html).<br/><br/>
 * Quote-for-saving: *"Intelligence is the ability to adapt to change.”* – Stephen Hawking
