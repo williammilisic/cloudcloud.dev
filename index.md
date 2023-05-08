@@ -6,7 +6,7 @@
 <br/>
 
 ## 8 May 2023
-* Quote-för-saving: *"People don't resist change. They resist being changed."* - Richard Beckhard <br/><br/>
+* Quote-for-saving: *"People don't resist change. They resist being changed."* - Richard Beckhard <br/><br/>
 * The Backhard-Harris Change Model [DxVxF>R](http://pastatenaacp.org/wp-content/uploads/2017/03/Beckhard-Harris-Change-Model-DVF.pdf).
 
 ## 5 May 2023
