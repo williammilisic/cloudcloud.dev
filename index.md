@@ -5,6 +5,10 @@
 > I have wanted to start journaling for a really long time but have always come up with some reason or excuse not to. This time, I will try to make journaling to be about things, topics and aha-moments I encounter on a daily basis, that might also be interesting for others to learn about or discover.
 <br/>
 
+## 10 May 2023
+* A [LinkedIn post](https://www.linkedin.com/posts/williammilisic_work-life-health-activity-7061939159145349120-wyaR) on Via Negativa and how by doing less and removing things we can do more and better. <br/><br/>
+* 
+
 ## 8 May 2023
 * Quote-for-saving: *"People don't resist change. They resist being changed."* - Richard Beckhard <br/><br/>
 * The Backhard-Harris Change Model [DxVxF>R](http://pastatenaacp.org/wp-content/uploads/2017/03/Beckhard-Harris-Change-Model-DVF.pdf).
