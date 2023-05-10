@@ -7,7 +7,7 @@
 
 ## 10 May 2023
 * A [LinkedIn post](https://www.linkedin.com/posts/williammilisic_work-life-health-activity-7061939159145349120-wyaR) on Via Negativa and how by doing less and removing things we can do more and better. <br/><br/>
-* 
+* Google I/O with a number of AI [announcements](https://techcrunch.com/2023/05/10/google-launches-palm-2-its-next-gen-large-language-model/) and inclusions to Google services. 
 
 ## 8 May 2023
 * Quote-for-saving: *"People don't resist change. They resist being changed."* - Richard Beckhard <br/><br/>
