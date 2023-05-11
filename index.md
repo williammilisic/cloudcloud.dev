@@ -7,7 +7,7 @@
 
 ## 11 May 2023
 * Some interesting readings (so far) this week:
-* [The new era of resiliency in the cloud](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-new-era-of-resiliency-in-the-cloud) - a good McKinsey post on resiliency.<br/><br/>
+* [The new era of resiliency in the cloud](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-new-era-of-resiliency-in-the-cloud) - a good McKinsey post on resiliency.
 * [Real Data on Cloud Costs from Vantage.sh](https://www.vantage.sh/cloud-cost-report) - Vantage uses anonymized data to snapshot industry spending patterns.<br/><br/>
 
 
