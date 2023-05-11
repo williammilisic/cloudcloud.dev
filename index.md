@@ -5,6 +5,12 @@
 > I have wanted to start journaling for a really long time but have always come up with some reason or excuse not to. This time, I will try to make journaling to be about things, topics and aha-moments I encounter on a daily basis, that might also be interesting for others to learn about or discover.
 <br/>
 
+## 11 May 2023
+* Some interesting readings (so far) this week:
+- [The new era of resiliency in the cloud](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-new-era-of-resiliency-in-the-cloud) - a good McKinsey post on resiliency.<br/><br/>
+- [Real Data on Cloud Costs from Vantage.sh](https://www.vantage.sh/cloud-cost-report) - Vantage uses anonymized data to snapshot industry spending patterns.<br/><br/>
+
+
 ## 10 May 2023
 * A [LinkedIn post](https://www.linkedin.com/posts/williammilisic_work-life-health-activity-7061939159145349120-wyaR) on Via Negativa and how by doing less and removing things we can do more and better. <br/><br/>
 * [Google I/O](https://io.google/2023/) with a number of AI [announcements](https://techcrunch.com/2023/05/10/google-launches-palm-2-its-next-gen-large-language-model/) and inclusions to Google services. 
