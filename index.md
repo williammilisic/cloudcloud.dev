@@ -2,7 +2,7 @@
 
 [RSS](https://williammilisic.github.io/cloudcloud.dev/feed.xml)
 
-> I have wanted to start journaling for a really long time but have always come up with some reason or excuse not to. This time, I will try to make journaling to be about things, topics and aha-moments I encounter on a daily basis, that might also be interesting for others to learn about or discover.
+> Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
 ## 11 May 2023
