@@ -5,6 +5,12 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 15 May 2023
+* [Short post](https://www.linkedin.com/posts/williammilisic_commute-worklife-balance-activity-7063948475914231808-vTlj) on my commute to work, running through the forest in the Haga park.
+
+## 13 May 2023
+* [Post](https://www.linkedin.com/posts/williammilisic_goals-targets-achievements-activity-7063413821557604353-MKN) on how to be true with one's current standings and set achievable stretch goals, when applied to running, but also life as a whole. 
+
 ## 11 May 2023
 * Some interesting readings (so far) this week:
 * [The new era of resiliency in the cloud](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-new-era-of-resiliency-in-the-cloud) - a good McKinsey post on resiliency.
