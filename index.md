@@ -2,8 +2,6 @@
 
 [RSS](https://williammilisic.github.io/cloudcloud.dev/feed.xml)
 
-<link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="feed.xml">
-<a href="feed.xml" target="_blank">RSS</a>
 
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
