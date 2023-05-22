@@ -1,6 +1,6 @@
 # cloudcloud.dev
 
-!--[RSS](https://williammilisic.github.io/cloudcloud.dev/feed.xml)
+[RSS](https://williammilisic.github.io/cloudcloud.dev/feed.xml)
 
 <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="feed.xml">
 <a href="feed.xml" target="_blank">RSS</a>
