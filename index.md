@@ -10,7 +10,7 @@
 * Tina Turner, the Queen of Rock'n'Roll, has died at 83. <br/>Quote-for-saving: *"People think my life has been tough, but I think it's been a wonderful journey. The older you get, the more you realise it's not what happened, it's how you deal with it."*
 
 ## 19 May 2023
-* An internal [document](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) from Google circulating reg Open Source and OpenAI. "...in the end, OpenAI doesn’t matter. They are making the same mistakes we are in their posture relative to open source, and their ability to maintain an edge is necessarily in question. Open source alternatives can and will eventually eclipse them unless they change their stance. In this respect, at least, we can make the first move." 
+* An internal [document](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) from Google circulating reg Open Source and OpenAI. "*...in the end, OpenAI doesn’t matter. They are making the same mistakes we are in their posture relative to open source, and their ability to maintain an edge is necessarily in question. Open source alternatives can and will eventually eclipse them unless they change their stance. In this respect, at least, we can make the first move.*" 
 
 
 ## 15 May 2023
