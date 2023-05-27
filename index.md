@@ -7,9 +7,7 @@
 <br/>
 
 ## 27 May 2023
-* Now, at the end of the day, company of any type is, a software company. Even if previously your core product didn’t have a software component, nowadays it’s highly unlikely that your core product doesn’t come with a software element attached. 
-
-Failing to do your best with that software component, is equal to failing at your core product.
+* Now, at the end of the day, company of any type is, a software company. Even if previously your core product didn’t have a software component, nowadays it’s highly unlikely that your core product doesn’t come with a software element attached. Failing to do your best with that software component, is equal to failing at your core product.
 
 ## 24 May 2023
 * Tina Turner, the Queen of Rock'n'Roll, has died at 83. <br/>Quote-for-saving: *"People think my life has been tough, but I think it's been a wonderful journey. The older you get, the more you realise it's not what happened, it's how you deal with it."*
