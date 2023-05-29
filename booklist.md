@@ -4,6 +4,57 @@
 ### Back to [main](index.md).
 
 
+## 2023 
+
+* **The Journey to Enterprise Agility**
+By: Daryl Kulak, Hong Li | April 2023
+
+* **Investments Unlimited**
+By: Helen Beal, Bill Bensing, Jason Cox, Michael Edenzon, Topo Pal, Caleb Queern, John Rzezotarski, Andres Vega, John Willis | March 2023
+
+* **Loved**
+By: Martina Lauchengco | March 2023
+
+* **Atomic Habits**
+By: James Clear | February 2023
+
+* **Fundamentals of Software Architecture**
+By: Mark Richards, Neal Ford | January 2023
+
+* **The Human Side of Agile** (re-listened)
+By: Gil Broza | January 2023
+
+
+## 2022
+
+* **How to Create a Mind**
+By: Ray Kurzweil | December 2022
+
+* **Build**
+By: Tony Fadell | December 2022
+
+* **Continuous Discovery Habits**
+By: Teresa Torres | October 2022
+
+* **User Story Mapping**
+By: Jeff Patton, Peter Economy - foreword | September 2022
+
+* **Beyond the Goal**
+By: Eliyahu M. Goldratt | August 2022 
+
+* **The Pragmatic Programmer: 20th Anniversary Edition, 2nd Edition**
+By: David Thomas, Andrew Hunt | August 2022
+
+* **Clean Agile**
+By: Robert C. Martin | July 2022
+
+* **The Clean Coder**
+By: Robert C. Martin | June 2022
+
+* **Building Microservices**
+By: Sam Newman | February 2022
+
+
 ## 2021
 
 * **The Delicate Art of Bureaucracy**
@@ -37,19 +88,10 @@ By: Adam Grant | March 2021
 By: Jeff Lawson | March 2021
 
 * **No Rules Rules** 
-By: Reed Hastings, Erin Meyer
-10/03/2021
-1 Credit
-Order details
-Returned on 15/03/2021
-The Fearless Organization cover art
-The Fearless Organization
-By: Amy C. Edmondson
-17/02/2021
-1 Credit
-Order details
-Return status: Not eligible why?
+By: Reed Hastings, Erin Meyer | March 2021
 
+* **The Fearless Organization**
+By: Amy C. Edmondson | February 2021
 
 
 ## 2020
