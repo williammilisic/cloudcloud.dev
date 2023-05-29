@@ -7,7 +7,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
-test 
+## 30 May 2023
+* Explaining why "Lift and Shift Landing Zone" is a good and truthful concept for many cloud migrations, although only to be seen a first step, not the end goal. See [here](https://www.linkedin.com/posts/williammilisic_build-your-cloud-foundation-activity-7069027700174200833-VjDP).
+
 
 
 ## 29 May 2023
