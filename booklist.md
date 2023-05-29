@@ -2,7 +2,7 @@
 
 <br/>
 
-* The Unicorn Project
+* **The Unicorn Project**
 By: Gene Kim | December 2019
 
 * How to Build a Billion Dollar App
