@@ -6,6 +6,10 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 29 May 2023
+* I was asked a while back to share the full list of my reads/listens. I found the request flattering but didn't think too much about it until I heard the same thing from another person, and then another. One is a dot, two is a line, three is a trend. Said and done, I've now extracted the list of books I've listened to from Audible since I started my monthly subscription in 2018. Think a few books are missing from competing streaming services and I'll look to add those too. As well ofcourse also hard copies of books, which I'll also add. To top it off, at some point, I will add more data about the books, including linking to my reviews on LinkedIn. Without any further ado, here is the [list](booklist.md).
+
+
 ## 27 May 2023
 * At the end of the day, company in any type of business is now, a software company. 
 Even if previously your core product didn’t have a software component, now it’s unlikely that your core product doesn’t come with a software element attached. 
