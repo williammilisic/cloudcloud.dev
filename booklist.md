@@ -2,6 +2,51 @@
 
 <br/>
 
+## 2021
+
+* **The Delicate Art of Bureaucracy**
+By: Mark Schwartz | December 2021 
+
+* **Empowered**
+By: Marty Cagan, Chris Jones | November 2021
+
+* **Software Engineering at Google**
+By: Titus Winters, Tom Manshreck, Hyrum Wright | September 2021
+
+* **Clean Architecture**
+By: Robert C. Martin | July 2021 
+
+* **Monolith to Microservices** 
+By: Sam Newman | May 2021
+
+* **Designing Data-Intensive Applications**
+By: Martin Kleppmann | May 2021
+
+* **Clean Code**
+By: Robert C. Martin | May 2021
+
+* **Team Topologies: Organizing Business and Technology Teams for Fast Flow**
+By: Matthew Skelton, Manuel Pais | April 2021
+
+* **Think Again**
+By: Adam Grant | March 2021
+
+* **Ask Your Developer**
+By: Jeff Lawson | March 2021
+
+* **No Rules Rules** 
+By: Reed Hastings, Erin Meyer
+10/03/2021
+1 Credit
+Order details
+Returned on 15/03/2021
+The Fearless Organization cover art
+The Fearless Organization
+By: Amy C. Edmondson
+17/02/2021
+1 Credit
+Order details
+Return status: Not eligible why?
 
 
 
