@@ -2,6 +2,9 @@
 
 <br/>
 
+
+
+
 ## 2020
 
 * **Leadership Is Language**
@@ -17,25 +20,14 @@ By: Ryan Holiday | May 2020
 By: Eric Ries | March 2020 
 
 * **The Goal**
-By: Eliyahu M. Goldratt, Jeff Cox
-27/02/2020
-1 Credit
-Order details
-Return status: Not eligible why?
-Beyond the Phoenix Project cover art
-Beyond the Phoenix Project
-By: Gene Kim, John Willis
-05/02/2020
-1 Credit
-Order details
-Return status: Not eligible why?
-Transforming Nokia cover art
-Transforming Nokia
-By: Risto Siilasmaa
-08/01/2020
-1 Credit
-Order details
-Return status: Not eligible why?
+By: Eliyahu M. Goldratt, Jeff Cox | February 2020
+
+* **Beyond the Phoenix Project**
+By: Gene Kim, John Willis | February 2020
+
+* **Transforming Nokia** 
+By: Risto Siilasmaa | January 2020
+
 
 ## 2019
 
@@ -86,6 +78,7 @@ By: Mark Schwartz | February 2019
 
 * **The DevOps Handbook**
 By: Gene Kim, Patrick Debois, John Willis, Jez Humble | February 2019
+
 
 ## 2018
 
