@@ -9,8 +9,7 @@
 
 ## 30 May 2023
 * Explaining why "Lift and Shift Landing Zone" is a good and truthful concept for many cloud migrations, although only to be seen a first step, not the end goal. See [here](https://www.linkedin.com/posts/williammilisic_build-your-cloud-foundation-activity-7069027700174200833-VjDP).<br/><br/>
-* Quote-for-saving: *"The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts." - Bertrand Russell
-
+* Quote-for-saving: "*The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts.*" - Bertrand Russell
 
 ## 29 May 2023
 * I was asked a while back to share the full list of my reads/listens. I found the request flattering but didn't think too much about it until I heard the same thing from another person, and then another. One is a dot, two is a line, three is a trend. Said and done, I've now extracted the list of books I've listened to from Audible since I started my monthly subscription in 2018. Think a few books from competing services are missing and I'll look to add those too shortly. As well of course hard copies of books, which I'll also add. To top it off, at some point, I will add more data about the books, including linking to my reviews on LinkedIn. Without any further ado, here is the [list](booklist.md).
