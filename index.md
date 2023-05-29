@@ -8,8 +8,8 @@
 <br/>
 
 ## 30 May 2023
-* Explaining why "Lift and Shift Landing Zone" is a good and truthful concept for many cloud migrations, although only to be seen a first step, not the end goal. See [here](https://www.linkedin.com/posts/williammilisic_build-your-cloud-foundation-activity-7069027700174200833-VjDP).
-
+* Explaining why "Lift and Shift Landing Zone" is a good and truthful concept for many cloud migrations, although only to be seen a first step, not the end goal. See [here](https://www.linkedin.com/posts/williammilisic_build-your-cloud-foundation-activity-7069027700174200833-VjDP).<br/><br/>
+* Quote-for-saving: *"The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts." - Bertrand Russell
 
 
 ## 29 May 2023
