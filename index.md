@@ -7,6 +7,12 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 31 May 2023
+* Quote-for-saving: "*Between a good story and a bunch of data, the story has always prevailed.*” - Ozan Varol <br/><br/>
+* Quote-for-saving: "*As soon as it works, no one calls it AI anymore.*” - John McCarthy, who coined the term AI in 1956
+
+
+
 ## 30 May 2023
 * Explaining why "Lift and Shift Landing Zone" is a good and truthful concept for many cloud migrations, although only to be seen a first step, not the end goal. See [here](https://www.linkedin.com/posts/williammilisic_build-your-cloud-foundation-activity-7069027700174200833-VjDP).<br/><br/>
 * Quote-for-saving: "*The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts.*" - Bertrand Russell
