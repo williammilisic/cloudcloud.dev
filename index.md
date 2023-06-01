@@ -7,6 +7,10 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 1 June 2023
+* Quote-for-saving: "*If you argue for your limitations, you get to keep them. But if you argue for your possibilities, you get to create them!*"<br/><br/>
+* Quote-for-saving: "*It is difficult to get a man to understand something, when his salary depends on his not understanding it.*" - Upton Sinclair
+
 ## 31 May 2023
 * Quote-for-saving: "*Between a good story and a bunch of data, the story has always prevailed.*” - Ozan Varol <br/><br/>
 * Quote-for-saving: "*As soon as it works, no one calls it AI anymore.*” - John McCarthy, who coined the term AI in 1956
