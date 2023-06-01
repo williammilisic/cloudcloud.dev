@@ -30,6 +30,9 @@
 Even if previously your core product didn’t have a software component, now it’s unlikely that your core product doesn’t come with a software element attached. 
 Failing to do your best with that software component, is equal to failing at your core product.
 
+## 26 May 2023
+* A quick book [review](https://www.linkedin.com/posts/williammilisic_agile-lean-cloudcomputing-activity-7067741149242830848-udAi) on "The Journey to Enterprise Agility" by Daryl Kulak and Hong Li. The book is a good starting point, in case you're wondering how to develop effective interfaces between enterprise methodology and Agile practices. 
+
 ## 24 May 2023
 * Tina Turner, the Queen of Rock'n'Roll, has died at 83. <br/>Quote-for-saving: *"People think my life has been tough, but I think it's been a wonderful journey. The older you get, the more you realise it's not what happened, it's how you deal with it."*
 
