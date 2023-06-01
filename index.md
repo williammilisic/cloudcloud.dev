@@ -8,7 +8,7 @@
 <br/>
 
 ## 1 June 2023
-* Quote-for-saving: "*If you argue for your limitations, you get to keep them. But if you argue for your possibilities, you get to create them!*"<br/><br/>
+* Quote-for-saving: "*If you argue for your limitations, you get to keep them. But if you argue for your possibilities, you get to create them!*" - Kelly Lee Phipps<br/><br/>
 * Quote-for-saving: "*It is difficult to get a man to understand something, when his salary depends on his not understanding it.*" - Upton Sinclair
 
 ## 31 May 2023
