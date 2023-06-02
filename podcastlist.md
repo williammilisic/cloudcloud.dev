@@ -24,7 +24,12 @@ A weekly podcast focused on developer productivity and the teams and leaders ded
 
 ### Product Thinking 
 Melissa Perri connects with industry leading experts in the product management space.
+This is one of my go-to-podcasts on regular basis and the fit is particularly good with anyone working on a daily basis with product management.
 [Link](https://produxlabs.com/product-thinking)
+
+### WSJ (Wall Street Journal) Tech News Briefing 
+This daily podcast brings tech news and scoops about what people in tech are talking about. 
+[Link](https://www.wsj.com/podcasts/tech-news-briefing)
 
 ### Spotify: A Product Story
 A miniseries about product strategy, looking into the decisions that have guided Spotify’s product evolution.
