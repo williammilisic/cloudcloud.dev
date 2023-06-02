@@ -9,7 +9,6 @@
 
 ## 2 June 2023
 * Quote-for-saving: "*Do we own the process or does the process own us?*" - Jeff Bezos in [2016 letter to the shareholders](https://www.vox.com/platform/amp/2017/4/12/15274220/jeff-bezos-amazon-shareholders-letter-day-2-disagree-and-commit)
-* 
 
 ## 1 June 2023
 * Quote-for-saving: "*If you argue for your limitations, you get to keep them. But if you argue for your possibilities, you get to create them!*" - Kelly Lee Phipps<br/><br/>
