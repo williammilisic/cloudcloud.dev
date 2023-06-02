@@ -13,7 +13,7 @@ A weekly podcast focused on what's happening in the Kubernetes community.
 [Link](https://kubernetespodcast.com/)
 
 ### Screaming in the Cloud
-Every week, listen to host Corey Quinn interview domain experts in the world of Cloud Computing, and how businesses are coming to think about the Cloud.
+Every week, Corey Quinn interviews domain experts in the world of Cloud Computing.
 [Link](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/)
 
 ### Engineering Enablement Podcast by DX
@@ -21,11 +21,11 @@ A weekly podcast focused on developer productivity and the teams and leaders ded
 [Link](https://getdx.com/engineering-enablement-podcast)
 
 ### Product Thinking 
-Melissa Perri connects with industry leading experts in the product management space, and answer questions about everything product. 
+Melissa Perri connects with industry leading experts in the product management space.
 [Link](https://produxlabs.com/product-thinking)
 
 ### Spotify: A Product Story
-A miniseries about product strategy, offering a glimpse into the decisions that have guided Spotify’s product evolution.
+A miniseries about product strategy, looking into the decisions that have guided Spotify’s product evolution.
 [Link](https://open.spotify.com/show/3L9tzrt0CthF6hNkxYIeSB)
 
 ### Agilpodden
