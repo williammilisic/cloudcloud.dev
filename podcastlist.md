@@ -6,6 +6,8 @@ Back to [main](index.md).
 
 ### Cloud Security Podcast 
 A weekly news and interview show with insights from the cloud security community.
+The guests come from a range of companies and backgrounds. The stories are highly engaging and relevant.
+The discussions are often opinionated, entertaining and sometimes enlightening. The format is easily consumable, either while commuting or exercising.
 [Link](https://cloud.withgoogle.com/cloudsecurity/podcast/)
 
 ### Kubernetes Podcast
