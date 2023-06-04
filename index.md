@@ -7,6 +7,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 4 June 2023
+* Quote-for-saving: "*Don't tell me what you value, show me your budget, and I'll tell you what you value.*" - Joe Biden
+
 ## 2 June 2023
 * Quote-for-saving: "*Do we own the process or does the process own us?*" - Jeff Bezos in [2016 letter to the shareholders](https://www.vox.com/platform/amp/2017/4/12/15274220/jeff-bezos-amazon-shareholders-letter-day-2-disagree-and-commit)
 
