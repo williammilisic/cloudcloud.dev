@@ -7,6 +7,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 6 June 2023
+* Sweden's 500th birthday as free and independent nation is definitely cause for great celebration. To mark the occasion, here are five time tested Swedish [proverbs](https://www.linkedin.com/posts/williammilisic_sweden-500-swedense-activity-7071763188379246593-zmj1).
+
 ## 5 June 2023
 * Apple's latest reveals can be somewhat stressful for some: [Everything Apple tried to kill at WWDC 2023](https://gizmodo.com/everything-apple-killed-wwdc-2023-sticker-journal-optic-1850508633/).
 
