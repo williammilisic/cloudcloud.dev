@@ -8,7 +8,7 @@
 <br/>
 
 ## 5 June 2023
-* Apple's latest WWDC reveals can be somewhat stressful for some: [Everything Apple tried to kill at WWDC 2023](https://gizmodo.com/everything-apple-killed-wwdc-2023-sticker-journal-optic-1850508633/).
+* Apple's latest reveals can be somewhat stressful for some: [Everything Apple tried to kill at WWDC 2023](https://gizmodo.com/everything-apple-killed-wwdc-2023-sticker-journal-optic-1850508633/).
 
 ## 4 June 2023
 * Quote-for-saving: "*Don't tell me what you value, show me your budget, and I'll tell you what you value.*" - Joe Biden
