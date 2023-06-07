@@ -7,6 +7,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 8 June 2023
+* Quote-för-saving: "*Any intelligent fool can make things bigger and more complex... It takes a touch of genius - and a lot of courage to move in the opposite direction.*" - E.F. Schumacher
+
 ## 7 June 2023
 * Quote-of-the-day: "*In Nvidia's context, [AI] is going to create some winners and losers... more losers than winners.*" - Rajiv Jain <br/><br/>
 * "*We love to make great products that really enrich people’s lives. We love to integrate hardware, software and services seamlessly. We love to make technology more personal and allow our users to do things that they could never have imagined. We have been working incredibly hard for a long time on an entirely new product and we believe this product will redefine what people expect from its category. I am so excited and I am so proud to share it with you this morning. It is the next chapter in Apple’s story.*" - Tim Cook at the launch of Apple Watch 
