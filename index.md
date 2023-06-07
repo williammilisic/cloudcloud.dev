@@ -7,6 +7,10 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 7 June 2023
+* "*We love to make great products that really enrich people’s lives. We love to integrate hardware, software and services seamlessly. We love to make technology more personal and allow our users to do things that they could never have imagined. We have been working incredibly hard for a long time on an entirely new product and we believe this product will redefine what people expect from its category. I am so excited and I am so proud to share it with you this morning. It is the next chapter in Apple’s story.*" - Tim Cook at the launch of Apple Watch 
+
+
 ## 6 June 2023
 * Sweden's 500th birthday as free and independent nation is definitely cause for great celebration. To mark the occasion, here are five time tested Swedish [proverbs](https://www.linkedin.com/posts/williammilisic_sweden-500-swedense-activity-7071763188379246593-zmj1).
 
