@@ -8,7 +8,7 @@
 <br/>
 
 ## 9 June 2023
-* New-word-learnt: Shoshin (Japanese: 初心) is a concept from Zen Buddhism meaning beginner's mind. It refers to having an attitude of openness, eagerness, and lack of preconceptions when studying, even at an advanced level, just as a beginner would. <br/><br/>
+* New-word-learnt: **Shoshin** (Japanese: 初心) is a concept from Zen Buddhism meaning beginner's mind. It refers to having an attitude of openness, eagerness, and lack of preconceptions when studying, even at an advanced level, just as a beginner would. <br/><br/>
 
 ## 8 June 2023
 * Quote-för-saving: "*Any intelligent fool can make things bigger and more complex... It takes a touch of genius - and a lot of courage to move in the opposite direction.*" - E.F. Schumacher
