@@ -7,14 +7,19 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+
+
 ## 9 June 2023
 * New-word-learnt: **Shoshin** (Japanese: 初心) is a concept from Zen Buddhism meaning beginner's mind. It refers to having an attitude of openness, eagerness, and lack of preconceptions when studying, even at an advanced level, just as a beginner would. <br/><br/>
 * [AI doomers are a ‘cult’ — here’s the real threat](https://www.cnbc.com/2023/06/06/ai-doomers-are-a-cult-heres-the-real-threat-says-marc-andreessen.html) according to Marc Andreessen.<br/><br/>
 * Quote-for-saving: "*Given a 10% chance of a 100 times payoff, you should take that bet every time.*" - Jeff Bezos <br/><br/>
 * Quote-for-saving: "*Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while. That’s because they were able to connect experiences they’ve had and synthesize new things. And the reason they were able to do that was that they’ve had more experiences or they have thought more about their experiences than other people. Unfortunately, that’s too rare a commodity. A lot of people in our industry haven’t had very diverse experiences. So they don’t have enough dots to connect, and they end up with very linear solutions without a broad perspective on the problem. The broader one’s understanding of the human experience, the better design we will have.*" - Steve Jobs
+	
 
 ## 8 June 2023
-* Quote-for-saving: "*Any intelligent fool can make things bigger and more complex... It takes a touch of genius - and a lot of courage to move in the opposite direction.*" - E.F. Schumacher
+* Quote-for-saving: "*Any intelligent fool can make things bigger and more complex... It takes a touch of genius - and a lot of courage to move in the opposite direction.*" - E.F. Schumacher <br/><br/>
+* I stumbled upon a good 3-post series from Spotify Engineering on how they manage [software and infrastructure at scale](https://www.linkedin.com/feed/update/urn:li:activity:7072243329832296448/).
+
 
 ## 7 June 2023
 * Quote-of-the-day: "*In Nvidia's context, [AI] is going to create some winners and losers... more losers than winners.*" - Rajiv Jain <br/><br/>
