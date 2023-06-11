@@ -8,7 +8,7 @@
 <br/>
 
 ## 11 June 2023
-* Quote-for-saving: "One run can change your day. Many runs can change your life.*" - Unknown 
+* Quote-for-saving: "*One run can change your day. Many runs can change your life.*" - Unknown 
 
 
 ## 9 June 2023
