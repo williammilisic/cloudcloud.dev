@@ -7,6 +7,8 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 11 June 2023
+* Quote-for-saving: "One run can change your day. Many runs can change your life.*" - Unknown 
 
 
 ## 9 June 2023
