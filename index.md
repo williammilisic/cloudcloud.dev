@@ -7,9 +7,11 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
-## 11 June 2023
-* Quote-for-saving: "*One run can change your day. Many runs can change your life.*" - Unknown 
+## 12 June 2023 
+* Quote-for-saving: "*Costs don't exist to be calculated, costs exist to be reduced.*” - Taiichi Ohno
 
+## 11 June 2023
+* Quote-for-saving: "*One run can change your day. Many runs can change your life.*" - Unknown
 
 ## 9 June 2023
 * New-word-learnt: **Shoshin** (Japanese: 初心) is a concept from Zen Buddhism meaning beginner's mind. It refers to having an attitude of openness, eagerness, and lack of preconceptions when studying, even at an advanced level, just as a beginner would. <br/><br/>
