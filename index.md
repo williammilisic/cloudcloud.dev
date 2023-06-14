@@ -8,7 +8,7 @@
 <br/>
 
 ## 13 June 2023
-* Kent Beck has a good post on [where the insugets come from](https://www.gapingvoid.com/blog/2023/06/13/where-do-insights-come-from/).
+* Kent Beck has a good post on [where the insights come from](https://www.gapingvoid.com/blog/2023/06/13/where-do-insights-come-from/).
 
 ## 12 June 2023 
 * Quote-for-saving: "*Costs don't exist to be calculated, costs exist to be reduced.*” - Taiichi Ohno
