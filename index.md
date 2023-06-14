@@ -8,7 +8,8 @@
 <br/>
 
 ## 13 June 2023
-* Kent Beck has a good post on [where the insights come from](https://www.gapingvoid.com/blog/2023/06/13/where-do-insights-come-from/).
+* Kent Beck has a good post on [where the insights come from](https://www.gapingvoid.com/blog/2023/06/13/where-do-insights-come-from/).<br/><br/>
+* Quote-for-saving: "*What's easy, often isn't important. What's important, often isn't easy.*" - Unknown
 
 ## 12 June 2023 
 * Quote-for-saving: "*Costs don't exist to be calculated, costs exist to be reduced.*” - Taiichi Ohno
