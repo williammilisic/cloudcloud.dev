@@ -7,6 +7,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 15 June 2023
+* Reading through a 2006 article with Werner Vogels where he amongst other things brings up the reasons behind ["You build it. You run it"](https://queue.acm.org/detail.cfm?id=1142065). 
+
 ## 13 June 2023
 * Kent Beck has a good post on [where the insights come from](https://www.gapingvoid.com/blog/2023/06/13/where-do-insights-come-from/).<br/><br/>
 * Quote-for-saving: "*What's easy, often isn't important. What's important, often isn't easy.*" - Unknown
@@ -22,7 +25,6 @@
 * [AI doomers are a ‘cult’ — here’s the real threat](https://www.cnbc.com/2023/06/06/ai-doomers-are-a-cult-heres-the-real-threat-says-marc-andreessen.html) according to Marc Andreessen.<br/><br/>
 * Quote-for-saving: "*Given a 10% chance of a 100 times payoff, you should take that bet every time.*" - Jeff Bezos <br/><br/>
 * Quote-for-saving: "*Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while. That’s because they were able to connect experiences they’ve had and synthesize new things. And the reason they were able to do that was that they’ve had more experiences or they have thought more about their experiences than other people. Unfortunately, that’s too rare a commodity. A lot of people in our industry haven’t had very diverse experiences. So they don’t have enough dots to connect, and they end up with very linear solutions without a broad perspective on the problem. The broader one’s understanding of the human experience, the better design we will have.*" - Steve Jobs
-	
 
 ## 8 June 2023
 * Quote-for-saving: "*Any intelligent fool can make things bigger and more complex... It takes a touch of genius - and a lot of courage to move in the opposite direction.*" - E.F. Schumacher <br/><br/>
@@ -32,7 +34,6 @@
 ## 7 June 2023
 * Quote-of-the-day: "*In Nvidia's context, [AI] is going to create some winners and losers... more losers than winners.*" - Rajiv Jain <br/><br/>
 * "*We love to make great products that really enrich people’s lives. We love to integrate hardware, software and services seamlessly. We love to make technology more personal and allow our users to do things that they could never have imagined. We have been working incredibly hard for a long time on an entirely new product and we believe this product will redefine what people expect from its category. I am so excited and I am so proud to share it with you this morning. It is the next chapter in Apple’s story.*" - Tim Cook at the launch of Apple Watch 
-
 
 ## 6 June 2023
 * Sweden's 500th birthday as free and independent nation is definitely cause for great celebration. To mark the occasion, here are five time tested Swedish [proverbs](https://www.linkedin.com/posts/williammilisic_sweden-500-swedense-activity-7071763188379246593-zmj1).
@@ -54,15 +55,12 @@
 * Quote-for-saving: "*Between a good story and a bunch of data, the story has always prevailed.*” - Ozan Varol <br/><br/>
 * Quote-for-saving: "*As soon as it works, no one calls it AI anymore.*” - John McCarthy, who coined the term AI in 1956
 
-
-
 ## 30 May 2023
 * Explaining why "Lift and Shift Landing Zone" is a good and truthful concept for many cloud migrations, although only to be seen a first step, not the end goal. See [here](https://www.linkedin.com/posts/williammilisic_build-your-cloud-foundation-activity-7069027700174200833-VjDP).<br/><br/>
 * Quote-for-saving: "*The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts.*" - Bertrand Russell
 
 ## 29 May 2023
 * I was asked a while back to share the full list of my reads/listens. I found the request flattering but didn't think too much about it until I heard the same thing from another person, and then another. One is a dot, two is a line, three is a trend. Said and done, I've now extracted the list of books I've listened to from Audible since I started my monthly subscription in 2018. Think a few books from competing services are missing and I'll look to add those too shortly. As well of course hard copies of books, which I'll also add. To top it off, at some point, I will add more data about the books, including linking to my reviews on LinkedIn. Without any further ado, here is the [list](booklist.md).
-
 
 ## 27 May 2023
 * At the end of the day, company in any type of business is now, a software company. 
@@ -78,7 +76,6 @@ Failing to do your best with that software component, is equal to failing at you
 ## 19 May 2023
 * An internal [document](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) from Google circulating reg Open Source and OpenAI. "*...in the end, OpenAI doesn’t matter. They are making the same mistakes we are in their posture relative to open source, and their ability to maintain an edge is necessarily in question. Open source alternatives can and will eventually eclipse them unless they change their stance. In this respect, at least, we can make the first move.*" 
 
-
 ## 15 May 2023
 * [Short post](https://www.linkedin.com/posts/williammilisic_commute-worklife-balance-activity-7063948475914231808-vTlj) on my commute to work, running through the forest in the Haga park.
 
@@ -89,7 +86,6 @@ Failing to do your best with that software component, is equal to failing at you
 * Some interesting readings (so far) this week:
 * [The new era of resiliency in the cloud](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-new-era-of-resiliency-in-the-cloud) - a good McKinsey post on resiliency.
 * [Real Data on Cloud Costs from vantage.sh](https://www.vantage.sh/cloud-cost-report) - Vantage uses anonymized data to snapshot industry spending patterns.
-
 
 ## 10 May 2023
 * A [LinkedIn post](https://www.linkedin.com/posts/williammilisic_work-life-health-activity-7061939159145349120-wyaR) on Via Negativa and how by doing less and removing things we can do more and better. <br/><br/>
@@ -194,4 +190,3 @@ progress in the field of generative AI and large language models. This [study](h
 "the availability of truly massive cloud-computing power; unimaginable quantities of data provided by the internet for training LLMs; significant improvements in algorithms boosted by neural networks; and oodles of money, provided by insanely profitable tech giants."<br/><br/>
 * Reflecting on the US lawmakers grilling TikTok's CEO about it's ties to China. While I very well understand the US lawmakers's concerns about TikTok being (ab)used as a potential weapon against the free world, it's hard not to draw parallels between the Chinese National Security Law from 2017 and the American Clarifying Lawful Overseas Use of Data Act or CLOUD Act from 2018.
 [Politico article on TikTok](https://www.politico.eu/article/tiktok-china-west-europe-ban-app-espionage-surveillance/amp/)
-
