@@ -13,7 +13,7 @@
 * Quote-for-saving: "*I’d rather be right than consistent.*” - John Harlan
 
 ## 13 June 2023
-* 2nd year running [Blodomloppet](https://www.linkedin.com/posts/williammilisic_blodomlopet-runningasawayoflife-seblife-activity-7074451390881759234-1W6_?) and SEB's sports association. <br/><br/>
+* 2nd year running [Blodomloppet](https://www.linkedin.com/posts/williammilisic_blodomlopet-runningasawayoflife-seblife-activity-7074451390881759234-1W6_?) with SEB's sports association. <br/><br/>
 * Kent Beck has a good post on [where the insights come from](https://www.gapingvoid.com/blog/2023/06/13/where-do-insights-come-from/).<br/><br/>
 * Quote-for-saving: "*What's easy, often isn't important. What's important, often isn't easy.*" - Unknown
 
