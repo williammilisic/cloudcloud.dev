@@ -11,7 +11,7 @@
 * Reading through a 2006 article with Werner Vogels where he amongst other things brings up the reasons behind ["You build it. You run it"](https://queue.acm.org/detail.cfm?id=1142065). 
 
 ## 13 June 2023
-* 2nd year running [Blodomloppet](https://www.linkedin.com/posts/williammilisic_blodomlopet-runningasawayoflife-seblife-activity-7074451390881759234-1W6) and SEB's sports association. <br/><br/>
+* 2nd year running [Blodomloppet](https://www.linkedin.com/posts/williammilisic_blodomlopet-runningasawayoflife-seblife-activity-7074451390881759234-1W6_?) and SEB's sports association. <br/><br/>
 * Kent Beck has a good post on [where the insights come from](https://www.gapingvoid.com/blog/2023/06/13/where-do-insights-come-from/).<br/><br/>
 * Quote-for-saving: "*What's easy, often isn't important. What's important, often isn't easy.*" - Unknown
 
