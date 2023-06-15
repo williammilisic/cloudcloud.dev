@@ -11,10 +11,12 @@
 * Reading through a 2006 article with Werner Vogels where he amongst other things brings up the reasons behind ["You build it. You run it"](https://queue.acm.org/detail.cfm?id=1142065). 
 
 ## 13 June 2023
+* 2nd year running [Blodomloppet](https://www.linkedin.com/posts/williammilisic_blodomlopet-runningasawayoflife-seblife-activity-7074451390881759234-1W6) and SEB's sports association. <br/><br/>
 * Kent Beck has a good post on [where the insights come from](https://www.gapingvoid.com/blog/2023/06/13/where-do-insights-come-from/).<br/><br/>
 * Quote-for-saving: "*What's easy, often isn't important. What's important, often isn't easy.*" - Unknown
 
 ## 12 June 2023 
+* How I deal with pending LinkedIn requests - a short [post](https://www.linkedin.com/posts/williammilisic_sales-salesonlinkedin-activity-7073894002177024000-jL0n). <br/><br/>
 * Quote-for-saving: "*Costs don't exist to be calculated, costs exist to be reduced.*” - Taiichi Ohno
 
 ## 11 June 2023
