@@ -8,7 +8,11 @@
 <br/>
 
 ## 21 June 2023
-* Some [LinkedIn](https://www.linkedin.com/posts/williammilisic_production-devops-kaizen-activity-7077363779134472192-OFH-) reflections on du disallowing access to production for anything but deployment pipelines and pets vs kettle. 
+* Some [LinkedIn](https://www.linkedin.com/posts/williammilisic_production-devops-kaizen-activity-7077363779134472192-OFH-) reflections on disallowing access to production for anything but deployment pipelines and pets vs kettle. <br/><br/>
+* Quote-for-saving: "*You have to disrupt yourself or others will do it for you.*" - Steve Forbes <br/><br/>
+* Quote-for-saving: "*Reward excellent failures. Punish mediocre successes.*" - Tom Peters <br/><br/>
+* Quote-for-saving: "*Failure is success if we learn from it.*" - Malcolm Forbes <br/><br/>
+* Quote-for-saving: "*The best thing for being sad...is to learn something. That is the only thing that never fails.*" - T. H. White <br/><br/>
 
 ## 15 June 2023
 * Reading through a 2006 article with Werner Vogels where he amongst other things brings up the reasons behind ["You build it. You run it"](https://queue.acm.org/detail.cfm?id=1142065). <br/><br/>
