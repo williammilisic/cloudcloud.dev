@@ -7,6 +7,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 21 June 2023
+* Some [LinkedIn](https://www.linkedin.com/posts/williammilisic_production-devops-kaizen-activity-7077363779134472192-OFH-) reflections on du disallowing access to production for anything but deployment pipelines and pets vs kettle. 
+
 ## 15 June 2023
 * Reading through a 2006 article with Werner Vogels where he amongst other things brings up the reasons behind ["You build it. You run it"](https://queue.acm.org/detail.cfm?id=1142065). <br/><br/>
 * Quote-for-saving: "*If it disagrees with experiment, it's wrong.*" - Richard Feynman <br/> In that simple statement is the key to science. It doesn't make any difference how beautiful your guess is, it doesn't matter how smart you are. If it disagrees with experiment, it's wrong.<br/><br/>
