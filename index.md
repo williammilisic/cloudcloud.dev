@@ -11,6 +11,7 @@
 * Quote-for-saving: "*We have three innate psychological needs - competence, autonomy and relatedness. When those needs are satisfied, we're motivated, productive and happy.*" - Daniel Pink
 * Quote-for-saving: "*To succeed in life, you need two things: ignorance and confidence.*" - Mark Twain <br/><br/>
 * Quote-for-saving: "*You don't have to be great to start, but you have to start to be great.*" - Zig Ziglar <br/><br/>
+* Quote-for-saving: "*Without big data analytics, companies are blind and deaf, wandering out onto the web like deer on a freeway.*" - Geoffrey Moore <br/><br/>
 
 ## 21 June 2023
 * Some [LinkedIn](https://www.linkedin.com/posts/williammilisic_production-devops-kaizen-activity-7077363779134472192-OFH-) reflections on disallowing access to production for anything but deployment pipelines and pets vs kettle. <br/><br/>
