@@ -7,6 +7,10 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 22 June 2023
+* Quote-for-saving: "*We have three innate psychological needs - competence, autonomy and relatedness. When those needs are satisfied, we're motivated, productive and happy.*" - Daniel Pink
+
+
 ## 21 June 2023
 * Some [LinkedIn](https://www.linkedin.com/posts/williammilisic_production-devops-kaizen-activity-7077363779134472192-OFH-) reflections on disallowing access to production for anything but deployment pipelines and pets vs kettle. <br/><br/>
 * Quote-for-saving: "*You have to disrupt yourself or others will do it for you.*" - Steve Forbes <br/><br/>
