@@ -18,6 +18,9 @@
 * Quote-for-saving: "*Failure is success if we learn from it.*" - Malcolm Forbes <br/><br/>
 * Quote-for-saving: "*The best thing for being sad...is to learn something. That is the only thing that never fails.*" - T. H. White <br/><br/>
 
+## 17 June 2023
+* [Compilation](https://www.linkedin.com/posts/williammilisic_pecha-kucha-william-milisic-in-20x20-activity-7075362614146441217-hd7-) of places, people and things I have dear in pechakucha format, ie 20 slides with 20s commentary each. Part 1 of 2. 
+
 ## 15 June 2023
 * Reading through a 2006 article with Werner Vogels where he amongst other things brings up the reasons behind ["You build it. You run it"](https://queue.acm.org/detail.cfm?id=1142065). <br/><br/>
 * Quote-for-saving: "*If it disagrees with experiment, it's wrong.*" - Richard Feynman <br/> In that simple statement is the key to science. It doesn't make any difference how beautiful your guess is, it doesn't matter how smart you are. If it disagrees with experiment, it's wrong.<br/><br/>
