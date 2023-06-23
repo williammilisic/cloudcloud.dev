@@ -7,6 +7,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 23 June 2023
+* 
+
 ## 22 June 2023
 * Quote-for-saving: "*We have three innate psychological needs - competence, autonomy and relatedness. When those needs are satisfied, we're motivated, productive and happy.*" - Daniel Pink <br/><br/>
 * Quote-for-saving: "*To succeed in life, you need two things: ignorance and confidence.*" - Mark Twain <br/><br/>
