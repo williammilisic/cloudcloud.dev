@@ -9,7 +9,8 @@
 
 ## 23 June 2023
 * After decades of stop-start progress, ML is now a reality due to the recent convergence of three factors: advanced algorithms, access to huge volumes of digital training data, and cheap, abundant computing power – available, of course, through
-the cloud.
+the cloud. <br/><br/>
+* "*For customers to realize AI’s full potential, cloud-based ML tools must be accessible enough for non-experts to use without any IT assistance.*" - Urs Hölzle. 
 
 ## 22 June 2023
 * Quote-for-saving: "*We have three innate psychological needs - competence, autonomy and relatedness. When those needs are satisfied, we're motivated, productive and happy.*" - Daniel Pink <br/><br/>
