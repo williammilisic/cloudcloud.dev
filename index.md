@@ -8,7 +8,7 @@
 <br/>
 
 ## 26 June 2023
-* "*Day 2 is stasis. Followed by irrelevance. Followed by excruciating, painful decline. Followed by death. And that is why it is always Day 1.*” - Jeff Bezos on why it's always Day 1 at Amazon in his 1997 [letter to shareholders](https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm)
+* "*Day 2 is stasis. Followed by irrelevance. Followed by excruciating, painful decline. Followed by death. And that is why it is always Day 1.*” - Jeff Bezos on why it's always Day 1 at Amazon in his [letter to shareholders](https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm)
 
 ## 25 June 2023
 * Jan Bosch has a good [post](https://janbosch.com/blog/index.php/2023/06/19/protagonist-rule-15-memento-mori/) on how to maximise one's life through three tactics: prioritization (only do what you feel is important), acceleration (don’t delay things but do them now) and desensitization (stop worrying about what others might think or what you might lose). 
