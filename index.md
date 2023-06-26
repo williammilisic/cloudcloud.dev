@@ -7,6 +7,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 25 June 2023
+* Jan Bosch has a good [post](https://janbosch.com/blog/index.php/2023/06/19/protagonist-rule-15-memento-mori/) on how to maximise one's life through three tactics: prioritization (only do what you feel is important), acceleration (don’t delay things but do them now) and desensitization (stop worrying about what others might think or what you might lose). 
+
 ## 23 June 2023
 * After decades of stop-start progress, ML is now a reality due to the recent convergence of three factors: advanced algorithms, access to huge volumes of digital training data, and cheap, abundant computing power – available, of course, through
 the cloud. <br/><br/> 
