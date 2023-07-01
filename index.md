@@ -8,7 +8,10 @@
 <br/>
 
 ## 28 June 2023 
+* 16 plus years since inception of DevOps. Some [LinkedIn reflections](https://www.linkedin.com/posts/williammilisic_devops-infrastructureengineering-platformengineering-activity-7079698361104105473-MCAc) on the progress brought by the movement. <br/><br/>
 * "*Things are never as bad or as good as they seem.*" - Tony Hsieh
+
+
 
 ## 26 June 2023
 * "*Day 2 is stasis. Followed by irrelevance. Followed by excruciating, painful decline. Followed by death. And that is why it is always Day 1.*” - Jeff Bezos on why it's always Day 1 at Amazon in his [letter to shareholders](https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm)
