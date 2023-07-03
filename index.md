@@ -11,8 +11,6 @@
 * 16 plus years since inception of DevOps. Some [LinkedIn reflections](https://www.linkedin.com/posts/williammilisic_devops-infrastructureengineering-platformengineering-activity-7079698361104105473-MCAc) on the progress brought by the movement. <br/><br/>
 * "*Things are never as bad or as good as they seem.*" - Tony Hsieh
 
-
-
 ## 26 June 2023
 * "*Day 2 is stasis. Followed by irrelevance. Followed by excruciating, painful decline. Followed by death. And that is why it is always Day 1.*” - Jeff Bezos on why it's always Day 1 at Amazon in his [letter to shareholders](https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm)
 
@@ -26,46 +24,46 @@ the cloud. <br/><br/>
 * "*For customers to realize AI’s full potential, cloud-based ML tools must be accessible enough for non-experts to use without any IT assistance.*" - Urs Hölzle. 
 
 ## 22 June 2023
-* Quote-for-saving: "*We have three innate psychological needs - competence, autonomy and relatedness. When those needs are satisfied, we're motivated, productive and happy.*" - Daniel Pink <br/><br/>
-* Quote-for-saving: "*To succeed in life, you need two things: ignorance and confidence.*" - Mark Twain <br/><br/>
-* Quote-for-saving: "*You don't have to be great to start, but you have to start to be great.*" - Zig Ziglar <br/><br/>
-* Quote-for-saving: "*Without big data analytics, companies are blind and deaf, wandering out onto the web like deer on a freeway.*" - Geoffrey Moore <br/><br/>
+* "*We have three innate psychological needs - competence, autonomy and relatedness. When those needs are satisfied, we're motivated, productive and happy.*" - Daniel Pink <br/><br/>
+* "*To succeed in life, you need two things: ignorance and confidence.*" - Mark Twain <br/><br/>
+* "*You don't have to be great to start, but you have to start to be great.*" - Zig Ziglar <br/><br/>
+* "*Without big data analytics, companies are blind and deaf, wandering out onto the web like deer on a freeway.*" - Geoffrey Moore <br/><br/>
 
 ## 21 June 2023
 * Some [LinkedIn](https://www.linkedin.com/posts/williammilisic_production-devops-kaizen-activity-7077363779134472192-OFH-) reflections on disallowing access to production for anything but deployment pipelines and pets vs kettle. <br/><br/>
-* Quote-for-saving: "*You have to disrupt yourself or others will do it for you.*" - Steve Forbes <br/><br/>
-* Quote-for-saving: "*Reward excellent failures. Punish mediocre successes.*" - Tom Peters <br/><br/>
-* Quote-for-saving: "*Failure is success if we learn from it.*" - Malcolm Forbes <br/><br/>
-* Quote-for-saving: "*The best thing for being sad...is to learn something. That is the only thing that never fails.*" - T. H. White <br/><br/>
+* "*You have to disrupt yourself or others will do it for you.*" - Steve Forbes <br/><br/>
+* "*Reward excellent failures. Punish mediocre successes.*" - Tom Peters <br/><br/>
+* "*Failure is success if we learn from it.*" - Malcolm Forbes <br/><br/>
+* "*The best thing for being sad...is to learn something. That is the only thing that never fails.*" - T. H. White <br/><br/>
 
 ## 17 June 2023
 * [Compilation](https://www.linkedin.com/posts/williammilisic_pecha-kucha-william-milisic-in-20x20-activity-7075362614146441217-hd7-) of places, people and things I have dear in pechakucha format, ie 20 slides with 20s commentary each. Part 1 of 2. 
 
 ## 15 June 2023
 * Reading through a 2006 article with Werner Vogels where he amongst other things brings up the reasons behind ["You build it. You run it"](https://queue.acm.org/detail.cfm?id=1142065). <br/><br/>
-* Quote-for-saving: "*If it disagrees with experiment, it's wrong.*" - Richard Feynman <br/> In that simple statement is the key to science. It doesn't make any difference how beautiful your guess is, it doesn't matter how smart you are. If it disagrees with experiment, it's wrong.<br/><br/>
-* Quote-for-saving: "*I’d rather be right than consistent.*” - John Harlan
+* "*If it disagrees with experiment, it's wrong.*" - Richard Feynman <br/> In that simple statement is the key to science. It doesn't make any difference how beautiful your guess is, it doesn't matter how smart you are. If it disagrees with experiment, it's wrong.<br/><br/>
+* "*I’d rather be right than consistent.*” - John Harlan
 
 ## 13 June 2023
 * 2nd year running [Blodomloppet](https://www.linkedin.com/posts/williammilisic_blodomlopet-runningasawayoflife-seblife-activity-7074451390881759234-1W6_?) with SEB's sports association. <br/><br/>
 * Kent Beck has a good post on [where the insights come from](https://www.gapingvoid.com/blog/2023/06/13/where-do-insights-come-from/).<br/><br/>
-* Quote-for-saving: "*What's easy, often isn't important. What's important, often isn't easy.*" - Unknown
+* "*What's easy, often isn't important. What's important, often isn't easy.*" - Unknown
 
 ## 12 June 2023 
 * How I deal with pending LinkedIn requests - a short [post](https://www.linkedin.com/posts/williammilisic_sales-salesonlinkedin-activity-7073894002177024000-jL0n). <br/><br/>
-* Quote-for-saving: "*Costs don't exist to be calculated, costs exist to be reduced.*” - Taiichi Ohno
+* "*Costs don't exist to be calculated, costs exist to be reduced.*” - Taiichi Ohno
 
 ## 11 June 2023
-* Quote-for-saving: "*One run can change your day. Many runs can change your life.*" - Unknown
+* "*One run can change your day. Many runs can change your life.*" - Unknown
 
 ## 9 June 2023
 * New-word-learnt: **Shoshin** (Japanese: 初心) is a concept from Zen Buddhism meaning beginner's mind. It refers to having an attitude of openness, eagerness, and lack of preconceptions when studying, even at an advanced level, just as a beginner would. <br/><br/>
 * [AI doomers are a ‘cult’ — here’s the real threat](https://www.cnbc.com/2023/06/06/ai-doomers-are-a-cult-heres-the-real-threat-says-marc-andreessen.html) according to Marc Andreessen.<br/><br/>
-* Quote-for-saving: "*Given a 10% chance of a 100 times payoff, you should take that bet every time.*" - Jeff Bezos <br/><br/>
-* Quote-for-saving: "*Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while. That’s because they were able to connect experiences they’ve had and synthesize new things. And the reason they were able to do that was that they’ve had more experiences or they have thought more about their experiences than other people. Unfortunately, that’s too rare a commodity. A lot of people in our industry haven’t had very diverse experiences. So they don’t have enough dots to connect, and they end up with very linear solutions without a broad perspective on the problem. The broader one’s understanding of the human experience, the better design we will have.*" - Steve Jobs
+* "*Given a 10% chance of a 100 times payoff, you should take that bet every time.*" - Jeff Bezos <br/><br/>
+* "*Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while. That’s because they were able to connect experiences they’ve had and synthesize new things. And the reason they were able to do that was that they’ve had more experiences or they have thought more about their experiences than other people. Unfortunately, that’s too rare a commodity. A lot of people in our industry haven’t had very diverse experiences. So they don’t have enough dots to connect, and they end up with very linear solutions without a broad perspective on the problem. The broader one’s understanding of the human experience, the better design we will have.*" - Steve Jobs
 
 ## 8 June 2023
-* Quote-for-saving: "*Any intelligent fool can make things bigger and more complex... It takes a touch of genius - and a lot of courage to move in the opposite direction.*" - E.F. Schumacher <br/><br/>
+* "*Any intelligent fool can make things bigger and more complex... It takes a touch of genius - and a lot of courage to move in the opposite direction.*" - E.F. Schumacher <br/><br/>
 * I stumbled upon a good 3-post series from Spotify Engineering on how they manage [software and infrastructure at scale](https://www.linkedin.com/feed/update/urn:li:activity:7072243329832296448/).
 
 
@@ -80,22 +78,22 @@ the cloud. <br/><br/>
 * Apple's latest reveals can be somewhat stressful for some: [Everything Apple tried to kill at WWDC 2023](https://gizmodo.com/everything-apple-killed-wwdc-2023-sticker-journal-optic-1850508633/).
 
 ## 4 June 2023
-* Quote-for-saving: "*Don't tell me what you value, show me your budget, and I'll tell you what you value.*" - Joe Biden
+* "*Don't tell me what you value, show me your budget, and I'll tell you what you value.*" - Joe Biden
 
 ## 2 June 2023
-* Quote-for-saving: "*Do we own the process or does the process own us?*" - Jeff Bezos in [2016 letter to the shareholders](https://www.vox.com/platform/amp/2017/4/12/15274220/jeff-bezos-amazon-shareholders-letter-day-2-disagree-and-commit)
+* "*Do we own the process or does the process own us?*" - Jeff Bezos in [2016 letter to the shareholders](https://www.vox.com/platform/amp/2017/4/12/15274220/jeff-bezos-amazon-shareholders-letter-day-2-disagree-and-commit)
 
 ## 1 June 2023
-* Quote-for-saving: "*If you argue for your limitations, you get to keep them. But if you argue for your possibilities, you get to create them!*" - Kelly Lee Phipps<br/><br/>
-* Quote-for-saving: "*It is difficult to get a man to understand something, when his salary depends on his not understanding it.*" - Upton Sinclair
+* "*If you argue for your limitations, you get to keep them. But if you argue for your possibilities, you get to create them!*" - Kelly Lee Phipps<br/><br/>
+* "*It is difficult to get a man to understand something, when his salary depends on his not understanding it.*" - Upton Sinclair
 
 ## 31 May 2023
-* Quote-for-saving: "*Between a good story and a bunch of data, the story has always prevailed.*” - Ozan Varol <br/><br/>
-* Quote-for-saving: "*As soon as it works, no one calls it AI anymore.*” - John McCarthy, who coined the term AI in 1956
+* "*Between a good story and a bunch of data, the story has always prevailed.*” - Ozan Varol <br/><br/>
+* "*As soon as it works, no one calls it AI anymore.*” - John McCarthy, who coined the term AI in 1956
 
 ## 30 May 2023
 * Explaining why "Lift and Shift Landing Zone" is a good and truthful concept for many cloud migrations, although only to be seen a first step, not the end goal. See [here](https://www.linkedin.com/posts/williammilisic_build-your-cloud-foundation-activity-7069027700174200833-VjDP).<br/><br/>
-* Quote-for-saving: "*The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts.*" - Bertrand Russell
+* "*The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts.*" - Bertrand Russell
 
 ## 29 May 2023
 * I was asked a while back to share the full list of my reads/listens. I found the request flattering but didn't think too much about it until I heard the same thing from another person, and then another. One is a dot, two is a line, three is a trend. Said and done, I've now extracted the list of books I've listened to from Audible since I started my monthly subscription in 2018. Think a few books from competing services are missing and I'll look to add those too shortly. As well of course hard copies of books, which I'll also add. To top it off, at some point, I will add more data about the books, including linking to my reviews on LinkedIn. Without any further ado, here is the [list](booklist.md).
@@ -109,7 +107,7 @@ Failing to do your best with that software component, is equal to failing at you
 * A quick book [review](https://www.linkedin.com/posts/williammilisic_agile-lean-cloudcomputing-activity-7067741149242830848-udAi) on "The Journey to Enterprise Agility" by Daryl Kulak and Hong Li. The book is a good starting point, in case you're wondering how to develop effective interfaces between enterprise methodology and Agile practices. 
 
 ## 24 May 2023
-* Tina Turner, the Queen of Rock'n'Roll, has died at 83. <br/>Quote-for-saving: *"People think my life has been tough, but I think it's been a wonderful journey. The older you get, the more you realise it's not what happened, it's how you deal with it."*
+* Tina Turner, the Queen of Rock'n'Roll, has died at 83. <br/>*"People think my life has been tough, but I think it's been a wonderful journey. The older you get, the more you realise it's not what happened, it's how you deal with it."*
 
 ## 19 May 2023
 * An internal [document](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) from Google circulating reg Open Source and OpenAI. "*...in the end, OpenAI doesn’t matter. They are making the same mistakes we are in their posture relative to open source, and their ability to maintain an edge is necessarily in question. Open source alternatives can and will eventually eclipse them unless they change their stance. In this respect, at least, we can make the first move.*" 
@@ -130,12 +128,12 @@ Failing to do your best with that software component, is equal to failing at you
 * [Google I/O](https://io.google/2023/) with a number of AI [announcements](https://techcrunch.com/2023/05/10/google-launches-palm-2-its-next-gen-large-language-model/) and inclusions to Google services. 
 
 ## 8 May 2023
-* Quote-for-saving: *"People don't resist change. They resist being changed."* - Richard Beckhard <br/><br/>
+* *"People don't resist change. They resist being changed."* - Richard Beckhard <br/><br/>
 * The Backhard-Harris Change Model [DxVxF>R](http://pastatenaacp.org/wp-content/uploads/2017/03/Beckhard-Harris-Change-Model-DVF.pdf).
 
 ## 5 May 2023
 * Unlike bridges or buildings, software architectures are not meant to be frozen in time. Software architecture should frequently be revisited for small or big improvements, as well as fundamental changes. Walter Vogel looks at this from his perspective in an enlightened [post](https://www.allthingsdistributed.com/2023/05/monoliths-are-not-dinosaurs.html).<br/><br/>
-* Quote-for-saving: *"Intelligence is the ability to adapt to change.”* – Stephen Hawking
+* *"Intelligence is the ability to adapt to change.”* – Stephen Hawking
 
 ## 4 May 2023
 * Some reflections on benefits of micro segmentation in Cloud environments and how difficult it can be in case you don't do it right off the bat. [LinkedIn post](https://www.linkedin.com/posts/williammilisic_security-reliability-devops-activity-7059758409125904384-H6Q8)<br/><br/>
@@ -154,7 +152,7 @@ Failing to do your best with that software component, is equal to failing at you
 * Blunt copying from one company to another of best practices, insights and implementations is at it's best just blunt, but at it's worst "inviting disaster" as per Deming. A [short post](https://www.linkedin.com/posts/williammilisic_people-copy-examples-and-wonder-why-they-activity-7056352166441009152-ROwH) on systems thinking and this topic. 
 
 ## 23 April 2023
-* Quote-for-saving: *"You can’t manage what you can’t measure. You can’t secure what you can’t see."*
+* *"You can’t manage what you can’t measure. You can’t secure what you can’t see."*
 
 ## 22 April 2023
 * Been a few days without content. Blame it on vacation and coming back to work after vacation. Anyways, here we go off again.  <br/><br/>
@@ -171,7 +169,7 @@ Failing to do your best with that software component, is equal to failing at you
 * Techcrunch has an interesting [piece](https://techcrunch.com/2023/04/03/a-knife-so-sharp-you-dont-feel-it-cut/) on how generative AI is near perfect at inoffensive, blend CorpSpeak and marketing copy, in turn disrupting and replacing millions of jobs engaged in just this endeavour. <br/><br/>
 
 ## 6 April 2023
-* Quote-for-saving: *""The world has enough for everyone's needs, but not everyone's greed."* - Mahatma Gandhi <br/><br/>
+* *""The world has enough for everyone's needs, but not everyone's greed."* - Mahatma Gandhi <br/><br/>
 * Jennifer Brady tells the story how to introduce financial services governance to DevOps. [Article on Medium](https://medium.com/capital-one-tech/devops-and-governance-56f6ecae1181).<br/><br/>
 * Key takeaways from Stanford’s report on the [state of AI](https://techcrunch.com/2023/04/04/the-takeaways-from-stanfords-386-page-report-on-the-state-of-ai/). <br/><br/>
 
@@ -183,7 +181,7 @@ Failing to do your best with that software component, is equal to failing at you
 
 ## 3 April 2023
 * On the 30th March, Bloomberg announced [BloombergGPT](https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/). This LLM has been trained on a wide range of financial data to support a diverse set of NLP tasks within the financial industry. It has been trained using both public and private data sets, to produce an LLM with a competitive edge in the financial services on ChatGPT and other "generic" GPTs. <br/><br/>
-* Quote-for-saving: *"Leaders are not the problem. Bad leaders are the problem. Challenge is to create a culture where good leadership is the norm.”*
+* *"Leaders are not the problem. Bad leaders are the problem. Challenge is to create a culture where good leadership is the norm.”*
 
 ## 1 April 2023
 * [Italian DPA](https://techcrunch.com/2023/03/31/chatgpt-blocked-italy/) issues order to block ChatGPT over GDPR breach concerns. <br/><br/>
@@ -193,14 +191,14 @@ Failing to do your best with that software component, is equal to failing at you
 
 ## 31 March 2023
 * Ars Technica is writing a [piece](https://arstechnica.com/gadgets/2023/03/google-assistant-might-be-doomed-division-reorganizes-to-focus-on-bard/) on Google refocusing efforts from Google Assistant to Bard. Just like [Alexa](https://arstechnica.com/gadgets/2022/11/amazon-alexa-is-a-colossal-failure-on-pace-to-lose-10-billion-this-year/) it seems Google Assistant, isn't making any money for the parent company. <br/><br/>
-* Quote-for-saving: *"Change is inevitable. Growth is optional."* - John C. Maxwell
+* *"Change is inevitable. Growth is optional."* - John C. Maxwell
 
 ## 30 March 2023
 * An interesting ROI measurement on [Backstage](https://backstage.io) was released today by Spotify. The developers that use Backstage are both more productive, content and retained longer at the company than non-users of Backstage. Check out the analysis right [here](https://backstage.spotify.com/blog/how-spotify-measures-backstage-roi/?utm_campaign=FY23%20-%20Blog%3A%20Backstage%20by%20the%20Numbers&utm_medium=email&_hsenc=p2ANqtz-8Xr0BcvVUXCm3gpI6IcWUIEqZqf1Ipoh6e7k94ex9oDnKWezlF0ar3heqk-gCosVcpnn85UJ0hB04QsUohmkitcVqHMw&_hsmi=252403474&utm_content=252403474&utm_source=hs_email&hsCtaTracking=08661d3f-d640-454b-bf55-ac04726b1ad3%7Cd00f0188-d378-4e37-9530-ded38d534323). <br/><br/>
 <!-- ![](../images/backstage-2023-03-30.png)<br/>-->
 * The leaps in AI are just massive. Here's a driverless [Cruise](https://getcruise.com) vehicle making its way through North Beach on St. Patrick's day. Seems AVs will be able to take on pretty hairy situations quite soon. Link to the [video](https://www.linkedin.com/feed/update/urn:li:activity:7046893618195795968/).<br/><br/>
-* Quote-for-saving: *"I can make the trains run on time. But that trait is not conducive to being a leader. That’s a great trait for being a manager. Leadership is a vision. It’s inspiration, it's execution, it’s instincts. It is not just letting the trains run on time."* From [20VC podcast episode with Sequoia'a Doug Leone](https://open.spotify.com/episode/1WuBfXCeERhgiXloheaaoo?si=QZlnTjvHStGEknTcPzFIPA&context=spotify%3Ashow%3A3j2KMcZTtgTNBKwtZBMHvl).<br/><br/>
-* Quote-for-saving: *"I hear and I forget. I see and I remember. I do and I understand."* - Confucius
+* *"I can make the trains run on time. But that trait is not conducive to being a leader. That’s a great trait for being a manager. Leadership is a vision. It’s inspiration, it's execution, it’s instincts. It is not just letting the trains run on time."* From [20VC podcast episode with Sequoia'a Doug Leone](https://open.spotify.com/episode/1WuBfXCeERhgiXloheaaoo?si=QZlnTjvHStGEknTcPzFIPA&context=spotify%3Ashow%3A3j2KMcZTtgTNBKwtZBMHvl).<br/><br/>
+* *"I hear and I forget. I see and I remember. I do and I understand."* - Confucius
 
 ## 29 March 2023
 * Had great fun at a meet-up co-arranged with [Continuous Delivery Stockholm](https://www.linkedin.com/posts/williammilisic_cloud-cicd-continuousdelivery-activity-7046954939008303104-2XUk). Really glad to contribute in any way I can getting the meet-up scene going after too many years of pandemic. <br/><br/>
@@ -216,12 +214,12 @@ The research shows that AI will impact roughly half of the activities people do 
 
 ## 27 March 2023
 * Sequoia Capital's [newest market map](https://media.licdn.com/dms/image/D5622AQFYS4hT4yMi3g/feedshare-shrink_2048_1536/0/1679679479724?e=1682553600&v=beta&t=t-B1CLx2ddYGvLA55ipMj1AwrMfqGHJsGR4R9kxZ6sk). It showcases Sequoia's belief that that the AI revolution is the most consequential computational trend in decades. AI is rewriting what software can do and expanding the pool of who can write software. Full article [here](https://www.sequoiacap.com/article/ai-powered-developer-tools/). <br/><br/>
-* Quote-for-saving: *"Skipping software tests to save time is like getting a head start in a race by not tying your shoes. You're not getting ahead, you're going to stumble."* <br/><br/>
+* *"Skipping software tests to save time is like getting a head start in a race by not tying your shoes. You're not getting ahead, you're going to stumble."* <br/><br/>
 * Sequoia [article](https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/) on Generative AI predicts rise of "killer" apps just like smartphones 15 years ago unleashed new types of applications through new capabilities like GPS, cameras and on-the-go connectivity. The article speculates how different fundamental models will evolve over the coming years and what sort of associated applications will become possible. <br/>
 
 ## 26 March 2023
 * Weekend time with the family and we watched the movie **Lorax** from 2012, based upon a book by Dr. Seuss. A good movie for the whole family with a great quote for future saving. <br/><br/>
-* Quote-for-saving: *"Be who you are and say what you feel because those who mind, don't matter, and those who matter, don't mind."* - Dr. Seuss<br/><br/>
+* *"Be who you are and say what you feel because those who mind, don't matter, and those who matter, don't mind."* - Dr. Seuss<br/><br/>
 * Recent years, months and weeks have seen a remarkable 
 progress in the field of generative AI and large language models. This [study](https://arxiv.org/pdf/2303.10130.pdf) made by OpenAI, Open Research and University of Pennsylvania investigates potential impact of Generative Pre-Trained Transformer (GPT) models on the US labour market. <br/><br/>
 * The [Guardian](https://www.theguardian.com/commentisfree/2023/mar/25/you-wait-ages-for-an-ai-chatbot-to-come-along-then-a-whole-bunch-turn-up-chatgpt) answers why the machine learning "breakthrough" moment happened to happen right now. A number of necessary but unconnected developments suddenly came together to create entirely new possibilities: 
