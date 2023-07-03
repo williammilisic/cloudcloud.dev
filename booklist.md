@@ -6,11 +6,14 @@ Back to [main](index.md).
 
 ## 2023 
 
+* **Think Like a Rocket Scientist**
+<br/>By: Ozan Varol <br/>June 2023 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_thinklikearocketscientist-innovation-creativity-activity-7081523211972075520-8i3S)
+
 * **The Journey to Enterprise Agility**
-<br/>By:  Daryl Kulak, Hong Li <br/>April 2023
+<br/>By:  Daryl Kulak, Hong Li <br/>April 2023 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_agile-lean-cloudcomputing-activity-7067741149242830848-udAi)
 
 * **Investments Unlimited**
-<br/>By:  Helen Beal, Bill Bensing, Jason Cox, Michael Edenzon, Topo Pal, Caleb Queern, John Rzezotarski, Andres Vega, John Willis <br/>March 2023
+<br/>By:  Helen Beal, Bill Bensing, Jason Cox, Michael Edenzon, Topo Pal, Caleb Queern, John Rzezotarski, Andres Vega, John Willis <br/>March 2023 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_investments-unlimited-it-revolution-activity-7052915404582625281-pVg7)
 
 * **Loved**
 <br/>By:  Martina Lauchengco <br/>March 2023
