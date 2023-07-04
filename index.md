@@ -7,6 +7,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 4 July 2023
+* Odd thing learnt today: In workaholic Japan, "job leaving agents" aka **taishoku daiko** help people escape the awkwardness of quitting.
+
 ## 3 July 2023
 * [Review](https://www.linkedin.com/posts/williammilisic_thinklikearocketscientist-innovation-creativity-activity-7081523211972075520-8i3S) of Ozan Varol's book "Think Like a Rocket Scientist". <br/>One of many good quotes from the book: "*Your passion should be your compass, not your destination.*"
 
