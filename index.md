@@ -7,6 +7,10 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 5 July 2023
+* "*A culture is strong when people work with each other, for each other.<br/>
+A culture is weak when people work against each other, for themselves.*"
+
 ## 4 July 2023
 * Odd thing learnt today: In workaholic Japan, "job leaving agents" aka **taishoku daiko** help people escape the awkwardness of quitting.
 
