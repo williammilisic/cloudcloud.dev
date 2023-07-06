@@ -9,7 +9,8 @@
 
 ## 5 July 2023
 * "*A culture is strong when people work with each other, for each other.<br/>
-A culture is weak when people work against each other, for themselves.*" - Simon Sinek
+A culture is weak when people work against each other, for themselves.*" - Simon Sinek<br/><br/>
+* A [comparison](https://www.linkedin.com/posts/williammilisic_technology-gaming-banking-activity-7082435794883289090-jnm7) between financial services and online gaming industries along a few dimensions.
 
 ## 4 July 2023
 * Odd thing learnt today: In workaholic Japan, "job leaving agents" aka **taishoku daiko** help people escape the awkwardness of quitting.
