@@ -7,6 +7,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 6 July 2023
+* A few simple rules of thumb as to [who does what on an agile team](https://www.linkedin.com/posts/williammilisic_team-engineering-agile-activity-7082593053995114497-t3um), my take.
+
 ## 5 July 2023
 * "*A culture is strong when people work with each other, for each other.<br/>
 A culture is weak when people work against each other, for themselves.*" - Simon Sinek<br/><br/>
