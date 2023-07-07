@@ -22,7 +22,7 @@ Back to [main](index.md).
 <br/>By:  James Clear <br/>February 2023
 
 * **Fundamentals of Software Architecture**
-<br/>By:  Mark Richards, Neal Ford <br/>January 2023
+<br/>By:  Mark Richards, Neal Ford <br/>January 2023 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_software-engineering-architecture-activity-7039327062771281920-4sbC)
 
 * **The Human Side of Agile** (re-listened)
 <br/>By:  Gil Broza <br/>January 2023
