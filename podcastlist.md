@@ -4,6 +4,7 @@ Back to [main](index.md).
 
 <br/>
 
+
 ### Cloud Security Podcast 
 A weekly news and interview show with insights from the cloud security community.
 The guests come from a range of companies and backgrounds. The stories are highly engaging and relevant.
@@ -42,3 +43,7 @@ A miniseries about product strategy, looking into the decisions that have guided
 ### Kodsnack
 (SE) Podd av kodare, för kodare, på svenska.
 [Link](https://kodsnack.se)
+
+### Babbage | The Economist Podcasts
+Reports on the intersections between science, technology, culture and policy.
+[Link](https://open.spotify.com/show/2ZFDmgDS2Z6xccP51s1zFQ)
