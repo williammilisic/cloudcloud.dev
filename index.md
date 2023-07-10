@@ -10,7 +10,10 @@
 ## 10 July 2023
 * Wabi-sabi is the view or thought of finding beauty in every aspect of imperfection in nature. It is about the aesthetic of things in existence, that are “imperfect, impermanent, and incomplete”. 
 Characteristics of wabi-sabi aesthetics and principles include asymmetry, roughness, simplicity, economy, austerity, modesty, intimacy, and the appreciation of both natural objects and the forces of nature. <br/><br/>
-* Ichi-go ichi-e (Japanese: 一期一会, pronounced [it͡ɕi. ɡo it͡ɕi. e], lit. "one time, one meeting") is a Japanese four-character idiom (yojijukugo) that describes a cultural concept of treasuring the unrepeatable nature of a moment.
+* Ichi-go ichi-e (Japanese: 一期一会, pronounced [it͡ɕi. ɡo it͡ɕi. e], lit. "one time, one meeting") is a Japanese four-character idiom (yojijukugo) that describes a cultural concept of treasuring the unrepeatable nature of a moment.<br/><br/>
+* "*We are what we repeatedly do. Excellence, therefore, is not an act, but a habit.*" - Will Durant <br/><br/>
+* "*Virtues are formed in man by his doing the actions.*" - Aristotle <br/><br/>
+
 
 ## 6 July 2023
 * A few simple rules of thumb as to [who does what on an agile team](https://www.linkedin.com/posts/williammilisic_team-engineering-agile-activity-7082593053995114497-t3um), my take.
