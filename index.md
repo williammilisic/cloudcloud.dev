@@ -7,6 +7,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 11 July 2023
+* Story of "Big Tech" rejections, before they were the "Big Tech". [Tweet](https://twitter.com/jonerlichman/status/1678178996125614081?s=46&t=hHSCE5QQcDTRoUCBsMmiCg)
+
 ## 10 July 2023
 * Wabi-sabi is the view or thought of finding beauty in every aspect of imperfection in nature. It is about the aesthetic of things in existence, that are “imperfect, impermanent, and incomplete”. 
 Characteristics of wabi-sabi aesthetics and principles include asymmetry, roughness, simplicity, economy, austerity, modesty, intimacy, and the appreciation of both natural objects and the forces of nature. <br/><br/>
