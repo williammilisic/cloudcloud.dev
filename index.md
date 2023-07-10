@@ -14,7 +14,8 @@ Characteristics of wabi-sabi aesthetics and principles include asymmetry, roughn
 * "*We are what we repeatedly do. Excellence, therefore, is not an act, but a habit.*" - Will Durant <br/><br/>
 * "*Virtues are formed in man by his doing the actions.*" - Aristotle <br/><br/>
 * "*It's not what happens to you, but how you react to it, that matters.*" - Epictetus <br/><br/>
-* "*Nana korobi, ya oki*” - Japanese proverb which means “*Fall down seven times, stand up eight.*"
+* "*Nana korobi, ya oki*” - Japanese proverb which means “*Fall down seven times, stand up eight.*" <br/><br/>
+* "*We don't create the meaning of our life, as Sartre claimed - we discover it.*" - Hector Garcia
 
 ## 6 July 2023
 * A few simple rules of thumb as to [who does what on an agile team](https://www.linkedin.com/posts/williammilisic_team-engineering-agile-activity-7082593053995114497-t3um), my take.
