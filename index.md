@@ -7,6 +7,11 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 10 July 2023
+* Wabi-sabi is the view or thought of finding beauty in every aspect of imperfection in nature. It is about the aesthetic of things in existence, that are “imperfect, impermanent, and incomplete”. 
+Characteristics of wabi-sabi aesthetics and principles include asymmetry, roughness, simplicity, economy, austerity, modesty, intimacy, and the appreciation of both natural objects and the forces of nature. <br/><br/>
+* Ichi-go ichi-e (Japanese: 一期一会, pronounced [it͡ɕi. ɡo it͡ɕi. e], lit. "one time, one meeting") is a Japanese four-character idiom (yojijukugo) that describes a cultural concept of treasuring the unrepeatable nature of a moment.
+
 ## 6 July 2023
 * A few simple rules of thumb as to [who does what on an agile team](https://www.linkedin.com/posts/williammilisic_team-engineering-agile-activity-7082593053995114497-t3um), my take.
 
