@@ -8,10 +8,18 @@
 <br/>
 
 ## 11 July 2023
+* "*"Be Water, My Friend.
+Empty your mind.
+Be formless, shapeless, like water.
+You put water into a cup, it becomes the cup.
+You put water into a bottle, it becomes the bottle.
+You put it into a teapot, it becomes the teapot.
+Now water can flow or it can crash.
+Be water, my friend.*" - Bruce Lee<br/><br/>
 * Story of "Big Tech" rejections, before they were the "Big Tech". [Tweet](https://twitter.com/jonerlichman/status/1678178996125614081?s=46&t=hHSCE5QQcDTRoUCBsMmiCg)
 
 ## 10 July 2023
-* [Major breakthrough](https://www.linkedin.com/posts/williammilisic_press-corner-activity-7084204727025958912-m3Sn) for personal data privacy, tech innovation and transatlantic cooperation as EU and US agree on a data privacy adequacy framework. 
+* [Major breakthrough](https://www.linkedin.com/posts/williammilisic_press-corner-activity-7084204727025958912-m3Sn) for personal data privacy, tech innovation and transatlantic cooperation as EU and US agree on a data privacy adequacy framework. <br/><br/>
 * Wabi-sabi is the view or thought of finding beauty in every aspect of imperfection in nature. It is about the aesthetic of things in existence, that are “imperfect, impermanent, and incomplete”. 
 Characteristics of wabi-sabi aesthetics and principles include asymmetry, roughness, simplicity, economy, austerity, modesty, intimacy, and the appreciation of both natural objects and the forces of nature. <br/><br/>
 * Ichi-go ichi-e (Japanese: 一期一会, pronounced [it͡ɕi. ɡo it͡ɕi. e], lit. "one time, one meeting") is a Japanese four-character idiom (yojijukugo) that describes a cultural concept of treasuring the unrepeatable nature of a moment.<br/><br/>
