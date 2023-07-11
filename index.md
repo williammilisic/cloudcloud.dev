@@ -8,7 +8,7 @@
 <br/>
 
 ## 11 July 2023
-* "*"Be Water, My Friend.
+* "*Be Water, My Friend.
 Empty your mind.
 Be formless, shapeless, like water.
 You put water into a cup, it becomes the cup.
