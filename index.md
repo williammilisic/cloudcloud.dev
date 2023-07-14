@@ -7,6 +7,13 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 14 July 2023
+* "*Three grand essentials to happiness in this life are something to do, something to love, and something to hope for.*" - Joseph Addison<br/><br/>
+* Takumi (匠) is a Japanese word meaning "artisan". The saying goes that it takes 10,000 hours to become an expert, but 60,000 hours to become a takumi. <br/><br/>
+* Ganbaru (頑張る, lit. 'stand firm'), also romanized as gambaru, is a ubiquitous Japanese word which roughly means to slog on tenaciously through tough times. Gambaru focuses attention on the importance of finishing a task and never stopping until a goal is achieved. The continuing effort to overcome obstacles (even if not successful) is an important concept in Japan.<br/><br/>
+
+
+
 ## 11 July 2023
 * "*Be Water, My Friend.
 Empty your mind.
