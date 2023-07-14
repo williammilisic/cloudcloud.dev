@@ -11,8 +11,8 @@
 * "*Three grand essentials to happiness in this life are something to do, something to love, and something to hope for.*" - Joseph Addison<br/><br/>
 * Takumi (匠) is a Japanese word meaning "artisan". The saying goes that it takes 10,000 hours to become an expert, but 60,000 hours to become a takumi. <br/><br/>
 * Ganbaru (頑張る, lit. 'stand firm'), also romanized as gambaru, is a ubiquitous Japanese word which roughly means to slog on tenaciously through tough times. Gambaru focuses attention on the importance of finishing a task and never stopping until a goal is achieved. The continuing effort to overcome obstacles (even if not successful) is an important concept in Japan.<br/><br/>
-* "*If we try to get rid of one wave with another, we end up with an infinite sea.*" - Zen saying
-
+* "*If we try to get rid of one wave with another, we end up with an infinite sea.*" - Zen saying<br/><br/>
+* Hara hachi bun me (腹八分目) (also spelled hara hachi bu, and sometimes misspelled hari hachi bu) is a Confucian teaching that instructs people to eat until they are 80 percent full. 
 
 ## 11 July 2023
 * "*Be Water, My Friend.
