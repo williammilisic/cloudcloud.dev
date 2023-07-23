@@ -7,6 +7,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 23 July 2023
+* Apple is so perturbed by a United Kingdom surveillance bill that it's threatening to flat-out remove iMessage and FaceTime in the U.K. instead of complying with the proposed legislation. On [Mashable](https://mashable.com/article/apple-facetime-imessage-uk-surveillance-bill).
+
 ## 14 July 2023
 * "*Three grand essentials to happiness in this life are something to do, something to love, and something to hope for.*" - Joseph Addison<br/><br/>
 * Takumi (匠) is a Japanese word meaning "artisan". The saying goes that it takes 10,000 hours to become an expert, but 60,000 hours to become a takumi. <br/><br/>
