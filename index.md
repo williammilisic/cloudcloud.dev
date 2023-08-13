@@ -8,7 +8,7 @@
 <br/>
 
 ## 13 August 2023
-* "*All decisions are objective until the first line of code is written. After that, all decisions are emotional.*” - Ben Horowitz in the *Hard Thing about Hard Things*<br/><br/>
+* "*All decisions are objective until the first line of code is written. After that, all decisions are emotional.*” - Ben Horowitz in **Hard Thing about Hard Things**<br/><br/>
 * 
 
 ## 23 July 2023
