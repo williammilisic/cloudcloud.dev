@@ -10,8 +10,8 @@
 ## 13 August 2023
 * "*All decisions are objective until the first line of code is written. After that, all decisions are emotional.*” - Ben Horowitz in **Hard Thing about Hard Things**<br/><br/>
 * "*If you're going to eat shit, don't nibble.*" - Ben Horowitz <br/><br/>
-* "*It never ceases to amaze me: we all love ourselves more than other people, but care more about their opinion than our own.*" - Marcus Aurelius, **Meditations**
-
+* "*It never ceases to amaze me: we all love ourselves more than other people, but care more about their opinion than our own.*" - Marcus Aurelius, **Meditations**<br/></br>
+* Came across the amazing story/book by Dr. Seuss from 1990, "Oh, the Places You'll Go". Reading and rereading it, and it's quickly becoming a new favourite. Read for yourself [here](https://denuccio.net/ohplaces.html).
 ## 23 July 2023
 * Apple is so perturbed by a United Kingdom surveillance bill that it's threatening to flat-out remove iMessage and FaceTime in the U.K. instead of complying with the proposed legislation. On [Mashable](https://mashable.com/article/apple-facetime-imessage-uk-surveillance-bill).
 
