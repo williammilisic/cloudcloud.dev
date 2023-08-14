@@ -6,6 +6,9 @@ Back to [main](index.md).
 
 ## 2023 
 
+* **Ikigai: The Japanese Secret to a Long and Happy Life**
+<br/><br/>By: Héctor García and Francesc Miralles <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_during-the-summer-i-finished-listening-to-activity-7096922154939629569-9u1h)
+
 * **Think Like a Rocket Scientist**
 <br/>By: Ozan Varol <br/>June 2023 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_thinklikearocketscientist-innovation-creativity-activity-7081523211972075520-8i3S)
 
