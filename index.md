@@ -7,6 +7,12 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 17 August 2023
+* "*The Law of Crappy People states: For any title level in a large organization, the talent on that level will eventually converge to the crappiest person with the title. 
+The rationale behind the law is that the other employees in the company with lower titles will naturally benchmark themselves against the crappiest person at the next level. 
+For example, if Jasper is the worst vice president in the company, then all of the directors will benchmark themselves against Jasper and demand promotions as soon as they reach his low level of competency.*"<br/><br/>
+
+
 ## 13 August 2023
 * "*All decisions are objective until the first line of code is written. After that, all decisions are emotional.*” - Ben Horowitz in **Hard Thing about Hard Things**<br/><br/>
 * "*If you're going to eat shit, don't nibble.*" - Ben Horowitz <br/><br/>
