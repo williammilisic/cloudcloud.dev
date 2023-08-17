@@ -11,7 +11,7 @@
 * "*The Law of Crappy People states: For any title level in a large organization, the talent on that level will eventually converge to the crappiest person with the title. 
 The rationale behind the law is that the other employees in the company with lower titles will naturally benchmark themselves against the crappiest person at the next level. 
 For example, if Jasper is the worst vice president in the company, then all of the directors will benchmark themselves against Jasper and demand promotions as soon as they reach his low level of competency.*"- Ben Horowitz<br/><br/>
-* The Peter Principle, coined by Dr. Laurence J. Peter and Raymond Hull in their 1969 book The Peter Principle, contends that, in a hierarchy, people are sooner or later 
+* The Peter Principle, coined by Dr. Laurence J. Peter and Raymond Hull in their 1969 book **The Peter Principle**, contends that, in a hierarchy, people are sooner or later 
 promoted to positions which they are no longer skilled to handle. This is their “level of incompetence.” This is where they stay.
 In his book **High Output Management**, Andy Grove points out that this is largely unavoidable because there is no way to know a priori at what point the person will be incapable of handling further promotions.<br/<br/>
 
