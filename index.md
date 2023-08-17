@@ -15,7 +15,7 @@ For example, if Jasper is the worst vice president in the company, then all of t
 promoted to positions which they are no longer skilled to handle. This is their “level of incompetence.” This is where they stay.
 In his book **High Output Management**, Andy Grove points out that this is largely unavoidable because there is no way to know a priori at what point the person will be incapable of handling further promotions.<br/><br/>
 * "*MANAGING STRICTLY BY NUMBERS IS LIKE PAINTING BY NUMBERS Some things that you want to encourage will be quantifiable, and some will not. If you report on the quantitative goals and ignore the qualitative ones, you won’t get the qualitative goals, which may be the most important ones. Management purely by numbers is sort of like painting by numbers—it’s strictly for amateurs. At HP, the company wanted high earnings now and in the future. By focusing entirely on the numbers, HP got them now by sacrificing the future.*" - Ben Horowitz
-
+* "*We take care of the people, the products and the profits…in that order.” - Jim Barksdale<br/><br/>
 
 
 ## 13 August 2023
