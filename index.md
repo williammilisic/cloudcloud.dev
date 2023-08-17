@@ -16,7 +16,7 @@ promoted to positions which they are no longer skilled to handle. This is their 
 In his book **High Output Management**, Andy Grove points out that this is largely unavoidable because there is no way to know a priori at what point the person will be incapable of handling further promotions.<br/><br/>
 * "*MANAGING STRICTLY BY NUMBERS IS LIKE PAINTING BY NUMBERS Some things that you want to encourage will be quantifiable, and some will not. If you report on the quantitative goals and ignore the qualitative ones, you won’t get the qualitative goals, which may be the most important ones. Management purely by numbers is sort of like painting by numbers—it’s strictly for amateurs. At HP, the company wanted high earnings now and in the future. By focusing entirely on the numbers, HP got them now by sacrificing the future.*" - Ben Horowitz<br/><br/>
 * "*We take care of the people, the products and the profits…in that order.*” - Jim Barksdale<br/><br/>
-* Ben Horowitz recalls a situation at Netscape when there were no silver bullets. [Lead Bullets](https://a16z.com/2011/11/13/lead-bullets/)
+* Ben Horowitz recalls a situation at Netscape as a PM when there were no silver bullets. [Lead Bullets](https://a16z.com/2011/11/13/lead-bullets/)
 
 ## 13 August 2023
 * "*All decisions are objective until the first line of code is written. After that, all decisions are emotional.*” - Ben Horowitz in **Hard Thing about Hard Things**<br/><br/>
