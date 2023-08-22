@@ -7,6 +7,10 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 22 August 2023
+* "*I think we ought always to entertain our opinions with some measure of doubt. I shouldn't wish people dogmatically to believe any philosophy not even mine, not even mine. No, I think we should accept our philosophies with a measure of doubt.*" - Bertrand Russell <br/><br/>
+* Romney Wheeler [interviews](https://scrapsfromtheloft.com/comedy/a-conversation-with-bertrand-russell-1952/) British philosopher, logician, mathematician, historian, and social critic Bertrand Russell at Russell’s home in Surrey, England. The interview was broadcast on his 80th birthday, which was May 18, 1952.
+
 ## 17 August 2023
 * "*The Law of Crappy People states: For any title level in a large organization, the talent on that level will eventually converge to the crappiest person with the title. 
 The rationale behind the law is that the other employees in the company with lower titles will naturally benchmark themselves against the crappiest person at the next level. 
