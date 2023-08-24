@@ -13,7 +13,7 @@
 * "*Whether top management, middle management, or the workers who actually do the work, we are all human, so we're like walking misconceptions, believing that the way we do things now is the best way.*" - Taiichi Ohno<br/><br/>
 * Underneath one Kaizen idea, is another one.<br/><br/>
 * "*No plan survives contact with the enemy.*" - Helmuth von Moltke<br/><br/>
-* Per aspera ad astra. / Trough hardships to the stars.
+* Per aspera ad astra. / Through hardships to the stars.
 
 ## 22 August 2023
 * "*I think we ought always to entertain our opinions with some measure of doubt. I shouldn't wish people dogmatically to believe any philosophy not even mine, not even mine. No, I think we should accept our philosophies with a measure of doubt.*" - Bertrand Russell <br/><br/>
