@@ -7,6 +7,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 26 August 2023
+* "*The biggest communication problem is we do not listen to understand. We listen to reply.*" - Stephen R. Covey
+
 ## 25 August 2023
 * Words to live by. "*Our prime purpose in life is to help others. And if you can't help them, at least don't hurt them.*" - Dalia Lama 
 
