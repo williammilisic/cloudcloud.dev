@@ -7,6 +7,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 28 August 2023
+* No business model or competitive advantage is indefinitely sustainable.
+
 ## 26 August 2023
 * "*The biggest communication problem is we do not listen to understand. We listen to reply.*" - Stephen R. Covey
 
