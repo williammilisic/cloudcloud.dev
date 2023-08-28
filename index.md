@@ -9,7 +9,7 @@
 
 ## 28 August 2023
 * No business model or competitive advantage is indefinitely sustainable.
-
+* Features delivered are not a measure of success; business outcomes are.
 ## 26 August 2023
 * "*The biggest communication problem is we do not listen to understand. We listen to reply.*" - Stephen R. Covey
 
