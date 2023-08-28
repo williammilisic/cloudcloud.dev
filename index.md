@@ -8,8 +8,11 @@
 <br/>
 
 ## 28 August 2023
-* No business model or competitive advantage is indefinitely sustainable.
-* Features delivered are not a measure of success; business outcomes are.
+* No business model or competitive advantage is indefinitely sustainable.<br/><br/>
+* Features delivered are not a measure of success; business outcomes are.<br/><br/>
+* "*It's not enough to do your best; you must know what to do, and then do your best.*" - W. Edwards Deming <br/><br/>
+* "*The single most important thing to remember about any enterprise is that there are no results inside its walls. The result of a business is a satisfied customer.*" - Peter Drucker<br/><br/>
+
 ## 26 August 2023
 * "*The biggest communication problem is we do not listen to understand. We listen to reply.*" - Stephen R. Covey
 
