@@ -12,7 +12,8 @@
 * Features delivered are not a measure of success; business outcomes are.<br/><br/>
 * "*It's not enough to do your best; you must know what to do, and then do your best.*" - W. Edwards Deming <br/><br/>
 * "*The single most important thing to remember about any enterprise is that there are no results inside its walls. The result of a business is a satisfied customer.*" - Peter Drucker<br/><br/>
-
+* “*Emergencies have always been necessary to progress. It was darkness which produced the lamp. It was fog that produced the compass. It was hunger that drove us to exploration. And it took a depression to teach us the real value of a job.*” - Victor Hugo<br/><br/>
+— Victor Hugo
 ## 26 August 2023
 * "*The biggest communication problem is we do not listen to understand. We listen to reply.*" - Stephen R. Covey
 
