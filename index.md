@@ -8,7 +8,7 @@
 <br/>
 
 ## 31 August 2023
-* "*There is nothing so useless as doing efficiently that which should not be done at all.*"" - Peter Drucker<br/><br/>
+* "*There is nothing so useless as doing efficiently that which should not be done at all.*" - Peter Drucker<br/><br/>
 * [Failure Demand](https://beyondcommandandcontrol.com/failure-demand/) is demand caused by a failure to do something or do something right for the customer. Customers come back, making further demands, unnecessarily consuming the organisation’s resources because the service they receive is ineffective. <br/><br/>
 * [Everything](https://www.bbc.com/travel/article/20230829-why-aperol-spritz-is-the-drink-of-the-summer) you wanted to know about Aperol Spritz but didn't have anyone to ask. 
 
