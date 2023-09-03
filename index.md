@@ -8,7 +8,8 @@
 <br/>
 
 ## 3 September 2023
-* "*Costs do not exist to be calculated, they exist to be reduced.*” - Taiichi Ohno
+* "*Costs do not exist to be calculated, they exist to be reduced.*” - Taiichi Ohno<br/><br/>
+* "*Thinking is hard, that's why most people judge.*" - Carl Young
 
 ## 31 August 2023
 * "*There is nothing so useless as doing efficiently that which should not be done at all.*" - Peter Drucker<br/><br/>
