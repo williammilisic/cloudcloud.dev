@@ -7,6 +7,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 3 September 2023
+* "*Costs do not exist to be calculated, they exist to be reduced.*” - Taiichi Ohno
+
 ## 31 August 2023
 * "*There is nothing so useless as doing efficiently that which should not be done at all.*" - Peter Drucker<br/><br/>
 * [Failure Demand](https://beyondcommandandcontrol.com/failure-demand/) is demand caused by a failure to do something or do something right for the customer. Customers come back, making further demands, unnecessarily consuming the organisation’s resources because the service they receive is ineffective. <br/><br/>
