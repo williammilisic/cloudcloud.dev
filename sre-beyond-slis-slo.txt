@@ -1,0 +1,159 @@
+Slide 2
+My name is William Milisic, 42 years old, from Uppsala, living in Stockholm. Married with 2 kids. 
+
+Have studied Master of Science in Engineering Physics and some Economy on the side. 
+
+People and product leadership experience from companies like Vodafone, Nokia, NetEnt. 
+
+Most recently before joining SEB, I was working as SRE Manager for a cross functional team of network engineers, Java developers, continuous delivery engineers and container platform engineers, ensuring upwards three nines five uptime of a globally distributed gaming platform, handling 80 billion transactions per year, and more than half a million concurrent players at any time of the day. 
+
+In this presentation I will walk you through what SRE is beyond just SLIs, SLOs and SLAs 
+
+The presentation will probably be slightly opinionated. After all, technology often is. 
+
+ 
+Slide 3
+Let's first draw some lines in the sand by addressing what SRE is not.
+
+- SRE is not a fancier title for SysAdmins. At Google, SREs are expected to spend 50% of their time coding. Most SysAdmins I know don't spend half of their time deep in the code base. 
+
+- SRE is not a new name for DevOps. In fact, as we'll see, SRE is "older" than DevOps. 
+
+- A recent talk of the town is Platform Engineering. While there are many similarities in approach, I would argue that Platform Engineering is about minimising the cognitive load for primarily developers, but also SREs. 
+ 
+
+Slide 4
+What is then SRE?
+
+SRE is a software-first approach to IT operations supported by a set of practices.
+
+It originated in the early 2000s at Google to ensure the health of a large, complex system serving over 100 billion requests per day.
+
+For many years, SRE was Google's "secret sauce" to running seven global product with more than 1 billion users each, and ads for the role were not even published externally. 
+
+Gradually the role spread to other web scalers and big techs, such as Facebook, Netflix, Uber, LinkedIn etc, as by mid 2010s it was apparent that DevOps alone wasn't a guarantee for an excellent user experience.  
+
+In the past five-six years, the SRE role has begun spreading to "ordinary" companies, those without huge server farms, or billions of daily transactions.
+
+To be honest, in part because SRE became a trendy new name for what was known as IT operations, and in part because the end users have become more accustomed to expect more from websites and applications. 
+
+SRE can help solve that, whereas traditional IT operations can't.
+
+
+Slide 5
+The primary focus of SRE is system reliability, which is considered the most fundamental feature of any product. 
+
+The pyramid illustrates elements contributing to the reliability, from the most basic (monitoring) to the most advanced (reliable product launches).
+
+If a system isn’t reliable, users won’t trust it.
+
+If users don’t trust a system, when given a choice, they won’t use it.
+
+Since all software systems are governed by network effects, if a system has no users, it’s worth nothing.
+
+When a system becomes “reliable enough” SRE shifts efforts to adding new features or creating new products. 
+
+It also puts more attention on making measurable performance improvements, and automating operations tasks.
+
+Another important point to consider is: 
+
+You are what you measure, so choose your metrics carefully. 
+
+Only measure of reliability that matters is how your users experience reliability. 
+
+If your user is worried that your platform is responsible for instability they’re experiencing, then telling them “our monitoring looks fine; the problem must be on your end” won’t make them any less grumpy.
+
+They’re experiencing your system as unstable, and that’s what they will remember when the time comes to choose between you and your competitor.
+
+Your monitoring, logs, and alerting are valuable only insofar as they help you notice problems before your customers do.
+ 
+
+Slide 6
+If you think of DevOps as a methodology and an approach to working, you can argue that SRE implements some of the philosophy that DevOps describes. 
+
+So, in a way, in pseudo code, class SRE implements interface DevOps.
+ 
+
+Slide 7
+Let's look a bit closer at that.
+
+One of the contributing factors for the idea behind SRE was the division between the product development and operations teams.
+
+Each of these teams has differing goals. 
+
+On one hand, the development team aims to launch new features and see how users adopt them.  
+
+On the other hand, the operations team makes sure that the service doesn’t break. 
+
+When each team has their own way of doing things, it becomes difficult to achieve common  business goals.
+
+In 2003, Benjamin Treynor, the originator of the term SRE, was put in charge of running a production team consisting of seven engineers. 
+
+The purpose of this production team was to make sure that Google websites were available, reliable, and as serviceable as possible.
+
+As Benjamin was a software engineer, he applied a software engineering mindset to the system administration tasks that he was given.
+
+The team spent half of their time on operations tasks so that they would have a good understanding of what it takes to run software in production.  
+
+The other half of their time was spent automating away manual tasks, improving systems performance and fine tuning monitoring. 
+
+As it turned out, SRE became the paradigm to help manage Google’s large-scale systems as well as facilitate the continuous introduction of new features.
+ 
+
+Slide 8
+There are seven principles underlying how SRE teams typically work.
+
+Embracing Risk. - SREs embrace risk by understanding the potential impact of failures and taking steps to mitigate them. They also use error budgets to manage risk, which allows them to release new features and updates more frequently.
+
+Service Level Objectives (SLOs). - SLOs are measurable goals that define the level of service that an SRE team is committed to providing. They are used to track the reliability of a system and to identify areas where improvements can be made.
+
+Eliminating Toil. - Toil is the kind of work that is repetitive, can be automated, and doesn't provide any long-term value. SREs strive to eliminate toil by automating as much of the work as possible. This frees up their time to focus on more strategic tasks. An SRE’s New Year resolution is to automate the coming year’s job away. 
+
+Monitoring Distributed Systems. - SREs use monitoring to collect data about their systems so that they can identify and troubleshoot problems early. They also use monitoring to track the performance of their systems and to ensure that they are meeting their SLOs. 
+
+Automation. - SREs automate as much of their work as possible. This helps to eliminate toil and to improve the reliability of their systems. Automation also makes it easier to scale systems and to deploy new features.
+
+Release Engineering. - Release engineering is the process of deploying new features and updates to production systems. SREs work with development teams to ensure that releases are reliable and that they do not impact the availability of services.
+
+Simplicity. - SREs strive to keep their systems as simple as possible. This makes them easier to understand, troubleshoot, and maintain. It also makes them more reliable.
+
+These are just some of the key principles of SRE. There are many other principles and practices that SREs use to ensure the reliability of their systems.
+ 
+
+Slide 9
+- Google places a 50% cap on the aggregate Ops work for all SREs - tickets, on-call, manual tasks, etc.
+
+- The remaining 50% of a SRE team’s time must be spent on doing development.
+
+- Google’s SRE team is treated as one central organism, spanning across internal networking and developer tools, as well as customer-facing products. Each service lifecycle stage has different needs and the types of SRE engagement vary. 
+
+- SRE support is not automatic or for all dev teams at Google. SRE is an intentionally scarce resource.
+ 
+- SRE teams are funded by the development teams and made up of at least six SREs each. Both the dev and SRE teams must agree to start an engagement and either side can end it. Although the norm is that the engagements are fairly long term.
+ 
+
+Slide 10 
+I started off this presentation by giving a hint about my own experiences running SRE teams but haven't really talked about that. Here it comes.
+
+It's a busy slide but please bear with me. 
+
+What we did at my previous company was merging of different functional teams (Network, Container Runtime & Observability, CI/CD tooling and toolchains, Auth/Auth involving both AD admins and Java developers running a highly customised instance of the KONG API gateway) into 3 cross-functional SRE teams with given stakeholders and own missions.  
+
+The members in the 3 teams in turn all belonged to 5 distinct chapters within their particular areas of expertise. 
+
+I should add that we preemptively planned for the Kafka chapter as there were plans to switch from Confluent managed Kafka to own-managed (can't say that was my decision tbh). 
+
+We kept the job titles as they were before (Network Engineers, Continuous Delivery Engineers, DevOps Engineers, Java Developers etc) and set the bar high for career progression towards the Site Reliability Engineer title.
+
+
+Slide 11  
+Here you can see the ad that we ran as we were recruiting for additional SREs. The SRE in the ad is both jack and master of many trades. 
+
+Aim for the stars and land on the moon, right? 
+ 
+Slide 12
+This is just a short glimpse into the whole universe of SRE. Read more at Google's excellent page sre.google. There are also free SRE books available.
+
+Some additional good links in the footer that I found while preparing for this presentation.
+ 
+Thank you for listening.
