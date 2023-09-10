@@ -10,6 +10,9 @@
 ## 10 September 2023
 * "*If something external is causing you distress, it’s not the thing itself that’s troubling you but your judgment about it, and it’s within your power to erase that right now. And if it’s something internal to yourself, is anyone stopping you from looking at it in a more positive way? Likewise, if you’re distressed because you’re failing to do something that strikes you as sound, why not do it rather than indulge in distress?*" - Marcus Aurelius, Meditations 8.47
 
+## 9 September 2023
+* [Eight time running Stockholm half marathon](https://www.linkedin.com/posts/williammilisic_runningasawayoflife-activity-7106358402322227200-U094). While not breaking any personal records any longer, I'm still very much enjoying this yearly tradition. 
+
 ## 3 September 2023
 * "*Costs do not exist to be calculated, they exist to be reduced.*” - Taiichi Ohno<br/><br/>
 * "*Thinking is difficult, that's why most people judge.*" - Carl Yung
