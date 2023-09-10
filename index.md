@@ -13,6 +13,9 @@
 ## 9 September 2023
 * [Eight time running Stockholm half marathon](https://www.linkedin.com/posts/williammilisic_runningasawayoflife-activity-7106358402322227200-U094). While not breaking personal records any longer, I'm still very much enjoying this yearly tradition. 
 
+## 7 September 2023
+* Held a 20 min [presentation on SRE](https://www.linkedin.com/posts/williammilisic_devcon2023-sebtech-lifeatseb-activity-7105558272685805568-csLr) at SEB's DevCon conference. 
+
 ## 3 September 2023
 * "*Costs do not exist to be calculated, they exist to be reduced.*” - Taiichi Ohno<br/><br/>
 * "*Thinking is difficult, that's why most people judge.*" - Carl Yung
