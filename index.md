@@ -7,6 +7,10 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 12 September 2023
+* "*To deal with an uncertain future and still move forward, people should have strong opinions, which are weakly held.*” Coined at Palo Alto's Institute for the Future, by Paul Saffo. Weak opinions are problematic because people aren’t inspired to develop the best arguments possible for them, or to put forth the energy required to test them. It is just as important, however, to not be too attached to what you believe because, otherwise, it undermines your ability to “see” and “hear” evidence that clashes with your opinions. <br/><br/>
+
+
 ## 11 September 2023
 * [Quotes on Democracy](https://www.happybetterwiser.com/quotes/democracy-quotes).
 
