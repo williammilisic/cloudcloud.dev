@@ -7,6 +7,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 11 September 2023
+* [Quotes on Democracy](https://www.happybetterwiser.com/quotes/democracy-quotes).
+
 ## 10 September 2023
 * [Quotations about Democracy](https://www.civiced.org/quotations-about-democracy) and related matters.<br/><br/>
 * “*Salus populi suprema lex esto* (the welfare of the people shall be the supreme law].” - Cicero <br/><br/>
