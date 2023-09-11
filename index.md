@@ -9,7 +9,8 @@
 
 ## 12 September 2023
 * "*To deal with an uncertain future and still move forward, people should have strong opinions, which are weakly held.*” Coined at Palo Alto's Institute for the Future, by Paul Saffo. Weak opinions are problematic because people aren’t inspired to develop the best arguments possible for them, or to put forth the energy required to test them. It is just as important, however, to not be too attached to what you believe because, otherwise, it undermines your ability to “see” and “hear” evidence that clashes with your opinions. <br/><br/>
-
+# "*Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand.*" - The Retrospective Prime Directive <br/><br/>
+* "*Everyone thinks of changing the world, but no one thinks of changing himself.*" - Leo Tolstoy.
 
 ## 11 September 2023
 * [Quotes on Democracy](https://www.happybetterwiser.com/quotes/democracy-quotes).
