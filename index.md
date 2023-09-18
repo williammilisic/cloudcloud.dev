@@ -11,10 +11,12 @@
 * Hoshin Kanri (Japanese: 方針管理, "policy management") is a 7-step process used in strategic planning in which strategic goals are communicated throughout the company and then put into action. The Hoshin Kanri strategic planning system originated from post-war Japan, but has since spread to the U.S. and around the world. Translated from Japanese, Hoshin Kanri aptly means "compass management". The individual words "hoshin" and "kanri" mean direction and administration, respectively. [Wikipedia](https://en.wikipedia.org/wiki/Hoshin_Kanri)<br/><br/>
 * "*I think if you do something and it turns out pretty good, then you should go do something else wonderful, not dwell on it for too long. Just figure out what's next.*" - Steve Jobs<br/><br/>
 * "*A relentless barrage of 'why's' is the best way to prepare your mind to pierce the clouded veil of thinking caused by the status quo. Use it often.*" - Shigeo Shingo <br/><br/>
+
 ## 12 September 2023
 * "*To deal with an uncertain future and still move forward, people should have strong opinions, which are weakly held.*” Coined at Palo Alto's Institute for the Future, by Paul Saffo. Weak opinions are problematic because people aren’t inspired to develop the best arguments possible for them, or to put forth the energy required to test them. It is just as important, however, to not be too attached to what you believe because, otherwise, it undermines your ability to “see” and “hear” evidence that clashes with your opinions. <br/><br/>
 * "*Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand.*" - The Retrospective Prime Directive <br/><br/>
-* "*Everyone thinks of changing the world, but no one thinks of changing himself.*" - Leo Tolstoy.
+* "*Everyone thinks of changing the world, but no one thinks of changing himself.*" - Leo Tolstoy<br/><br/>
+* "*It's only the last turn of a bolt that tightens it - the rest is just movement.*" - Shigeo Shingo
 
 ## 11 September 2023
 * [Quotes on Democracy](https://www.happybetterwiser.com/quotes/democracy-quotes).
