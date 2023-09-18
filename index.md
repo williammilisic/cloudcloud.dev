@@ -7,6 +7,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 18 September 2023
+* Hoshin Kanri (Japanese: 方針管理, "policy management") is a 7-step process used in strategic planning in which strategic goals are communicated throughout the company and then put into action. The Hoshin Kanri strategic planning system originated from post-war Japan, but has since spread to the U.S. and around the world. Translated from Japanese, Hoshin Kanri aptly means "compass management". The individual words "hoshin" and "kanri" mean direction and administration, respectively. [Wikipedia](https://en.wikipedia.org/wiki/Hoshin_Kanri)
+
 ## 12 September 2023
 * "*To deal with an uncertain future and still move forward, people should have strong opinions, which are weakly held.*” Coined at Palo Alto's Institute for the Future, by Paul Saffo. Weak opinions are problematic because people aren’t inspired to develop the best arguments possible for them, or to put forth the energy required to test them. It is just as important, however, to not be too attached to what you believe because, otherwise, it undermines your ability to “see” and “hear” evidence that clashes with your opinions. <br/><br/>
 * "*Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand.*" - The Retrospective Prime Directive <br/><br/>
