@@ -8,7 +8,8 @@
 <br/>
 
 ## 20 September 2023
-* "*All things are subject to interpretation. Whichever interpretation prevails at a given time is a function of power and not truth.*" - Friedrich Nietzsche
+* "*All things are subject to interpretation. Whichever interpretation prevails at a given time is a function of power and not truth.*" - Friedrich Nietzsche<br/><br/>
+* What is [failure demand](https://beyondcommandandcontrol.com/failure-demand/) and what to do about it? 
 
 ## 18 September 2023
 * Hoshin Kanri (Japanese: 方針管理, "policy management") is a 7-step process used in strategic planning in which strategic goals are communicated throughout the company and then put into action. The Hoshin Kanri strategic planning system originated from post-war Japan, but has since spread to the U.S. and around the world. Translated from Japanese, Hoshin Kanri aptly means "compass management". The individual words "hoshin" and "kanri" mean direction and administration, respectively. [Wikipedia](https://en.wikipedia.org/wiki/Hoshin_Kanri)<br/><br/>
