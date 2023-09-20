@@ -7,6 +7,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 20 September 2023
+* "*All things are subject to interpretation. Whichever interpretation prevails at a given time is a function of power and not truth.*" - Friedrich Nietzsche
+
 ## 18 September 2023
 * Hoshin Kanri (Japanese: 方針管理, "policy management") is a 7-step process used in strategic planning in which strategic goals are communicated throughout the company and then put into action. The Hoshin Kanri strategic planning system originated from post-war Japan, but has since spread to the U.S. and around the world. Translated from Japanese, Hoshin Kanri aptly means "compass management". The individual words "hoshin" and "kanri" mean direction and administration, respectively. [Wikipedia](https://en.wikipedia.org/wiki/Hoshin_Kanri)<br/><br/>
 * "*I think if you do something and it turns out pretty good, then you should go do something else wonderful, not dwell on it for too long. Just figure out what's next.*" - Steve Jobs<br/><br/>
