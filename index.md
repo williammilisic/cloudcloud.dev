@@ -8,7 +8,7 @@
 <br/>
 
 ## 24 September 2023
-* "*Do you not know, my son, with how little wisdom the world is governed.*" - [Axel von Oxenstierna](https://en.m.wikipedia.org/wiki/Axel_Oxenstierna), Lord High Chancellor of Sweden, 1612-1654, the father of the modern central administrative structure of the State
+* "*Do you not know, my son, with how little wisdom the world is governed.*" / "*An nescis, mi fili, quantilla prudentia mundus regatur.*" - [Axel von Oxenstierna](https://en.m.wikipedia.org/wiki/Axel_Oxenstierna), Lord High Chancellor of Sweden, 1612-1654, the father of the modern central administrative structure of the State
 
 ## 20 September 2023
 * "*All things are subject to interpretation. Whichever interpretation prevails at a given time is a function of power and not truth.*" - Friedrich Nietzsche<br/><br/>
