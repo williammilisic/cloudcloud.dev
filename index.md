@@ -8,7 +8,8 @@
 <br/>
 
 ## 25 September 2023
-* Was awarded the ["Social Media Ambassador of the month"](https://www.linkedin.com/posts/williammilisic_seblife-sebtech-lifeatseb-activity-7112139173502857217-ehBW) at SEB. Immensely fun to be awarded! 
+* Was awarded the ["Social Media Ambassador of the month"](https://www.linkedin.com/posts/williammilisic_seblife-sebtech-lifeatseb-activity-7112139173502857217-ehBW) at SEB. Immensely fun! <br/><br/>
+* [https://uptime.is](https://uptime.is) is a great page for fast checking up on SLA/SLO levels and what they translate to in seconds, minutes, hours of downtime/uptime. 
 
 ## 24 September 2023
 * "*Do you not know, my son, with how little wisdom the world is governed.*" / "*An nescis, mi fili, quantilla prudentia mundus regatur.*" - [Axel von Oxenstierna](https://en.m.wikipedia.org/wiki/Axel_Oxenstierna), Lord High Chancellor of Sweden, 1612-1654, the father of the modern central administrative structure of the State
