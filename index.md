@@ -7,6 +7,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 25 September 2023
+* Was awarded the ["Social Media Ambassador of the month"](https://www.linkedin.com/posts/williammilisic_seblife-sebtech-lifeatseb-activity-7112139173502857217-ehBW) at SEB. Immensely fun to be awarded! 
+
 ## 24 September 2023
 * "*Do you not know, my son, with how little wisdom the world is governed.*" / "*An nescis, mi fili, quantilla prudentia mundus regatur.*" - [Axel von Oxenstierna](https://en.m.wikipedia.org/wiki/Axel_Oxenstierna), Lord High Chancellor of Sweden, 1612-1654, the father of the modern central administrative structure of the State
 
