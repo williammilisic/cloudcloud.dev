@@ -14,6 +14,9 @@
 ## 24 September 2023
 * "*Do you not know, my son, with how little wisdom the world is governed.*" / "*An nescis, mi fili, quantilla prudentia mundus regatur.*" - [Axel von Oxenstierna](https://en.m.wikipedia.org/wiki/Axel_Oxenstierna), Lord High Chancellor of Sweden, 1612-1654, the father of the modern central administrative structure of the State
 
+## 21 September 2023
+* Summary of my [impressions](https://www.linkedin.com/posts/williammilisic_googlecloudsummitnordics-genai-googlecloud-activity-7110333868892708864-Ud4R) from [Google Cloud Summit Nordics](https://cloudonair.withgoogle.com/events/summit-stockholm-2023) on LinkedIn.
+
 ## 20 September 2023
 * "*All things are subject to interpretation. Whichever interpretation prevails at a given time is a function of power and not truth.*" - Friedrich Nietzsche<br/><br/>
 * What is [failure demand](https://beyondcommandandcontrol.com/failure-demand/) and what to do about it? 
