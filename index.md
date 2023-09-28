@@ -1,5 +1,13 @@
 # cloudcloud.dev
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RQLR0KV2FF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-RQLR0KV2FF');
+</script>
 <!--[RSS](https://williammilisic.github.io/cloudcloud.dev/feed.xml)-->
 [Books List](booklist.md) | [Podcasts List](podcastlist.md) | [LinkedIn](https://linkedin.com/in/williammilisic)
 
