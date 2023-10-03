@@ -9,6 +9,9 @@
 ## 4 October 2023
 * "*Leadership is an achievement of trust.*" - Peter Drucker
 
+## 3 October 2023
+* "*The task of leadership is to make an alignment of strengths, making a system's weaknesses irrelevant.*" - Peter Drucker
+
 ## 29 September 2023
 * Got confirmation of my [Google Cloud Certified Professional Cloud Architect](https://www.linkedin.com/posts/williammilisic_googlecloudcertified-professionalcloudarchitect-activity-7113771953982779392-tZGE)!
 
