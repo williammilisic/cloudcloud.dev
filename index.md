@@ -12,6 +12,13 @@
 ## 3 October 2023
 * "*The task of leadership is to make an alignment of strengths, making a system's weaknesses irrelevant.*" - Peter Drucker
 
+## 2 October 2023
+* "*Change will not come if we wait for some other person or some other time. 
+We are the ones we’ve been waiting for.
+We are the change that we seek.*” - Barack Obama
+ 
+
+
 ## 29 September 2023
 * Got confirmation of my [Google Cloud Certified Professional Cloud Architect](https://www.linkedin.com/posts/williammilisic_googlecloudcertified-professionalcloudarchitect-activity-7113771953982779392-tZGE)!
 
