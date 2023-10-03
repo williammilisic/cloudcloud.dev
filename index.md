@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 29 September 2023
+* Got confirmation of my [Google Cloud Certified Professional Cloud Architect](https://www.linkedin.com/posts/williammilisic_googlecloudcertified-professionalcloudarchitect-activity-7113771953982779392-tZGE)!
+
 ## 28 September 2023
 * [An old but great interview](https://hbr.org/2014/01/how-netflix-reinvented-hr) on how Netflix reinvented HR with Patty McCord, chief talent officer from 1998 to 2012. <br/><br/>
 * Speaking of Netflix, I heard a great story today about how Reed Hastings intentionally removed members of his management team working with DVD rentals, from his weekly management team meeting. Although DVD rentals were what ultimately the company was making money on, these managers were not contributing to the long term goal of becoming a streaming company. How many leaders would take such a drastic decision of removing both loyal and business critical team members from a meeting in the light of them not being involved in company's longer term aspirations and strategy? The strategy worked. Netflix became THE streaming company and didn't go bust, like Blockbuster.  <br/><br/>
