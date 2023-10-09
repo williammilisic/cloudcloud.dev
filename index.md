@@ -6,6 +6,10 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 10 October 2023
+* "*We meet aliens every day who have something to give us. They come in the form of people with different opinions.*" - William Shatner
+* Reflections on droids in Star Wars and singularity in a [LinkedIn post](https://www.linkedin.com/posts/williammilisic_starwars-agi-ai-activity-7117224872140808192-l9V5).
+
 ## 7 October 2023
 * Isaiah 57:19: "*Peace, peace to the distant and the close.*"
 
