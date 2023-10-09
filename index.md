@@ -16,6 +16,9 @@
 ## 7 October 2023
 * Isaiah 57:19: "*Peace, peace to the distant and the close.*"
 
+## 5 October 2023
+* On change management with some valuable lessons in this [LinkedIn post](https://www.linkedin.com/posts/williammilisic_changemanagement-transformation-activity-7115411548445028354-OtQ8).
+
 ## 4 October 2023
 * "*Leadership is an achievement of trust.*" - Peter Drucker
 
