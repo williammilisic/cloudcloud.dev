@@ -13,6 +13,9 @@
 ## 9 October 2023
 * "*My tastes are simple: I am easily satisfied with the best.*" - Winston S. Churchill
 
+## 8 October 2023
+* [On a recent request](https://www.linkedin.com/posts/williammilisic_telecom-bigtech-regulation-activity-7116445102893338625-1Cw4) by European telecom CEOs to European Commission for "fair sharing" big tech revenue. 
+
 ## 7 October 2023
 * Isaiah 57:19: "*Peace, peace to the distant and the close.*"
 
