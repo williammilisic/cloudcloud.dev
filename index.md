@@ -7,7 +7,7 @@
 <br/>
 
 ## 10 October 2023
-* "*We meet aliens every day who have something to give us. They come in the form of people with different opinions.*" - William Shatner
+* "*We meet aliens every day who have something to give us. They come in the form of people with different opinions.*" - William Shatner<br/><br/>
 * Reflections on droids in Star Wars and singularity in a [LinkedIn post](https://www.linkedin.com/posts/williammilisic_starwars-agi-ai-activity-7117224872140808192-l9V5).
 
 ## 7 October 2023
