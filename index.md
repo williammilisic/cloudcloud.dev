@@ -12,7 +12,7 @@
 > A robot must obey orders given it by human beings except where such orders would conflict with the First Law.<br/>
 > A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.<br/>
 * "*Good people do not need laws to tell them to act responsibly, while bad people will find a way around the laws.*" - Plato<br/><br/>
-* "*Never regret being a good person, to the wrong people. Your behaviour tells everything about you and their behaviours says enough about them.*" - Bruce Lee
+* "*Never regret being a good person, to the wrong people. Your behaviour tells everything about you and their behaviour says enough about them.*" - Bruce Lee
 
 ## 10 October 2023
 * "*We meet aliens every day who have something to give us. They come in the form of people with different opinions.*" - William Shatner<br/><br/>
