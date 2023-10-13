@@ -6,6 +6,12 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 13 October 2023
+* Isaac Asimov's "Three Laws of Robotics"<br/>
+A robot may not injure a human being or, through inaction, allow a human being to come to harm.<br/>
+A robot must obey orders given it by human beings except where such orders would conflict with the First Law.<br/>
+A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.</>
+
 ## 10 October 2023
 * "*We meet aliens every day who have something to give us. They come in the form of people with different opinions.*" - William Shatner<br/><br/>
 * Reflections on droids in Star Wars and singularity in a [LinkedIn post](https://www.linkedin.com/posts/williammilisic_starwars-agi-ai-activity-7117224872140808192-l9V5).
