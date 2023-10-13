@@ -10,7 +10,8 @@
 * Isaac Asimov's "Three Laws of Robotics"<br/>
 > A robot may not injure a human being or, through inaction, allow a human being to come to harm.<br/>
 > A robot must obey orders given it by human beings except where such orders would conflict with the First Law.<br/>
-> A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
+> A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.<br/>
+* "*Good people do not need laws to tell them to act responsibly, while bad people will find a way around the laws.*" - Plato
 
 ## 10 October 2023
 * "*We meet aliens every day who have something to give us. They come in the form of people with different opinions.*" - William Shatner<br/><br/>
