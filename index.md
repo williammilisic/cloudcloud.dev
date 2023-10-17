@@ -7,7 +7,8 @@
 <br/>
 
 ## 19 October 2023
-* "*Knowledge is a treasure, but practice is the key to it.*" - Lao Tzu 
+* "*Knowledge is a treasure, but practice is the key to it.*" - Lao Tzu <br/><br/>
+* "*Great acts are made of small deeds.*" - Lao Tzu
 
 ## 13 October 2023
 * Isaac Asimov's "Three Laws of Robotics"<br/>
