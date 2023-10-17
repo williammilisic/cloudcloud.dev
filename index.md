@@ -11,6 +11,9 @@
 * "*Great acts are made of small deeds.*" - Lao Tzu <br/><br/>
 * "*A mind is like a parachute. It doesn’t work if it isn’t open.*” - Franz Kafka 
 
+## 18 October 2023
+* What is a legacy software system and what to do about it? A [LinkedIn post](https://www.linkedin.com/posts/williammilisic_software-legacy-modernisation-activity-7119549938438406144-KwHQ) with some Dilbert comics on the topic and some further insights on how to achieve modernisation by amongst others Martin Fowler.
+
 ## 13 October 2023
 * Isaac Asimov's "Three Laws of Robotics"<br/>
 > A robot may not injure a human being or, through inaction, allow a human being to come to harm.<br/>
