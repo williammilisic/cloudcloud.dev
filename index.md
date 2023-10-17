@@ -8,7 +8,8 @@
 
 ## 19 October 2023
 * "*Knowledge is a treasure, but practice is the key to it.*" - Lao Tzu <br/><br/>
-* "*Great acts are made of small deeds.*" - Lao Tzu
+* "*Great acts are made of small deeds.*" - Lao Tzu <br/><br/>
+* "*A mind is like a parachute. It doesn’t work if it isn’t open.*” - Franz Kafka 
 
 ## 13 October 2023
 * Isaac Asimov's "Three Laws of Robotics"<br/>
