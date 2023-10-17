@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 19 October 2023
+* "*Knowledge is a treasure, but practice is the key to it.*" - Lao Tzu 
+
 ## 13 October 2023
 * Isaac Asimov's "Three Laws of Robotics"<br/>
 > A robot may not injure a human being or, through inaction, allow a human being to come to harm.<br/>
