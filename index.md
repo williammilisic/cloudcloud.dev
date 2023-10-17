@@ -7,6 +7,7 @@
 <br/>
 
 ## 19 October 2023
+* "*What I can not create, I do not understand.*" - Richard Feynman <br/><br/>
 * "*Knowledge is a treasure, but practice is the key to it.*" - Lao Tzu <br/><br/>
 * "*Great acts are made of small deeds.*" - Lao Tzu <br/><br/>
 * "*A mind is like a parachute. It doesn’t work if it isn’t open.*” - Franz Kafka 
