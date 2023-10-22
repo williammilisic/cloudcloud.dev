@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 22 October 2023
+* [The big 1000](https://www.linkedin.com/posts/williammilisic_gcp-cloud-sebtech-activity-7121740710990495744-1JGc)! We've reached 1000 projects in GCP. An achievement worth celebrating! 
+
 ## 19 October 2023
 * "*What I can not create, I do not understand.*" - Richard Feynman <br/><br/>
 * "*Knowledge is a treasure, but practice is the key to it.*" - Lao Tzu <br/><br/>
