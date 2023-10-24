@@ -9,6 +9,9 @@
 ## 24 October 2023
 * “*You have a meeting to make a decision, not to decide on the question.*” - Bill Gates
 
+## 23 October 2023
+* [Middleware](https://www.linkedin.com/posts/williammilisic_comics-middleware-middleware-activity-7122300105730256896-ODkW) and what to do about it. 
+
 ## 22 October 2023
 * [The big 1000](https://www.linkedin.com/posts/williammilisic_gcp-cloud-sebtech-activity-7121740710990495744-1JGc)! We've reached 1000 projects in GCP. An achievement worth celebrating! 
 
