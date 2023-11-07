@@ -6,6 +6,10 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 6 November 2023
+* Back at work after a one week vacation in the sun.
+* [LinkedIn post](https://www.linkedin.com/posts/williammilisic_bettertomorrow-activity-7127381000153645056-mJVN) on World Cultural Values map.  
+
 ## 25 October 2023
 * "*Power resides where men believe it resides. It's a trick. a shadow on the wall. And a very small man can cast a very large shadow.*" - Lord Varys, Game of Thrones
 
