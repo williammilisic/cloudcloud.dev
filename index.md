@@ -8,7 +8,7 @@
 
 ## 7 November 2023
 * The history is full of soon to be made bad decisions that fortunately didn’t materialise. One such decision was whether to run or not run the 1984 Apple Macintosh commercial. 
-The now iconic Super Bowl ad used George Orwell’s dystopian novel ‘1984’ to set the stage for the Apple Macintosh launch. However ingenious the ad seems now, it was in fact met with scepticism by many within Apple just before the launch, including the Apple Board. 
+The now [iconic Super Bowl ad](https://www.linkedin.com/posts/williammilisic_4k-restoration-1984-super-bowl-apple-macintosh-activity-7127537278049992705-15jf) used George Orwell’s dystopian novel ‘1984’ to set the stage for the Apple Macintosh launch. However ingenious the ad seems now, it was in fact met with scepticism by many within Apple just before the launch, including the Apple Board. 
 
 
 ## 6 November 2023
