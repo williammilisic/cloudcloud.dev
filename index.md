@@ -6,8 +6,11 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 7 November 2023
+* 
+
 ## 6 November 2023
-* Back at work after a one week vacation in the sun.
+* Back at work after one week vacation in the sun. Lots of catching up but reenergised at the core, as the week was spent running, doing other sports, slow reading, strolling around, enjoying views, food and conversations.
 * [LinkedIn post](https://www.linkedin.com/posts/williammilisic_bettertomorrow-activity-7127381000153645056-mJVN) on World Cultural Values map.  
 
 ## 25 October 2023
