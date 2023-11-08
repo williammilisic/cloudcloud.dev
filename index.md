@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 9 November 2023
+* “*A coach is someone who tells you what you don't want to hear, who has you see what you don't want to see, so you can be who you have always known you could be.*” – Tom Landry
+
 ## 8 November 2023
 * There is nothing more important than an empowered engineer. Product Teams are the heart of the company. They are the ones that build new features and new products. <br/><br/>
 * "*The greatest management job of all time was building the pyramids, and we’re just trying to live up to that standard ever since.*" - Peter Drucker
