@@ -12,7 +12,7 @@ The now [iconic Super Bowl ad](https://www.linkedin.com/posts/williammilisic_4k-
 
 
 ## 6 November 2023
-* Back at work after one week vacation in the sun. Lots of catching up but reenergised at the core, as the week was spent running, doing other sports, swimming, slow reading, strolling around, enjoying views, food and conversations.
+* Back at work after one week vacation in the sun. Lots of catching up but reenergised at the core, as the week was spent running, doing other sports, swimming, slow reading, strolling around, enjoying views, food and conversations.<br/><br/>
 * [LinkedIn post](https://www.linkedin.com/posts/williammilisic_bettertomorrow-activity-7127381000153645056-mJVN) on World Cultural Values map.  
 
 ## 25 October 2023
