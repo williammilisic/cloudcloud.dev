@@ -7,6 +7,7 @@
 <br/>
 
 ## 8 November 2023
+* There is nothing more important than an empowered engineer. Product Teams are the heart of the company. They are the ones that build new features and new products. <br/><br/>
 * "*The greatest management job of all time was building the pyramids, and we’re just trying to live up to that standard ever since.*" - Peter Drucker
 
 ## 7 November 2023
