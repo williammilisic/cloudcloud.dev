@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 8 November 2023
+* "*The greatest management job of all time was building the pyramids, and we’re just trying to live up to that standard ever since.*" - Peter Drucker
+
 ## 7 November 2023
 * The history is full of soon to be made bad decisions that fortunately didn’t materialise. One such decision was whether to run or not run the 1984 Apple Macintosh commercial. 
 The now [iconic Super Bowl ad](https://www.linkedin.com/posts/williammilisic_4k-restoration-1984-super-bowl-apple-macintosh-activity-7127537278049992705-15jf) used George Orwell’s dystopian novel ‘1984’ to set the stage for the Apple Macintosh launch. However ingenious the ad seems now, it was in fact met with scepticism by many within Apple just before the launch, including the Apple Board. 
