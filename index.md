@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 11 November 2023
+* "*All art is propaganda, but not all propaganda is art.*" - George Orwell, 1940
+
 ## 9 November 2023
 * “*A coach is someone who tells you what you don't want to hear, who has you see what you don't want to see, so you can be who you have always known you could be.*” – Tom Landry<br/><br/>
 * When a measure becomes a target, it ceases to be a good measure. - Goodhart's Law
