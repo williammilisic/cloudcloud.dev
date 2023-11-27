@@ -7,10 +7,13 @@
 <br/>
 
 ## 27 November 2023
-* Book [review](https://www.linkedin.com/posts/williammilisic_silliconvalley-billcampbell-stevejobs-activity-7134790509385908224-sQap) of "Trillion Dollar Coach", aka Bill Campbell, the legendary confidant oF Steve Jobs, Larry Page, Erik Schmidt and other Silicon Valley giants. 
+* Book [review](https://www.linkedin.com/posts/williammilisic_silliconvalley-billcampbell-stevejobs-activity-7134790509385908224-sQap) of "Trillion Dollar Coach", aka Bill Campbell, the legendary confidant of Steve Jobs, Larry Page, Erik Schmidt and other Silicon Valley giants. 
 
 ## 26 November 2023
 * "*If you've been blessed, be a blessing.*" - Coach Bill Campbell
+
+## 24 November 2023
+* Why getting [Cloud Foundation](https://www.linkedin.com/posts/williammilisic_cloudfoundation-publiccloud-cloudcomputing-activity-7133829963102715904-lfLm) is essential for Cloud transformation success and how we use the Cloud Foundation Community framework to align our efforts when building our Cloud Foundation at SEB.
 
 ## 15 November 2023
 * “*We are not a bank: we are a technology company in which the customer is at the center of the strategy. We develop our own technology, challenge the complexity of the industry, and make data-driven decisions*." - David Vélez, CEO of Nubank
