@@ -13,7 +13,7 @@
 * "*If you've been blessed, be a blessing.*" - Coach Bill Campbell
 
 ## 24 November 2023
-* Why getting [Cloud Foundation](https://www.linkedin.com/posts/williammilisic_cloudfoundation-publiccloud-cloudcomputing-activity-7133829963102715904-lfLm) is essential for Cloud transformation success and how we use the Cloud Foundation Community [Maturity Model](https://cloudfoundation.org/maturity-model/) to align our efforts when building our Cloud Foundation at SEB.
+* Why getting [Cloud Foundation](https://www.linkedin.com/posts/williammilisic_cloudfoundation-publiccloud-cloudcomputing-activity-7133829963102715904-lfLm) is essential for Cloud transformation success and how we use the Cloud Foundation Community [Maturity Model](https://cloudfoundation.org/maturity-model/) to align our efforts when building our Cloud Foundation at SEB. Now, that must be a record for maximum usage of the word Cloud in a single sentence!
 
 ## 23 November 2023
 * Final regulatory approvals of Broadcom's VMWare acquisition call for good datacenter [comics](https://www.linkedin.com/posts/williammilisic_datacenter-comics-activity-7133185643030937600-MiKF). 
