@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 27 November 2023
+* Book [review](https://www.linkedin.com/posts/williammilisic_silliconvalley-billcampbell-stevejobs-activity-7134790509385908224-sQap) of "Trillion Dollar Coach", aka Bill Campbell, the legendary confidant oF Steve Jobs, Larry Page, Erik Schmidt and other Silicon Valley giants. 
+
 ## 26 November 2023
 * "*If you've been blessed, be a blessing.*" - Coach Bill Campbell
 
