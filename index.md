@@ -15,6 +15,9 @@
 ## 24 November 2023
 * Why getting [Cloud Foundation](https://www.linkedin.com/posts/williammilisic_cloudfoundation-publiccloud-cloudcomputing-activity-7133829963102715904-lfLm) is essential for Cloud transformation success and how we use the Cloud Foundation Community framework to align our efforts when building our Cloud Foundation at SEB.
 
+## 23 November 2023
+* Final regulatory approvals of Broadcom's VMWare acquisition call for good datacenter [comics](https://www.linkedin.com/posts/williammilisic_datacenter-comics-activity-7133185643030937600-MiKF). 
+
 ## 15 November 2023
 * “*We are not a bank: we are a technology company in which the customer is at the center of the strategy. We develop our own technology, challenge the complexity of the industry, and make data-driven decisions*." - David Vélez, CEO of Nubank
 
