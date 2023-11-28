@@ -27,8 +27,10 @@
 ## 16 November 2023
 * Half month into this year's [Movember Challenge](https://www.linkedin.com/posts/williammilisic_moustache-movember-movemberchallenge-activity-7130896417941852161-g1Zk). Still not best friends with my moustache. 
 
-
 ## 15 November 2023
+* "[Are we allowed to be on-prem?](https://www.linkedin.com/posts/williammilisic_foodforthought-googlecloud-financialservices-activity-7130623303601274880-EQKE)" Today’s finest food for thought at Google Cloud FSI & Fintech Community Event in Stockholm. Will traditional on prem environments where incumbent banks still have their core systems, be able to keep up with increasing regulatory pressure in the financial services industry?
+
+
 * “*We are not a bank: we are a technology company in which the customer is at the center of the strategy. We develop our own technology, challenge the complexity of the industry, and make data-driven decisions*." - David Vélez, CEO of Nubank
 
 ## 11 November 2023
