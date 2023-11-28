@@ -32,6 +32,9 @@
 * “*We are not a bank: we are a technology company in which the customer is at the center of the strategy. We develop our own technology, challenge the complexity of the industry, and make data-driven decisions*." - David Vélez, CEO of Nubank<br/><br/>
 * The Amazon Prime series "[The Consultant](https://www.linkedin.com/posts/williammilisic_worklife-corporate-culture-activity-7130291032641974272-qDGE)" is as a cautionary tale, highlighting the dangers of unchecked ambition and the potential for manipulation in the workplace.
 
+## 13 November 2023
+* Some good software and computing comics from [geek and poke](https://www.linkedin.com/posts/williammilisic_comics-software-humour-activity-7129927516114276352-j58p). 
+
 ## 11 November 2023
 * "*All art is propaganda, but not all propaganda is art.*" - George Orwell, 1940
 
