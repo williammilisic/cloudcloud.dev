@@ -36,6 +36,7 @@
 * Some good software and computing comics from [geek and poke](https://www.linkedin.com/posts/williammilisic_comics-software-humour-activity-7129927516114276352-j58p). 
 
 ## 11 November 2023
+* Have been thinking of a [Cloud Transformation model](https://www.linkedin.com/posts/williammilisic_cloudtransformation-digitaltransformation-activity-7129007349062656000-e7y3) for a while now. First draft published. <br/><br/>
 * "*All art is propaganda, but not all propaganda is art.*" - George Orwell, 1940
 
 ## 9 November 2023
