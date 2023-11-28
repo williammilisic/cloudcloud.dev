@@ -39,6 +39,9 @@
 * Have been thinking of a [Cloud Transformation model](https://www.linkedin.com/posts/williammilisic_cloudtransformation-digitaltransformation-activity-7129007349062656000-e7y3) for a while now. First draft published. <br/><br/>
 * "*All art is propaganda, but not all propaganda is art.*" - George Orwell, 1940
 
+## 10 November 2023
+* Some good "[Written by AI](https://www.linkedin.com/posts/williammilisic_comics-ai-activity-7128115858043777025-AYsU)" comics. 
+
 ## 9 November 2023
 * “*A coach is someone who tells you what you don't want to hear, who has you see what you don't want to see, so you can be who you have always known you could be.*” – Tom Landry<br/><br/>
 * When a measure becomes a target, it ceases to be a good measure. - Goodhart's Law
