@@ -13,10 +13,10 @@
 * "*If you've been blessed, be a blessing.*" - Coach Bill Campbell
 
 ## 24 November 2023
-* Why getting [Cloud Foundation](https://www.linkedin.com/posts/williammilisic_cloudfoundation-publiccloud-cloudcomputing-activity-7133829963102715904-lfLm) is essential for Cloud transformation success and how we use the Cloud Foundation Community [Maturity Model](https://cloudfoundation.org/maturity-model/) to align our efforts when building our Cloud Foundation at SEB.
+* Why getting [Cloud Foundation](https://www.linkedin.com/posts/williammilisic_cloudfoundation-publiccloud-cloudcomputing-activity-7133829963102715904-lfLm) is essential for Cloud transformation success, plus how we use the [Maturity Model](https://cloudfoundation.org/maturity-model/) to align our foundation building efforts.
 
 ## 23 November 2023
-* Final regulatory approvals of Broadcom's VMWare acquisition call for good datacenter [comics](https://www.linkedin.com/posts/williammilisic_datacenter-comics-activity-7133185643030937600-MiKF). 
+* Final regulatory approvals of Broadcom's VMWare acquisition call for good data center [comics](https://www.linkedin.com/posts/williammilisic_datacenter-comics-activity-7133185643030937600-MiKF). 
 
 ## 20 November 2023
 * Looking back at past weekend's [light festival](https://www.linkedin.com/posts/williammilisic_kickstarting-this-week-full-of-energy-after-activity-7132367013749866496-9Ily) in Uppsala, a yearly tradition for me and my wife. 
