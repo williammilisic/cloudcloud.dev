@@ -29,7 +29,8 @@
 
 ## 15 November 2023
 * "[Are we allowed to be on-prem?](https://www.linkedin.com/posts/williammilisic_foodforthought-googlecloud-financialservices-activity-7130623303601274880-EQKE)" Today’s finest food for thought at Google Cloud FSI & Fintech Community Event in Stockholm. Will traditional on prem environments where incumbent banks still have their core systems, be able to keep up with increasing regulatory pressure in the financial services industry?<br/><br/>
-* “*We are not a bank: we are a technology company in which the customer is at the center of the strategy. We develop our own technology, challenge the complexity of the industry, and make data-driven decisions*." - David Vélez, CEO of Nubank
+* “*We are not a bank: we are a technology company in which the customer is at the center of the strategy. We develop our own technology, challenge the complexity of the industry, and make data-driven decisions*." - David Vélez, CEO of Nubank<br/><br/>
+* The Amazon Prime series "[The Consultant](https://www.linkedin.com/posts/williammilisic_worklife-corporate-culture-activity-7130291032641974272-qDGE)" is as a cautionary tale, highlighting the dangers of unchecked ambition and the potential for manipulation in the workplace.
 
 ## 11 November 2023
 * "*All art is propaganda, but not all propaganda is art.*" - George Orwell, 1940
