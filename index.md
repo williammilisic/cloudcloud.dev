@@ -8,7 +8,7 @@
 
 ## 29 November 2023
 * [1-2-1](https://www.linkedin.com/posts/williammilisic_leadership-coaching-121s-activity-7135519000129679360-CZzZ) framework as practiced by Bill Campbell.<br/><br/>
-* Some [pictures](https://www.linkedin.com/posts/williammilisic_iamrunbox-runcommuting-activity-7135708023817142272-JsoS) from my running snowy commute to work.
+* Some snowy [pictures](https://www.linkedin.com/posts/williammilisic_iamrunbox-runcommuting-activity-7135708023817142272-JsoS) from my running commute to work.
 
 ## 27 November 2023
 * Book [review](https://www.linkedin.com/posts/williammilisic_silliconvalley-billcampbell-stevejobs-activity-7134790509385908224-sQap) of "Trillion Dollar Coach", aka Bill Campbell, the legendary confidant of Steve Jobs, Larry Page, Erik Schmidt and other Silicon Valley giants. 
