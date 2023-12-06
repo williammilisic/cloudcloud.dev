@@ -6,6 +6,10 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 6 December 2023
+* "*Today you're You. That's truer than true. There is no one alive who's Youer than You.*" - Dr. Seuss<br/><br/>
+* "*If you get a chance, take it. If it changes your life, let it.*" - Dr. Seuss<br/><br/>
+
 ## 29 November 2023
 * [1-2-1](https://www.linkedin.com/posts/williammilisic_leadership-coaching-121s-activity-7135519000129679360-CZzZ) framework as practiced by Bill Campbell.<br/><br/>
 * Some snowy [pictures](https://www.linkedin.com/posts/williammilisic_iamrunbox-runcommuting-activity-7135708023817142272-JsoS) from my running commute to work.
