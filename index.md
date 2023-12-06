@@ -11,7 +11,7 @@
 * "*If you get a chance, take it. If it changes your life, let it.*" - Dr. Seuss<br/><br/>
 * "*History never repeats itself, but it does often rhyme.*” - Mark Twain<br/><br/>
 * The Story of Three Bricklayers<br/><br/>After the great fire of 1666 that leveled London, the world’s most famous architect, Christopher Wren, was commissioned to rebuild St Paul’s Cathedral. One day in 1671, Christopher Wren observed three bricklayers on a scaffold, one crouched, one half-standing and one standing tall, working very hard and fast. To the first bricklayer, Christopher Wren asked the question, “What are you doing?” to which the bricklayer replied, “I’m a bricklayer. I’m working hard laying bricks to feed my family.” The second bricklayer, responded, “I’m a builder. I’m building a wall.” But the third brick layer, the most productive of the three and the future leader of the group, when asked the question, “What are you doing?” replied with a gleam in his eye, “I’m a cathedral builder. I’m building a great cathedral to The Almighty.”<br/><br/>
-
+* "* Waiting for perfect is never as smart as making progress.*" - Seth Godin
 ## 29 November 2023
 * [1-2-1](https://www.linkedin.com/posts/williammilisic_leadership-coaching-121s-activity-7135519000129679360-CZzZ) framework as practiced by Bill Campbell.<br/><br/>
 * Some snowy [pictures](https://www.linkedin.com/posts/williammilisic_iamrunbox-runcommuting-activity-7135708023817142272-JsoS) from my running commute to work.
