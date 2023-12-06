@@ -11,9 +11,8 @@
 * "*If you get a chance, take it. If it changes your life, let it.*" - Dr. Seuss<br/><br/>
 * "*History never repeats itself, but it does often rhyme.*” - Mark Twain<br/><br/>
 * The Story of Three Bricklayers – A Parable About The Power of Purpose<br/><br/>
-**!The story of three bricklayers is a multi-faceted parable with many different variations, but is rooted in an authentic story. After the great fire of 1666 that leveled London, the world’s most famous architect, Christopher Wren, was commissioned to rebuild St Paul’s Cathedral.
-
-One day in 1671, Christopher Wren observed three bricklayers on a scaffold, one crouched, one half-standing and one standing tall, working very hard and fast. To the first bricklayer, Christopher Wren asked the question, “What are you doing?” to which the bricklayer replied, “I’m a bricklayer. I’m working hard laying bricks to feed my family.” The second bricklayer, responded, “I’m a builder. I’m building a wall.” But the third brick layer, the most productive of the three and the future leader of the group, when asked the question, “What are you doing?” replied with a gleam in his eye, “I’m a cathedral builder. I’m building a great cathedral to The Almighty.”
+** After the great fire of 1666 that leveled London, the world’s most famous architect, Christopher Wren, was commissioned to rebuild St Paul’s Cathedral.
+** One day in 1671, Christopher Wren observed three bricklayers on a scaffold, one crouched, one half-standing and one standing tall, working very hard and fast. To the first bricklayer, Christopher Wren asked the question, “What are you doing?” to which the bricklayer replied, “I’m a bricklayer. I’m working hard laying bricks to feed my family.” The second bricklayer, responded, “I’m a builder. I’m building a wall.” But the third brick layer, the most productive of the three and the future leader of the group, when asked the question, “What are you doing?” replied with a gleam in his eye, “I’m a cathedral builder. I’m building a great cathedral to The Almighty.”
  <br/><br/>
 
 ## 29 November 2023
