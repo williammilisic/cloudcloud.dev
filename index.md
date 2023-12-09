@@ -10,6 +10,7 @@
 * Another SEB meet-up for the books. This time on the topic of [Cloud Security](https://www.linkedin.com/posts/williammilisic_seb-sebtech-sebcloud-activity-7138667102286127106-UWVZ). 
 
 ## 6 December 2023
+* Cloud Transformation is about continual progress 
 * "*Today you're You. That's truer than true. There is no one alive who's Youer than You.*" - Dr. Seuss<br/><br/>
 * "*If you get a chance, take it. If it changes your life, let it.*" - Dr. Seuss<br/><br/>
 * "*History never repeats itself, but it does often rhyme.*” - Mark Twain<br/><br/>
