@@ -6,6 +6,21 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 7 December 2023
+* Another SEB meet-up for the books. This time on the topic of [Cloud Security](https://www.linkedin.com/posts/williammilisic_seb-sebtech-sebcloud-activity-7138667102286127106-UWVZ). 
+
+## 6 December 2023
+* Cloud Transformation is not about waiting for [cloud native Godot](https://www.linkedin.com/posts/williammilisic_cloudmigration-comics-cloudtransformation-activity-7138059509524078592-rgOc). It's about keeping the eye on the cloud native prize while learning from one's lift and shift mistakes. <br/><br/>
+* "*Today you're You. That's truer than true. There is no one alive who's Youer than You.*" - Dr. Seuss<br/><br/>
+* "*If you get a chance, take it. If it changes your life, let it.*" - Dr. Seuss<br/><br/>
+* "*History never repeats itself, but it does often rhyme.*” - Mark Twain<br/><br/>
+* The Story of Three Bricklayers<br/><br/>After the great fire of 1666 that leveled London, the world’s most famous architect, Christopher Wren, was commissioned to rebuild St Paul’s Cathedral. One day in 1671, Christopher Wren observed three bricklayers on a scaffold, one crouched, one half-standing and one standing tall, working very hard and fast. To the first bricklayer, Christopher Wren asked the question, “What are you doing?” to which the bricklayer replied, “I’m a bricklayer. I’m working hard laying bricks to feed my family.” The second bricklayer, responded, “I’m a builder. I’m building a wall.” But the third brick layer, the most productive of the three and the future leader of the group, when asked the question, “What are you doing?” replied with a gleam in his eye, “I’m a cathedral builder. I’m building a great cathedral to The Almighty.”<br/><br/>
+* "*Waiting for perfect is never as smart as making progress.*" - Seth Godin
+
+## 29 November 2023
+* [1-2-1](https://www.linkedin.com/posts/williammilisic_leadership-coaching-121s-activity-7135519000129679360-CZzZ) framework as practiced by Bill Campbell.<br/><br/>
+* Some snowy [pictures](https://www.linkedin.com/posts/williammilisic_iamrunbox-runcommuting-activity-7135708023817142272-JsoS) from my running commute to work.
+
 ## 27 November 2023
 * Book [review](https://www.linkedin.com/posts/williammilisic_silliconvalley-billcampbell-stevejobs-activity-7134790509385908224-sQap) of "Trillion Dollar Coach", aka Bill Campbell, the legendary confidant of Steve Jobs, Larry Page, Erik Schmidt and other Silicon Valley giants. 
 
