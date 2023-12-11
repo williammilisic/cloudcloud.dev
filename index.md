@@ -6,6 +6,10 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 11 December 2023
+* Did some speaking at SEB's Social Media Ambassador Academy. Put together a few [slides](https://www.linkedin.com/posts/williammilisic_some-with-me-activity-7139972421511548928-Qtnv) with the help of Copilot using my own prompt and text. 
+*
+
 ## 7 December 2023
 * Another SEB meet-up for the books. This time on the topic of [Cloud Security](https://www.linkedin.com/posts/williammilisic_seb-sebtech-sebcloud-activity-7138667102286127106-UWVZ). 
 
