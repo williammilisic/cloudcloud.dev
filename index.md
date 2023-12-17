@@ -9,6 +9,7 @@
 ## 17 December 2023
 * "*It's harder to be kind, than clever.*" - Jeff Bezos, at his commencement address to [Princeton's class of 2010](https://www.theladders.com/career-advice/jeff-bezos-to-princetons-class-of-2010-its-harder-to-be-kind-than-clever/amp)<br/><br/>
 * "*Tell me the facts and I’ll learn. Tell me the truth and I’ll believe. But tell me a story and it will live in my heart forever.*” - Native American proverb <br/></br>
+* Asyndeton (from the Greek: ἀσύνδετον, "unconnected") is a literary scheme in which one or several conjunctions are deliberately omitted from a series of related clauses. Examples include veni, vidi, vici and its English translation "I came, I saw, I conquered". Its use can have the effect of speeding up the rhythm of a passage and making a single idea more memorable. 
 
 ## 14 December 2023
 * "*Torture the data, and it will confess to anything.*" – Ronald Coase, Nobel Prize Laureate, Economics <br/><br/>
