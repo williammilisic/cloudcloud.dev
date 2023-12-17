@@ -6,9 +6,12 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 17 December 2023
+* "*It's harder to be kind, than clever.*" - Jeff Bezos, at his commencement address to [Princeton's class of 2010](https://www.theladders.com/career-advice/jeff-bezos-to-princetons-class-of-2010-its-harder-to-be-kind-than-clever/amp)<br/><br/>
+* 
+
 ## 14 December 2023
 * "*Torture the data, and it will confess to anything.*" – Ronald Coase, Nobel Prize Laureate, Economics <br/><br/>
-
 
 ## 11 December 2023
 * Did some speaking at SEB's Social Media Ambassador Academy. Put together a few [slides](https://www.linkedin.com/posts/williammilisic_some-with-me-activity-7139972421511548928-Qtnv) with the help of Copilot using my own text and a simple prompt. <br/><br/>
