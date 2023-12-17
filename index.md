@@ -8,7 +8,7 @@
 
 ## 17 December 2023
 * "*It's harder to be kind, than clever.*" - Jeff Bezos, at his commencement address to [Princeton's class of 2010](https://www.theladders.com/career-advice/jeff-bezos-to-princetons-class-of-2010-its-harder-to-be-kind-than-clever/amp)<br/><br/>
-* 
+* "*Tell me the facts and I’ll learn. Tell me the truth and I’ll believe. But tell me a story and it will live in my heart forever.*” - Native American proverb <br/></br>
 
 ## 14 December 2023
 * "*Torture the data, and it will confess to anything.*" – Ronald Coase, Nobel Prize Laureate, Economics <br/><br/>
