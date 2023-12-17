@@ -8,7 +8,7 @@
 
 ## 17 December 2023
 * "*It's harder to be kind, than clever.*" - Jeff Bezos, at his commencement address to [Princeton's class of 2010](https://www.theladders.com/career-advice/jeff-bezos-to-princetons-class-of-2010-its-harder-to-be-kind-than-clever/amp)<br/><br/>
-* "*Tell me the facts and I’ll learn. Tell me the truth and I’ll believe. But tell me a story and it will live in my heart forever.*” - Native American proverb <br/></br>
+* "*Tell me the facts and I’ll learn. Tell me the truth and I’ll believe. But tell me a story and it will live in my heart forever.*” - Native American proverb <br/><br/>
 * Asyndeton (from the Greek: ἀσύνδετον, "unconnected") is a literary scheme in which one or several conjunctions are deliberately omitted from a series of related clauses. Its use can have the effect of speeding up the rhythm of a passage and making a single idea more memorable. <br/><br/>
 * Tricolon (from the Greek τρία (tria), meaning “three” and κῶλον (kôlon), meaning “member” or “clause”. In plain English: A series of three words, phrases or sentences that are parallel in structure, length and/or rhythm. Tricolons are one of the most powerful rhetorical devices. There is something almost magical about the number three. Use one for power. Two for comparison, contrast. Three for completeness, wholeness, roundness. <br/><br/>
 * "*You are talking to a man who has laughed in the face of death, sneered at doom, and chuckled at catastrophe.*" - The Wizard From The Wizard of Oz <br/><br/>
