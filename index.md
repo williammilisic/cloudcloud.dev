@@ -10,8 +10,8 @@
 * "*We shall not cease from exploration<br/>
 And the end of all our exploring<br/>
 Will be to arrive where we started<br/>
-And know the place for the first time.*" <br/>- T.S. Eliot, Four Quartets
-* "*There are three kinds of lies: lies, damned lies, and statistics.” - Benjamin Israeli
+And know the place for the first time.*" <br/>- T.S. Eliot, Four Quartets<br/><br/>
+* "*There are three kinds of lies: lies, damned lies, and statistics.*” - Benjamin Israeli
 
 ## 17 December 2023
 * "*It's harder to be kind, than clever.*" - Jeff Bezos, at his commencement address to [Princeton's class of 2010](https://www.theladders.com/career-advice/jeff-bezos-to-princetons-class-of-2010-its-harder-to-be-kind-than-clever/amp)<br/><br/>
