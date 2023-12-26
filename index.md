@@ -6,6 +6,12 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 26 December 2023
+* "*We shall not cease from exploration<br/>
+And the end of all our exploring<br/>
+Will be to arrive where we started<br/>
+And know the place for the first time.*" - T.S. Eliot, Four Quartets
+
 ## 17 December 2023
 * "*It's harder to be kind, than clever.*" - Jeff Bezos, at his commencement address to [Princeton's class of 2010](https://www.theladders.com/career-advice/jeff-bezos-to-princetons-class-of-2010-its-harder-to-be-kind-than-clever/amp)<br/><br/>
 * "*Tell me the facts and I’ll learn. Tell me the truth and I’ll believe. But tell me a story and it will live in my heart forever.*” - Native American proverb <br/><br/>
