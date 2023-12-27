@@ -9,6 +9,8 @@ Back to [main](index.md).
 * **Trillion Dollar Coach - The Leadership Playbook by Sillicon Valley's Bill Campbell** 
 <br/>By:  Eric Schmidt, Jonathan Rosenberg & Alan Eagle <br>November 2023 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_silliconvalley-billcampbell-stevejobs-activity-7134790509385908224-sQap) <br/>[Additional post](https://www.linkedin.com/posts/williammilisic_leadership-coaching-121s-activity-7135519000129679360-CZzZ)
 
+* **The Coming Wave** 
+<br/>By: Mustafa Suleyman <br/> October 2023 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_ai-robotics-quantum-activity-7123534853764960256-bZ6f)
 
 * **Ikigai: The Japanese Secret to a Long and Happy Life**
 <br/>By: Héctor García and Francesc Miralles <br/>July 2023 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_during-the-summer-i-finished-listening-to-activity-7096922154939629569-9u1h)
