@@ -18,7 +18,7 @@ Back to [main](index.md).
 * **What You Do Is Who You Are: How to Create Your Business Culture**
 <br/>By: Ben Horowitz <br/> September 2023 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_abookaday-continuouslearning-continuousimprovement-activity-7117744418941472768-X7ln)
 
-* **"The Hard Thing About Hard Things**
+* **The Hard Thing About Hard Things**
 <br/>By: Ben Horowitz <br/> August 2023 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_horowitz-hardthingabouthardthings-bookreview-activity-7100754841571909632-wZR1)
 
 * **Ikigai: The Japanese Secret to a Long and Happy Life**
