@@ -6,6 +6,9 @@ Back to [main](index.md).
 
 ## 2023 
 
+* **Winning Minds: Secrets From the Language of Leadership***
+<br/>By: Simon Lancaster <br/>December 2023 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_bookreview-continuouslearning-activity-7145789431029948416-SwIk)
+
 * **Trillion Dollar Coach - The Leadership Playbook by Sillicon Valley's Bill Campbell** 
 <br/>By:  Eric Schmidt, Jonathan Rosenberg & Alan Eagle <br>November 2023 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_silliconvalley-billcampbell-stevejobs-activity-7134790509385908224-sQap) <br/>[Additional post](https://www.linkedin.com/posts/williammilisic_leadership-coaching-121s-activity-7135519000129679360-CZzZ)
 
