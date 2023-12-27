@@ -14,6 +14,9 @@ And know the place for the first time.*" <br/>- T.S. Eliot, Four Quartets<br/><b
 * "*There are three kinds of lies: lies, damned lies, and statistics.*” - Benjamin Israeli<br/><br/>
 * "*I am a Socialist not through reading a textbook that has caught my intellectual fancy, nor through unthinking tradition, but because I believe that, at its best, Socialism corresponds most closely to an existence that is both rational and moral. It stands for co-operation, not confrontation; for fellowship, not fear. It stands for equality, not because it wants people to be the same but because only through equality in our economic circumstances can our individuality develop properly.*" - Tony Blair, [1983 Maiden Speech](https://www.ukpol.co.uk/tony-blair-1983-maiden-speech-in-the-house-of-commons/) in the House of Commons<br/><br/>
 
+## 22 December 2023
+* A [Season's Greetings](https://www.linkedin.com/posts/williammilisic_holidays-season-xmas-activity-7143905823709204480-bRFG) post including an AI Santa in my own image. 
+
 ## 17 December 2023
 * "*It's harder to be kind, than clever.*" - Jeff Bezos, at his commencement address to [Princeton's class of 2010](https://www.theladders.com/career-advice/jeff-bezos-to-princetons-class-of-2010-its-harder-to-be-kind-than-clever/amp)<br/><br/>
 * "*Tell me the facts and I’ll learn. Tell me the truth and I’ll believe. But tell me a story and it will live in my heart forever.*” - Native American proverb <br/><br/>
