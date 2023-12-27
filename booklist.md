@@ -12,6 +12,12 @@ Back to [main](index.md).
 * **The Coming Wave** 
 <br/>By: Mustafa Suleyman <br/> October 2023 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_ai-robotics-quantum-activity-7123534853764960256-bZ6f)
 
+* **Lean Enterprise - How High Performance Organisations Innovate at Scale** 
+<br/>By: Jez Humble, Barry O’Reilly and Joanne Molesky <br/> September 2023 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_abookaday-continuouslearning-continuousimprovement-activity-7117744418941472768-X7ln)
+
+* **What You Do Is Who You Are: How to Create Your Business Culture**
+<br/>By: Ben Horowitz <br/> September 2023 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_abookaday-continuouslearning-continuousimprovement-activity-7117744418941472768-X7ln)
+
 * **Ikigai: The Japanese Secret to a Long and Happy Life**
 <br/>By: Héctor García and Francesc Miralles <br/>July 2023 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_during-the-summer-i-finished-listening-to-activity-7096922154939629569-9u1h)
 
