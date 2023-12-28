@@ -7,7 +7,7 @@
 <br/>
 
 ## 29 December 2023
-* "*Programmers know the benefits of everything and the tradeoffs of nothing.*" - Rich Hickey<br/><br/>
+* "*Programmers know the benefits of everything and the tradeoffs of nothing. Architects need to understand both.*" - Rich Hickey<br/><br/>
 
 
 ## 27 December 2023
