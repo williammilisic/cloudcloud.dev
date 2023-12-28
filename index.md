@@ -6,9 +6,12 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 29 December 2023
+* "*Programmers know the benefits of everything and the tradeoffs of nothing.*" - Rich Hickey<br/><br/>
+
+
 ## 27 December 2023
 * ["Winning Minds"](https://www.linkedin.com/posts/williammilisic_bookreview-continuouslearning-activity-7145789431029948416-SwIk) by Simon Lancaster book review. 
-
 
 ## 26 December 2023
 * "*We shall not cease from exploration<br/>
