@@ -7,6 +7,9 @@
 <br/>
 
 ## 29 December 2023
+* In the book "Fundamentals of Software Architecture" Mark Richards and Neal Ford lay out [8 core expectations](https://www.linkedin.com/posts/williammilisic_softwarearchitecture-activity-7146460519103737856-88rr) on (software) architects, that should be mandatory for any architect to strive for..<br/><br/>
+
+## 28 December 2023
 * "*Programmers know the benefits of everything and the tradeoffs of nothing. Architects need to understand both.*" - Rich Hickey<br/><br/>
 * "*What is software architecture? Software Architecture is the stuff you can't Google.*" - Mark Richards<br/><br/>
 * "*No matter what the problem is, it's always a people problem.*" - Gerald Weinberg
