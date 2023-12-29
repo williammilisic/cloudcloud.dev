@@ -9,7 +9,7 @@
 ## 29 December 2023
 * "*Programmers know the benefits of everything and the tradeoffs of nothing. Architects need to understand both.*" - Rich Hickey<br/><br/>
 * "*What is software architecture? Software Architecture is the stuff you can't Google.*" - Mark Richards<br/><br/>
-* "*No matter what they tell you, it's always a people problem.*" - Gerald Weinberg
+* "*No matter what the problem is, it's always a people problem.*" - Gerald Weinberg
 
 ## 27 December 2023
 * ["Winning Minds"](https://www.linkedin.com/posts/williammilisic_bookreview-continuouslearning-activity-7145789431029948416-SwIk) by Simon Lancaster book review. 
