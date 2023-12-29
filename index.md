@@ -7,7 +7,8 @@
 <br/>
 
 ## 29 December 2023
-* In the book "Fundamentals of Software Architecture" Mark Richards and Neal Ford lay out [8 core expectations](https://www.linkedin.com/posts/williammilisic_softwarearchitecture-activity-7146460519103737856-88rr) on (software) architects, that should be mandatory for any architect to strive for..<br/><br/>
+* In the book "Fundamentals of Software Architecture" Mark Richards and Neal Ford lay out [8 core expectations](https://www.linkedin.com/posts/williammilisic_softwarearchitecture-activity-7146460519103737856-88rr) on (software) architects. These should be core requirements for any architect.<br/><br/>
+* “*There are no wrong answers in architecture, only expensive ones.*" - Mark Richards 
 
 ## 28 December 2023
 * "*Programmers know the benefits of everything and the tradeoffs of nothing. Architects need to understand both.*" - Rich Hickey<br/><br/>
