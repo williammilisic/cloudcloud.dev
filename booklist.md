@@ -6,7 +6,7 @@ Back to [main](index.md).
 
 ## 2023 
 
-* **Winning Minds: Secrets From the Language of Leadership***
+* **Winning Minds: Secrets From the Language of Leadership**
 <br/>By: Simon Lancaster <br/>December 2023 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_bookreview-continuouslearning-activity-7145789431029948416-SwIk)
 
 * **Trillion Dollar Coach - The Leadership Playbook by Sillicon Valley's Bill Campbell** 
