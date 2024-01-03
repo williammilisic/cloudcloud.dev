@@ -7,7 +7,7 @@
 <br/>
 
 ## 31 December 2023
-* [Looking back](https://www.linkedin.com/posts/williammilisic_newyear-happynewyear-newyearresolution-activity-7147126747602354176-4NfI) on the year gone with some stats and new year resolutions. 
+* [Looking back](https://www.linkedin.com/posts/williammilisic_newyear-happynewyear-newyearresolution-activity-7147126747602354176-4NfI) on the year gone by with some stats and new year resolutions. 
 
 ## 29 December 2023
 * In the book "Fundamentals of Software Architecture" Mark Richards and Neal Ford lay out [8 core expectations](https://www.linkedin.com/posts/williammilisic_softwarearchitecture-activity-7146460519103737856-88rr) on (software) architects. These should be core requirements for any architect.<br/><br/>
