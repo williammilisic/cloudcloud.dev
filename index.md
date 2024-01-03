@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 31 December 2023
+* [Looking back](https://www.linkedin.com/posts/williammilisic_newyear-happynewyear-newyearresolution-activity-7147126747602354176-4NfI) on the year gone with some stats and new year resolutions. 
+
 ## 29 December 2023
 * In the book "Fundamentals of Software Architecture" Mark Richards and Neal Ford lay out [8 core expectations](https://www.linkedin.com/posts/williammilisic_softwarearchitecture-activity-7146460519103737856-88rr) on (software) architects. These should be core requirements for any architect.<br/><br/>
 * “*There are no wrong answers in architecture, only expensive ones.*" - Mark Richards 
