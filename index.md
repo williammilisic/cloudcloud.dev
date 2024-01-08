@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 8 January 2024
+* Post regarding Dr. Seuss and the [rhyme-as-reason effect](https://www.linkedin.com/posts/williammilisic_im-a-pretty-recent-dr-seuss-fan-although-activity-7150138457359650816-xwrQ). 
+
 ## 31 December 2023
 * [Looking back](https://www.linkedin.com/posts/williammilisic_newyear-happynewyear-newyearresolution-activity-7147126747602354176-4NfI) on the year gone by with some stats and new year resolutions. 
 
