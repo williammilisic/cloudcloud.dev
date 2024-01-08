@@ -4,6 +4,11 @@ Back to [main](index.md).
 
 <br/>
 
+### 20 Minute VC Podcast
+The 20 Minute VC podcast is a popular podcast that features interviews with venture capitalists, entrepreneurs, and other experts in the tech industry. 
+The podcast is hosted by Harry Stebbings, a former entrepreneur and angel investor who started the show when he was 18 years old.
+[Link](https://www.thetwentyminutevc.com/podcast/)
+
 
 ### Cloud Security Podcast 
 A weekly news and interview show with insights from the cloud security community.
