@@ -7,7 +7,8 @@
 <br/>
 
 ## 8 January 2024
-* Post regarding Dr. Seuss and the [rhyme-as-reason effect](https://www.linkedin.com/posts/williammilisic_im-a-pretty-recent-dr-seuss-fan-although-activity-7150138457359650816-xwrQ). 
+* Post regarding Dr. Seuss and the [rhyme-as-reason effect](https://www.linkedin.com/posts/williammilisic_im-a-pretty-recent-dr-seuss-fan-although-activity-7150138457359650816-xwrQ). <br/><br/>
+* Some Monday comics on the topic of "[Robots are taking our jobs](https://www.linkedin.com/posts/williammilisic_mondaycomics-robots-machines-activity-7150211558013403137-ASzw)".
 
 ## 31 December 2023
 * [Looking back](https://www.linkedin.com/posts/williammilisic_newyear-happynewyear-newyearresolution-activity-7147126747602354176-4NfI) on the year gone by with some stats and New Year resolutions. 
