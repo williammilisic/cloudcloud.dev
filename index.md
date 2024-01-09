@@ -6,6 +6,10 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 9 January 2024
+* [LinkedIn post](https://www.linkedin.com/posts/williammilisic_architecture-softwarearchitecture-activity-7150489938919165952-vuWD) regarding three architect types as described by Ford and Richards. 
+
+
 ## 8 January 2024
 * Post regarding Dr. Seuss and the [rhyme-as-reason effect](https://www.linkedin.com/posts/williammilisic_im-a-pretty-recent-dr-seuss-fan-although-activity-7150138457359650816-xwrQ). <br/><br/>
 * Some Monday comics on the topic of "[Robots are taking our jobs](https://www.linkedin.com/posts/williammilisic_mondaycomics-robots-machines-activity-7150211558013403137-ASzw)".
