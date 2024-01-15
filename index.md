@@ -7,7 +7,7 @@
 <br/>
 
 ## 12 January 2024
-Book review of "[Fundamentals of Software Architecture: An Engineering Approach](https://www.linkedin.com/posts/williammilisic_softwaredevelopment-softwareengineering-softwarearchitecture-activity-7151150319362605057-wU3y)" by Mark Richards and Neal Ford. 
+* Book review of "[Fundamentals of Software Architecture: An Engineering Approach](https://www.linkedin.com/posts/williammilisic_softwaredevelopment-softwareengineering-softwarearchitecture-activity-7151150319362605057-wU3y)" by Mark Richards and Neal Ford. 
 
 ## 9 January 2024
 * [LinkedIn post](https://www.linkedin.com/posts/williammilisic_architecture-softwarearchitecture-activity-7150489938919165952-vuWD) regarding three architect types as described by Ford and Richards. 
