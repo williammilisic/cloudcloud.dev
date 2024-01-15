@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 15 January 2024
+* Some Monday comics on [iCloud](https://www.linkedin.com/posts/williammilisic_cloudcomputing-publiccloud-apple-activity-7152759881576390656-vKFw).
+
 ## 12 January 2024
 * Book review of "[Fundamentals of Software Architecture: An Engineering Approach](https://www.linkedin.com/posts/williammilisic_softwaredevelopment-softwareengineering-softwarearchitecture-activity-7151150319362605057-wU3y)" by Mark Richards and Neal Ford. 
 
