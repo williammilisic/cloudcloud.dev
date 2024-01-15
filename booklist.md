@@ -43,7 +43,7 @@ Back to [main](index.md).
 <br/>By:  James Clear <br/>February 2023 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_atomic-habits-how-to-get-1-better-every-activity-7034256008684154880-CzhG)
 
 * **Fundamentals of Software Architecture**
-<br/>By:  Mark Richards, Neal Ford <br/>January 2023 <br/>[LinkedIn review (initial)](https://www.linkedin.com/posts/williammilisic_software-engineering-architecture-activity-7039327062771281920-4sbC)<br/>[LinkedIn Review (final)](https://www.linkedin.com/posts/williammilisic_softwaredevelopment-softwareengineering-softwarearchitecture-activity-7151150319362605057-wU3y)
+<br/>By:  Mark Richards, Neal Ford <br/>January 2023 <br/>[LinkedIn review (initial)](https://www.linkedin.com/posts/williammilisic_software-engineering-architecture-activity-7039327062771281920-4sbC)<br/>[LinkedIn review (final)](https://www.linkedin.com/posts/williammilisic_softwaredevelopment-softwareengineering-softwarearchitecture-activity-7151150319362605057-wU3y)
 
 * **The Human Side of Agile** (re-listened)
 <br/>By:  Gil Broza <br/>January 2023
