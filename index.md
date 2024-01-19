@@ -7,6 +7,21 @@
 <br/>
 
 
+## 16 January 2024
+* “*Aristotle described the formula. He did that two and a half thousand years ago. Not only did it work then, 
+it still works today. So actually anyone who says there is no formula is wrong, there is. Aristotle did it in 
+a way that makes it incredibly easy to remember. There’s three words – pity, fear and catharsis. He said you 
+need to make the audience feel pity for a character. You do that usually by making the character go through
+some undeserved misfortune. What that does – it enables the audience to emotionally connect with the character. 
+And once the writer has got that emotional connection between the audience and the character, the writer begins 
+to have some control over the audience. You then put the character into a worse and worse and worse situation. 
+And because of the emotional connection, the identification, the audience feels fear. When you release the 
+character from the jeopardy or whatever the situation they’re in, the audience experiences a catharsis. Pity, 
+fear, catharsis.*” - Julian Friedmann, [TEDx Talk](https://youtu.be/al3-Kl4BDUQ?si=Yf6QuB-PlLFT6CnI)
+
+## 15 January 2024
+* Some Monday comics on [iCloud](https://www.linkedin.com/posts/williammilisic_cloudcomputing-publiccloud-apple-activity-7152759881576390656-vKFw).
+
 ## 12 January 2024
 * Book review of "[Fundamentals of Software Architecture: An Engineering Approach](https://www.linkedin.com/posts/williammilisic_softwaredevelopment-softwareengineering-softwarearchitecture-activity-7151150319362605057-wU3y)" by Mark Richards and Neal Ford. 
 
