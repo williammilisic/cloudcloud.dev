@@ -8,7 +8,9 @@
 
 ## 19 January 2024
 * Some thoughts on what defines [good leadership](https://www.linkedin.com/posts/williammilisic_leadership-servantleadership-management-activity-7154000776544038912-QoU5).<br/><br/>
-* Run commute through Hagaparken, [some images](https://www.linkedin.com/posts/williammilisic_runcommute-activity-7154017073038254080-z0YT). 
+* Run commute through Hagaparken, [some images](https://www.linkedin.com/posts/williammilisic_runcommute-activity-7154017073038254080-z0YT). <br/><br/>
+* "*Stand guard at the gate of your mind.*" - Marcus Aurelius<br/><br/>
+* "*We question all of our beliefs except for the ones we really believe, and those we never think to question.*” - Orson Scott Card
 
 ## 16 January 2024
 * “*Aristotle described the formula. He did that two and a half thousand years ago. Not only did it work then, 
