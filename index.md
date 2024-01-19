@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 19 January 2024
+* Some thoughts on what defines [good leadership](https://www.linkedin.com/posts/williammilisic_leadership-servantleadership-management-activity-7154000776544038912-QoU5).<br/><br/>
+* Run commute through Hagaparken, [some images](https://www.linkedin.com/posts/williammilisic_runcommute-activity-7154017073038254080-z0YT). 
 
 ## 16 January 2024
 * “*Aristotle described the formula. He did that two and a half thousand years ago. Not only did it work then, 
