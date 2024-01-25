@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 25 January 2024
+* "*Wer will dass die Welt so bleibt, will nicht dass sie bleibt.*" - Erich Fried ("*If you want the world to remain as it is, then you don’t want the world to remain at all.*")
+
 ## 24 January 2024
 * Some [thoughts](https://www.linkedin.com/posts/williammilisic_im-a-big-fan-of-standardisation-ten-plus-activity-7156018681293029376-MkSj) on standardisation vs customisation.
 
