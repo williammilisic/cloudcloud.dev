@@ -6,6 +6,13 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 24 January 2024
+* Some [thoughts](https://www.linkedin.com/posts/williammilisic_im-a-big-fan-of-standardisation-ten-plus-activity-7156018681293029376-MkSj) on standardisation vs customisation.
+
+## 20 January 2024
+* "*Give light and people will find the way.*" - Ella J. Baker
+
+
 ## 19 January 2024
 * Some thoughts on what defines [good leadership](https://www.linkedin.com/posts/williammilisic_leadership-servantleadership-management-activity-7154000776544038912-QoU5).<br/><br/>
 * Run commute through Hagaparken, [some images](https://www.linkedin.com/posts/williammilisic_runcommute-activity-7154017073038254080-z0YT). <br/><br/>
