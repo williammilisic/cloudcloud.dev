@@ -8,7 +8,7 @@
 
 ## 27 January 2024
 * "*The measure of intelligence is the ability to change.*" - Albert Einstein <br/><br/>
-* "*Progress is impossible without change, and those who cannot change their minds cannot change anything.*" - George Bernard Shaw
+* "*Progress is impossible without change, and those who cannot change their minds cannot change anything.*" - George Bernard Shaw<br/><br/>
 * It’s interesting how sometimes certain technical topics and even single words or concepts, beget powerful gatekeepers who rather than invite a mutual exchange of perspectives, experiences and knowledge, seek to establish one single, one "officially" sanctioned, one sided, no-questions-asked point of view. <br/>Being a fan of Socratic thinking, I can find this one-sidedness surprising, as it hardly leads to overall progress or betterment.<br/><br/>
 * "*Statistics show that of those who contract the habit of eating, very few survive.*" - George Bernard Shaw
 
