@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 27 January 2024
+* "*The measure of intelligence is the ability to change.*" - Albert Einstein 
+
 ## 25 January 2024
 * "*Wer will dass die Welt so bleibt, will nicht dass sie bleibt.*" - Erich Fried ("*If you want the world to remain as it is, then you don’t want the world to remain at all.*")
 
