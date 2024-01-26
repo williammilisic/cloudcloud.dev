@@ -8,7 +8,7 @@
 
 ## 27 January 2024
 * "*The measure of intelligence is the ability to change.*" - Albert Einstein <br/><br/>
-* It’s interesting how sometimes certain technical topics and even single words or concepts, beget powerful gatekeepers who rather than invite a mutual exchange of perspectives, experiences and knowledge, seek to establish one single, one sanctioned, one sided, no questions asked point of view. <br/>Being a fan of Socratic thinking, I can find this one-sidedness surprising, as it hardly leads to overall progress or betterment.
+* It’s interesting how sometimes certain technical topics and even single words or concepts, beget powerful gatekeepers who rather than invite a mutual exchange of perspectives, experiences and knowledge, seek to establish one single, one "officially" sanctioned, one sided, no-questions-asked point of view. <br/>Being a fan of Socratic thinking, I can find this one-sidedness surprising, as it hardly leads to overall progress or betterment.
 
 ## 25 January 2024
 * "*Wer will dass die Welt so bleibt, will nicht dass sie bleibt.*" - Erich Fried ("*If you want the world to remain as it is, then you don’t want the world to remain at all.*")
