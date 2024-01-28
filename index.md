@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 28 January 2024
+* Feedback is a gift, because it's always easier to simply not give it.
+
 ## 27 January 2024
 * "*The measure of intelligence is the ability to change.*" - Albert Einstein <br/><br/>
 * "*Progress is impossible without change, and those who cannot change their minds cannot change anything.*" - George Bernard Shaw<br/><br/>
