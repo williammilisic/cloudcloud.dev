@@ -7,7 +7,8 @@
 <br/>
 
 ## 1 January 2024
-* [Podcast tip of the week](https://www.linkedin.com/posts/williammilisic_sam-altman-and-satya-nadella-on-their-vision-activity-7158715638016847873-Jinb). The Economist conversation with Sam Altman and Satya Nadella from Davos on the future of AI, human work and regulations of this space. Masterly commented by the Babbage studio crew. 
+* [Podcast tip of the week](https://www.linkedin.com/posts/williammilisic_sam-altman-and-satya-nadella-on-their-vision-activity-7158715638016847873-Jinb). The Economist conversation with Sam Altman and Satya Nadella from Davos on the future of AI, human work and regulations of this space. Masterly commented by the Babbage studio crew. <br/><br/>
+* Looking forward to the next week's [UF pitch day](https://www.linkedin.com/posts/pernilla-johnsson-networking_allakanstarta-allakandriva-entrepreneurship-activity-7158828547401232385-Y0Pa). 
 
 ## 31 January 2024
 * How DORA (Digital Operational Resilience Act) and DORA (DevOps Research Assessment) relate to each other > [LinkedIn post](https://www.linkedin.com/posts/williammilisic_dora-digitalresilience-operationalresilience-activity-7158552405331095553-mZtC).
