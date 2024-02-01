@@ -6,6 +6,17 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 1 January 2024
+* [Podcast tip of the week](https://www.linkedin.com/posts/williammilisic_sam-altman-and-satya-nadella-on-their-vision-activity-7158715638016847873-Jinb). The Economist conversation with Sam Altman and Satya Nadella from Davos on the future of AI, human work and regulations of this space. Masterly commented by the Babbage studio crew. 
+
+## 31 January 2024
+* How DORA (Digital Operational Resilience Act) and DORA (DevOps Research Assessment) relate to each other > [LinkedIn post](https://www.linkedin.com/posts/williammilisic_dora-digitalresilience-operationalresilience-activity-7158552405331095553-mZtC).
+
+
+## 29 January 2024
+* Some [Cloud Tweaks](https://www.linkedin.com/posts/williammilisic_comics-cloudtweaks-activity-7157816881461047298-fh9p) comics on a Monday.
+
+
 ## 28 January 2024
 * Feedback is a gift, because it's always easier to simply not give it.
 
