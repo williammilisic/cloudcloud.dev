@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 2 February 2024
+* "*It takes two years to learn to speak, and sixty to learn to keep quiet.*" - Ernest Hemingway
+
 ## 1 February 2024
 * [Podcast tip of the week](https://www.linkedin.com/posts/williammilisic_sam-altman-and-satya-nadella-on-their-vision-activity-7158715638016847873-Jinb). The Economist conversation with Sam Altman and Satya Nadella from Davos on the future of AI, human work and regulations of this space. Masterly commented by the Babbage studio crew. <br/><br/>
 * Looking forward to the next week's [UF pitch day](https://www.linkedin.com/posts/pernilla-johnsson-networking_allakanstarta-allakandriva-entrepreneurship-activity-7158828547401232385-Y0Pa) (SE). <br/><br/>
