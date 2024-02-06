@@ -10,7 +10,9 @@
 * Some [good cloud comics](https://www.linkedin.com/posts/williammilisic_comics-cloud-activity-7160362308680990721-Q6Um) from Geek & Poke.
 
 ## 2 February 2024
-* "*It takes two years to learn to speak, and sixty to learn to keep quiet.*" - Ernest Hemingway
+* "*It takes two years to learn to speak, and sixty to learn to keep quiet.*" - Ernest Hemingway<br/><br/>
+* Some [comics](https://www.linkedin.com/posts/williammilisic_i-love-dashboards-i-love-seeing-the-data-activity-7158983614003589120-HbPT) on dashboards. <br/><br/>
+* "*A picture is worth a thousand words. A well designed chart is worth a million.*" - Stephen Few
 
 ## 1 February 2024
 * [Podcast tip of the week](https://www.linkedin.com/posts/williammilisic_sam-altman-and-satya-nadella-on-their-vision-activity-7158715638016847873-Jinb). The Economist conversation with Sam Altman and Satya Nadella from Davos on the future of AI, human work and regulations of this space. Masterly commented by the Babbage studio crew. <br/><br/>
