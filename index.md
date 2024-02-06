@@ -7,7 +7,7 @@
 <br/>
 
 ## 6 February 2024
-* Why having a [review process for Cloud services](https://www.linkedin.com/posts/williammilisic_sebtech-sebtechblog-sebcloud-activity-7160658814948540417-G4-g) is important.
+* A few reasons why having a [review process for Cloud services](https://www.linkedin.com/posts/williammilisic_sebtech-sebtechblog-sebcloud-activity-7160658814948540417-G4-g) is important.
 
 ## 5 February 2024
 * Some [good cloud comics](https://www.linkedin.com/posts/williammilisic_comics-cloud-activity-7160362308680990721-Q6Um) from Geek & Poke.
