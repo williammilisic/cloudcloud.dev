@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 6 February 2024
+* Why having a [review process for Cloud services](https://www.linkedin.com/posts/williammilisic_sebtech-sebtechblog-sebcloud-activity-7160658814948540417-G4-g) is important.
+
 ## 5 February 2024
 * Some [good cloud comics](https://www.linkedin.com/posts/williammilisic_comics-cloud-activity-7160362308680990721-Q6Um) from Geek & Poke.
 
