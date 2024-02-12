@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 12 February 2024
+* [Comparison](https://www.linkedin.com/posts/williammilisic_a-comparison-between-a-cloud-transformation-activity-7162751766231408640-KXRf) between a Cloud transformation journey and "The Alice in the Wonderland." 
+
 ## 7 February 2024
 * In the category #thingsidoatwork, I had a new experience today participating as one of the jury members in one of the run-up stages to national finals for [Ung Företagsamhet](https://www.linkedin.com/posts/williammilisic_thingsidoatwork-uf-innovation-activity-7161031040210198528-yOpb).
 
