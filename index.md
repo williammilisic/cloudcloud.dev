@@ -9,6 +9,9 @@
 ## 17 February 2024
 * Going above 1,200 Cloud trained colleagues in 1 1/2 years. [LinkedIn post](https://www.linkedin.com/posts/williammilisic_cloudtransformation-seblife-lifelonglearning-activity-7164535924003856384-DKYh)
 
+## 15 February 2024
+* Why you're more likely to be getting "[single pain of glass](https://www.linkedin.com/posts/williammilisic_multicloud-hybridcloud-singlepaneofglass-activity-7163255479291383808-ddsy)" than a "single pane of glass" when buying 3rd party middleware to manage multiple clouds. 
+
 ## 12 February 2024
 * [Comparison](https://www.linkedin.com/posts/williammilisic_a-comparison-between-a-cloud-transformation-activity-7162751766231408640-KXRf) between a Cloud transformation journey and "The Alice in the Wonderland." <br/><br/>
 * Produce, Organise, Publish [framework](https://x.com/shreyas/status/1329330848919810049?s=46&t=hHSCE5QQcDTRoUCBsMmiCg).<br/><br/>
