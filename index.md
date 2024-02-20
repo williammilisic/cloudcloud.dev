@@ -9,8 +9,11 @@
 ## 17 February 2024
 * Going above 1,200 Cloud trained colleagues in 1 1/2 years. [LinkedIn post](https://www.linkedin.com/posts/williammilisic_cloudtransformation-seblife-lifelonglearning-activity-7164535924003856384-DKYh)
 
-## 15 February 2024
+## 14 February 2024
 * Why you're more likely to be getting "[single pain of glass](https://www.linkedin.com/posts/williammilisic_multicloud-hybridcloud-singlepaneofglass-activity-7163255479291383808-ddsy)" than a "single pane of glass" when buying 3rd party middleware to manage multiple clouds. 
+
+## 13 February 2024
+* Promotion driven development is one of the reasons why so much [custom tooling](https://www.linkedin.com/posts/williammilisic_gergely-orosz-has-a-simple-and-revealing-activity-7162958560925007872-bqob) gets built in Tech.
 
 ## 12 February 2024
 * [Comparison](https://www.linkedin.com/posts/williammilisic_a-comparison-between-a-cloud-transformation-activity-7162751766231408640-KXRf) between a Cloud transformation journey and "The Alice in the Wonderland." <br/><br/>
