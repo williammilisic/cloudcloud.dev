@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 17 February 2024
+* Going above 1,200 Cloud trained colleagues in 1 1/2 years. [LinkedIn post](https://www.linkedin.com/posts/williammilisic_cloudtransformation-seblife-lifelonglearning-activity-7164535924003856384-DKYh)
+
 ## 12 February 2024
 * [Comparison](https://www.linkedin.com/posts/williammilisic_a-comparison-between-a-cloud-transformation-activity-7162751766231408640-KXRf) between a Cloud transformation journey and "The Alice in the Wonderland." <br/><br/>
 * Produce, Organise, Publish [framework](https://x.com/shreyas/status/1329330848919810049?s=46&t=hHSCE5QQcDTRoUCBsMmiCg).<br/><br/>
