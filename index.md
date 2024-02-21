@@ -8,7 +8,7 @@
 
 ## 21 February 2024
 * “*If you double the number of experiments you do per year, you're going to double your inventiveness.*” - Jeff Bezos<br/><br/>
-* Book review of Eliyahu Goldratt's "Critical Chain" that extends TOC to project management.
+* [Book review](https://www.linkedin.com/posts/williammilisic_i-recently-finished-eliyahu-m-goldratts-activity-7165960713742622720-5pqM) of Eliyahu Goldratt's "Critical Chain" that extends TOC to project management.
 
 
 ## 17 February 2024
