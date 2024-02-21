@@ -6,6 +6,11 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 21 February 2024
+* “*If you double the number of experiments you do per year, you're going to double your inventiveness.*” - Jeff Bezos<br/><br/>
+* Book review of Eliyahu Goldratt's "Critical Chain" that extends TOC to project management.
+
+
 ## 17 February 2024
 * Going above 1,200 Cloud trained colleagues in 1 1/2 years. [LinkedIn post](https://www.linkedin.com/posts/williammilisic_cloudtransformation-seblife-lifelonglearning-activity-7164535924003856384-DKYh)
 
