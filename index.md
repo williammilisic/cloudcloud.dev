@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 24 February 2024
+* "*Peacetime in business means those times when a company has a large advantage vs. the competition in its core market, and its market is growing. In times of peace, the company can focus on expanding re market and reinforcing the company's strengths. In wartime, a company is fending off an imminent existential threat. Such a threat can come from a wide range of sources, including competition, dramatic macroeconomic change, market change, supply chain change and so forth.*" - Ben Horowitz 
+
 ## 21 February 2024
 * “*If you double the number of experiments you do per year, you're going to double your inventiveness.*” - Jeff Bezos<br/><br/>
 * [Book review](https://www.linkedin.com/posts/williammilisic_i-recently-finished-eliyahu-m-goldratts-activity-7165960713742622720-5pqM) of Eliyahu Goldratt's "Critical Chain" that extends TOC to project management.
