@@ -7,7 +7,7 @@
 <br/>
 
 ## 24 February 2024
-* "*Peacetime in business means those times when a company has a large advantage vs. the competition in its core market, and its market is growing. In times of peace, the company can focus on expanding re market and reinforcing the company's strengths. In wartime, a company is fending off an imminent existential threat. Such a threat can come from a wide range of sources, including competition, dramatic macroeconomic change, market change, supply chain change and so forth.*" - Ben Horowitz 
+* "*Peacetime in business means those times when a company has a large advantage vs. the competition in its core market, and its market is growing. In times of peace, the company can focus on expanding the market and reinforcing the company's strengths. In wartime, a company is fending off an imminent existential threat. Such a threat can come from a wide range of sources, including competition, dramatic macroeconomic change, market change, supply chain change and so forth.*" - Ben Horowitz 
 
 ## 21 February 2024
 * “*If you double the number of experiments you do per year, you're going to double your inventiveness.*” - Jeff Bezos<br/><br/>
