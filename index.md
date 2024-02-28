@@ -16,10 +16,12 @@
 ## 24 February 2024
 * "*Peacetime in business means those times when a company has a large advantage vs. the competition in its core market, and its market is growing. In times of peace, the company can focus on expanding the market and reinforcing the company's strengths. In wartime, a company is fending off an imminent existential threat. Such a threat can come from a wide range of sources, including competition, dramatic macroeconomic change, market change, supply chain change and so forth.*" - Ben Horowitz 
 
+## 22 February 2024
+* What was your first home computer? A [thread on LinkedIn](https://www.linkedin.com/posts/williammilisic_homepc-firstcomputer-ibmaptiva-activity-7166521119867449345-jNdk) that generated a lot of engagement. 
+
 ## 21 February 2024
 * “*If you double the number of experiments you do per year, you're going to double your inventiveness.*” - Jeff Bezos<br/><br/>
 * [Book review](https://www.linkedin.com/posts/williammilisic_i-recently-finished-eliyahu-m-goldratts-activity-7165960713742622720-5pqM) of Eliyahu Goldratt's "Critical Chain" that extends TOC to project management.
-
 
 ## 17 February 2024
 * Going above 1,200 Cloud trained colleagues in 1 1/2 years. [LinkedIn post](https://www.linkedin.com/posts/williammilisic_cloudtransformation-seblife-lifelonglearning-activity-7164535924003856384-DKYh)
