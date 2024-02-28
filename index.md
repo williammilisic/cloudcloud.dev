@@ -7,7 +7,8 @@
 <br/>
 
 ## 28 February 2024
-* "*The problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts.*" - Bertrand Russell 
+* "*The problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts.*" - Bertrand Russell <br/><br/>
+* "*If you don't stick to your values when they are being tested, they are not values: they are hobbies.*" - Jon Stewart 
 
 ## 24 February 2024
 * "*Peacetime in business means those times when a company has a large advantage vs. the competition in its core market, and its market is growing. In times of peace, the company can focus on expanding the market and reinforcing the company's strengths. In wartime, a company is fending off an imminent existential threat. Such a threat can come from a wide range of sources, including competition, dramatic macroeconomic change, market change, supply chain change and so forth.*" - Ben Horowitz 
