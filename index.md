@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 2 March 2024
+* "*The price good men pay for indifference to public affairs is to be ruled by evil men.*" - Plato
+
 ## 28 February 2024
 * "*The problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts.*" - Bertrand Russell <br/><br/>
 * "*If you don't stick to your values when they are being tested, they are not values: they are hobbies.*" - Jon Stewart 
