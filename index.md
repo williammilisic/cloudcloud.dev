@@ -7,7 +7,7 @@
 <br/>
 
 ## 6 March 2024
-* Some [comics](https://www.linkedin.com/posts/williammilisic_comics-agile-comic-activity-7171229025066053633-bvde) from [www.agiledrillsergeant.com). 
+* Some [comics](https://www.linkedin.com/posts/williammilisic_comics-agile-comic-activity-7171229025066053633-bvde) from 'www.agiledrillsergeant.com'.
 
 ## 4 March 2024
 * [Goofing around with ChatGPT](https://www.linkedin.com/posts/williammilisic_ai-genai-anthropic-activity-7170504321707503618-XTD8) to figure out the best AI jokes on Claude, Bard and ChatGPT.
