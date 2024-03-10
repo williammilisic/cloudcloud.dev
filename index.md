@@ -6,9 +6,11 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 6 March 2024
+* Some [comics](https://www.linkedin.com/posts/williammilisic_comics-agile-comic-activity-7171229025066053633-bvde) from [www.agiledrillsergeant.com). 
+
 ## 4 March 2024
 * [Goofing around with ChatGPT](https://www.linkedin.com/posts/williammilisic_ai-genai-anthropic-activity-7170504321707503618-XTD8) to figure out the best AI jokes on Claude, Bard and ChatGPT.
-
 
 ## 2 March 2024
 * "*The price good men pay for indifference to public affairs is to be ruled by evil men.*" - Plato
