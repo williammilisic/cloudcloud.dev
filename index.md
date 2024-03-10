@@ -6,8 +6,11 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 7 March 2024
+* Got thinking [how well innovation and regulation play together](https://www.linkedin.com/posts/williammilisic_ai-anthropic-claude-activity-7171389420149825536-ZVjK) in the light of Claude not being available in the EU. 
+
 ## 6 March 2024
-* Some [comics](https://www.linkedin.com/posts/williammilisic_comics-agile-comic-activity-7171229025066053633-bvde) from 'www.agiledrillsergeant.com'.
+* Some [comics](https://www.linkedin.com/posts/williammilisic_comics-agile-comic-activity-7171229025066053633-bvde) from www.agiledrillsergeant.com. 
 
 ## 4 March 2024
 * [Goofing around with ChatGPT](https://www.linkedin.com/posts/williammilisic_ai-genai-anthropic-activity-7170504321707503618-XTD8) to figure out the best AI jokes on Claude, Bard and ChatGPT.
