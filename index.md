@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 15 March 2024
+* "*It's easy to make things hard, but hard to make them easy.*" - Jos de Blok 
+
 ## 14 March
 * Celebrating the [Pi day](https://www.linkedin.com/posts/williammilisic_happy-pi-day-mathematics-was-one-of-my-activity-7174118603951071232-Pv2L)!
 
