@@ -6,6 +6,12 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 13 March 2024
+* [Serving on the finals jury for UF](https://www.linkedin.com/posts/williammilisic_lifeatseb-seblife-entrepreneurship-activity-7173760807564926977-6lbk) Ung Företagsamhet Stockholmsregionen. 
+
+## 11 March 2024
+* [Do you serve the process or does the process serve you?](https://www.linkedin.com/posts/williammilisic_lean-process-continuousinnovation-activity-7173202141870845952-1-d1?utm_source=share&utm_medium=member_ios)
+
 ## 7 March 2024
 * Got thinking [how well innovation and regulation play together](https://www.linkedin.com/posts/williammilisic_ai-anthropic-claude-activity-7171389420149825536-ZVjK) in the light of Claude not being available in the EU. 
 
