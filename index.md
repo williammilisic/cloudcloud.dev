@@ -8,7 +8,7 @@
 
 ## 18 March 2024
 * MVP: You decide what's minimum. Customer decides what's viable.<br/><br/>
-* "*Because [your culture is how your company makes decisions when you’re not there](.*" - Ben Horowitz 
+* "*Because [your culture is how your company makes decisions when you’re not there](https://a16z.com/my-new-book-why-i-wrote-it-and-where-the-money-will-go/).*" - Ben Horowitz 
 
 ## 17 March 2024
 * [Heard earlier this week](https://www.linkedin.com/posts/williammilisic_facebook-tiktok-snapchat-activity-7175213967731027968-_FiI) from teenagers: "*The target group for our product is 30-50 year olds so we had to learn Facebook, and that was tough.*”
