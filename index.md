@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 17 March 2024
+* [Heard earlier this week](https://www.linkedin.com/posts/williammilisic_facebook-tiktok-snapchat-activity-7175213967731027968-_FiI) from teenagers: "*The target group for our product is 30-50 year olds so we had to learn Facebook, and that was tough.*”
+
 ## 15 March 2024
 * "*It's easy to make things hard, but hard to make them easy.*" - Jos de Blok 
 
