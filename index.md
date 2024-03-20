@@ -7,7 +7,7 @@
 <br/>
 
 ## 20 March 2024
-* “*No plan of operations extends with certainty beyond the first encounter with the enemy's main strength.*" - Helmuth von Moltke
+* “*No plan of operations extends with certainty beyond the first encounter with the enemy's main strength.*" or colloquially "*No plan survives first contact with the enemy.*" - Helmuth von Moltke
 
 ## 18 March 2024
 * MVP: You decide what's minimum. Customer decides what's viable.<br/><br/>
