@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 20 March 2024
+* “*No plan of operations extends with certainty beyond the first encounter with the enemy's main strength.*" - Helmuth von Moltke
+
 ## 18 March 2024
 * MVP: You decide what's minimum. Customer decides what's viable.<br/><br/>
 * "*Because [your culture is how your company makes decisions when you’re not there](https://a16z.com/my-new-book-why-i-wrote-it-and-where-the-money-will-go/).*" - Ben Horowitz 
