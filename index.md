@@ -10,6 +10,9 @@
 * "*Banking is just bits and bytes.*" - John Reed, Citi CEO/Chair, 1984-1998<br/><br/>
 * "*Information about money has become almost as important as money itself.*" - Walter Wriston, Citi CEO/Chair, 1967-1984
 
+## 22 March 2024
+* Job role update: addition of [team leadership](https://www.linkedin.com/posts/williammilisic_sebcloud-sebtech-seblife-activity-7176828003912474624-5LP-) to my current CPO role.
+
 ## 20 March 2024
 * “*No plan of operations extends with certainty beyond the first encounter with the enemy's main strength.*" or colloquially "*No plan survives first contact with the enemy.*" - Helmuth von Moltke
 
