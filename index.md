@@ -6,6 +6,10 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 25 March 2024
+* "*Banking is just bits and bytes.*" - John Reed, Citi CEO/Chair, 1984-1998<br/><br/>
+* "*Information about money has become almost as important as money itself.*" - Walter Wriston, Citi CEO/Chair, 1967-1984
+
 ## 20 March 2024
 * “*No plan of operations extends with certainty beyond the first encounter with the enemy's main strength.*" or colloquially "*No plan survives first contact with the enemy.*" - Helmuth von Moltke
 
