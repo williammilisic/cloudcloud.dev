@@ -6,6 +6,13 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 28 March 2028
+* “*Without standards, there can be no kaizen (continuous improvement).*" - Taiichi Ohno<br/><br/>
+* "*The most dangerous kind of waste is the waste we do not recognize.*" - Shigeo Shingo <br/><br/>
+* A [LinkedIn post](https://www.linkedin.com/posts/williammilisic_lean-standards-kaizen-activity-7178846471146848256-DUDP) on why standardisation is the foundation for improvement. <br/><br/>
+
+
+
 ## 25 March 2024
 * "*Banking is just bits and bytes.*" - John Reed, Citi CEO/Chair, 1984-1998<br/><br/>
 * "*Information about money has become almost as important as money itself.*" - Walter Wriston, Citi CEO/Chair, 1967-1984
