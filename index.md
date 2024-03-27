@@ -13,7 +13,8 @@
 * "*Simple, standardized processes are the foundation of rapid and flexible Lean systems.*" - James P. Womack <br/><br/>
 * Celebrating 1 year since I started posting here!
 
-
+## 26 March 2024
+* [Reflecting](https://www.linkedin.com/posts/williammilisic_softwareengineering-softwarengineersguidebook-activity-7178113150783787008-6gJr)upon some observations by Gergely Orosz about tenure at work and how it brings perspective that leaders need.
 
 ## 25 March 2024
 * "*Banking is just bits and bytes.*" - John Reed, Citi CEO/Chair, 1984-1998<br/><br/>
