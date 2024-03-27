@@ -10,6 +10,8 @@
 * “*Without standards, there can be no kaizen (continuous improvement).*" - Taiichi Ohno<br/><br/>
 * "*The most dangerous kind of waste is the waste we do not recognize.*" - Shigeo Shingo <br/><br/>
 * A [LinkedIn post](https://www.linkedin.com/posts/williammilisic_lean-standards-kaizen-activity-7178846471146848256-DUDP) on why standardisation is the foundation of improvement. <br/><br/>
+* "*Simple, standardized processes are the foundation of rapid and flexible Lean systems.*" - James P. Womack <br/><br/>
+* Celebrating 1 year since I started posting here!
 
 
 
