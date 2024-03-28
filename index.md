@@ -7,6 +7,7 @@
 <br/>
 
 ## 28 March 2028
+* "*Too busy for improvement? Frequently, I am rebuffed by people who say they are too busy and have not time for such activities. I make it a point to respond by telling people, look, you'll stop being busy either when you die or when the company goes bankrupt.*" - Shigeo Shingo<br/><br/>
 * “*Without standards, there can be no kaizen (continuous improvement).*" - Taiichi Ohno<br/><br/>
 * "*The most dangerous kind of waste is the waste we do not recognize.*" - Shigeo Shingo <br/><br/>
 * A [LinkedIn post](https://www.linkedin.com/posts/williammilisic_lean-standards-kaizen-activity-7178846471146848256-DUDP) on why standardisation is the foundation of improvement. <br/><br/>
