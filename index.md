@@ -14,7 +14,7 @@
 * "*The most dangerous kind of waste is the waste we do not recognize.*" - Shigeo Shingo <br/><br/>
 * A [LinkedIn post](https://www.linkedin.com/posts/williammilisic_lean-standards-kaizen-activity-7178846471146848256-DUDP) on why standardisation is the foundation of improvement. <br/><br/>
 * "*Simple, standardized processes are the foundation of rapid and flexible Lean systems.*" - James P. Womack <br/><br/>
-* Celebrating 1 year since I started posting here!
+* Celebrating [1 year](https://www.linkedin.com/posts/williammilisic_journaling-notetaking-activity-7179005236999512065-8nNY) since I started posting here!
 
 ## 26 March 2024
 * [Reflecting](https://www.linkedin.com/posts/williammilisic_softwareengineering-softwarengineersguidebook-activity-7178113150783787008-6gJr) upon some observations by Gergely Orosz about tenure at work and how it brings perspective that leaders need.
