@@ -7,6 +7,7 @@
 <br/>
 
 ## 28 March 2028
+* "*Bad behaviours can give temporary good results, but only ideal behaviours can give sustainable ideal results.*" - Shigeo Shingo <br/><br/>
 * "*Those who are not dissatisfied will never make any progress.*" - Shigeo Shingo <br/><br/>
 * "*Too busy for improvement? Frequently, I am rebuffed by people who say they are too busy and have not time for such activities. I make it a point to respond by telling people, look, you'll stop being busy either when you die or when the company goes bankrupt.*" - Shigeo Shingo<br/><br/>
 * “*Without standards, there can be no kaizen (continuous improvement).*" - Taiichi Ohno<br/><br/>
