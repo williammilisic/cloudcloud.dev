@@ -3,6 +3,14 @@
 Back to [main](index.md).
 
 <br/>
+## 2024
+
+* **Empireworld: How British Imperialism Has Shaped The Globe**
+<br/>By: Sathnam Sanghera <br/>March 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_empireworld-empireland-bookreview-activity-7179749258466648064-n4Vl)
+
+* **The Startup Way: How Modern Companies Use Entrepreneurial Management To Transform Culture & Drive Long Term Growth**
+<br/>By: Eric Ries <br/>March 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_ericries-startupway-leanstartup-activity-7176293925748416512-MCd8)
+
 
 ## 2023 
 
