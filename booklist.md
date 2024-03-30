@@ -12,7 +12,7 @@ Back to [main](index.md).
 <br/>By: Eric Ries <br/>March 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_ericries-startupway-leanstartup-activity-7176293925748416512-MCd8)
 
 * **How I Learned to Understand the World**
-<br/>By: Hans Rosling <br/>February 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_cultures-nations-religions-and-people-activity-716885499335-UZ9h)
+<br/>By: Hans Rosling <br/>February 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_cultures-nations-religions-and-people-activity-7168854993356230656-UZ9h)
 
 * **Critical Chain**
 <br/>By: Eliyahu M. Goldratt <br/>February 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_i-recently-finished-eliyahu-m-goldratts-activity-7165960713742622720-5pqM)
