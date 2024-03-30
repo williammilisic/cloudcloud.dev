@@ -11,6 +11,8 @@ Back to [main](index.md).
 * **The Startup Way: How Modern Companies Use Entrepreneurial Management To Transform Culture & Drive Long Term Growth**
 <br/>By: Eric Ries <br/>March 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_ericries-startupway-leanstartup-activity-7176293925748416512-MCd8)
 
+* **How I Learned to Understand the World**
+<br/>By: Hans Rosling <br/>February 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_cultures-nations-religions-and-people-activity-7168854993356230656-UZ9h)
 
 ## 2023 
 
