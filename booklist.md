@@ -20,6 +20,9 @@ Back to [main](index.md).
 * **Connect: How to Inspire, Influence and Energise Anyone, Anywhere, Anytime**
 <br/>By: Simon Lancaster <br/>January 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_bookreview-leadership-communication-activity-7156911212302086144-5dP8)
 
+* **Fundamentals of Software Architecture: An Engineering Approach**
+<br/>By: Mark Richards & Neal Ford <br/>January 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_softwaredevelopment-softwareengineering-softwarearchitecture-activity-7151150319362605057-wU3y)
+
 
 ## 2023 
 
