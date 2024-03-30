@@ -6,7 +6,10 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
-## 28 March 2028
+## 30 March 2024
+* A LinkedIn review of the book "[Empireworld](https://www.linkedin.com/posts/williammilisic_empireworld-empireland-bookreview-activity-7179749258466648064-n4Vl)" by Sathnam Sanghera. 
+
+## 28 March 2024
 * "*Bad behaviours can give temporary good results, but only ideal behaviours can give sustainable ideal results.*" - Shigeo Shingo <br/><br/>
 * "*Those who are not dissatisfied will never make any progress.*" - Shigeo Shingo <br/><br/>
 * "*Too busy for improvement? Frequently, I am rebuffed by people who say they are too busy and have not time for such activities. I make it a point to respond by telling people, look, you'll stop being busy either when you die or when the company goes bankrupt.*" - Shigeo Shingo<br/><br/>
