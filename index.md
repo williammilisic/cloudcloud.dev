@@ -6,6 +6,10 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 8 April 2024
+* "*I never lose. I either win or learn.*" - Nelson Mandela <br/><br/>
+* Back from vacation. Celebrating with (some comics)[https://www.linkedin.com/posts/williammilisic_vacation-comics-activity-7183164832127283201-dpp2].
+
 ## 30 March 2024
 * A LinkedIn review of the book "[Empireworld](https://www.linkedin.com/posts/williammilisic_empireworld-empireland-bookreview-activity-7179749258466648064-n4Vl)" by Sathnam Sanghera. 
 
