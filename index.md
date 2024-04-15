@@ -16,6 +16,9 @@
 ## 11 April 2024
 * Podcast tip of the week: [Spiffe/SPIRE on Cloud Security Podcast](https://www.linkedin.com/posts/williammilisic_ep166-workload-identity-zero-trust-and-spiffe-activity-7184222126684459008-fpwI).
 
+## 10 April 2024
+* [Life Finds The Way](https://www.linkedin.com/posts/williammilisic_platformengineering-cloudfoundation-productvision-activity-7183904826345336832--gwG) or how to set a product vision that discourages shadow IT and encourages golden path thinking.
+
 ## 8 April 2024
 * "*I never lose. I either win or learn.*" - Nelson Mandela <br/><br/>
 * Back from vacation. Celebrating with [some comics](https://www.linkedin.com/posts/williammilisic_vacation-comics-activity-7183164832127283201-dpp2).
