@@ -13,6 +13,9 @@
 ## 13 April 2024
 * Summarising the [benefits of the public cloud](https://www.linkedin.com/posts/williammilisic_publiccloud-cloudcomputing-colo-activity-7184807247623966720-ohJi).
 
+## 11 April 2024
+* Podcast tip of the week: [Spiffe/SPIRE on Cloud Security Podcast](https://www.linkedin.com/posts/williammilisic_ep166-workload-identity-zero-trust-and-spiffe-activity-7184222126684459008-fpwI).
+
 ## 8 April 2024
 * "*I never lose. I either win or learn.*" - Nelson Mandela <br/><br/>
 * Back from vacation. Celebrating with [some comics](https://www.linkedin.com/posts/williammilisic_vacation-comics-activity-7183164832127283201-dpp2).
