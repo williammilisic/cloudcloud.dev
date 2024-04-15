@@ -6,6 +6,13 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 15 April 2024
+* Hiring an [AWS Cloud Engineer](https://www.linkedin.com/posts/rasmus-hallberg-361b3b167_seb-aws-cloud-engineer-in-the-cloud-tribe-activity-7185613153181786112-IrKz) to our Cloud Tribe.<br/><br/>
+* Reflecting upon more than 10 years of [consistent running](https://www.linkedin.com/posts/williammilisic_milestone-running-anniversary-activity-7185710066262568960-iJOt).
+
+## 13 April 2024
+* Summarising the [benefits of the public cloud](https://www.linkedin.com/posts/williammilisic_publiccloud-cloudcomputing-colo-activity-7184807247623966720-ohJi).
+
 ## 8 April 2024
 * "*I never lose. I either win or learn.*" - Nelson Mandela <br/><br/>
 * Back from vacation. Celebrating with [some comics](https://www.linkedin.com/posts/williammilisic_vacation-comics-activity-7183164832127283201-dpp2).
