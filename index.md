@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 18 April 2024
+* "*The most valuable of all talents is that of never using two words when one will do.*" - Thomas Jefferson
+
 ## 15 April 2024
 * Hiring an [AWS Cloud Engineer](https://www.linkedin.com/posts/rasmus-hallberg-361b3b167_seb-aws-cloud-engineer-in-the-cloud-tribe-activity-7185613153181786112-IrKz) to our Cloud Tribe.<br/><br/>
 * Reflecting upon more than 10 years of [consistent running](https://www.linkedin.com/posts/williammilisic_milestone-running-anniversary-activity-7185710066262568960-iJOt).
