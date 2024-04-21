@@ -12,7 +12,7 @@
 * "*It's not autonomy doing what you want, it's agency to operate with safety - within the encoded values that are jointly shared.*" - Byron Miller
 
 ## 19 April 2024
-* Reflecting upon the cons of "[us vs them](https://www.linkedin.com/posts/williammilisic_gemini-advanced-activity-7186955924215894016-e2So)"!management style.
+* Reflecting upon the cons of "[us vs them](https://www.linkedin.com/posts/williammilisic_gemini-advanced-activity-7186955924215894016-e2So)" management style.
 
 ## 18 April 2024
 * "*The most valuable of all talents is that of never using two words when one will do.*" - Thomas Jefferson
