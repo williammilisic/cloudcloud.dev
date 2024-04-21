@@ -9,6 +9,7 @@
 ## 21 April 2024
 * "*My own definition of DevOps:<br/> Everything you do to overcome friction between silos.<br/> All the rest is plain engineering.*" -  Patrick Debois, 2021<br/><br/>
 * "*A digital platform is a foundation of self-service APIs, tools, services, knowledge and support which are arranged as a compelling internal product.*" - Evan Bottcher, 2018<br/><br/>
+* "*It's not autonomy doing what you want, it's agency to operate with safety - within the encoded values that are jointly shared.*" - Byron Miller
 
 ## 18 April 2024
 * "*The most valuable of all talents is that of never using two words when one will do.*" - Thomas Jefferson
