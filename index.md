@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 21 April 2024
+* "*My own definition of DevOps:<br/> Everything you do to overcome friction between silos.<br/> All the rest is plain engineering.*" -  Patrick Debois, 2021
+
 ## 18 April 2024
 * "*The most valuable of all talents is that of never using two words when one will do.*" - Thomas Jefferson
 
