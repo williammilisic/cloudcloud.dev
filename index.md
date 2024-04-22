@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 22 April 2024
+* "*The secret to living well and longer is: eat half, walk double, laugh triple and love without measure.*" - Tibetan proverb
+
 ## 21 April 2024
 * "*My own definition of DevOps:<br/> Everything you do to overcome friction between silos.<br/> All the rest is plain engineering.*" -  Patrick Debois, 2021<br/><br/>
 * "*A digital platform is a foundation of self-service APIs, tools, services, knowledge and support which are arranged as a compelling internal product.*" - Evan Bottcher, 2018<br/><br/>
