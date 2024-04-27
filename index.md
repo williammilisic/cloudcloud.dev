@@ -7,7 +7,7 @@
 <br/>
 
 ## 26 April 2026
-* Book review procent of Hans Rosling's "[Factfulness](https://www.linkedin.com/posts/williammilisic_rosling-factfulness-systematicthinking-activity-7189133187694948352-JGb0)".
+* Book review on LinkedIn of Hans Rosling's "[Factfulness](https://www.linkedin.com/posts/williammilisic_rosling-factfulness-systematicthinking-activity-7189133187694948352-JGb0)".
 
 ## 22 April 2024
 * "*The secret to living well and longer is: eat half, walk double, laugh triple and love without measure.*" - Tibetan proverb
