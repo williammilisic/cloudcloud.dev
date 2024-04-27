@@ -6,8 +6,11 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
-## 26 April 2026
+## 26 April 2024
 * Book review on LinkedIn of Hans Rosling's "[Factfulness](https://www.linkedin.com/posts/williammilisic_rosling-factfulness-systematicthinking-activity-7189133187694948352-JGb0)".
+
+## 23 April 2024
+* Put a recruitment ad for the role of "[SaaS Integrator Engineer](https://www.linkedin.com/posts/williammilisic_saas-saasintegrator-saasfirst-activity-7188239448025743360-zQ8Q)".
 
 ## 22 April 2024
 * "*The secret to living well and longer is: eat half, walk double, laugh triple and love without measure.*" - Tibetan proverb
