@@ -7,7 +7,11 @@
 <br/>
 
 ## 26 April 2024
-* Book review on LinkedIn of Hans Rosling's "[Factfulness](https://www.linkedin.com/posts/williammilisic_rosling-factfulness-systematicthinking-activity-7189133187694948352-JGb0)".
+* Book review on LinkedIn of Hans Rosling's "[Factfulness](https://www.linkedin.com/posts/williammilisic_rosling-factfulness-systematicthinking-activity-7189133187694948352-JGb0)".<br/><br/>
+* "*The world cannot be understood without numbers. But the world cannot be understood with numbers alone.*" - Hans Rosling<br/><br>
+* "*Remember: things can be bad, and getting better.*" - Hans Rosling<br/><br>
+* "*There's no room for facts when our minds are occupied by fear.*" - Hans Rosling<br/><br>
+* "*Looking for causes, not villains.*" - Hans Rosling<br/> Understanding systemic problems requires moving beyond simply assigning blame to individuals.
 
 ## 23 April 2024
 * Put a recruitment ad out for the role of "[SaaS Integrator Engineer](https://www.linkedin.com/posts/williammilisic_saas-saasintegrator-saasfirst-activity-7188239448025743360-zQ8Q)".
