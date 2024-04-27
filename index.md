@@ -10,7 +10,7 @@
 * Book review on LinkedIn of Hans Rosling's "[Factfulness](https://www.linkedin.com/posts/williammilisic_rosling-factfulness-systematicthinking-activity-7189133187694948352-JGb0)".
 
 ## 23 April 2024
-* Put a recruitment ad for the role of "[SaaS Integrator Engineer](https://www.linkedin.com/posts/williammilisic_saas-saasintegrator-saasfirst-activity-7188239448025743360-zQ8Q)".
+* Put a recruitment ad out for the role of "[SaaS Integrator Engineer](https://www.linkedin.com/posts/williammilisic_saas-saasintegrator-saasfirst-activity-7188239448025743360-zQ8Q)".
 
 ## 22 April 2024
 * "*The secret to living well and longer is: eat half, walk double, laugh triple and love without measure.*" - Tibetan proverb
