@@ -8,7 +8,7 @@
 
 ## 28 April 2024
 * "*Premature optimisation is the root of all evil.*" - Donald Knuth<br/><br/>
-* "*Software is getting slower more rapidly than hardware becomes faster.*" - Nicklaus Wirth
+* "*Software is getting slower more rapidly than hardware becomes faster.*" - Niklaus Wirth
 
 ## 26 April 2024
 * Book review on LinkedIn of Hans Rosling's "[Factfulness](https://www.linkedin.com/posts/williammilisic_rosling-factfulness-systematicthinking-activity-7189133187694948352-JGb0)".<br/><br/>
