@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 29 April 2024
+* "*People who are serious about software should make their own hardware.*" - Alan Kay
+
 ## 28 April 2024
 * "*Premature optimisation is the root of all evil.*" - Donald Knuth<br/><br/>
 * "*Software is getting slower more rapidly than hardware becomes faster.*" - Niklaus Wirth
