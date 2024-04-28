@@ -6,6 +6,10 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 28 April 2024
+* "*Premature optimisation is the root of all evil.*" - Donald Knuth<br/><br/>
+* "*Software is getting slower more rapidly than hardware becomes faster.*" - Nicklaus Wirth
+
 ## 26 April 2024
 * Book review on LinkedIn of Hans Rosling's "[Factfulness](https://www.linkedin.com/posts/williammilisic_rosling-factfulness-systematicthinking-activity-7189133187694948352-JGb0)".<br/><br/>
 * "*The world cannot be understood without numbers. But the world cannot be understood with numbers alone.*" - Hans Rosling<br/><br>
