@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 3 May 2024
+* Book review of Melissa Perri's "[Escaping the Build Trap](https://www.linkedin.com/posts/williammilisic_productmanagement-productleadership-buildtrap-activity-7192027686431551488-oXb7)".
+
 ## 29 April 2024
 * "*People who are serious about software should make their own hardware.*" - Alan Kay
 
