@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 4 May 2024
+* "The hardest thing to learn in life is which bridge to cross and which to burn." - Bertrand Russell
+
 ## 3 May 2024
 * Book review of Melissa Perri's "[Escaping the Build Trap](https://www.linkedin.com/posts/williammilisic_productmanagement-productleadership-buildtrap-activity-7192027686431551488-oXb7)".
 
