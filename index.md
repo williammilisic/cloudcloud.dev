@@ -16,6 +16,9 @@ Rests and expatiates in a life to come.*”<br/> - Alexander Pope, An Essay on M
 ## 7 May 2024
 * Some tips on how to deal with the [naysayers](https://www.linkedin.com/posts/williammilisic_worklife-activity-7193481376346652673-d86F). 
 
+## 6 May 2024
+* Monday [comic classics with Dilbert](https://www.linkedin.com/posts/williammilisic_dilbert-activity-7193325605004709888-Wyev). 
+
 ## 4 May 2024
 * "*The hardest thing to learn in life is which bridge to cross and which to burn.*" - Bertrand Russell
 
