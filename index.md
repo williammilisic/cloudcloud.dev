@@ -7,11 +7,13 @@
 <br/>
 
 ## 8 May 2024
+* A post on [Value Stream Mapping](https://www.linkedin.com/posts/williammilisic_valuestreammapping-leanmethodology-kaizen-activity-7193845263248068608-SI1v) and the value of it. <br/><br/>
 * “*Hope springs eternal in the human breast;<br/>
 Man never Is, but always To be blest.<br/>
 The soul, uneasy, and confin'd from home,<br/>
 Rests and expatiates in a life to come.*”<br/>
-― Alexander Pope, An Essay on Man
+- Alexander Pope, An Essay on Man
+
 
 ## 4 May 2024
 * "*The hardest thing to learn in life is which bridge to cross and which to burn.*" - Bertrand Russell
