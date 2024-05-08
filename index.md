@@ -11,9 +11,10 @@
 * “*Hope springs eternal in the human breast;<br/>
 Man never Is, but always To be blest.<br/>
 The soul, uneasy, and confin'd from home,<br/>
-Rests and expatiates in a life to come.*”<br/>
-- Alexander Pope, An Essay on Man
+Rests and expatiates in a life to come.*”<br/> - Alexander Pope, An Essay on Man
 
+## 7 May 2024
+* Some tips on how to deal with the [naysayers](https://www.linkedin.com/posts/williammilisic_worklife-activity-7193481376346652673-d86F). 
 
 ## 4 May 2024
 * "*The hardest thing to learn in life is which bridge to cross and which to burn.*" - Bertrand Russell
