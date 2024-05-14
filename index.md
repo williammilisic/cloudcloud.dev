@@ -9,6 +9,12 @@
 ## 15 May 2024
 * How the [good, fast and cheap](https://www.linkedin.com/posts/williammilisic_cloudmigration-unisuper-activity-7196220087928840192-Npkl) Venn diagram also applies to Cloud migrations.  
 
+## 14 May 2024
+* “*The single biggest problem in communication is the illusion that it has taken place.*" - George Bernard Shaw
+
+## 11 May 2024
+* "*Ultimately the bond of all companionship, whether in marriage or in friendship, is conversation, and conversation must have a common basis, and between two people of widely different culture the only common basis possible is the lowest level.*" - Oscar Wilde
+
 ## 10 May 2024
 * "*If we cannot end now our differences, at least we can help make the world safe for diversity. For, in the final analysis, our most basic common link is that we all inhabit this small planet. We all breathe the same air. We all cherish our children's future. And we are all mortal.*"<br/> - John F. Kennedy [Commencement Address at American University, June 10 1963]
 
