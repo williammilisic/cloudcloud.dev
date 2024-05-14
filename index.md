@@ -9,6 +9,10 @@
 ## 15 May 2024
 * How the [good, fast and cheap](https://www.linkedin.com/posts/williammilisic_cloudmigration-unisuper-activity-7196220087928840192-Npkl) Venn diagram also applies to Cloud migrations.  
 
+## 10 May 2024
+* "*If we cannot end now our differences, at least we can help make the world safe for diversity. For, in the final analysis, our most basic common link is that we all inhabit this small planet. We all breathe the same air. We all cherish our children's future. And we are all mortal.*"<br/>
+- John F. Kennedy[Commencement Address at American University, June 10 1963]
+
 ## 9 May 2014
 * [DORA survey](https://www.linkedin.com/posts/williammilisic_dora-devopsresearchandassessment-devops-activity-7194042215629807616-mTio) is out - the most important survey of the year!
 
