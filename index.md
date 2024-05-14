@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 15 May 2024
+* How the [good, fast and cheap](https://www.linkedin.com/posts/williammilisic_cloudmigration-unisuper-activity-7196220087928840192-Npkl) Venn diagram also applies to Cloud migrations.  
+
 ## 8 May 2024
 * A post on [Value Stream Mapping](https://www.linkedin.com/posts/williammilisic_valuestreammapping-leanmethodology-kaizen-activity-7193845263248068608-SI1v) and the value of it. <br/><br/>
 * “*Hope springs eternal in the human breast;<br/>
