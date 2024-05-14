@@ -9,6 +9,9 @@
 ## 15 May 2024
 * How the [good, fast and cheap](https://www.linkedin.com/posts/williammilisic_cloudmigration-unisuper-activity-7196220087928840192-Npkl) Venn diagram also applies to Cloud migrations.  
 
+## 9 May 2014
+* [DORA survey](https://www.linkedin.com/posts/williammilisic_dora-devopsresearchandassessment-devops-activity-7194042215629807616-mTio) is out - the most important survey of the year!
+
 ## 8 May 2024
 * A post on [Value Stream Mapping](https://www.linkedin.com/posts/williammilisic_valuestreammapping-leanmethodology-kaizen-activity-7193845263248068608-SI1v) and the value of it. <br/><br/>
 * “*Hope springs eternal in the human breast;<br/>
