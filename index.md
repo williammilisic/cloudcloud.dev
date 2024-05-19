@@ -6,6 +6,11 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 16 May 2024
+* First visit to our [trading floor](https://www.linkedin.com/posts/williammilisic_sebtech-sebcloud-seblife-activity-7196954114398785536-VuIK). For the first time in 3+ years, I had a strong apparition that I really am working for a bank. <br/><br/>
+* “*Don’t look with your eyes, look with your feet. 
+Don’t think with you head, think with your hands*”. -Taiichi Ohno
+
 ## 15 May 2024
 * How the [good, fast and cheap](https://www.linkedin.com/posts/williammilisic_cloudmigration-unisuper-activity-7196220087928840192-Npkl) Venn diagram also applies to Cloud migrations.  
 
