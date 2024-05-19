@@ -7,7 +7,7 @@
 <br/>
 
 ## 16 May 2024
-* First visit to our [trading floor](https://www.linkedin.com/posts/williammilisic_sebtech-sebcloud-seblife-activity-7196954114398785536-VuIK). For the first time in 3+ years, I had a strong apparition that I really am working for a bank. <br/><br/>
+* First visit to our [trading floor](https://www.linkedin.com/posts/williammilisic_sebtech-sebcloud-seblife-activity-7196954114398785536-VuIK). For the first time in 3+ years, I had a strong insight that I really am working for a bank. <br/><br/>
 * “*Don’t look with your eyes, look with your feet. 
 Don’t think with you head, think with your hands*”. -Taiichi Ohno
 
