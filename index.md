@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 21 May 2024
+* Posted the slide set, notes and talking points Victor Bodell and I did last year on the topic of [cloud computing and sustainability](https://www.linkedin.com/posts/williammilisic_cloud-computing-for-energy-reduction-activity-7198693029627473920-_6E). 
+
 ## 16 May 2024
 * First visit to our [trading floor](https://www.linkedin.com/posts/williammilisic_sebtech-sebcloud-seblife-activity-7196954114398785536-VuIK). For the first time in 3+ years, I had a strong insight that I really am working at a bank. <br/><br/>
 * “*Don’t look with your eyes, look with your feet. 
