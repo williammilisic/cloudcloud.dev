@@ -1,0 +1,229 @@
+
+Slide 2: VB: We need to get from 51B tons of CO2e to 0 (annually), to make headway in our current problem. 
+There's tons of information to share and discuss around this but starting point: 
+If we have an unsustainable level of climate change, then no matter how we slice it, we can't keep adding 
+green house gases to the atmosphere, hence we need to get this number of annual emissions down to 0.
+
+
+Slide 3: VB: Depending on which sources you consult, and how you categorize, this image will look different.
+But the gist of it is Making things, how we plug in, how we grow things/food, how we get around, and how 
+we stay warm and cool. Source: Bill Gates, how to avoid a climate disaster
+
+
+Slide 4: VB: Let’s look closer at one quite unknown environmental challenge of today. 
+The global data center challenge is to meet the ever-growing demand for data storage and processing while 
+also reducing the environmental impact. Data centers are a major consumer of energy, and they are responsible 
+for a significant amount of greenhouse gas emissions. As the amount of data that is generated and stored 
+continues to grow, the challenge of operating data centers in a sustainable way will become even more pressing.
+
+WM: Some of the key challenges facing the global data center industry include:
+
+- Power consumption: Data centers are a major consumer of energy, and they are responsible for about 2% of 
+global electricity consumption. This is expected to increase to 8% by 2030.
+
+- Cooling: Data centers generate a lot of heat, and this heat needs to be removed in order to keep the equipment 
+running properly. The cooling process can consume a significant amount of energy.
+
+- Water usage: Data centers require a lot of water for cooling and other purposes. The water usage can put a 
+strain on local water resources, especially in arid areas.
+
+VB: The global data center industry is facing challenges, but there are also opportunities. 
+In this presentation we will look closer at how using Cloud data centers can help to address the global 
+data center challenge, through use of:  
+
+- More efficient cooling systems: New cooling systems are being developed that use less energy and water. 
+For example, liquid immersion cooling systems submerge servers in a non-conductive liquid that helps to transfer 
+heat away from the equipment.
+
+- Renewable energy: Data centers are increasingly using renewable energy sources such as solar and wind power. 
+This helps to reduce their reliance on fossil fuels and their environmental impact.
+
+- Edge computing: Edge computing is a distributed computing paradigm that brings data processing and storage closer 
+to the end user. This can help to reduce the amount of data that needs to be sent to centralized data centers, 
+which can save energy.
+
+- Artificial intelligence (AI): AI is being used to improve the efficiency and sustainability of data centers. 
+For example, AI can be used to optimize cooling systems and power usage.
+
+
+Slide 5: WM: Before we look at how cloud computing helps to solve the global data center challenge, let’s first 
+reiterate what cloud computing is. 
+
+Cloud computing is a way of delivering computing services, such as servers, storage, databases, networking, software, 
+analytics, and artificial intelligence over the internet. A good way to grasp what cloud computing is through the 
+the five essential characteristics of cloud computing, as defined by the National Institute of Standards and Technology (NIST).
+
+VB: The five characteristics are:
+
+On-demand self-service: Cloud users can provision computing resources (e.g., servers, storage, networking, and 
+applications) as needed, with minimal management effort or service provider interaction.
+
+Broad network access: Cloud resources are available over the network and accessible to authorized users from 
+anywhere
+
+Resource pooling: The cloud provider's resources are pooled to serve multiple consumers using a multi-tenant model, 
+with different physical and virtual resources dynamically assigned and reassigned according to demand. 
+
+Rapid elasticity: Cloud resources can be provisioned and released rapidly, with minimal management effort or 
+service provider interaction. 
+
+Measured service: Cloud users pay for the cloud resources they consume, typically measured in terms of CPU usage, 
+memory, storage, and network bandwidth.
+
+WM: These five characteristics of cloud computing offer a number of benefits to cloud users, including:
+
+Cost savings: Cloud users can save money on IT infrastructure costs by using cloud computing. This is because cloud 
+providers can achieve economies of scale and pass on the savings to users.
+
+Scalability: Cloud users can easily scale their computing resources up or down as needed. This is useful for applications 
+that have fluctuating workloads.
+
+Reliability: Cloud providers have a high level of redundancy and availability. This means that cloud users can be 
+confident that their applications will be available when they need them.
+
+Security: Cloud providers use a variety of security measures to protect their data centers. This helps to protect 
+cloud users' data from unauthorized access
+
+Ease of use: Cloud computing is easy to use. There is no need to purchase or maintain IT infrastructure, and users 
+can access their applications from anywhere with an internet connection.
+
+
+Slide 6: VB: So, how does cloud computing help us reduce our energy consumption? 
+
+WM: There are a few ways.
+
+Through the nature of their operations, Cloud providers easily achieve economies of scale. Taking Google as an example, 
+they have 7 products with 1B users each. That sort of global scale requires processing and storage on a mind blowing 
+scale. Cloud providers build and operate much larger data centers than most businesses can afford to do on their own. 
+This allows them to use more efficient cooling and power systems. Cloud providers adapt more easily and quickly their 
+resources to meet demand. This means that they don't have to keep as much idle capacity as traditional data centers. 
+Idle capacity is a major source of energy waste in IT. Cloud providers increasingly use using renewable energy sources 
+to power their data centers. This is good for the environment, and it can also save money.
+
+
+Slide 7: WM: Let’s look a bit closer at the differences between Cloud and on-premise data centers. 
+Cloud data centers are typically more energy efficient than traditional on-premises data centers. 
+
+A study by the Lawrence Berkeley National Laboratory found that cloud data centers are about 30% more energy efficient 
+than traditional on-premises data centers. This is because cloud providers can take advantage of economies of scale and 
+use more efficient cooling and power systems. 
+
+The big cloud data centers use tailored chips, high-density storage, virtual-machine software, ultrafast networking and 
+customized airflow systems — all to increase computing firepower with the least electricity.
+
+VB: Cloud providers can more easily and quickly adapt their resources to meet demand. 
+
+This means that they don't have to keep as much idle capacity as traditional data centers. Idle capacity is a major 
+source of energy waste in IT. 
+
+A study by the Uptime Institute found that cloud providers can reduce their energy consumption by up to 50% by dynamically 
+adjusting their resources to meet demand. On average cloud providers that use dynamic resource adjustment reduce their 
+energy consumption by 30%. 
+
+WM: Cloud providers are increasingly using renewable energy sources to power their data centers. This is good for the 
+environment, and it can also save money. A study by the World Economic Forum found that cloud providers could reduce 
+their carbon emissions by up to 80% by using 100% renewable energy.
+
+VB: In addition to these scientific backings, there are a number of other reasons why cloud computing is more energy 
+efficient than traditional on-premises IT infrastructure. For example, cloud providers can use more efficient cooling
+systems, such as evaporative cooling and free cooling. They can also use more efficient power systems, such as 
+power-over-Ethernet (PoE) and uninterruptible power supplies (UPSs).
+
+WM: There are a few other ways that cloud computing can help to reduce environmental impact. 
+For example, cloud computing can help to reduce the amount of e-waste generated. This is because cloud providers can 
+often reuse and recycle hardware components, which reduces the need to purchase new hardware. 
+
+Cloud computing can also help to reduce the amount of traffic on the internet. This is because cloud providers can host 
+applications and data closer to users, which reduces the amount of data that needs to be transferred over the internet.
+
+VB: I think it’s safe to say that the scientific evidence shows that cloud computing is a more energy efficient way to 
+deliver IT services. 
+
+
+Slide 8: VB:
+Companies with average on-premise to cloud migrations can drive 65% energy reduction and carbon emission reduction of 84%.
+
+Companies can reduce application energy consumption by up to 50x when selecting the appropriate programming language for the task.
+
+Companies can stretch carbon emission reductions to 98% by configuring applications for the cloud.
+
+WM: IaaS migrations involve migrating applications from enterprise owned to cloud without major redesigns of applications 
+or workflows. These basic cloud-first journeys pave the way for significant carbon reduction opportunities. The main drivers 
+of IaaS include better power and cooling improvements that allow for less energy per compute unit, newer and more efficient 
+hardware optimized by cloud providers, and server utilization rates several times greater than typical enterprise-owned rates. 
+In most cases, cloud providers also have greater renewable energy mixes than traditional data centers and minimize data center 
+carbon footprints through renewable energy. Our analysis of the largest public cloud service providers shows average 
+enterprise-owned-to-cloud migrations can lead to an impressive 65% energy reduction and 84% carbon reduction.
+
+Sustainable software development approaches deliver even more improvements. Companies must make intentional choices to consider 
+cost and performance in the context of sustainability outcomes. For example, our experiments indicate that selecting the right 
+“fit-for-purpose” coding language can reduce energy consumption. Maintaining balance between accuracy of analytical models and 
+cloud resource consumption can result in significant savings. Accenture Labs’ research in sustainable software engineering 
+revealed that for certain types of programming techniques, the choice of coding language can impact energy consumption by as 
+much as 50 times. In dealing with AI, which is typically hosted on the cloud, choices related to accuracy can also make a big 
+difference in energy use. Consider this: Accenture found that while training a simple AI model for identifying flowers, 
+increasing model accuracy from 96% to 98% resulted in a nearly 7X jump in energy consumption.
+
+Sustainable software engineering practices drive energy and carbon reductions. But with limited resources, companies need to 
+prioritize which applications will deliver the biggest carbon benefit when it comes to sustainable development efforts. What’s 
+also important: executives should back sustainability as an outcome for optimizing software, shifting away from their 
+traditional focus on performance and cost reduction.
+
+Companies drive even greater carbon reductions through cloud-native architectures and deployments. Customizing applications 
+to be cloud-native can stretch carbon emission reduction to 98%. Customization requires designing applications to take full 
+advantage of on-demand computing, higher asset utilization rates, and dynamic allocation of computing resources. For 
+applications that are not fully migrated, companies can use digital decoupling to take the core parts of legacy applications 
+and build efficient cloud architecture around them.
+
+
+Slide 11: WM: Now, all of this is about infrastructure and hardware. Isn’t there something called Green Coding / Programming? 
+Is that easier in the Cloud? 
+
+VB: Yes, green programming is easier in the cloud. This is because cloud providers offer a number of features that can help 
+developers to write more efficient code. 
+
+For example, cloud providers can provide developers with metrics on their code's energy consumption. 
+
+This can help developers to identify areas where their code can be improved. 
+
+Cloud providers can also offer developers tools that can help them to optimize their code for energy efficiency.
+
+WM: Right. I guess in addition to the features offered by cloud providers, green programming would also be easier in the cloud 
+because of the way that cloud computing works.
+
+In a cloud environment, developers only pay for the resources that they use. 
+
+This means that developers have additional incentives to write efficient code, as they will only be charged for the resources 
+that their code actually uses.
+
+Here are some specific examples of how green programming can be easier in the cloud:
+
+Cloud providers can provide developers with metrics on their code's energy consumption. This can help developers to identify areas 
+where their code can be improved. For example, Amazon Web Services (AWS) offers a service called CloudWatch that provides developers
+with metrics on their code's energy consumption.
+
+Cloud providers can offer developers tools that can help them to optimize their code for energy efficiency. For example, 
+Google Cloud Platform (GCP) offers a tool called App Engine that can help developers to optimize their code for energy efficiency.
+
+In a cloud environment, developers only pay for the resources that they use. This means that developers have an incentive to write 
+efficient code, as they will only be charged for the resources that their code actually uses.
+
+
+Slide 14: WM: Recently I noticed Energy Saving Recommendations on my Windows 11 laptop. 
+
+How you configure settings on your Windows 11 device influences power consumption, battery life, and the carbon emissions that occur 
+from electricity generation. 
+
+Energy recommendations collects settings that have an outsized impact on power consumption in one single place, making it easy to 
+reduce your power consumption and improve battery life.
+
+You will see different items on the Energy recommendations settings page depending on the type of Windows device you have, whether 
+it is plugged into the wall for power, or running on battery.
+
+
+Slide 15: WM: I guess its a wrap. Thank you all for listening in and hope you learnt something you didnt know today.
+
+VB: its been a pleasure to hold this presentation. For those interested there are further links and resources in this presentation 
+that you can follow if you want to learn more about this important topic.
+
+WM & VB: Thanks and see you in the Cloud! 
