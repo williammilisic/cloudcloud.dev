@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 23 May 2024
+* Posted some of my favourite [Macklemore quotes](https://www.linkedin.com/posts/williammilisic_i-have-a-fairly-diverse-music-taste-ranging-activity-7199327211714183168-CpiD).
+
 ## 21 May 2024
 * Posted the slide set, notes and talking points from my and Victor Bodell's talk last year on the topic of [cloud computing and sustainability](https://www.linkedin.com/posts/williammilisic_cloud-computing-for-energy-reduction-activity-7198693029627473920-_6E). 
 
