@@ -6,7 +6,10 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+
+
 ## 23 May 2024
+* Last day serving on the [board of Brf Mimer](https://www.linkedin.com/posts/williammilisic_community-teamwork-gratitude-activity-7199484278903128064-UJB0) after more than 7 years.<br/><br/>
 * Posted some of my favourite [Macklemore quotes](https://www.linkedin.com/posts/williammilisic_i-have-a-fairly-diverse-music-taste-ranging-activity-7199327211714183168-CpiD).
 
 ## 21 May 2024
