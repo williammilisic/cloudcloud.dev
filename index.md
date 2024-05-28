@@ -8,7 +8,7 @@
 
 ## 28 May 2024
 * "*So let us not be blind to our differences, but let us also direct attention to our common interests and the means by which those differences can be resolved. **And if we cannot end now our differences, at least we can help make the world safe for diversity.** For, in the final analysis, our most basic common link is that we all inhabit this small planet. We all breathe the same air. We all cherish our children’s futures. And we are all mortal.*" - JFK<br/><br/>
-* 
+* "*Let us examine our attitude toward peace itself. Too many of us think it is impossible. Too many think it unreal. But that is a dangerous, defeatist belief. It leads to the conclusion that war is inevitable, that mankind is doomed, that we are gripped by forces we cannot control. We need not accept that view. Our problems are man-made — therefore, they can be solved by man. And man can be as big as he wants. **No problem of human destiny is beyond human beings.** Man's reason and spirit have often solved the seemingly unsolvable — and we believe they can do it again.*" - JFK
 
 ## 23 May 2024
 * Last day serving on the [board of Brf Mimer](https://www.linkedin.com/posts/williammilisic_community-teamwork-gratitude-activity-7199484278903128064-UJB0) after more than 7 years.<br/><br/>
