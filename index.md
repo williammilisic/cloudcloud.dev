@@ -7,7 +7,7 @@
 <br/>
 
 ## 28 May 2024
-* "*So let us not be blind to our differences, but let us also direct attention to our common interests and the means by which those differences can be resolved. And if we cannot end now our differences, at least we can help make the world safe for diversity. For, in the final analysis, our most basic common link is that we all inhabit this small planet. We all breathe the same air. We all cherish our children’s futures. And we are all mortal.*" - JFK<br/><br/>
+* "*So let us not be blind to our differences, but let us also direct attention to our common interests and the means by which those differences can be resolved. **And if we cannot end now our differences, at least we can help make the world safe for diversity.** For, in the final analysis, our most basic common link is that we all inhabit this small planet. We all breathe the same air. We all cherish our children’s futures. And we are all mortal.*" - JFK<br/><br/>
 * 
 
 ## 23 May 2024
