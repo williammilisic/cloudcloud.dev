@@ -6,7 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
-
+## 28 May 2024
+* "*So let us not be blind to our differences, but let us also direct attention to our common interests and the means by which those differences can be resolved. And if we cannot end now our differences, at least we can help make the world safe for diversity. For, in the final analysis, our most basic common link is that we all inhabit this small planet. We all breathe the same air. We all cherish our children’s futures. And we are all mortal.*" - JFK<br/><br/>
+* 
 
 ## 23 May 2024
 * Last day serving on the [board of Brf Mimer](https://www.linkedin.com/posts/williammilisic_community-teamwork-gratitude-activity-7199484278903128064-UJB0) after more than 7 years.<br/><br/>
