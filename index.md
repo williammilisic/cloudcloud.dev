@@ -7,7 +7,8 @@
 <br/>
 
 ## 3 June 2024
-* "*In essentials unity, in action freedom, and in all things trust.*" - An early Christian axiom
+* "*In essentials unity, in action freedom, and in all things trust.*" - An early Christian axiom<br/><br/>
+* "*A Man Without a Smiling Face Must Not Open a Shop.*" - Chinese proverb 
 
 ## 1 June 2024
 * [Book Review](https://www.linkedin.com/posts/williammilisic_bookreview-audiobook-drucker-activity-7202564517153640448-lWJ9) of Peter F. Drucker's "The Five Most Important Questions".
