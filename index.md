@@ -6,6 +6,11 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 13 June 2024
+* "*Senior management is simply a flag bearer when a business decision is made. It is of no use unless others follow the flag.*" — Eiji Toyoda<br/><br/>
+* "*Having no problems, is the biggest problem of all.*" - Taiichi Ohno<br/><br/>
+* "*Ask 'why' five times about every matter.*" - Taiichi Ohno
+
 ## 11 June 2024
 * [Third year](https://www.linkedin.com/posts/williammilisic_blodomloppet-seb-cloudcore-activity-7206349590202134528-TSPY) straight running Blodomloppet. Great event and chance to hang out with colleagues. 
 
