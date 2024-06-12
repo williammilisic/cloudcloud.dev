@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 4 June 2024
+* 1st time attending the [AWS Summit Stockholm](https://www.linkedin.com/posts/williammilisic_awssummitstockholm-ai-activity-7203806257797861377-jgr9), which was a blast. 
+
 ## 3 June 2024
 * "*In essentials unity, in action freedom, and in all things trust.*" - An early Christian axiom<br/><br/>
 * "*A Man Without a Smiling Face Must Not Open a Shop.*" - Chinese proverb 
