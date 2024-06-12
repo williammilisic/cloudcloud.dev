@@ -10,7 +10,7 @@
 * "*Senior management is simply a flag bearer when a business decision is made. It is of no use unless others follow the flag.*" — Eiji Toyoda<br/><br/>
 * "*Having no problems, is the biggest problem of all.*" - Taiichi Ohno<br/><br/>
 * "*Ask 'why' five times about every matter.*" - Taiichi Ohno<br/><br/>
-* "*The Toyota style is not to create results by working hard. It is a system that says there is n limit to people's creativity. People don't go to Toyota to 'work', they go there to 'think'.*" - Taiichi Ohno 
+* "*The Toyota style is not to create results by working hard. It is a system that says there is no limit to people's creativity. People don't go to Toyota to 'work', they go there to 'think'.*" - Taiichi Ohno 
 
 ## 11 June 2024
 * [Third year](https://www.linkedin.com/posts/williammilisic_blodomloppet-seb-cloudcore-activity-7206349590202134528-TSPY) straight running Blodomloppet. Great event and chance to hang out with colleagues. 
