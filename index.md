@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 5 June 2024
+* A few words on striking a [sound balance](https://www.linkedin.com/posts/williammilisic_publiccloud-cloudcomputing-managedplatform-activity-7203992994574659585-00z2) between control and freedom that stands the test of circumstances is all but easy but well worth a try. 
+
 ## 4 June 2024
 * 1st time attending the [AWS Summit Stockholm](https://www.linkedin.com/posts/williammilisic_awssummitstockholm-ai-activity-7203806257797861377-jgr9), which was a blast. 
 
