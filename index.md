@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 9 June 2024
+* Book review of [Technofeudalism](https://www.linkedin.com/posts/williammilisic_bookreview-technofeudalism-yanisvaroufakis-activity-7205086444900564992-nPLi) by Yanis Varoufakis. An interesting perspective on current state of the world and growing power and influence of Big Tech.
+
 ## 5 June 2024
 * A few words on striking a [sound balance](https://www.linkedin.com/posts/williammilisic_publiccloud-cloudcomputing-managedplatform-activity-7203992994574659585-00z2) between control and freedom that stands the test of circumstances is all but easy but well worth a try. 
 
