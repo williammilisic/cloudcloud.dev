@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 11 June 2024
+* [Third year](https://www.linkedin.com/posts/williammilisic_blodomloppet-seb-cloudcore-activity-7206349590202134528-TSPY) straight running Blodomloppet. Great event and chance to hang out with colleagues. 
+
 ## 9 June 2024
 * Book review of [Technofeudalism](https://www.linkedin.com/posts/williammilisic_bookreview-technofeudalism-yanisvaroufakis-activity-7205086444900564992-nPLi) by Yanis Varoufakis. An interesting perspective on current state of the world and growing power and influence of Big Tech.
 
