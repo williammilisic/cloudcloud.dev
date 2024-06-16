@@ -6,6 +6,11 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 16 June 2024
+* "*No institution can possibly survive if it needs geniuses or supermen to manage it. It must be organized in such a way as to be able to get along under a leadership composed of average human beings.*" - Peter Drucker<br/><br/>
+* Hansei is a Japanese word that means introspection or observation of one’s reflection. The word “Han” means to change or turn over, while “Sei” means to look back upon and examine oneself.
+Hansei is a systematic approach used to recognize and contemplate committed mistakes in the project life cycle that helps understand misconception, inaccuracy, failure, and errors. It helps organizations comprehend appropriate action and how it can be improved to avoid recurrence of the issue. Hansei is commonly performed after projects are completed, during year-end reviews, or as part of employee self-assessments.
+
 ## 13 June 2024
 * "*Senior management is simply a flag bearer when a business decision is made. It is of no use unless others follow the flag.*" — Eiji Toyoda<br/><br/>
 * "*Having no problems, is the biggest problem of all.*" - Taiichi Ohno<br/><br/>
