@@ -15,11 +15,12 @@ Being deeply rooted in the Japanese way of life, hansei became a practice for Ja
 - Clarify the problem
 - Breakdown the problem
 - Set a target
-_ Analyze the root cause
+- Analyze the root cause
 - Develop countermeasures
 - See countermeasures through
 - Evaluate both results and process
 - Standardize successful processes<br/><br>
+* "*Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.*" - Margaret Mead
 
 ## 13 June 2024
 * "*Senior management is simply a flag bearer when a business decision is made. It is of no use unless others follow the flag.*" — Eiji Toyoda<br/><br/>
