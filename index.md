@@ -11,7 +11,10 @@
 * Hansei is a Japanese cultural practice that focuses on self-reflection or introspection. It is a methodical approach to examining past actions, particularly mistakes, to understand why things have gone wrong and how it can be improved or prevented. Hansei is deeply ingrained in Japanese culture that it’s even taught to kids as early as kindergarten. This practice establishes a sense of responsibility and accountability in the lives of the Japanese early in their formative years and essentially becomes a way of life.
 <br/><br/>
 Being deeply rooted in the Japanese way of life, hansei became a practice for Japanese companies as well. The idea of introspection is applied in the context of an organization. This can be done after projects are completed, during year-end reviews, or as part of employee self-assessments. Hansei must be conducted regularly after each event no matter the outcome experienced.<br/><br/>
-* 
+* The 8 Steps of the Toyota Business Process: 
+** Clarify the problem
+** Breakdown the problemSet a targetAnalyze the root causeDevelop countermeasuresSee countermeasures throughEvaluate both results and processStandardize successful processes
+
 ## 13 June 2024
 * "*Senior management is simply a flag bearer when a business decision is made. It is of no use unless others follow the flag.*" — Eiji Toyoda<br/><br/>
 * "*Having no problems, is the biggest problem of all.*" - Taiichi Ohno<br/><br/>
