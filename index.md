@@ -12,8 +12,9 @@
 <br/><br/>
 Being deeply rooted in the Japanese way of life, hansei became a practice for Japanese companies as well. The idea of introspection is applied in the context of an organization. This can be done after projects are completed, during year-end reviews, or as part of employee self-assessments. Hansei must be conducted regularly after each event no matter the outcome experienced.<br/><br/>
 * The 8 Steps of the Toyota Business Process: 
-** Clarify the problem
-** Breakdown the problemSet a targetAnalyze the root causeDevelop countermeasuresSee countermeasures throughEvaluate both results and processStandardize successful processes
+- Clarify the problem
+- Breakdown the problem
+- Set a targetAnalyze the root causeDevelop countermeasuresSee countermeasures throughEvaluate both results and processStandardize successful processes
 
 ## 13 June 2024
 * "*Senior management is simply a flag bearer when a business decision is made. It is of no use unless others follow the flag.*" — Eiji Toyoda<br/><br/>
