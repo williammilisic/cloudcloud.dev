@@ -14,7 +14,12 @@ Being deeply rooted in the Japanese way of life, hansei became a practice for Ja
 * The 8 Steps of the Toyota Business Process: 
 - Clarify the problem
 - Breakdown the problem
-- Set a targetAnalyze the root causeDevelop countermeasuresSee countermeasures throughEvaluate both results and processStandardize successful processes
+- Set a target
+_ Analyze the root cause
+- Develop countermeasures
+- See countermeasures through
+- Evaluate both results and process
+- Standardize successful processes<br/><br>
 
 ## 13 June 2024
 * "*Senior management is simply a flag bearer when a business decision is made. It is of no use unless others follow the flag.*" — Eiji Toyoda<br/><br/>
