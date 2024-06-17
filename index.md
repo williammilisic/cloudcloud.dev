@@ -6,6 +6,12 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 17 June 2024
+* Shu-Ha-Ri is a way of thinking about how you learn a technique. The name comes from Japanese martial arts. The idea is that a person passes through three stages of gaining knowledge:
+- Shu: In this beginning stage students follow the teachings of one master precisely. They concentrate on how to do the task, without worrying too much about the underlying theory. If there are multiple variations on how to do the task, they concentrate on just the one way their master teaches them.
+- Ha: At this point students begin to branch out. With the basic practices working they now start to learn the underlying principles and theory behind the technique. They also start learning from other masters and integrates that learning into his practice.
+- Ri: Now the students aren't learning from other people, but from their own practice. They create their own approaches and adapts what they've learned to their own particular circumstances.
+
 ## 16 June 2024
 * "*No institution can possibly survive if it needs geniuses or supermen to manage it. It must be organized in such a way as to be able to get along under a leadership composed of average human beings.*" - Peter Drucker<br/><br/>
 * Hansei is a Japanese cultural practice that focuses on self-reflection or introspection. It is a methodical approach to examining past actions, particularly mistakes, to understand why things have gone wrong and how it can be improved or prevented. Hansei is deeply ingrained in Japanese culture that it’s even taught to kids as early as kindergarten. This practice establishes a sense of responsibility and accountability in the lives of the Japanese early in their formative years and essentially becomes a way of life.
