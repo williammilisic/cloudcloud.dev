@@ -7,7 +7,8 @@
 <br/>
 
 ## 19 June 2024
-* "*I prefer dangerous freedom over peaceful slavery.*" - Thomas Jefferson 
+* "*I prefer dangerous freedom over peaceful slavery.*" - Thomas Jefferson <br/><br/>
+* "*It does not matter how slowly you go as long as you do not stop.*" - Confucius
 
 ## 17 June 2024
 * Shu-Ha-Ri is a way of thinking about how you learn a technique. The name comes from Japanese martial arts. The idea is that a person passes through three stages of gaining knowledge:
