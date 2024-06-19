@@ -13,7 +13,7 @@
 * "*We at Toyota made a mistake. We should have never called it the Toyota Production System, we should have called it the Thinking Production System. Because the real point is to make people think and people are the value of the system.*" - Toyota employee 
 
 ## 17 June 2024
-* Shu-Ha-Ri is a way of thinking about how you learn a technique. The name comes from Japanese martial arts. The idea is that a person passes through three stages of gaining knowledge:
+* **Shu-Ha-Ri** is a way of thinking about how you learn a technique. The name comes from Japanese martial arts. The idea is that a person passes through three stages of gaining knowledge:
 - Shu: In this beginning stage students follow the teachings of one master precisely. They concentrate on how to do the task, without worrying too much about the underlying theory. If there are multiple variations on how to do the task, they concentrate on just the one way their master teaches them.
 - Ha: At this point students begin to branch out. With the basic practices working they now start to learn the underlying principles and theory behind the technique. They also start learning from other masters and integrate that learning into his practice.
 - Ri: Now the students aren't learning from other people, but from their own practice. They create their own approaches and adapt what they've learned to their own particular circumstances.
