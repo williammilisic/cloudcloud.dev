@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 19 June 2024
+* "*I prefer dangerous freedom over peaceful slavery.*" - Thomas Jefferson 
+
 ## 17 June 2024
 * Shu-Ha-Ri is a way of thinking about how you learn a technique. The name comes from Japanese martial arts. The idea is that a person passes through three stages of gaining knowledge:
 - Shu: In this beginning stage students follow the teachings of one master precisely. They concentrate on how to do the task, without worrying too much about the underlying theory. If there are multiple variations on how to do the task, they concentrate on just the one way their master teaches them.
