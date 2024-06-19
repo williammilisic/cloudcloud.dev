@@ -10,7 +10,7 @@
 * "*I prefer dangerous freedom over peaceful slavery.*" - Thomas Jefferson <br/><br/>
 * "*It does not matter how slowly you go as long as you do not stop.*" - Confucius<br/><br/>
 * "*Our greatest glory is not in never falling, but in rising every time we fall.*" - Confucius<br/><br/>
-* "*We at Toyota made a mistake. We should have never called it the Toyota Production System, we should have called it the Thinking Production System. Because the real point is to make people think and people are the value of the system." - Toyota employee 
+* "*We at Toyota made a mistake. We should have never called it the Toyota Production System, we should have called it the Thinking Production System. Because the real point is to make people think and people are the value of the system.*" - Toyota employee 
 
 ## 17 June 2024
 * Shu-Ha-Ri is a way of thinking about how you learn a technique. The name comes from Japanese martial arts. The idea is that a person passes through three stages of gaining knowledge:
