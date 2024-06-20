@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 21 June 2024
+* *Monozukuri*, or alternatively spelled monodzukuri, literally means 'production' or 'making of things' in Japanese and is the Japanese term for 'manufacturing'. The broader meaning encompasses a synthesis of technological prowess, know-how, and spirit of Japan's manufacturing practices. The spirit includes a sincere attitude towards production with pride, skill, and dedication and the pursuit of innovation and perfection.
+
 ## 19 June 2024
 * "*I prefer dangerous freedom over peaceful slavery.*" - Thomas Jefferson <br/><br/>
 * "*It does not matter how slowly you go as long as you do not stop.*" - Confucius<br/><br/>
