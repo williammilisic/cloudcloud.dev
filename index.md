@@ -7,6 +7,7 @@
 <br/>
 
 ## 21 June 2024
+* "Vision without action is a daydream. Action without vision is a nightmare.*" - Japanese proverb <br/><br/>
 * **Monozukuri**, or alternatively spelled monodzukuri, literally means 'production' or 'making of things' in Japanese and is the Japanese term for 'manufacturing'. The broader meaning encompasses a synthesis of technological prowess, know-how, and spirit of Japan's manufacturing practices. The spirit includes a sincere attitude towards production with pride, skill, and dedication and the pursuit of innovation and perfection.
 
 ## 19 June 2024
