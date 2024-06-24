@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 24 June 2024
+* Some [thoughts](https://www.linkedin.com/posts/williammilisic_cloudtransformations-cloudtransformation-activity-7211076535565316098-Pdmw) on why viewing cloud as yet another data centre may be a starting point for many, but also why it doesn't have to be like that. 
+
 ## 21 June 2024
 * "*Vision without action is a daydream. Action without vision is a nightmare.*" - Japanese proverb <br/><br/>
 * **Monozukuri**, or alternatively spelled monodzukuri, literally means 'production' or 'making of things' in Japanese and is the Japanese term for 'manufacturing'. The broader meaning encompasses a synthesis of technological prowess, know-how, and spirit of Japan's manufacturing practices. The spirit includes a sincere attitude towards production with pride, skill, and dedication and the pursuit of innovation and perfection.
