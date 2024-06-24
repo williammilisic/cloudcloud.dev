@@ -7,7 +7,7 @@
 <br/>
 
 ## 24 June 2024
-* Some [thoughts](https://www.linkedin.com/posts/williammilisic_cloudtransformations-cloudtransformation-activity-7211076535565316098-Pdmw) on why viewing cloud as yet another data centre may be a starting point for many, but also why it doesn't have to be like that. 
+* Some [thoughts](https://www.linkedin.com/posts/williammilisic_cloudtransformations-cloudtransformation-activity-7211076535565316098-Pdmw) on why viewing cloud as yet another data centre may be a starting point for many, but also why it can't stay very long like that. 
 
 ## 21 June 2024
 * "*Vision without action is a daydream. Action without vision is a nightmare.*" - Japanese proverb <br/><br/>
