@@ -9,6 +9,11 @@
 ## 1 July 2024
 * ”*No man is above the law and no man is below it: nor do we ask any man's permission when we ask him to obey it.*” - Theodore Roosevelt
 
+## 26 June 2024
+* "*Don't cry because it's over. Smile because it happened.*" - Dr. Seuss<br/><br/>
+* "*Good, better, best. Never let it rest. 'Til your good is better and your better is best.*" - St. Jerome<br/><br/>
+* "*Your attitude, not your aptitude, will determine your altitude.*" - Zig Ziglar
+
 ## 24 June 2024
 * Some [thoughts](https://www.linkedin.com/posts/williammilisic_cloudtransformations-cloudtransformation-activity-7211076535565316098-Pdmw) on why viewing cloud as yet another data centre may be a starting point for many, but also why it can't stay very long like that. 
 
