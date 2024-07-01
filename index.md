@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 1 July 2024
+* ”*No man is above the law and no man is below it: nor do we ask any man's permission when we ask him to obey it.*” - Theodore Roosevelt
+
 ## 24 June 2024
 * Some [thoughts](https://www.linkedin.com/posts/williammilisic_cloudtransformations-cloudtransformation-activity-7211076535565316098-Pdmw) on why viewing cloud as yet another data centre may be a starting point for many, but also why it can't stay very long like that. 
 
