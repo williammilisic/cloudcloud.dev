@@ -7,7 +7,8 @@
 <br/>
 
 ## 4 July 2024
-* Did a [fun video recording](https://www.linkedin.com/posts/williammilisic_cloudtransformation-sebtech-sebcloud-activity-7214279298784849920-48Pc) on Cloud, educations and Pluralsight, with Pluralsight. 
+* Did a [fun video recording](https://www.linkedin.com/posts/williammilisic_cloudtransformation-sebtech-sebcloud-activity-7214279298784849920-48Pc) on Cloud, educations and Pluralsight, with Pluralsight. <br/><br/>
+* Some thoughts on [micro-segmentation](https://www.linkedin.com/posts/williammilisic_cloudtransformation-sebtech-sebcloud-activity-7214279298784849920-48Pc).
 
 ## 1 July 2024
 * ”*No man is above the law and no man is below it: nor do we ask any man's permission when we ask him to obey it.*” - Theodore Roosevelt
