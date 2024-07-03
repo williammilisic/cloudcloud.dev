@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 4 July 2024
+* Did a [fun video recording](https://www.linkedin.com/posts/williammilisic_cloudtransformation-sebtech-sebcloud-activity-7214279298784849920-48Pc) on Cloud, educations and Pluralsight, with Pluralsight. 
+
 ## 1 July 2024
 * ”*No man is above the law and no man is below it: nor do we ask any man's permission when we ask him to obey it.*” - Theodore Roosevelt
 
