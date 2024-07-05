@@ -6,6 +6,11 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 5 July 2024
+* The term jishuken is used to describe the intentional, workplace-focused activity called gemba kaizen. The origin of jishuken comes from “kanban houshiki bukachou jishu kenkyuukai”. This translates as “kanban system department & section manager autonomous study groups”. This was shortened to “jishuken” which is “self study”. 
+
+
+
 ## 4 July 2024
 * Did a [fun video recording](https://www.linkedin.com/posts/williammilisic_cloudtransformation-sebtech-sebcloud-activity-7214279298784849920-48Pc) on Cloud, educations and Pluralsight, with Pluralsight. <br/><br/>
 * Some thoughts on [micro-segmentation](https://www.linkedin.com/posts/williammilisic_cloudtransformation-sebtech-sebcloud-activity-7214279298784849920-48Pc).
