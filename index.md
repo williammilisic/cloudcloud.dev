@@ -15,7 +15,7 @@ and spread information through the organization to stimulate kaizen activity." I
 employees on the shop floor, jishuken requires managers to conduct hands-on kaizen activity on the factory floor. This helps
 managers take ownership of kaizen and create a culture of observing problem areas in their natural state.<br/><br/>
 * “*The function of leadership is to produce more leaders, not more followers.*" - Ralph Nader<br/><br/>
-* “*The only true aging is the erosion of one’s ideals.*" - — Ralph Nader
+* “*The only true aging is the erosion of one’s ideals.*" - Ralph Nader
 
 
 
