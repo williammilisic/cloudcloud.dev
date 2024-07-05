@@ -13,7 +13,9 @@ This was shortened to “jishuken” which is “self study”.
 Jishuken is a "management-driven kaizen activity where management members identify areas in need of continuous improvement 
 and spread information through the organization to stimulate kaizen activity." In other words, while kaizen typically involves all 
 employees on the shop floor, jishuken requires managers to conduct hands-on kaizen activity on the factory floor. This helps
-managers take ownership of kaizen and create a culture of observing problem areas in their natural state.
+managers take ownership of kaizen and create a culture of observing problem areas in their natural state.<br/><br/>
+* “*The function of leadership is to produce more leaders, not more followers.*" - Ralph Nader<br/><br/>
+
 
 
 
