@@ -7,7 +7,13 @@
 <br/>
 
 ## 5 July 2024
-* The term jishuken is used to describe the intentional, workplace-focused activity called gemba kaizen. The origin of jishuken comes from “kanban houshiki bukachou jishu kenkyuukai”. This translates as “kanban system department & section manager autonomous study groups”. This was shortened to “jishuken” which is “self study”. jishuken is a "management-driven kaizen activity where management members identify areas in need of continuous improvement and spread information through the organization to stimulate kaizen activity." In other words, while kaizen typically involves all employees on the shop floor, jishuken requires managers to conduct hands-on kaizen activity on the factory floor. This helps managers take ownership of kaizen and create a culture of observing problem areas in their natural state
+* The term jishuken is used to describe the intentional, workplace-focused activity called gemba kaizen. 
+The origin of jishuken comes from “kanban houshiki bukachou jishu kenkyuukai”. This translates as “kanban system department & section manager autonomous study groups”. 
+This was shortened to “jishuken” which is “self study”. 
+Jishuken is a "management-driven kaizen activity where management members identify areas in need of continuous improvement 
+and spread information through the organization to stimulate kaizen activity." In other words, while kaizen typically involves all 
+employees on the shop floor, jishuken requires managers to conduct hands-on kaizen activity on the factory floor. This helps
+managers take ownership of kaizen and create a culture of observing problem areas in their natural state.
 
 
 
