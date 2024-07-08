@@ -6,6 +6,10 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+
+## 8 July 2024
+* “Intelligent individuals learn from every thing and every one; average people, from their experiences. The stupid already have all the answers.” ― Socrates
+
 ## 5 July 2024
 * The term jishuken is used to describe the intentional, workplace-focused activity called gemba kaizen. 
 The origin of jishuken comes from “kanban houshiki bukachou jishu kenkyuukai”. This translates as “kanban system department & section manager autonomous study groups”. 
