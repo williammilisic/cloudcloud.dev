@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 10 July 2024
+* Yamazumi in Japanese means “to stack up.” A Yamazumi chart is a graph that shows the cycle time of each task in a process step displayed as a stacked bar graph. It’s a tool to visualize machine and operator cycle time to assess performance. It’s also a good indicator of variation among workstations that do the same thing. Variations, or mura in Japanese, result in muda or waste. Read [more](https://kanbanzone.com/2020/yamazumi-chart-why-use-it/).
+
 ## 9 July 2024
 * Book review of "[The Toyota Way to Lean Leadership](https://www.linkedin.com/posts/williammilisic_kaizen-activity-7216316432370782214-QQsjk)" by Jeffrey Liker and Gary Convis. <br/><br/>
 * Recruiting for a [Technical Service Manager](https://www.linkedin.com/posts/williammilisic_iamhiring-saasintegrator-sebtech-activity-7216345131640111106-GA6t). Also learnt how to block someone on LinkedIn.
