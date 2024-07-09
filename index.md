@@ -7,7 +7,9 @@
 <br/>
 
 ## 9 July 2024
-* Book review of "[The Toyota Way to Lean Leadership](https://www.linkedin.com/posts/williammilisic_kaizen-activity-7216316432370782214-QQsjk)" by Jeffrey Liker and Gary Convis. 
+* Book review of "[The Toyota Way to Lean Leadership](https://www.linkedin.com/posts/williammilisic_kaizen-activity-7216316432370782214-QQsjk)" by Jeffrey Liker and Gary Convis. <br/><br/>
+* Recruiting for a [Technical Service Manager](https://www.linkedin.com/posts/williammilisic_iamhiring-saasintegrator-sebtech-activity-7216345131640111106-GA6t). Also learnt how to block someone on LinkedIn.
+
 
 ## 8 July 2024
 * “*Intelligent individuals learn from every thing and every one; average people, from their experiences. The stupid already have all the answers.*” ― Socrates
