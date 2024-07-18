@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 18 July 2024
+* [Book review](https://www.linkedin.com/posts/williammilisic_simon-sinek-simonsinek-activity-7219590614923849728-ODmZ) of Simon Sinek's "The Infinite Game."
+
 ## 10 July 2024
 * **Yokoten** is a Japanese word that translates to “best practice sharing.” In the world of process improvement, Yokoten is a tool that helps to unify and standardize work processes across an organization. It’s essential for creating a standardized and efficient process, which is key to minimizing errors and maximizing productivity. Think of Yokoten as the foundation for creating a process that everyone in the organization can understand and follow. Without a standardized process, employees are often left to figure things out on their own, leading to inconsistency and confusion. To solve this problem, Yokoten provides a framework for everyone to follow so that everyone is on the same page. Read [more](https://safetyculture.com/topics/yokoten/). 
 * **Yamazumi** in Japanese means “to stack up.” A Yamazumi chart is a graph that shows the cycle time of each task in a process step displayed as a stacked bar graph. It’s a tool to visualize machine and operator cycle time to assess performance. It’s also a good indicator of variation among workstations that do the same thing. Variations, or mura in Japanese, result in muda or waste. Read [more](https://kanbanzone.com/2020/yamazumi-chart-why-use-it/).
