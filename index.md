@@ -6,6 +6,12 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 19 July 2024
+* “*Consumption is the sole end and purpose of all production and the interest of the producer ought to be attended to, only so far as it may be necessary for promoting that of the customer. The maxim is so perfectly self-evident, that it would be absurd to attempt to prove it. But in the mercantile system, the interest of the consumer is almost constantly sacrificed to that of the producer; and it seems to consider production, and not consumption, as the ultimate end and object of all industry and commerce.*" - Adam Smith, The Wealth of Nations<br/><br/>
+* "*There is one and only one social responsibility of business, to use its resources and engage in activities designed to increase its profits so long as it stays within the rules of the game, which is to say, engages in open and free competition without deception or fraud.*" - Milton Friedman
+
+
+
 ## 18 July 2024
 * [Book review](https://www.linkedin.com/posts/williammilisic_simon-sinek-simonsinek-activity-7219590614923849728-ODmZ) of Simon Sinek's "The Infinite Game."
 
