@@ -8,8 +8,8 @@
 
 ## 19 July 2024
 * “*Consumption is the sole end and purpose of all production and the interest of the producer ought to be attended to, only so far as it may be necessary for promoting that of the customer. The maxim is so perfectly self-evident, that it would be absurd to attempt to prove it. But in the mercantile system, the interest of the consumer is almost constantly sacrificed to that of the producer; and it seems to consider production, and not consumption, as the ultimate end and object of all industry and commerce.*" - Adam Smith, The Wealth of Nations<br/><br/>
-* "*There is one and only one social responsibility of business, to use its resources and engage in activities designed to increase its profits so long as it stays within the rules of the game, which is to say, engages in open and free competition without deception or fraud.*" - Milton Friedman
-
+* "*There is one and only one social responsibility of business, to use its resources and engage in activities designed to increase its profits so long as it stays within the rules of the game, which is to say, engages in open and free competition without deception or fraud.*" - Milton Friedman<br/><br/>
+* "*Without a sense of purpose, no company, either public or private, can achieve its full potential. It will ultimately lose the license to operate from key stakeholders. It will succumb to short-term pressures to distribute earnings, and, in the process, sacrifice investments in employee development, innovation, and capital expenditures that are necessary for long-term growth. It will remain exposed to activist campaigns that articulate a clearer goal, even if that goal serves only the shortest and narrowest of objectives. And ultimately, that company will provide subpar returns to the investors who depend on it to finance their retirement, home purchases, or higher education.*" - Larry Fink, BlackRock CEO, [2018 letter to CEOs](https://www.blackrock.com/corporate/investor-relations/2018-larry-fink-ceo-letter)
 
 
 ## 18 July 2024
