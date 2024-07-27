@@ -7,7 +7,8 @@
 <br/>
 
 ## 28 July 2024
-* "*Rough waters are truer tests of leadership. In calm water, every ship has a good captain.*" - Swedish proverb 
+* "*Rough waters are truer tests of leadership. In calm water, every ship has a good captain.*" - Swedish proverb <br/><br/>
+* "*In the infinite game, the only real competitor is yourself.*" - Simon Sinek
 
 ## 25 July 2024
 * Some more [gems](https://www.linkedin.com/posts/williammilisic_gergely-orosz-delivers-so-many-gems-in-his-activity-7222294598805561344-Tp5K) from "The Software Engineer's Guidebook. <br/>
