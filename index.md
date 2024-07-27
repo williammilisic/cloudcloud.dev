@@ -11,11 +11,11 @@
 * "*In the infinite game, the only real competitor is yourself.*" - Simon Sinek <br/><br/>
 * "*Our products and services are some of the things we use to advance our cause. They are not themselves the cause.*" - Simon Sinek<br/><br/>
 * A just cause embraces five standards:
-- For something: affirmative and optimistic.
-- Inclusive: open to all those who would like to contribute
-- Service-oriented: for the primary benefit of others
-- Resilient: able to endure political, technological and cultural change
-- Idealistic: big, bold and ultimately unachievable
+- **For something**: affirmative and optimistic.
+- **Inclusive**: open to all those who would like to contribute
+- **Service-oriented**: for the primary benefit of others
+- **Resilient**: able to endure political, technological and cultural change
+- **Idealistic**: big, bold and ultimately unachievable
 
 ## 25 July 2024
 * Some more [gems](https://www.linkedin.com/posts/williammilisic_gergely-orosz-delivers-so-many-gems-in-his-activity-7222294598805561344-Tp5K) from "The Software Engineer's Guidebook. <br/>
