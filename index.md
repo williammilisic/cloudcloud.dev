@@ -10,7 +10,7 @@
 * "*Rough waters are truer tests of leadership. In calm water, every ship has a good captain.*" - Swedish proverb <br/><br/>
 * "*In the infinite game, the only real competitor is yourself.*" - Simon Sinek <br/><br/>
 * "*Our products and services are some of the things we use to advance our cause. They are not themselves the cause.*" - Simon Sinek<br/><br/>
-* A just cause embraces five standards:
+* A just cause embraces five **standards**:
 - **For something**: affirmative and optimistic.
 - **Inclusive**: open to all those who would like to contribute
 - **Service-oriented**: for the primary benefit of others
