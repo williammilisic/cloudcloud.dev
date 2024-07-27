@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 28 July 2024
+* "*Rough waters are truer tests of leadership. In calm water, every ship has a good captain.*" - Swedish proverb 
+
 ## 25 July 2024
 * Some more [gems](https://www.linkedin.com/posts/williammilisic_gergely-orosz-delivers-so-many-gems-in-his-activity-7222294598805561344-Tp5K) from "The Software Engineer's Guidebook. <br/>
 “*If you work at a company with a dedicated infrastructure team, it can be tempting to skip the learning process and turn to the infra team, when you suspect an infrastructure issue. However, this approach will ultimately slow you down. Besides, learning how infrastructure works under the hood is not only interesting in itself; this depth of understanding is table stakes for well-rounded senior engineers.*"
