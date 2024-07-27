@@ -6,6 +6,10 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 25 July 2024
+* Some more [gems](https://www.linkedin.com/posts/williammilisic_gergely-orosz-delivers-so-many-gems-in-his-activity-7222294598805561344-Tp5K) from "The Software Engineer's Guidebook. <br/>
+“*If you work at a company with a dedicated infrastructure team, it can be tempting to skip the learning process and turn to the infra team, when you suspect an infrastructure issue. However, this approach will ultimately slow you down. Besides, learning how infrastructure works under the hood is not only interesting in itself; this depth of understanding is table stakes for well-rounded senior engineers.*"
+
 ## 19 July 2024
 * “*Consumption is the sole end and purpose of all production and the interest of the producer ought to be attended to, only so far as it may be necessary for promoting that of the customer. The maxim is so perfectly self-evident, that it would be absurd to attempt to prove it. But in the mercantile system, the interest of the consumer is almost constantly sacrificed to that of the producer; and it seems to consider production, and not consumption, as the ultimate end and object of all industry and commerce.*" - Adam Smith, The Wealth of Nations<br/><br/>
 * "*There is one and only one social responsibility of business, to use its resources and engage in activities designed to increase its profits so long as it stays within the rules of the game, which is to say, engages in open and free competition without deception or fraud.*" - Milton Friedman<br/><br/>
