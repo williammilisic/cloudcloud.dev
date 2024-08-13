@@ -13,7 +13,7 @@
 * Some reflections [why not doing anything work related during the summer vacation](https://www.linkedin.com/posts/williammilisic_gcp-cloud-activity-7227379679169585152-WQPx) can be a great thing.
 
 ## 1 August 2024
-* Maintaining some traditions is important. [Here](https://www.linkedin.com/posts/williammilisic_tradition-family-summertime-activity-7225017320098676737-_yhXon) my and my kids' yearly kayaking tradition. 
+* Maintaining some traditions is important. [Here a post](https://www.linkedin.com/posts/williammilisic_tradition-family-summertime-activity-7225017320098676737-_yhX) on my and my kids' yearly kayaking tradition. 
 
 ## 28 July 2024
 * "*Rough waters are truer tests of leadership. In calm water, every ship has a good captain.*" - Swedish proverb <br/><br/>
