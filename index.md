@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 12 August 2024
+* Why [general IT concepts](https://www.linkedin.com/posts/williammilisic_softwaredevelopment-software-softwaredelivery-activity-7228828905397190656-8WJ3) can not be sole possession of a select few. 
+
 ## 28 July 2024
 * "*Rough waters are truer tests of leadership. In calm water, every ship has a good captain.*" - Swedish proverb <br/><br/>
 * "*In the infinite game, the only real competitor is yourself.*" - Simon Sinek <br/><br/>
