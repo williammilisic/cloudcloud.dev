@@ -9,6 +9,9 @@
 ## 12 August 2024
 * Why [general IT concepts](https://www.linkedin.com/posts/williammilisic_softwaredevelopment-software-softwaredelivery-activity-7228828905397190656-8WJ3) can not be sole possession of a select few. 
 
+## 7 August 2024
+* Some reflections [why not doing anything work related during the summer vacation](https://www.linkedin.com/posts/williammilisic_gcp-cloud-activity-7227379679169585152-WQPx) can be a great thing. 
+
 ## 28 July 2024
 * "*Rough waters are truer tests of leadership. In calm water, every ship has a good captain.*" - Swedish proverb <br/><br/>
 * "*In the infinite game, the only real competitor is yourself.*" - Simon Sinek <br/><br/>
