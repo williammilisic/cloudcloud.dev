@@ -7,7 +7,7 @@
 <br/>
 
 ## 14 August 2024
-* "*Birds raised in a cage... think flying is a disease.*" - Winston Churchill <br/><br/>
+* "*Birds born in a cage, think flying is a disease.*" - Alejandro Jodorowsky <br/><br/>
 
 ## 12 August 2024
 * Why [general IT concepts](https://www.linkedin.com/posts/williammilisic_softwaredevelopment-software-softwaredelivery-activity-7228828905397190656-8WJ3) can not be sole possession of a select few. 
