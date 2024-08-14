@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 14 August 2024
+* "*Birds raised in a cage... think flying is a disease.*" - Winston Churchill <br/><br/>
+
 ## 12 August 2024
 * Why [general IT concepts](https://www.linkedin.com/posts/williammilisic_softwaredevelopment-software-softwaredelivery-activity-7228828905397190656-8WJ3) can not be sole possession of a select few. 
 
