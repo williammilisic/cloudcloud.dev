@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 20 August 2024
+* "*When we treat man as he is we make him worse than he is. When we treat him as if he already was what he potentially could be. We make him what he should be.*" - Goethe
+
 ## 14 August 2024
 * "*Birds born in a cage, think flying is a disease.*" - Alejandro Jodorowsky <br/><br/>
 
