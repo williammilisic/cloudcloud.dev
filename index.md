@@ -7,7 +7,7 @@
 <br/>
 
 ## 20 August 2024
-* "*When we treat man as he is we make him worse than he is. When we treat him as if he already was what he potentially could be. We make him what he should be.*" - Goethe
+* "*Treat a man as he appears to be, and you make him worse. But treat a man as if he already was what he potentially could be, and you make him what he should be.*" - Johann Wolfgang von Goethe
 
 ## 14 August 2024
 * "*Birds born in a cage, think flying is a disease.*" - Alejandro Jodorowsky <br/><br/>
