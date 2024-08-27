@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 27 August 2024
+* "*A bird sitting in a tree is not afraid of the branch breaking, because her trust is not in the branch, but in her own wings.*" 
+
 ## 20 August 2024
 * "*Treat a man as he appears to be, and you make him worse. But treat a man as if he already was what he potentially could be, and you make him what he should be.*" - Johann Wolfgang von Goethe
 
