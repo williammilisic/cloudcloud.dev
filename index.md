@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 3 September 2024
+* "*How selfish soever man may be supposed, there are evidently some principles in his nature, which interest him in the fortune of others, and render their happiness necessary to him, though he derives nothing from it, except the pleasure of seeing it.*" - Adam Smith
+
 ## 2 September 2024
 * A [walk down the memory lane](https://www.linkedin.com/posts/williammilisic_i-recall-fondly-how-i-back-in-2008-started-activity-7236446835546980352-YHsG) to my first encounter with Salesforce back in 2008, and how SFDC changed how enterprises consume software. 
 
