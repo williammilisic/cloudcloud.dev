@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 2 September 2024
+* A [walk down the memory lane](https://www.linkedin.com/posts/williammilisic_i-recall-fondly-how-i-back-in-2008-started-activity-7236446835546980352-YHsG) to my first encounter with Salesforce back in 2008, and how SFDC changed how enterprises consume software. 
+
 ## 27 August 2024
 * "*A bird sitting in a tree is not afraid of the branch breaking, because her trust is not in the branch, but in her own wings.*" 
 
