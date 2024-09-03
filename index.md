@@ -15,6 +15,9 @@
 ## 27 August 2024
 * "*A bird sitting in a tree is not afraid of the branch breaking, because her trust is not in the branch, but in her own wings.*" 
 
+## 22 August 2024
+* Some images from my morning [commute run](https://www.linkedin.com/posts/williammilisic_commuterun-shinrinyoku-activity-7232285760656220161-pJOA) to work.
+
 ## 20 August 2024
 * "*Treat a man as he appears to be, and you make him worse. But treat a man as if he already was what he potentially could be, and you make him what he should be.*" - Johann Wolfgang von Goethe
 
