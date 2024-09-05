@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 5 September 2024
+* "*Is there such a thing as too little tech dept?... It goes by the name of "premature optimisation" and can slow down teams and companies at critical times.*" - Gergely Orosz
+
 ## 3 September 2024
 * "*How selfish soever man may be supposed, there are evidently some principles in his nature, which interest him in the fortune of others, and render their happiness necessary to him, though he derives nothing from it, except the pleasure of seeing it.*" - Adam Smith
 
