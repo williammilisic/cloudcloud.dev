@@ -7,7 +7,8 @@
 <br/>
 
 ## 7 September 2024
-* "*You know who the best managers are? They're the great individual contributors, who never, ever want to be a manager, but decide they have to be a manager because no one else will do as good of a job as them.*" - Steve Jobs in a 1985 interview 
+* "*You know who the best managers are? They're the great individual contributors, who never, ever want to be a manager, but decide they have to be a manager because no one else will do as good of a job as them.*" - Steve Jobs in a 1985 interview <br/><br/>
+* [Book review](https://www.linkedin.com/posts/williammilisic_give-and-take-why-helping-others-drives-activity-7238073568121520128-uIlw) of Adam Grant's "Give and Take".
 
 ## 5 September 2024
 * "*Is there such a thing as too little tech dept?... It goes by the name of "premature optimisation" and can slow down teams and companies at critical times.*" - Gergely Orosz
