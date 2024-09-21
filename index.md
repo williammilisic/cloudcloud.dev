@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 20 September 2024
+* Image from yesterday's [post-PI planning fika](https://www.linkedin.com/posts/williammilisic_piplanning-fika-cloudtribe-activity-7242761479844708352-s_zj).
+
 ## 17 September 2024
 * A true classic, the CIA field guide to [reduce productivity](https://www.linkedin.com/posts/williammilisic_sabotage-organisation-productivity-activity-7241868679536140288-i9Ws) in the workplace.
 
