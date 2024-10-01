@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 25 September 2024
+* Key learnings from [cloud transformation in financial services](https://www.linkedin.com/posts/williammilisic_cloudtransformation-financialservices-activity-7244780916651216896-ZZoF).
+
 ## 20 September 2024
 * Image from yesterday's [post-PI planning fika](https://www.linkedin.com/posts/williammilisic_piplanning-fika-cloudtribe-activity-7242761479844708352-s_zj).
 
