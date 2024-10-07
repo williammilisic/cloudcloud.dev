@@ -7,7 +7,7 @@
 <br/>
 
 ## 4 October 2024
-* [Book review](https://www.linkedin.com/posts/williammilisic_recently-i-finished-listening-seth-godin-activity-7247838137287135232-a9Np) of Seth Godin's "This is marketing".
+* [Book review](https://www.linkedin.com/posts/williammilisic_recently-i-finished-listening-seth-godin-activity-7247838137287135232-a9Np) of Seth Godin's "This is Marketing".
 
 ## 3 October 2024
 * [Unboxing](https://www.linkedin.com/posts/williammilisic_unboxing-remarkable-papertablet-activity-7247674492200644609-YpYg) of reMarkable Paper Pro. Review to follow. 
