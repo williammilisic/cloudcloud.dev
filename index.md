@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 6 October 2024
+* US banks invest [3 times more in tech than European ones](https://www.linkedin.com/posts/williammilisic_fact-of-the-day-us-banks-invest-3-activity-7248224285532602368-j7_q). But does it matter and what actually does matter!?
+
 ## 5 October 2024
 * Some thoughts on [enpowering leadership](https://www.linkedin.com/posts/williammilisic_leadership-activity-7247958884244447233-HEzy) and three key tenets of how I see leadership.  
 
