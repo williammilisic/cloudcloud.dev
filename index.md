@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 10 October 2024
+* Talkings at Tech Day about [mastering NPAP](https://www.linkedin.com/posts/williammilisic_techday-mainframe-aiops-activity-7250206804217909250-NSIS).
+
 ## 9 October 2024
 * Attending [Google Innovator's Hive](https://www.linkedin.com/posts/williammilisic_googlecloudsummit-innovatorshive-sebtech-activity-7249812448029949953-78UL) for the first time! <br/><br/>
 * Macron's [insightful remarks](https://www.linkedin.com/posts/williammilisic_macron-draghi-letta-activity-7249854699061866496-zhY_) reg European competitiveness (or lack thereof). 
