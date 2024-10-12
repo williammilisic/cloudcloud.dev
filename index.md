@@ -7,7 +7,7 @@
 <br/>
 
 ## 9 October 2024
-* Attending [Google Innovator's Hive](https://www.linkedin.com/posts/williammilisic_googlecloudsummit-innovatorshive-sebtech-activity-7249812448029949953-78UL) for the first time! 
+* Attending [Google Innovator's Hive](https://www.linkedin.com/posts/williammilisic_googlecloudsummit-innovatorshive-sebtech-activity-7249812448029949953-78UL) for the first time! <br/><br/>
 * Macron's [insightful remarks](https://www.linkedin.com/posts/williammilisic_macron-draghi-letta-activity-7249854699061866496-zhY_) reg European competitiveness (or lack thereof). 
 
 ## 7 October 2024
