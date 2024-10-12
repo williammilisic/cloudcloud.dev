@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 5 October 2024
+* Some thoughts on [enpowering leadership](https://www.linkedin.com/posts/williammilisic_leadership-activity-7247958884244447233-HEzy) and three key tenets of how I see leadership.  
+
 ## 4 October 2024
 * [Book review](https://www.linkedin.com/posts/williammilisic_recently-i-finished-listening-seth-godin-activity-7247838137287135232-a9Np) of Seth Godin's "This is Marketing".
 
