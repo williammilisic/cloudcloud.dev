@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 9 October 2024
+* Attending [Google Innovator's Hive](https://www.linkedin.com/posts/williammilisic_googlecloudsummit-innovatorshive-sebtech-activity-7249812448029949953-78UL) for the first time! 
+
 ## 7 October 2024
 * Great [discussion with Richard Seroter](https://www.linkedin.com/posts/williammilisic_seb-monorepo-ai-activity-7249127413882732545-1qdp) on basically all things cloud. 
 
