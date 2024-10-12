@@ -6,7 +6,8 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
-
+## 7 October 2024
+* Great [discussion with Richard Seroter](https://www.linkedin.com/posts/williammilisic_seb-monorepo-ai-activity-7249127413882732545-1qdp) on basically all things cloud. 
 
 ## 6 October 2024
 * US banks invest [3 times more in tech than European ones](https://www.linkedin.com/posts/williammilisic_fact-of-the-day-us-banks-invest-3-activity-7248224285532602368-j7_q). But does it matter and what actually does matter!?<br/><br/>
