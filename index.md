@@ -7,7 +7,7 @@
 <br/>
 
 ## 10 October 2024
-* Talkings at Tech Day about [mastering NPAP](https://www.linkedin.com/posts/williammilisic_techday-mainframe-aiops-activity-7250206804217909250-NSIS).
+* Giving a presentation at Tech Day about [mastering NPAP](https://www.linkedin.com/posts/williammilisic_techday-mainframe-aiops-activity-7250206804217909250-NSIS).
 
 ## 9 October 2024
 * Attending [Google Innovator's Hive](https://www.linkedin.com/posts/williammilisic_googlecloudsummit-innovatorshive-sebtech-activity-7249812448029949953-78UL) for the first time! <br/><br/>
