@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 14 October 2024
+* A short [recruitment video](https://www.linkedin.com/posts/williammilisic_azure-aws-gcp-activity-7251597621230743556-YtS3) for our open Azure Cloud Engineer roles. 
+
 ## 10 October 2024
 * Giving a presentation at Tech Day about [mastering NPAP](https://www.linkedin.com/posts/williammilisic_techday-mainframe-aiops-activity-7250206804217909250-NSIS).
 
