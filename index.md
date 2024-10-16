@@ -6,6 +6,12 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 16 October 2024
+* Why [DevOps](https://www.linkedin.com/posts/williammilisic_devops-developers-operations-activity-7252400151619588096-26Ki) still matters, a lot!
+
+## 15 October 2024
+* The [origin story](https://www.linkedin.com/posts/williammilisic_chatgpt-activity-7251674080624467968-dJ5U) of my path to Cloud.
+
 ## 14 October 2024
 * A short [recruitment video](https://www.linkedin.com/posts/williammilisic_azure-aws-gcp-activity-7251597621230743556-YtS3) for our open Azure Cloud Engineer roles. 
 
