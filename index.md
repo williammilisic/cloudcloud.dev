@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 23 October 2024
+* What is the [price premium](https://www.linkedin.com/posts/williammilisic_food-for-thought-what-is-the-price-premium-activity-7254883533352001536-ul3Y) you’re willing to spend on additional features in a system or a tool, that are only sparingly, if ever, used? 
+
 ## 22 October 2024
 * What [agile is about](https://www.linkedin.com/posts/williammilisic_agile-collaboration-adaptability-activity-7254361458375872512-hj5s), at it's core.
 
