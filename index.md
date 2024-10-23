@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 21 October 2024
+* [18th anniversary](https://www.linkedin.com/posts/williammilisic_today-is-my-18th-anniversary-on-linkedin-activity-7254202696117698561-dJ6m) on LinkedIn! 
+
 ## 16 October 2024
 * Why [DevOps](https://www.linkedin.com/posts/williammilisic_devops-developers-operations-activity-7252400151619588096-26Ki) still matters, a lot!
 
