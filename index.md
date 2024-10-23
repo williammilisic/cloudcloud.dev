@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 22 October 2024
+* What [agile is about](https://www.linkedin.com/posts/williammilisic_agile-collaboration-adaptability-activity-7254361458375872512-hj5s), at it's core.
+
 ## 21 October 2024
 * [18th anniversary](https://www.linkedin.com/posts/williammilisic_today-is-my-18th-anniversary-on-linkedin-activity-7254202696117698561-dJ6m) on LinkedIn! 
 
