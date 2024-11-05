@@ -6,6 +6,10 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 5 November 2024
+* "*We shape our buildings, thereafter they shape us.*" - Winston Churchill </><br/>
+
+
 ## 23 October 2024
 * [Two measurements of a modern infrastructure and application stack](https://www.linkedin.com/posts/williammilisic_iac-terraform-automated-activity-7254725966441172992-q-0y): percentage of infrastructure in production set up using IaC and percentage of applications deployed to production using CI/CD. <br/><br/>
 * What is the [price premium](https://www.linkedin.com/posts/williammilisic_food-for-thought-what-is-the-price-premium-activity-7254883533352001536-ul3Y) you’re willing to spend on additional features in a system or a tool, that are only sparingly, if ever, used? 
