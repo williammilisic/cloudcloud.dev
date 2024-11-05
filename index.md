@@ -14,7 +14,7 @@ And you also find there's tremendous trade-offs that you have to make. There are
 And as you get in to all these things, designing a product is keeping 5000 things in your brain, these concepts. And fitting them all together and kind of continuing to push to fit them together in new and different ways to get what you want. And every day you discover something new that is a new problem or a new opportunity to fit these things together a little differently.
 It's that process that is the magic.*" - Steve Jobs<br/><br/>
 * "*Lead with context, not control.*" - Reed Hastings <br/><br/>
-* Diwali [celebrations](https://www.linkedin.com/posts/williammilisic_diwali-seb-activity-7259642970470035457-pLaG) at work. 
+* Diwali [celebrations](https://www.linkedin.com/posts/williammilisic_diwali-seb-activity-7259642970470035457-pLaG) at work. <br/><br/>
 * Job ad for our [Tech Trainee](https://www.linkedin.com/posts/williammilisic_cloud-sebtech-seblife-activity-7259538073821081600-HOmT) out! 
 
 ## 23 October 2024
