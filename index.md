@@ -24,7 +24,7 @@ It's that process that is the magic.*" - Steve Jobs<br/><br/>
 * Reflections on life's [fragility](https://www.linkedin.com/posts/williammilisic_coming-back-home-today-from-1-week-vacation-activity-7258919689286811648-ZzUu) and importance of being in the moment.
 
 ## 26 October 2024
-* Adding a [third cost dimension](https://www.linkedin.com/posts/williammilisic_cloudnative-activity-7256022112123961346-_MDy) to Forrest Brazeal's cleverness/wisdom curve. 
+* Adding a [third, cost dimension](https://www.linkedin.com/posts/williammilisic_cloudnative-activity-7256022112123961346-_MDy) to Forrest Brazeal's cleverness/wisdom curve. 
 
 ## 23 October 2024
 * [Two measurements of a modern infrastructure and application stack](https://www.linkedin.com/posts/williammilisic_iac-terraform-automated-activity-7254725966441172992-q-0y): percentage of infrastructure in production set up using IaC and percentage of applications deployed to production using CI/CD. <br/><br/>
