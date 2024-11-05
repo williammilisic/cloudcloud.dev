@@ -15,6 +15,7 @@ And as you get in to all these things, designing a product is keeping 5000 thing
 It's that process that is the magic.*" - Steve Jobs<br/><br/>
 * "*Lead with context, not control.*" - Reed Hastings <br/><br/>
 * Diwali [celebrations](https://www.linkedin.com/posts/williammilisic_diwali-seb-activity-7259642970470035457-pLaG) at work. 
+* Job ad for our [Tech Trainee](https://www.linkedin.com/posts/williammilisic_cloud-sebtech-seblife-activity-7259538073821081600-HOmT) out! 
 
 ## 23 October 2024
 * [Two measurements of a modern infrastructure and application stack](https://www.linkedin.com/posts/williammilisic_iac-terraform-automated-activity-7254725966441172992-q-0y): percentage of infrastructure in production set up using IaC and percentage of applications deployed to production using CI/CD. <br/><br/>
