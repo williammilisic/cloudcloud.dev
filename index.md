@@ -17,6 +17,9 @@ It's that process that is the magic.*" - Steve Jobs<br/><br/>
 * Diwali [celebrations](https://www.linkedin.com/posts/williammilisic_diwali-seb-activity-7259642970470035457-pLaG) at work. <br/><br/>
 * Job ad for our [Tech Trainee](https://www.linkedin.com/posts/williammilisic_cloud-sebtech-seblife-activity-7259538073821081600-HOmT) out! 
 
+## 4 November 2024
+* On [Simian Army](https://www.linkedin.com/posts/williammilisic_financialservices-eu-dora-activity-7259289056797224961-yt4L) and resilience in financial services. 
+
 ## 23 October 2024
 * [Two measurements of a modern infrastructure and application stack](https://www.linkedin.com/posts/williammilisic_iac-terraform-automated-activity-7254725966441172992-q-0y): percentage of infrastructure in production set up using IaC and percentage of applications deployed to production using CI/CD. <br/><br/>
 * What is the [price premium](https://www.linkedin.com/posts/williammilisic_food-for-thought-what-is-the-price-premium-activity-7254883533352001536-ul3Y) you’re willing to spend on additional features in a system or a tool, that are only sparingly, if ever, used? 
