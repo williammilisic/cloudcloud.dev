@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 6 November 2024
+* 4th [FSI / Fintech event](https://www.linkedin.com/posts/williammilisic_fsi-fintech-google-activity-7260016751482990595-AaHY) at Google. Some take-aways.
+
 ## 5 November 2024
 * "*We shape our buildings, thereafter they shape us.*" - Winston Churchill <br/><br/>
 * "*… it's the disease of thinking that a really great idea is 90% of the work, and if you just tell all these other people "here's this great idea" then of course they can go off and make it happen.
