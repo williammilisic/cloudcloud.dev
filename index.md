@@ -7,7 +7,8 @@
 <br/>
 
 ## 6 November 2024
-* 4th [FSI / Fintech event](https://www.linkedin.com/posts/williammilisic_fsi-fintech-google-activity-7260016751482990595-AaHY) at Google. Some take-aways.
+* 4th [FSI / Fintech event](https://www.linkedin.com/posts/williammilisic_fsi-fintech-google-activity-7260016751482990595-AaHY) at Google. Some take-aways.<br/><br/>
+* [Make Europe great again](https://www.linkedin.com/posts/williammilisic_europe-innovation-competitiveness-activity-7260006987537522689-_oPa). 
 
 ## 5 November 2024
 * "*We shape our buildings, thereafter they shape us.*" - Winston Churchill <br/><br/>
