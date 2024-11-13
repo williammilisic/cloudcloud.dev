@@ -6,6 +6,10 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 14 November 2024
+* "*Seek first to understand, than to be understood.*" - Stephen Covey <br/><br/>
+* "*Data are not taken for museum purposes; they are taken as a basis for doing something. If nothing is to be done with the data, then there is no use in collecting any. The ultimate purpose of taking data is to provide a basis for action or a recommendation for action. The step intermediate between the collection of data and the action is prediction.*" - Edward Deming
+
 ## 6 November 2024
 * 4th [FSI / Fintech event](https://www.linkedin.com/posts/williammilisic_fsi-fintech-google-activity-7260016751482990595-AaHY) at Google. Some take-aways.<br/><br/>
 * [Make Europe great again](https://www.linkedin.com/posts/williammilisic_europe-innovation-competitiveness-activity-7260006987537522689-_oPa). 
