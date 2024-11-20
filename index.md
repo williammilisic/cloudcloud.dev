@@ -6,6 +6,13 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 20 November 2024
+* The **Pygmalion Effect** or Self-Fulfilling Prophecy, suggests that when individuals receive sustained support, encouragement, and belief in their potential from others, they are more likely to achieve success and exceed expectations.<br/><br/>
+
+Another related concept is extrinsic motivation, where external rewards or recognition (like praise, incentives, or mentorship) drive individuals to succeed. Over time, this support can help individuals internalize their abilities and develop intrinsic motivation.
+
+In education or professional development, this aligns with the idea of scaffolding, where sustained external support helps individuals progressively develop independence and confidence.
+
 ## 18 November 2024
 * “*We must never become too busy sawing to take time to sharpen the saw.*” – Stephen Covey<br/><br/>
 * “*Have you ever been too busy driving to stop for gas?*" - Stephen Covey
