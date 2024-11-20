@@ -8,10 +8,30 @@
 
 ## 20 November 2024
 * The **Pygmalion Effect** or Self-Fulfilling Prophecy, suggests that when individuals receive sustained support, encouragement, and belief in their potential from others, they are more likely to achieve success and exceed expectations.<br/><br/>
+* Another related concept is extrinsic motivation, where external rewards or recognition (like praise, incentives, or mentorship) drive individuals to succeed. Over time, this support can help individuals internalize their abilities and develop intrinsic motivation.
+* The 7 Habits of Highly Effective People outlines seven principles for personal and professional effectiveness. These habits are timeless and help individuals achieve their goals while fostering relationships and personal growth. Here are the habits:
 
-Another related concept is extrinsic motivation, where external rewards or recognition (like praise, incentives, or mentorship) drive individuals to succeed. Over time, this support can help individuals internalize their abilities and develop intrinsic motivation.
+- 1. Be Proactive - Take responsibility for your actions and focus on what you can control rather than what you cannot.
+- 2.	Begin with the End in Mind - Define your personal mission, values, and long-term vision. Clarify your goals to align daily actions with your ultimate objectives.
+	3.	Put First Things First
+	•	Prioritize your time and energy around what matters most, focusing on important tasks rather than urgent distractions.
 
-In education or professional development, this aligns with the idea of scaffolding, where sustained external support helps individuals progressively develop independence and confidence.
+Public Victory (Interdependence):
+
+	4.	Think Win-Win
+	•	Seek mutually beneficial solutions in relationships. Foster a mindset of abundance rather than competition.
+	5.	Seek First to Understand, Then to Be Understood
+	•	Practice empathetic listening to truly understand others before expressing your own perspective.
+	6.	Synergize
+	•	Leverage the strengths of diverse groups to create better outcomes than individuals could achieve alone.
+
+Renewal (Continuous Improvement):
+
+	7.	Sharpen the Saw
+	•	Regularly renew yourself physically, mentally, emotionally, and spiritually to maintain balance and effectiveness.
+
+These habits emphasize personal responsibility, goal orientation, relationship building, and continuous self-improvement.
+
 
 ## 18 November 2024
 * “*We must never become too busy sawing to take time to sharpen the saw.*” – Stephen Covey<br/><br/>
