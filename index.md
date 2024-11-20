@@ -8,7 +8,6 @@
 
 ## 20 November 2024
 * The **Pygmalion Effect** or Self-Fulfilling Prophecy, suggests that when individuals receive sustained support, encouragement, and belief in their potential from others, they are more likely to achieve success and exceed expectations.<br/><br/>
-* Another related concept is extrinsic motivation, where external rewards or recognition (like praise, incentives, or mentorship) drive individuals to succeed. Over time, this support can help individuals internalize their abilities and develop intrinsic motivation.
 * The 7 Habits of Highly Effective People outlines seven principles for personal and professional effectiveness. These habits are timeless and help individuals achieve their goals while fostering relationships and personal growth. Here are the habits:
 
 - 1. **Be Proactive** - Take responsibility for your actions and focus on what you can control rather than what you cannot.<br/>
