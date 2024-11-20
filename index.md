@@ -10,21 +10,14 @@
 * The **Pygmalion Effect** or Self-Fulfilling Prophecy, suggests that when individuals receive sustained support, encouragement, and belief in their potential from others, they are more likely to achieve success and exceed expectations.<br/><br/>
 * The 7 Habits of Highly Effective People outlines seven principles for personal and professional effectiveness. These habits are timeless and help individuals achieve their goals while fostering relationships and personal growth. Here are the habits:
 
-- 1. **Be Proactive** - Take responsibility for your actions and focus on what you can control rather than what you cannot.<br/>
-- 2.	**Begin with the End in Mind** - Define your personal mission, values, and long-term vision. Clarify your goals to align daily actions with your ultimate objectives.<br/>
-- 3.	**Put First Things First** - Prioritize your time and energy around what matters most, focusing on important tasks rather than urgent distractions.<br/>
-- 4.	**Think Win-Win** - Seek mutually beneficial solutions in relationships. Foster a mindset of abundance rather than competition.br/>
-- 5.	**Seek First to Understand, Then to Be Understood** - Practice empathetic listening to truly understand others before expressing your own perspective.<br/>
-	6.	Synergize
-	•	Leverage the strengths of diverse groups to create better outcomes than individuals could achieve alone.
-
-Renewal (Continuous Improvement):
-
-	7.	Sharpen the Saw
-	•	Regularly renew yourself physically, mentally, emotionally, and spiritually to maintain balance and effectiveness.
-
+- **Be Proactive** - Take responsibility for your actions and focus on what you can control rather than what you cannot.<br/>
+- **Begin with the End in Mind** - Define your personal mission, values, and long-term vision. Clarify your goals to align daily actions with your ultimate objectives.<br/>
+- **Put First Things First** - Prioritize your time and energy around what matters most, focusing on important tasks rather than urgent distractions.<br/>
+- **Think Win-Win** - Seek mutually beneficial solutions in relationships. Foster a mindset of abundance rather than competition.br/>
+- **Seek First to Understand, Then to Be Understood** - Practice empathetic listening to truly understand others before expressing your own perspective.<br/>
+- **Synergize** - Leverage the strengths of diverse groups to create better outcomes than individuals could achieve alone.<br/>
+- **Sharpen the Saw** - Regularly renew yourself physically, mentally, emotionally, and spiritually to maintain balance and effectiveness.<br/><br/>
 These habits emphasize personal responsibility, goal orientation, relationship building, and continuous self-improvement.
-
 
 ## 18 November 2024
 * “*We must never become too busy sawing to take time to sharpen the saw.*” – Stephen Covey<br/><br/>
