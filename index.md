@@ -6,6 +6,10 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 21 November 2024
+* “*A company is a machine for making decisions.*” - Peter Drucker<br/><br/>
+* “*The purpose of a business is to create and keep a customer. All the rest are costs.*” - Peter Drucker<br/><br/>
+
 ## 20 November 2024
 * The **Pygmalion Effect** or Self-Fulfilling Prophecy, suggests that when individuals receive sustained support, encouragement, and belief in their potential from others, they are more likely to achieve success and exceed expectations.<br/><br/>
 * The 7 Habits of Highly Effective People outlines seven principles for personal and professional effectiveness. These habits are timeless and help individuals achieve their goals while fostering relationships and personal growth. Here are the habits:
