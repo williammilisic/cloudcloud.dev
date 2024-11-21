@@ -9,6 +9,10 @@
 ## 21 November 2024
 * “*A company is a machine for making decisions.*” - Peter Drucker<br/><br/>
 * “*The purpose of a business is to create and keep a customer. All the rest are costs.*” - Peter Drucker<br/><br/>
+* “*Strategy is a commodity, execution is an art.*” – Peter Drucker<br/><br/>
+* “*If you can’t describe what you are doing as a process, you don’t know what you’re doing.*" - W. Edwards Deming<br/><br/>
+* "*Time waste differs from material waste in that there can be no salvage. The easiest of all wastes and the hardest to correct is the waste of time, because wasted time does not litter the floor like wasted material.*" - Henry Ford<br/><br/>
+* Snow is [back in town](https://www.linkedin.com/posts/williammilisic_stockholm-commuterun-activity-7265444668656525314-sslH).
 
 ## 20 November 2024
 * The **Pygmalion Effect** or Self-Fulfilling Prophecy, suggests that when individuals receive sustained support, encouragement, and belief in their potential from others, they are more likely to achieve success and exceed expectations.<br/><br/>
