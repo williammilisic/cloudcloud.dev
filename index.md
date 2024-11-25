@@ -8,7 +8,7 @@
 
 ## 25 November 2024
 * “*Your actions speak so loudly, I can not hear what you are saying.*” Ralph Waldo Emerson<br/><br/>
-* 
+* Just a few reasons with figures [why Cloud is here to stay](https://www.linkedin.com/posts/williammilisic_cloud-csp-efficiency-activity-7266902030198145024-cjqO).
 
 ## 21 November 2024
 * “*A company is a machine for making decisions.*” - Peter Drucker<br/><br/>
