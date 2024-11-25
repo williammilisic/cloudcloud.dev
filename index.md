@@ -31,6 +31,9 @@
 - **Sharpen the Saw** - Regularly renew yourself physically, mentally, emotionally, and spiritually to maintain balance and effectiveness.<br/><br/>
 These habits emphasize personal responsibility, goal orientation, relationship building, and continuous self-improvement.
 
+## 19 November 2024
+* The [not very well hidden cost of team dependencies](https://www.linkedin.com/posts/williammilisic_softwaredevelopment-teamcollaboration-agileleadership-activity-7264523780364873731-j3d5) in software engineering. 
+
 ## 18 November 2024
 * “*We must never become too busy sawing to take time to sharpen the saw.*” – Stephen Covey<br/><br/>
 * “*Have you ever been too busy driving to stop for gas?*" - Stephen Covey
