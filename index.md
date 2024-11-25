@@ -38,6 +38,9 @@ These habits emphasize personal responsibility, goal orientation, relationship b
 * “*We must never become too busy sawing to take time to sharpen the saw.*” – Stephen Covey<br/><br/>
 * “*Have you ever been too busy driving to stop for gas?*" - Stephen Covey
 
+## 16 November 2024
+* An [AI generated tune on DORA](https://www.linkedin.com/posts/williammilisic_dora-cif-critical-activity-7262913014629064705-x20A).
+
 ## 14 November 2024
 * "*Seek first to understand, than to be understood.*" - Stephen Covey <br/><br/>
 * "*Data are not taken for museum purposes; they are taken as a basis for doing something. If nothing is to be done with the data, then there is no use in collecting any. The ultimate purpose of taking data is to provide a basis for action or a recommendation for action. The step intermediate between the collection of data and the action is prediction.*" - W. Edwards Deming
