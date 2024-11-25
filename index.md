@@ -6,6 +6,10 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 25 November 2024
+* “*Your actions speak so loudly, I can not hear what you are saying.*” Ralph Waldo Emerson<br/><br/>
+* 
+
 ## 21 November 2024
 * “*A company is a machine for making decisions.*” - Peter Drucker<br/><br/>
 * “*The purpose of a business is to create and keep a customer. All the rest are costs.*” - Peter Drucker<br/><br/>
