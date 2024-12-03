@@ -7,6 +7,9 @@
 <br/>
 
 ## 28 November 2024
+* Viewing public cloud through a monolithic [lense](https://www.linkedin.com/posts/williammilisic_aws-azure-googlecloud-activity-7267627950756245504-jTAN).
+
+## 27 November 2024
 * Black Friday [meme](https://www.linkedin.com/posts/williammilisic_blackfriday-week-activity-7267179785464795136-CSdE).
 
 ## 25 November 2024
