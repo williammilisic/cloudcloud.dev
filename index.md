@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 28 November 2024
+* Black Friday [meme](https://www.linkedin.com/posts/williammilisic_blackfriday-week-activity-7267179785464795136-CSdE).
+
 ## 25 November 2024
 * “*Your actions speak so loudly, I can not hear what you are saying.*” Ralph Waldo Emerson<br/><br/>
 * Just a few reasons with figures [why Cloud is here to stay](https://www.linkedin.com/posts/williammilisic_cloud-csp-efficiency-activity-7266902030198145024-cjqO).
