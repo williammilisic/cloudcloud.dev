@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 29 November 2024
+* Key factors that break [microsegmentation](https://www.linkedin.com/posts/williammilisic_microsegmentation-googlecloud-workloads-activity-7267985683716206592-paD3) from a Google Cloud perspective. 
+
 ## 28 November 2024
 * Viewing public cloud through a monolithic [lense](https://www.linkedin.com/posts/williammilisic_aws-azure-googlecloud-activity-7267627950756245504-jTAN).
 
