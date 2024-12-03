@@ -7,12 +7,15 @@
 <br/>
 
 ## 29 November 2024
-* Key factors that break [microsegmentation](https://www.linkedin.com/posts/williammilisic_microsegmentation-googlecloud-workloads-activity-7267985683716206592-paD3) from a Google Cloud perspective. 
+* Relationships are the foundation of [success](https://www.linkedin.com/posts/williammilisic_relationships-connections-activity-7268395542462820352-xYwi).
 
 ## 28 November 2024
-* Viewing public cloud through a monolithic [lense](https://www.linkedin.com/posts/williammilisic_aws-azure-googlecloud-activity-7267627950756245504-jTAN).
+* Key factors that break [microsegmentation](https://www.linkedin.com/posts/williammilisic_microsegmentation-googlecloud-workloads-activity-7267985683716206592-paD3) from a Google Cloud perspective. 
 
 ## 27 November 2024
+* Viewing public cloud through a monolithic [lense](https://www.linkedin.com/posts/williammilisic_aws-azure-googlecloud-activity-7267627950756245504-jTAN).
+
+## 26 November 2024
 * Black Friday [meme](https://www.linkedin.com/posts/williammilisic_blackfriday-week-activity-7267179785464795136-CSdE).
 
 ## 25 November 2024
