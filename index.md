@@ -7,7 +7,7 @@
 <br/>
 
 ## 1 December 2024
-* Conplexity as the shortcut to [job security](https://www.linkedin.com/posts/williammilisic_comic-acomicadaykeepsthedoctoraway-complexity-activity-7268633558557081600-acvj).
+* Complexity as the shortcut to [job security](https://www.linkedin.com/posts/williammilisic_comic-acomicadaykeepsthedoctoraway-complexity-activity-7268633558557081600-acvj).
 
 ## 29 November 2024
 * Relationships are the foundation of [success](https://www.linkedin.com/posts/williammilisic_relationships-connections-activity-7268395542462820352-xYwi).
