@@ -6,7 +6,10 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
-## 2 November 2024
+## 5 December 2024
+* Review of Peter Senge's "[The Fifth Discipline](https://www.linkedin.com/posts/williammilisic_continuouslearning-innovation-adaptability-activity-7270157546701684736-29AJ)".
+
+## 2 December 2024
 * After 19 years, [student loan free](https://www.linkedin.com/posts/williammilisic_highereducation-studentloans-socialmobility-activity-7269592790869626880-2gKz)!
 
 ## 1 December 2024
