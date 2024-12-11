@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 10 December 2024
+* Key cues you have a [bad project manager](https://www.linkedin.com/posts/williammilisic_projectmanagement-communication-micromanagement-activity-7271973097426075648-ZiAT) on your hands. 
+
 ## 8 December 2024
 * Some thoughts on why hiring experts and telling them what to do and think, may not be the best [idea](https://www.linkedin.com/posts/williammilisic_foodforthought-expert-skills-activity-7271189966943133696-_8_p).
 
