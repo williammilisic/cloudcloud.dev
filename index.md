@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 11 December 2024
+* What [I do](https://www.linkedin.com/posts/williammilisic_coldsales-unsolicited-itsales-activity-7272704580231057408-Sr3W) what cold calls.
+
 ## 10 December 2024
 * Key cues you have a [bad project manager](https://www.linkedin.com/posts/williammilisic_projectmanagement-communication-micromanagement-activity-7271973097426075648-ZiAT) on your hands. 
 
