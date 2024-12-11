@@ -55,7 +55,7 @@
 - **Be Proactive** - Take responsibility for your actions and focus on what you can control rather than what you cannot.<br/>
 - **Begin with the End in Mind** - Define your personal mission, values, and long-term vision. Clarify your goals to align daily actions with your ultimate objectives.<br/>
 - **Put First Things First** - Prioritize your time and energy around what matters most, focusing on important tasks rather than urgent distractions.<br/>
-- **Think Win-Win** - Seek mutually beneficial solutions in relationships. Foster a mindset of abundance rather than competition.br/>
+- **Think Win-Win** - Seek mutually beneficial solutions in relationships. Foster a mindset of abundance rather than competition.<br/>
 - **Seek First to Understand, Then to Be Understood** - Practice empathetic listening to truly understand others before expressing your own perspective.<br/>
 - **Synergize** - Leverage the strengths of diverse groups to create better outcomes than individuals could achieve alone.<br/>
 - **Sharpen the Saw** - Regularly renew yourself physically, mentally, emotionally, and spiritually to maintain balance and effectiveness.<br/><br/>
