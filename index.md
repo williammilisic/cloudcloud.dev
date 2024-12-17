@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 12 December 2024
+* SEB Christmas [Party Song](https://www.linkedin.com/posts/williammilisic_seb-christmas-party-song-celebrate-its-activity-7273107535329394688-wKVc).
+
 ## 11 December 2024
 * What [I do](https://www.linkedin.com/posts/williammilisic_coldsales-unsolicited-itsales-activity-7272704580231057408-Sr3W) with cold calls.
 
