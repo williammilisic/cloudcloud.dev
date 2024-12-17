@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 17 December 2024 
+* Why on-premise infrastructure engineering skills [are not directly transferable](https://www.linkedin.com/posts/williammilisic_on-premise-infrastructure-engineer-skillsets-activity-7274663837763534848-EbTg) to Cloud.
+
 ## 12 December 2024
 * SEB Christmas [Party Song](https://www.linkedin.com/posts/williammilisic_seb-christmas-party-song-celebrate-its-activity-7273107535329394688-wKVc).
 
