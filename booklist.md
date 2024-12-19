@@ -5,6 +5,9 @@ Back to [main](index.md).
 <br/>
 ## 2024
 
+* **The Fifth Discipline: The Art and Practice of the Learning Organization**
+<br/>By: Peter Senge<br/>November 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_continuouslearning-innovation-adaptability-activity-7270157546701684736-29AJ)
+
 * **Transformed**
 <br/>By: Marty Cagan<br/>October 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_productteams-collaboration-autonomy-activity-7262355232171454464-Sonf)
 
