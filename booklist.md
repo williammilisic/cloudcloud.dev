@@ -5,6 +5,9 @@ Back to [main](index.md).
 <br/>
 ## 2024
 
+* **The Infinite Game**
+<br/>By: Simon Sinek<br/>August 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_simon-sinek-simonsinek-activity-7219590614923849728-ODmZ)
+
 * **The Toyota Way to Lean Leadership**
 <br/>By: Jeffrey K. Liker & Gary L. Convis<br/>July 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_kaizen-activity-7216316432370782214-QQsj)
 
