@@ -5,11 +5,15 @@ Back to [main](index.md).
 <br/>
 ## 2024
 
+
+* **Supercommunicators**
+<br/>By: Charless Duhigg<br/>June 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_bookreview-abookaday-activity-7201089579439779842-fixi)
+
 * **Escaping the Build Trap**
-<br/>By: Melissa Perri<br/>April 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_productmanagement-productleadership-buildtrap-activity-7192027686431551488-oXb7)
+<br/>By: Melissa Perri<br/>May 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_productmanagement-productleadership-buildtrap-activity-7192027686431551488-oXb7)
 
 * **Factfulness: An Essential Guide to Seeing the World Clearly**
-<br/>By: Hans Rosling, Ola Rosling, Anna Rosling Rönnlund<br/>March 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_rosling-factfulness-systematicthinking-activity-7189133187694948352-JGb0)
+<br/>By: Hans Rosling, Ola Rosling, Anna Rosling Rönnlund<br/>April 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_rosling-factfulness-systematicthinking-activity-7189133187694948352-JGb0)
 
 * **Empireworld: How British Imperialism Has Shaped The Globe**
 <br/>By: Sathnam Sanghera <br/>March 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_empireworld-empireland-bookreview-activity-7179749258466648064-n4Vl)
