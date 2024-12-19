@@ -5,6 +5,9 @@ Back to [main](index.md).
 <br/>
 ## 2024
 
+* **The Toyota Way to Lean Leadership**
+<br/>By: Jeffrey K. Liker & Gary L. Convis<br/>July 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_kaizen-activity-7216316432370782214-QQsj)
+
 * **Technofeudalism: What Killed Capitalism**
 <br/>By: Yanis Varoufakis<br/>June 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_bookreview-technofeudalism-yanisvaroufakis-activity-7205086444900564992-nPLi)
 
