@@ -5,6 +5,9 @@ Back to [main](index.md).
 <br/>
 ## 2024
 
+* **Escaping the Build Trap**
+<br/>By: Melissa Perri<br/>April 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_productmanagement-productleadership-buildtrap-activity-7192027686431551488-oXb7)
+
 * **Factfulness: An Essential Guide to Seeing the World Clearly**
 <br/>By: Hans Rosling, Ola Rosling, Anna Rosling Rönnlund<br/>March 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_rosling-factfulness-systematicthinking-activity-7189133187694948352-JGb0)
 
