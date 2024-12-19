@@ -5,6 +5,11 @@ Back to [main](index.md).
 <br/>
 ## 2024
 
+* **Technofeudalism: What Killed Capitalism**
+<br/>By: Yanis Varoufakis<br/>June 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_bookreview-technofeudalism-yanisvaroufakis-activity-7205086444900564992-nPLi)
+
+* **The Five Most Important Questions You Will Ever Ask About Your Organization**
+<br/>By: Peter F. Drucker<br/>June 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_bookreview-audiobook-drucker-activity-7202564517153640448-lWJ9)
 
 * **Supercommunicators**
 <br/>By: Charless Duhigg<br/>June 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_bookreview-abookaday-activity-7201089579439779842-fixi)
