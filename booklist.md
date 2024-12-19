@@ -5,6 +5,9 @@ Back to [main](index.md).
 <br/>
 ## 2024
 
+* **Flow Engineering**
+<br/>By: Steve Pereira & Andrew Davis<br/>December 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_recently-i-had-the-chance-to-listen-to-the-activity-7275399028127731712-sCiO)
+
 * **The Fifth Discipline: The Art and Practice of the Learning Organization**
 <br/>By: Peter Senge<br/>November 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_continuouslearning-innovation-adaptability-activity-7270157546701684736-29AJ)
 
