@@ -5,6 +5,10 @@ Back to [main](index.md).
 <br/>
 ## 2024
 
+
+* **Give and Take: Why Helping Others Drives Our Success**
+<br/>By: Adam Grant<br/>September 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_give-and-take-why-helping-others-drives-activity-7238073568121520128-uIlw)
+
 * **The Infinite Game**
 <br/>By: Simon Sinek<br/>August 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_simon-sinek-simonsinek-activity-7219590614923849728-ODmZ)
 
