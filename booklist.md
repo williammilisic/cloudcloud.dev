@@ -5,6 +5,11 @@ Back to [main](index.md).
 <br/>
 ## 2024
 
+* **Transformed**
+<br/>By: Marty Cagan<br/>October 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_productteams-collaboration-autonomy-activity-7262355232171454464-Sonf)
+
+* **This is Marketing**
+<br/>By: Seth Godin<br/>September 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_recently-i-finished-listening-seth-godin-activity-7247838137287135232-a9Np)
 
 * **Give and Take: Why Helping Others Drives Our Success**
 <br/>By: Adam Grant<br/>September 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_give-and-take-why-helping-others-drives-activity-7238073568121520128-uIlw)
