@@ -6,9 +6,11 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 20 December 2024
+* Summary of [books read so far this year](https://www.linkedin.com/posts/williammilisic_this-year-my-reading-list-spanned-a-mix-activity-7275802668411822080-xzJV) key themes and surprising outliers.
+
 ## 19 December 2024
 * Book review of "[Flow Engineering](https://www.linkedin.com/posts/williammilisic_recently-i-had-the-chance-to-listen-to-the-activity-7275399028127731712-sCiO)".
-
 
 ## 18 December 2024
 * Identity is the [new perimeter](https://www.linkedin.com/posts/williammilisic_identitysecurity-zerotrust-cloudsecurity-activity-7275230527459086336-1fSh).
