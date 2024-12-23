@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 23 December 2024
+* May [this time of reflection, tranquility and hope bring you joy, renewed energy, and inspiration](https://www.linkedin.com/posts/williammilisic_christmas-holidayseason-merry-activity-7276858194289700866-1YIk) for the journey into the new year.
+
 ## 20 December 2024
 * Summary of [books read so far this year](https://www.linkedin.com/posts/williammilisic_this-year-my-reading-list-spanned-a-mix-activity-7275802668411822080-xzJV) - key themes and surprising outliers.
 
