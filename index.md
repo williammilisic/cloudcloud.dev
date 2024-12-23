@@ -7,7 +7,8 @@
 <br/>
 
 ## 23 December 2024
-* May [this time of reflection, tranquility and hope bring you joy, renewed energy, and inspiration](https://www.linkedin.com/posts/williammilisic_christmas-holidayseason-merry-activity-7276858194289700866-1YIk) for the journey into the new year.
+* May [this time of reflection, tranquility and hope bring you joy, renewed energy, and inspiration](https://www.linkedin.com/posts/williammilisic_christmas-holidayseason-merry-activity-7276858194289700866-1YIk) for the journey into the new year.<br/><br/>
+* People are not your most important asset, [the right people are](https://www.linkedin.com/posts/williammilisic_leadership-teamwork-goodtogreat-activity-7276899502555361280-gqX9).
 
 ## 20 December 2024
 * Summary of [books read so far this year](https://www.linkedin.com/posts/williammilisic_this-year-my-reading-list-spanned-a-mix-activity-7275802668411822080-xzJV) - key themes and surprising outliers.
