@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 18 December 2024
+* Identity is the [new perimeter](https://www.linkedin.com/posts/williammilisic_identitysecurity-zerotrust-cloudsecurity-activity-7275230527459086336-1fSh).
+
 ## 17 December 2024 
 * Why on-premise infrastructure engineering skills [are not directly transferable](https://www.linkedin.com/posts/williammilisic_on-premise-infrastructure-engineer-skillsets-activity-7274663837763534848-EbTg) to Cloud.
 
