@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 27 December 2024
+* "*If you improve performance of something that is not a constraint, you improve nothing.*" - Eliyahu M. Goldratt
+
 ## 23 December 2024
 * May [this time of reflection, tranquility and hope bring you joy, renewed energy, and inspiration](https://www.linkedin.com/posts/williammilisic_christmas-holidayseason-merry-activity-7276858194289700866-1YIk) for the journey into the new year.<br/><br/>
 * People are not your most important asset, [the right people are](https://www.linkedin.com/posts/williammilisic_leadership-teamwork-goodtogreat-activity-7276899502555361280-gqX9).
