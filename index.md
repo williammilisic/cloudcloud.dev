@@ -7,7 +7,7 @@
 <br/>
 
 ## 28 December 2024
-* "*The colder the winter, the more open the cherry blossoms. The same is true for people. Without suffering and troubles, it is difficult to have great development and will not grasp true happiness.*" - n by Inamori Kazuo
+* "*The colder the winter, the more open the cherry blossoms. The same is true for people. Without suffering and troubles, it is difficult to have great development and will not grasp true happiness.*" - Inamori Kazuo
 
 ## 27 December 2024
 * "*If you improve performance of something that is not a constraint, you improve nothing.*" - Eliyahu M. Goldratt
