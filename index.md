@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 28 December 2024
+* "*The colder the winter, the more open the cherry blossoms. The same is true for people. Without suffering and troubles, it is difficult to have great development and will not grasp true happiness.*" - n by Inamori Kazuo
+
 ## 27 December 2024
 * "*If you improve performance of something that is not a constraint, you improve nothing.*" - Eliyahu M. Goldratt
 
