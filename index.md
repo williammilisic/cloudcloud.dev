@@ -6,6 +6,10 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 29 December 2024
+* "*The ultimate purpose of taking data is to provide a basis for action or a recommendation for action.*" - W. Edwards Deming <br/><br/>
+* “*Planning requires prediction. Prediction requires a theory.*” – Ron Moen
+
 ## 28 December 2024
 * "*The colder the winter, the more open the cherry blossoms. The same is true for people. Without suffering and troubles, it is difficult to have great development and will not grasp true happiness.*" - Kazuo Inamori <br/><br/>
 * "*A clear and pure mind can feel positive energy, while a selfish heart sees complexity and chaos.*" - Kazuo Inamori
