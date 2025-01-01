@@ -13,7 +13,8 @@
 * "*There is no worse mistake in public leadership than to hold out false hopes soon to be swept away… people can face peril or misfortune with fortitude and buoyancy, but they bitterly resent being deceived or finding that those responsible for their affairs are themselves dwelling in a fool’s paradise.*" - Winston S. Churchill
 
 ## 31 December 2024
-* Looking at my [Strava year in sport](https://www.linkedin.com/posts/williammilisic_strava-running-fitness-activity-7279749294969016320-t0zp).
+* Looking at my [Strava year in sport](https://www.linkedin.com/posts/williammilisic_strava-running-fitness-activity-7279749294969016320-t0zp).<br/><br/>
+* The essence of profound insight is simplicity.
 
 ## 29 December 2024
 * TOC (Theory of Constraints) has a single core concept: *every process has one constraint, and the entire process throughput will only improve when the constraint is improved.* Moreover, this core concept gives rise to a significant corollary: *spending time optimizing non-constraints won’t yield substantial benefits; only improving the constraint can further the goal of achieving more profit.* More [here](https://bootcamp.umass.edu/blog/quality-management/demystifying-the-theory-of-constraints). <br/><br/>
