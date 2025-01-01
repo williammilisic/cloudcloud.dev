@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 31 December 2024
+* Looking at my [Strava year in sport](https://www.linkedin.com/posts/williammilisic_strava-running-fitness-activity-7279749294969016320-t0zp).
+
 ## 29 December 2024
 * TOC (Theory of Constraints) has a single core concept: *every process has one constraint, and the entire process throughput will only improve when the constraint is improved.* Moreover, this core concept gives rise to a significant corollary: *spending time optimizing non-constraints won’t yield substantial benefits; only improving the constraint can further the goal of achieving more profit.* More [here](https://bootcamp.umass.edu/blog/quality-management/demystifying-the-theory-of-constraints). <br/><br/>
 * "*The ultimate purpose of taking data is to provide a basis for action or a recommendation for action.*" - W. Edwards Deming <br/><br/>
