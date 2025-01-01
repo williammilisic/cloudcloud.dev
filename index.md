@@ -9,7 +9,8 @@
 ## 1 January 2025
 * [New Year's greeting](https://www.linkedin.com/posts/williammilisic_rolling-into-2025-like-happy-new-year-to-activity-7280276351629086720-hIXQ) to colleagues, old and current, and friends, new and familiar. <br/><br/>
 * "*Strategy is a commodity, execution is an art.*" - Peter F. Drucker. <br/><br/>
-* Packard’s Law - "*No company can grow revenues consistently faster than its ability to get enough of the **right** people to implement that growth and still become a great company.*" - David Packard
+* Packard’s Law - "*No company can grow revenues consistently faster than its ability to get enough of the **right** people to implement that growth and still become a great company.*" - David Packard <br/><br/>
+* "*There is no worse mistake in public leadership than to hold out false hopes soon to be swept away… people can face peril or misfortune with fortitude and buoyancy, but they bitterly resent being deceived or finding that those responsible for their affairs are themselves dwelling in a fool’s paradise.*" - Winston S. Churchill
 
 ## 31 December 2024
 * Looking at my [Strava year in sport](https://www.linkedin.com/posts/williammilisic_strava-running-fitness-activity-7279749294969016320-t0zp).
