@@ -7,8 +7,8 @@
 <br/>
 
 ## 1 January 2025
-* [New Year's greeting](https://www.linkedin.com/posts/williammilisic_rolling-into-2025-like-happy-new-year-to-activity-7280276351629086720-hIXQ) to colleagues, old and current, and friends, new and familiar. 
-
+* [New Year's greeting](https://www.linkedin.com/posts/williammilisic_rolling-into-2025-like-happy-new-year-to-activity-7280276351629086720-hIXQ) to colleagues, old and current, and friends, new and familiar. <br/><br/>
+* "*Strategy is a commodity, execution is an art.*" - Peter F. Drucker. 
 ## 31 December 2024
 * Looking at my [Strava year in sport](https://www.linkedin.com/posts/williammilisic_strava-running-fitness-activity-7279749294969016320-t0zp).
 
