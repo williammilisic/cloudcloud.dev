@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 3 January 2025
+* "*We are not given a short life but we make it short, and we are not ill-supplied but wasteful of it.*" - Seneca
+
 ## 1 January 2025
 * [New Year's greeting](https://www.linkedin.com/posts/williammilisic_rolling-into-2025-like-happy-new-year-to-activity-7280276351629086720-hIXQ) to colleagues, old and current, and friends, new and familiar. <br/><br/>
 * "*Strategy is a commodity, execution is an art.*" - Peter F. Drucker. <br/><br/>
