@@ -6,6 +6,10 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 7 January 2025
+* "*All models are wrong, but some are useful.*" - George Box <br/><br/>
+* First day [commuting](https://www.linkedin.com/posts/williammilisic_commuting-running-sebtech-activity-7282305395522498561-f9x9) to work after a 2 week vacation. Amazing, snowy views. 
+
 ## 3 January 2025
 * "*We are not given a short life but we make it short, and we are not ill-supplied but wasteful of it.*" - Seneca
 
