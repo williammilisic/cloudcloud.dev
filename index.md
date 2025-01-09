@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 9 January 2025
+* "*The less talent they have, the more pride, vanity and arrogance they have. All these fools, however, find other fools who applaud them*". - Erasmus
+
 ## 7 January 2025
 * "*All models are wrong, but some are useful.*" - George Box <br/><br/>
 * First day [commuting](https://www.linkedin.com/posts/williammilisic_commuting-running-sebtech-activity-7282305395522498561-f9x9) to work after a 2 week vacation. Amazing, snowy views. 
