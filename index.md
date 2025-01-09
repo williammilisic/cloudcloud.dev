@@ -7,7 +7,7 @@
 <br/>
 
 ## 9 January 2025
-* "*The less talent they have, the more pride, vanity and arrogance they have. All these fools, however, find other fools who applaud them*". - Erasmus
+* "*The less talent they have, the more pride, vanity and arrogance they have. All these fools, however, find other fools who applaud them*." - Erasmus
 
 ## 7 January 2025
 * "*All models are wrong, but some are useful.*" - George Box <br/><br/>
