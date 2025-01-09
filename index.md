@@ -10,7 +10,7 @@
 * "*The less talent they have, the more pride, vanity and arrogance they have. All these fools, however, find other fools who applaud them*." - Erasmus
 
 ## 8 January 2025
-* How do you objectively [assess operational maturity](https://www.linkedin.com/posts/williammilisic_how-do-you-objectively-assess-the-operational-activity-7282644576442474496-DC4N) of an infrastructure team? 
+* How do you objectively [assess the operational maturity](https://www.linkedin.com/posts/williammilisic_how-do-you-objectively-assess-the-operational-activity-7282644576442474496-DC4N) of an infrastructure team? 
 
 ## 7 January 2025
 * "*All models are wrong, but some are useful.*" - George Box <br/><br/>
