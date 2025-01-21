@@ -7,11 +7,11 @@
 <br/>
 
 ## 22 January 2025
-* “*Whatever happens, stay alive. Don't die before you're dead. Don't lose yourself, don't lose hope, don't loose direction.<br/>
-Stay alive, with yourself, with every cell of your body, with every fiber of your skin. <br/>
-Stay alive, learn, study, think, read, build, invent, create, speak, write, dream, design. <br/>
-Stay alive, stay alive inside you, stay alive also outside, fill yourself with colors of the world, fill yourself with peace, fill yourself with hope. <br/>
-Stay alive with joy. <br/>
+* “*Whatever happens, stay alive. Don't die before you're dead. Don't lose yourself, don't lose hope, don't loose direction.<br/><br/>
+Stay alive, with yourself, with every cell of your body, with every fiber of your skin. <br/><br/>
+Stay alive, learn, study, think, read, build, invent, create, speak, write, dream, design. <br/><br/>
+Stay alive, stay alive inside you, stay alive also outside, fill yourself with colors of the world, fill yourself with peace, fill yourself with hope. <br/><br/>
+Stay alive with joy. <br/><br/>
 There is only one thing you should not waste in life, and that's life itself.*" - Virginia Woolf
 
 ## 21 January 2025
