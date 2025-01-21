@@ -3,6 +3,12 @@
 Back to [main](index.md).
 
 <br/>
+
+## 2025
+
+* **The Software Engineer's Guidebook**
+<br/><br/>By: Gergely Orosz<br/><br/>January 2025 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_guidebook-engineer-ceo-activity-7286989443196948480-4oqZ)
+
 ## 2024
 
 * **Flow Engineering**
