@@ -7,7 +7,7 @@ Back to [main](index.md).
 ## 2025
 
 * **The Software Engineer's Guidebook**
-<br/>By: Gergely Orosz<br/><br/>January 2025 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_guidebook-engineer-ceo-activity-7286989443196948480-4oqZ)
+<br/>By: Gergely Orosz<br/>January 2025 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_guidebook-engineer-ceo-activity-7286989443196948480-4oqZ)
 
 ## 2024
 
