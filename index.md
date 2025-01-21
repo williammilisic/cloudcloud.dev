@@ -7,7 +7,8 @@
 <br/>
 
 ## 21 January 2025
-* "*I have a foreboding of an America in my children's or grandchildren's time - when the United States is a service and information economy; when nearly all the manufacturing industries have slipped away to other countries; when awesome technological powers are in the hands of a very few, and no one representing the public interest can even grasp the issues; when the people have lost the ability to set their own agendas or knowledgeably question those in authority; when, clutching our crystals and nervously consulting our horoscopes, our critical faculties in decline, unable to distinguish between what feels good and what's true, we slide, almost without noticing, back into superstition and darkness...*" - Carl Sagan
+* "*I have a foreboding of an America in my children's or grandchildren's time - when the United States is a service and information economy; when nearly all the manufacturing industries have slipped away to other countries; when awesome technological powers are in the hands of a very few, and no one representing the public interest can even grasp the issues; when the people have lost the ability to set their own agendas or knowledgeably question those in authority; when, clutching our crystals and nervously consulting our horoscopes, our critical faculties in decline, unable to distinguish between what feels good and what's true, we slide, almost without noticing, back into superstition and darkness...*" - Carl Sagan <br/><br/>
+* "*Everything faded into mist. The past was erased, the erasure was forgotten, the lie became truth.*" - George Orwell, 1984
 
 ## 20 January 2025
 * [Book review](https://www.linkedin.com/posts/williammilisic_guidebook-engineer-ceo-activity-7286989443196948480-4oqZ) of Gergely Orosz's "The Software Engineer's Guidebook".
