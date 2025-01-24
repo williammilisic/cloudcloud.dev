@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 24 January 2025
+* "*The Party told you to reject the evidence of your eyes and ears. It was their final, most essential command.*" - George Orwell, 1984.
+
 ## 22 January 2025
 * “*Whatever happens, stay alive. Don't die before you're dead. Don't lose yourself, don't lose hope, don't loose direction.<br/><br/>
 Stay alive, with yourself, with every cell of your body, with every fiber of your skin. <br/><br/>
