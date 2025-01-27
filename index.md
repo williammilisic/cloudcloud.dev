@@ -12,6 +12,9 @@
 ## 24 January 2025
 * "*The Party told you to reject the evidence of your eyes and ears. It was their final, most essential command.*" - George Orwell, 1984.
 
+## 23 January 2025
+* The [teachings of Hannah Arendt](https://www.linkedin.com/posts/williammilisic_disinformation-polarisation-technological-activity-7287928135038242816-B6vy) resonate more than ever.
+
 ## 22 January 2025
 * “*Whatever happens, stay alive. Don't die before you're dead. Don't lose yourself, don't lose hope, don't loose direction.<br/><br/>
 Stay alive, with yourself, with every cell of your body, with every fiber of your skin. <br/><br/>
