@@ -7,8 +7,8 @@
 <br/>
 
 ## 28 January 2025
-* “*Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe.*” - Winston Churchill on leadership 
-
+* “*Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe.*” - Winston Churchill on leadership <br/><br/>
+* "Respice post te! Hominem te memento!" - "*Look behind you. Remember you are a man.*" - Tertullian, Apologeticus 33
 ## 27 January 2025
 * Examples of [state censorship](https://www.linkedin.com/posts/williammilisic_ai-llm-gpts-activity-7289729069947015168-DDdh) in DeepSeek's R1 LLM. 
 
