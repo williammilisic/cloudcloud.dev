@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 28 January 2025
+* “*Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe.*” - Winston Churchill on leadership 
+
 ## 27 January 2025
 * Examples of [state censorship](https://www.linkedin.com/posts/williammilisic_ai-llm-gpts-activity-7289729069947015168-DDdh) in DeepSeek's R1 LLM. 
 
