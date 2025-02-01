@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 1 February 2025
+* "*Facts do not cease to exist because they are ignored.*" - Aldous Huxley
+
 ## 28 January 2025
 * “*Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe.*” - Winston Churchill on leadership <br/><br/>
 * "Respice post te! Hominem te memento!" - "*Look behind you. Remember you are a man.*" - Tertullian, Apologeticus 33
