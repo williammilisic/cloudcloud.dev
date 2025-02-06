@@ -16,7 +16,8 @@
 ## 28 January 2025
 * “*Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe.*” - Winston Churchill on leadership <br/><br/>
 * "Respice post te! Hominem te memento!" - "*Look behind you. Remember you are a man.*" - Tertullian, Apologeticus 33<br/><br/>
-* Why isn't [cloud carbon data](https://www.linkedin.com/posts/williammilisic_cloudcomputing-sustainability-cfe-activity-7290410428319305729-eK-i) standardised?
+* Why isn't [cloud carbon data](https://www.linkedin.com/posts/williammilisic_cloudcomputing-sustainability-cfe-activity-7290410428319305729-eK-i) standardised?<br/><br/>
+* [Book review](https://www.linkedin.com/posts/williammilisic_jim-collins-nokia-activity-7290254807116750850-XseZ) of Jim Collins' "How The Mighty Fall".
 
 ## 27 January 2025
 * Spectacular [view](https://www.linkedin.com/posts/williammilisic_runcommute-activity-7290094083090345984-P8U-) on my run commute home.<br/><br/>
