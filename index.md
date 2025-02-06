@@ -10,7 +10,8 @@
 * "*First, they fascinate the fools. Then, they muzzle the intelligent.*" - Bertrand Russell, on how fascism starts
 
 ## 1 February 2025
-* "*Facts do not cease to exist because they are ignored.*" - Aldous Huxley
+* "*Facts do not cease to exist because they are ignored.*" - Aldous Huxley<br/><br/>
+* What [skills](https://www.linkedin.com/posts/williammilisic_cloud-ai-iac-activity-7290972229897510913-HZD4) should infrastructure engineers learn in 2025?
 
 ## 28 January 2025
 * “*Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe.*” - Winston Churchill on leadership <br/><br/>
