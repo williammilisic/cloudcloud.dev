@@ -19,6 +19,7 @@
 * Why isn't [cloud carbon data](https://www.linkedin.com/posts/williammilisic_cloudcomputing-sustainability-cfe-activity-7290410428319305729-eK-i) standardised?
 
 ## 27 January 2025
+* Spectacular [view](https://www.linkedin.com/posts/williammilisic_runcommute-activity-7290094083090345984-P8U-) on my run commute home.<br/><br/>
 * Examples of [state censorship](https://www.linkedin.com/posts/williammilisic_ai-llm-gpts-activity-7289729069947015168-DDdh) in DeepSeek's R1 LLM. 
 
 ## 24 January 2025
