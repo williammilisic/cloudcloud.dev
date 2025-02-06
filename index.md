@@ -9,6 +9,9 @@
 ## 6 February 2025
 * "*First, they fascinate the fools. Then, they muzzle the intelligent.*" - Bertrand Russell, on how fascism starts
 
+## 3 February 2025
+* Highly relevant [analogy from Milton Friedman](https://www.linkedin.com/posts/williammilisic_milton-friedman-on-free-trade-activity-7292267233068654592-RopB) on free trade. 
+
 ## 1 February 2025
 * "*Facts do not cease to exist because they are ignored.*" - Aldous Huxley<br/><br/>
 * What [skills](https://www.linkedin.com/posts/williammilisic_cloud-ai-iac-activity-7290972229897510913-HZD4) should infrastructure engineers learn in 2025?
