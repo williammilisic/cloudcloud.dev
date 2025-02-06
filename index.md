@@ -9,6 +9,10 @@
 ## 6 February 2025
 * "*First, they fascinate the fools. Then, they muzzle the intelligent.*" - Bertrand Russell, on how fascism starts
 
+## 4 February 2025
+* At the heart of a company’s adaptability, portability, resiliency, and ultimate [success](https://www.linkedin.com/posts/williammilisic_codebase-application-cloud-activity-7292428390500868096-0TPe) is a simple truth: its ability to understand, maintain, and evolve its codebase.
+
+
 ## 3 February 2025
 * Highly relevant [analogy from Milton Friedman](https://www.linkedin.com/posts/williammilisic_milton-friedman-on-free-trade-activity-7292267233068654592-RopB) on free trade. 
 
