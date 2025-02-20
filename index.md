@@ -17,6 +17,9 @@
 ## 15 February 2025
 * Calls for [European digital sovereignty](https://www.linkedin.com/posts/williammilisic_european-digitalsovereignty-dependencymanagement-activity-7296423719864819712-mysx?utm_medium=ios_app&rcm=ACoAAAB2oYEB2oVAFfgyBr6dxfNfjtvFJSLoWh0&) are getting louder!
 
+## 13 February 2025
+* In the modern world identity is no longer tied to a [single place, culture or role](https://www.linkedin.com/posts/williammilisic_identity-careerjourney-adaptibility-activity-7295532608443047936-3ckP).
+
 ## 6 February 2025
 * "*First, they fascinate the fools. Then, they muzzle the intelligent.*" - Bertrand Russell, on how fascism starts
 
