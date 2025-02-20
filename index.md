@@ -14,6 +14,9 @@
 ## 19 February 2025
 * "I don't know" is probably one of the [most powerful phrases]( https://www.linkedin.com/posts/williammilisic_leadership-growthmindset-transparency-activity-7298065065478381568-wW2D) in leadership. 
 
+## 15 February 2025
+* Calls for [European digital sovereignty](https://www.linkedin.com/posts/williammilisic_european-digitalsovereignty-dependencymanagement-activity-7296423719864819712-mysx?utm_medium=ios_app&rcm=ACoAAAB2oYEB2oVAFfgyBr6dxfNfjtvFJSLoWh0&) are getting louder!
+
 ## 6 February 2025
 * "*First, they fascinate the fools. Then, they muzzle the intelligent.*" - Bertrand Russell, on how fascism starts
 
