@@ -6,6 +6,10 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 20 February 2025
+* "*No country without an atom bomb could properly consider itself independent.*" - Charles de Gaulle<br/><br/>
+* "*You have to be fast on your feet and adaptive or else a strategy is useless.*" - Charles de Gaulle
+
 ## 6 February 2025
 * "*First, they fascinate the fools. Then, they muzzle the intelligent.*" - Bertrand Russell, on how fascism starts
 
