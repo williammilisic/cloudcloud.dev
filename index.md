@@ -23,6 +23,9 @@
 ## 12 February 2025
 * [Charter](https://www.linkedin.com/posts/williammilisic_charter-for-a-competitive-diverse-dynamic-activity-7295191435589382147-ulrm) for a Competitive, Diverse, Dynamic, and Democratic European Union (in the style of the Agile Manifesto)
 
+## 11 February 2025
+* Started reading Gregor Hohpe's ["Cloud Strategy"](https://www.linkedin.com/posts/williammilisic_recently-picked-up-gregor-hohpes-cloud-activity-7293889613071368194-R5_r).
+
 ## 6 February 2025
 * "*First, they fascinate the fools. Then, they muzzle the intelligent.*" - Bertrand Russell, on how fascism starts
 
