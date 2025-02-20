@@ -10,6 +10,10 @@
 * "*No country without an atom bomb could properly consider itself independent.*" - Charles de Gaulle<br/><br/>
 * "*You have to be fast on your feet and adaptive or else a strategy is useless.*" - Charles de Gaulle<br/><br/>
 * Drawing some [parallels](https://www.linkedin.com/posts/williammilisic_russian-ukraine-struggle-activity-7298424644083056642-hV33) between the Tito and Stalin split of 1948 and Russia's aggression on Ukraine.
+
+## 19 February 2025
+* "I don't know" is probably one of the [most powerful phrases]( https://www.linkedin.com/posts/williammilisic_leadership-growthmindset-transparency-activity-7298065065478381568-wW2D) in leadership. 
+
 ## 6 February 2025
 * "*First, they fascinate the fools. Then, they muzzle the intelligent.*" - Bertrand Russell, on how fascism starts
 
