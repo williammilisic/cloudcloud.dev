@@ -20,6 +20,9 @@
 ## 13 February 2025
 * In the modern world identity is no longer tied to a [single place, culture or role](https://www.linkedin.com/posts/williammilisic_identity-careerjourney-adaptibility-activity-7295532608443047936-3ckP).
 
+## 12 February 2025
+* [Charter](https://www.linkedin.com/posts/williammilisic_charter-for-a-competitive-diverse-dynamic-activity-7295191435589382147-ulrm) for a Competitive, Diverse, Dynamic, and Democratic European Union (in the style of the Agile Manifesto)
+
 ## 6 February 2025
 * "*First, they fascinate the fools. Then, they muzzle the intelligent.*" - Bertrand Russell, on how fascism starts
 
