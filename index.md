@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 21 February 2025
+* "*Everything faded into mist. The past was erased, the erasure was forgotten, the lie became truth.*" - George Orwell, 1984
+
 ## 20 February 2025
 * "*No country without an atom bomb could properly consider itself independent.*" - Charles de Gaulle<br/><br/>
 * "*You have to be fast on your feet and adaptive or else a strategy is useless.*" - Charles de Gaulle<br/><br/>
