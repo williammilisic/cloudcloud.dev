@@ -7,6 +7,7 @@
 <br/>
 
 ## 22 February 
+* "*When stupidity is considered patriotism, it's unsafe to be intelligent.*" - Isaac Asimov <br/><br/>
 * In 1987, Donald Trump spent nearly $100,000 to place a full-page [advertisement](https://www.linkedin.com/posts/williammilisic_paxamericana-activity-7299002154327932929-MyS6) criticizing U.S. foreign policy in the New York Times, the Washington Post, and the Boston Globe. Already then undermining Pax Americana, following a visit to Moscow. A zebra doesn't change its stripes. 
 
 ## 21 February 2025
