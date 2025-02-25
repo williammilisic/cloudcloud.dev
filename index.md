@@ -9,6 +9,9 @@
 ## 24 February 2025
 * Over the past year or so, I’ve been on a [mission](https://www.linkedin.com/posts/williammilisic_fitness-parenting-qualitytime-activity-7299674085762981888-hJNE) to share my passion for an active lifestyle with my kids, beyond their regular training routines. 
 
+## 23 February 2025
+* "*The test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function.*" - F. Scott Fitzgerald
+
 ## 22 February 2025
 * "*When stupidity is considered patriotism, it's unsafe to be intelligent.*" - Isaac Asimov <br/><br/>
 * In 1987, Donald Trump spent nearly $100,000 to place a full-page [advertisement](https://www.linkedin.com/posts/williammilisic_paxamericana-activity-7299002154327932929-MyS6) criticizing U.S. foreign policy in the New York Times, the Washington Post, and the Boston Globe. Already then undermining Pax Americana, following a visit to Moscow. A zebra doesn't change its stripes. 
