@@ -7,6 +7,7 @@
 <br/>
 
 ## 24 February 2025
+* "*The price good men pay for indifference to public affairs is to be ruled by evil men.*" - Plato<br/><br/>
 * Over the past year or so, I’ve been on a [mission](https://www.linkedin.com/posts/williammilisic_fitness-parenting-qualitytime-activity-7299674085762981888-hJNE) to share my passion for an active lifestyle with my kids, beyond their regular training routines. 
 
 ## 23 February 2025
