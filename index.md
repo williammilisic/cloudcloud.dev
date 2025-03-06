@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 6 March 2025
+* "*A strong nation, like a strong person, can afford to be gentle, firm, thoughtful, and restrained. It can afford to extend a helping hand to others. It's a weak nation, like a weak person, that must behave with bluster and boasting and rashness and other signs of insecurity.*" - Jimmy Cartner
+
 ## 24 February 2025
 * "*The price good men pay for indifference to public affairs is to be ruled by evil men.*" - Plato<br/><br/>
 * Over the past year or so, I’ve been on a [mission](https://www.linkedin.com/posts/williammilisic_fitness-parenting-qualitytime-activity-7299674085762981888-hJNE) to share my passion for an active lifestyle with my kids, beyond their regular training routines. 
