@@ -9,6 +9,9 @@
 ## 6 March 2025
 * "*A strong nation, like a strong person, can afford to be gentle, firm, thoughtful, and restrained. It can afford to extend a helping hand to others. It's a weak nation, like a weak person, that must behave with bluster and boasting and rashness and other signs of insecurity.*" - Jimmy Cartner
 
+## 1 March 2025
+* ”*A nation can survive its fools, and even the ambitious. But it cannot survive treason from within.*" - Cicero
+
 ## 28 February 2025
 * Ukraine's [cause](https://www.linkedin.com/posts/williammilisic_slavaukraini-europeforukraine-europeanunity-activity-7301351069001879552-aPiN) is ours.
 
