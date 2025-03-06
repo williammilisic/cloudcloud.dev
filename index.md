@@ -9,6 +9,9 @@
 ## 6 March 2025
 * "*A strong nation, like a strong person, can afford to be gentle, firm, thoughtful, and restrained. It can afford to extend a helping hand to others. It's a weak nation, like a weak person, that must behave with bluster and boasting and rashness and other signs of insecurity.*" - Jimmy Cartner
 
+## 5 March 2025
+* What [future](https://www.linkedin.com/posts/williammilisic_europe-union-democracy-activity-7303138315703099392-Fjfj) will we choose for Europe? 
+
 ## 4 March 2025
 * How Hitler dismantled [German democracy](https://www.linkedin.com/posts/williammilisic_historydoesntrepeatitselfbutitoftenrhymes-activity-7302773175874916353-lGCu) in 53 days. 
 
