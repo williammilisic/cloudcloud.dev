@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 16 March 2025
+* "*The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn and relearn.*" - Alvin Toffler
+
 ## 12 March 2025
 * "*Mundus sine caesaribus*" - The World Without Ceasars.
 
