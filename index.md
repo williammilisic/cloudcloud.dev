@@ -18,6 +18,9 @@
 ## 12 March 2025
 * "*Mundus sine caesaribus*" - The World Without Ceasars.
 
+## 11 March 2025
+* [Dr. Seuss went to war](https://www.linkedin.com/posts/williammilisic_cartoons-wwii-drseuss-activity-7305490672055156736-fDr1) with wit and cartoons, not guns.
+
 ## 6 March 2025
 * "*A strong nation, like a strong person, can afford to be gentle, firm, thoughtful, and restrained. It can afford to extend a helping hand to others. It's a weak nation, like a weak person, that must behave with bluster and boasting and rashness and other signs of insecurity.*" - Jimmy Cartner
 
