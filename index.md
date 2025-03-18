@@ -12,6 +12,9 @@
 ## 16 March 2025
 * "*The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn and relearn.*" - Alvin Toffler
 
+## 13 March 2025
+* Why are [only 40% of applications](https://www.linkedin.com/posts/williammilisic_devops-cidc-continuousdelivery-activity-7305834810457907200-axCS) delivered using CI/CD?
+
 ## 12 March 2025
 * "*Mundus sine caesaribus*" - The World Without Ceasars.
 
