@@ -7,7 +7,7 @@
 <br/>
 
 ## 18 March 2025
-* "*Competition is the law of the jungle, but cooperation is the law of civilisation.*" - Peter Kropotkin
+* "*Competition is the law of jungle, but cooperation is the law of civilisation.*" - Peter Kropotkin
 
 ## 17 March 2025
 * What [St. Patrick](https://www.linkedin.com/posts/williammilisic_stpatricksday-europe-resilience-activity-7307494269089378304-WGvE) can teach modern day Europe. 
