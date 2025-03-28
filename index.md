@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 27 March 2025
+* Cloud migrations aren’t just about speed or sticking with what’s familiar. They’re about doing the [foundational work](https://www.linkedin.com/posts/williammilisic_cloudmigration-digitaltransformation-techstrategy-activity-7311269620936564736-ULR5) even when it’s painful.  
+
 ## 25 March 2025
 * Why getting [the right people on the bus](https://www.linkedin.com/posts/williammilisic_leadership-teambuilding-changemanagement-activity-7310571488372285441-a_w4) is key to any transformation effort! 
 
