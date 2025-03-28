@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 25 March 2025
+* Why getting [the right people on the bus](https://www.linkedin.com/posts/williammilisic_leadership-teambuilding-changemanagement-activity-7310571488372285441-a_w4) is key to any transformation effort! 
+
 ## 20 March 2025
 * A story about my role model in tech: [my mom](https://www.linkedin.com/posts/williammilisic_wit-womenintech-sebtech-activity-7308006709824778240-2OzX)!
 
