@@ -10,7 +10,7 @@
 * Why getting [the right people on the bus](https://www.linkedin.com/posts/williammilisic_leadership-teambuilding-changemanagement-activity-7310571488372285441-a_w4) is key to any transformation effort! 
 
 ## 20 March 2025
-* A story about my role model in tech: [my mom](https://www.linkedin.com/posts/williammilisic_wit-womenintech-sebtech-activity-7308006709824778240-2OzX)!
+* A story about my biggest role model in tech: [my mom](https://www.linkedin.com/posts/williammilisic_wit-womenintech-sebtech-activity-7308006709824778240-2OzX)!
 
 ## 18 March 2025
 * "*Competition is the law of jungle, but cooperation is the law of civilisation.*" - Peter Kropotkin
