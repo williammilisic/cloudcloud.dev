@@ -10,8 +10,7 @@
 * "*I shot an arrow into the air,
 It fell to earth, I knew not where;
 For, so swiftly it flew, the sight
-Could not follow it in its flight.
-
+Could not follow it in its flight.<br/>
 I breathed a song into the air,
 It fell to earth, I knew not where;
 For who has sight so keen and strong,
