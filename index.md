@@ -6,6 +6,22 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 3 April 2025
+* "**I shot an arrow into the air,
+It fell to earth, I knew not where;
+For, so swiftly it flew, the sight
+Could not follow it in its flight.
+
+I breathed a song into the air,
+It fell to earth, I knew not where;
+For who has sight so keen and strong,
+That it can follow the flight of song?
+
+Long, long afterward, in an oak
+I found the arrow, still unbroke;
+And the song, from beginning to end,
+I found again in the heart of a friend.*" - Henry Wadsworth Longfellow, The Arrow and the Song
+
 ## 2 April 2025
 * “*The fact is you cannot be intelligent merely by choosing your opinions. The intelligent man is not the man who holds such-and-such views but the man who has sound reasons for what he believes and yet does not believe it dogmatically. And opinions held for sound reasons have less emotional unity than the opinions of dogmatists because reason is non-party, favouring now one side and now another.
 That is what people find so unpleasant about it.*” — Bertrand Russell, Mortals and Others, Volume Il: American Essays 1931-1935, On Orthodoxies (1933)
