@@ -7,7 +7,7 @@
 <br/>
 
 ## 3 April 2025
-* "**I shot an arrow into the air,
+* "*I shot an arrow into the air,
 It fell to earth, I knew not where;
 For, so swiftly it flew, the sight
 Could not follow it in its flight.
