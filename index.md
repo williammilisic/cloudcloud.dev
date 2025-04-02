@@ -6,6 +6,10 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 2 April 2025
+* “*The fact is you cannot be intelligent merely by choosing your opinions. The intelligent man is not the man who holds such-and-such views but the man who has sound reasons for what he believes and yet does not believe it dogmatically. And opinions held for sound reasons have less emotional unity than the opinions of dogmatists because reason is non-party, favouring now one side and now another.
+That is what people find so unpleasant about it.*” — Bertrand Russell, Mortals and Others, Volume Il: American Essays 1931-1935, On Orthodoxies (1933)
+
 ## 27 March 2025
 * Cloud migrations aren’t just about speed or sticking with what’s familiar. They’re about doing the [foundational work](https://www.linkedin.com/posts/williammilisic_cloudmigration-digitaltransformation-techstrategy-activity-7311269620936564736-ULR5) even when it’s painful.  
 
