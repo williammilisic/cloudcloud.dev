@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 6 April 2025
+* "*I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living.*" — Dr. Seuss
+
 ## 3 April 2025
 * "*I shot an arrow into the air,
 It fell to earth, I knew not where;
