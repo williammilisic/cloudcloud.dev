@@ -7,7 +7,7 @@
 <br/>
 
 ## 6 April 2025
-* "*I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living.*" — Dr. Seuss
+* "*I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living. It's a way of looking through the wrong end of the microscope, which is what I do, and that enables you to laugh at life's realities.*" — Dr. Seuss
 
 ## 3 April 2025
 * "*I shot an arrow into the air,
