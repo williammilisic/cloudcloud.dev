@@ -24,6 +24,9 @@
 ## 21 April 2025
 * Just returned from a [family trip to London](https://www.linkedin.com/posts/williammilisic_londoncalling-familyadventures-worklifebalance-activity-7318705986540572672-uvWj). It didn't disappoint! 
 
+## 14 April 2025
+* How do you go about to achieve [digital sovereignty](https://www.linkedin.com/posts/williammilisic_digitalsovereignty-digitalsovereignty-geopolitics-activity-7316326806972731393-JJ6K)? China may have the blueprint. Caveat: it isn't fast or cheap. 
+
 ## 6 April 2025
 * "*I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living. It's a way of looking through the wrong end of the microscope, which is what I do, and that enables you to laugh at life's realities.*" — Dr. Seuss
 
