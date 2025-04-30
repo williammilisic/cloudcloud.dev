@@ -36,6 +36,9 @@
 ## 10 April 2025
 * [Observability Truth Bomb](https://www.linkedin.com/posts/williammilisic_observability-devops-techstrategy-activity-7314265742000963584-HKdI) The best observability setup? - The one your team actively uses every day.
 
+## 9 April 2025
+* Are you [beating on a dead horse](https://www.linkedin.com/posts/williammilisic_leadership-businessstrategy-innovation-activity-7313793573332643840-A0ms)? Why letting go could be the smartest move! 
+
 ## 6 April 2025
 * "*I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living. It's a way of looking through the wrong end of the microscope, which is what I do, and that enables you to laugh at life's realities.*" — Dr. Seuss
 
