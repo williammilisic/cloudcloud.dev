@@ -12,6 +12,9 @@
 ## 28 April 2025
 * Recent [poll](https://www.linkedin.com/posts/williammilisic_america-americans-manufacturing-activity-7322690254765760512-SGpF) has it that 80% of Americans would love for manufacturing jobs to come back, but only 25% would like to work in manufacturing. 
 
+## 25 April 2025 
+* [Photoshoot opportunity](https://www.linkedin.com/posts/williammilisic_lifeatseb-seblife-sebtech-activity-7321515992180752386-VvRc) for next set of Tech personas: Check! 
+
 ## 6 April 2025
 * "*I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living. It's a way of looking through the wrong end of the microscope, which is what I do, and that enables you to laugh at life's realities.*" — Dr. Seuss
 
