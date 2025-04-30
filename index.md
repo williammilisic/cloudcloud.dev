@@ -31,7 +31,7 @@
 * [Leadership is about the footprint](https://www.linkedin.com/posts/williammilisic_leadershiplegacy-peoplefirst-leadwithheart-activity-7315965633769148417-EeIK) you leave in other people's lives. 
 
 ## 11 April 2025
-* The cloud gives, and the cloud takes, your budget, if you blink
+* The cloud gives, and the cloud takes, [your budget](https://www.linkedin.com/posts/williammilisic_finops-finops-cloudcostmanagement-activity-7315609068759351296-7zjP), if you blink.
 
 
 ## 6 April 2025
