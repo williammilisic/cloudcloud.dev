@@ -33,6 +33,8 @@
 ## 11 April 2025
 * The cloud gives, and the cloud takes, [your budget](https://www.linkedin.com/posts/williammilisic_finops-finops-cloudcostmanagement-activity-7315609068759351296-7zjP), if you blink.
 
+## 10 April 2025
+* [Observability Truth Bomb](https://www.linkedin.com/posts/williammilisic_observability-devops-techstrategy-activity-7314265742000963584-HKdI) The best observability setup? - The one your team actively uses every day.
 
 ## 6 April 2025
 * "*I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living. It's a way of looking through the wrong end of the microscope, which is what I do, and that enables you to laugh at life's realities.*" — Dr. Seuss
