@@ -40,6 +40,7 @@
 * Are you [beating on a dead horse](https://www.linkedin.com/posts/williammilisic_leadership-businessstrategy-innovation-activity-7313793573332643840-A0ms)? Why letting go could be the smartest move! 
 
 ## 6 April 2025
+* [The cost of violence and the cost of freedom](https://www.linkedin.com/posts/williammilisic_authoritarianism-democracy-freedom-activity-7312701515712860160-Wq9t)? Sacrifice! <br/><br/>
 * "*I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living. It's a way of looking through the wrong end of the microscope, which is what I do, and that enables you to laugh at life's realities.*" — Dr. Seuss
 
 ## 3 April 2025
