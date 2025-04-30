@@ -9,6 +9,9 @@
 ## 30 April 2025
 * Walpurgis Night and 13 days until [FSI/Fintech spring event at Google](https://www.linkedin.com/posts/williammilisic_sebtech-sebcloud-fsi-activity-7323350260079050752-QcQq), with me as one of the speakers.
 
+## 28 April 2025
+* Recent [poll](https://www.linkedin.com/posts/williammilisic_america-americans-manufacturing-activity-7322690254765760512-SGpF) has it that 80% of Americans would love for manufacturing jobs to come back, but only 25% would like to work in manufacturing. 
+
 ## 6 April 2025
 * "*I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living. It's a way of looking through the wrong end of the microscope, which is what I do, and that enables you to laugh at life's realities.*" — Dr. Seuss
 
