@@ -15,6 +15,9 @@
 ## 25 April 2025 
 * [Photoshoot opportunity](https://www.linkedin.com/posts/williammilisic_lifeatseb-seblife-sebtech-activity-7321515992180752386-VvRc) for next set of Tech personas: Check! 
 
+## 24 April 2025
+* Attending [Women in Tech](https://www.linkedin.com/posts/williammilisic_witswe2025-womenintech-diversityandinclusion-activity-7321182050814713860-E9d3) the day prior. Pretty enlightening experience being a gender minority at the conference! 
+
 ## 6 April 2025
 * "*I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living. It's a way of looking through the wrong end of the microscope, which is what I do, and that enables you to laugh at life's realities.*" — Dr. Seuss
 
