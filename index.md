@@ -21,6 +21,9 @@
 ## 22 April 2025
 * [Application Modernisation](https://www.linkedin.com/posts/williammilisic_devops-cloudcomputing-softwareengineering-activity-7320676105781170177-S3-K) is about Code Ownership and Engineering Excellence! 
 
+## 21 April 2025
+* Just returned from a [family trip to London](https://www.linkedin.com/posts/williammilisic_londoncalling-familyadventures-worklifebalance-activity-7318705986540572672-uvWj) It didn't disappoint! 
+
 ## 6 April 2025
 * "*I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living. It's a way of looking through the wrong end of the microscope, which is what I do, and that enables you to laugh at life's realities.*" — Dr. Seuss
 
