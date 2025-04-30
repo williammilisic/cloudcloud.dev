@@ -43,6 +43,9 @@
 * [The cost of violence and the cost of freedom](https://www.linkedin.com/posts/williammilisic_authoritarianism-democracy-freedom-activity-7312701515712860160-Wq9t)? Sacrifice! <br/><br/>
 * "*I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living. It's a way of looking through the wrong end of the microscope, which is what I do, and that enables you to laugh at life's realities.*" — Dr. Seuss
 
+## 4 April 2025
+* [A fairytale cloud migration story](https://www.linkedin.com/posts/williammilisic_cloudmigration-digitaltransformation-techstrategy-activity-7311269620936564736-ULR5) gone wrong and what to learn from it? 
+
 ## 3 April 2025
 * "*I shot an arrow into the air,
 It fell to earth, I knew not where;
