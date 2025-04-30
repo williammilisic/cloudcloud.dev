@@ -30,6 +30,9 @@
 ## 6 April 2025
 * "*I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living. It's a way of looking through the wrong end of the microscope, which is what I do, and that enables you to laugh at life's realities.*" — Dr. Seuss
 
+## 12 April 2025
+* [Leadership is about the footprint](https://www.linkedin.com/posts/williammilisic_leadershiplegacy-peoplefirst-leadwithheart-activity-7315965633769148417-EeIK) you leave in other people's lives. 
+
 ## 3 April 2025
 * "*I shot an arrow into the air,
 It fell to earth, I knew not where;
