@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 30 April 2025
+* Walpurgis Night and 13 days until [FSI/Fintech spring event at Google](https://www.linkedin.com/posts/williammilisic_sebtech-sebcloud-fsi-activity-7323350260079050752-QcQq), with me as one of the speakers.
+
 ## 6 April 2025
 * "*I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living. It's a way of looking through the wrong end of the microscope, which is what I do, and that enables you to laugh at life's realities.*" — Dr. Seuss
 
