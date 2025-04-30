@@ -27,11 +27,15 @@
 ## 14 April 2025
 * How do you go about to achieve [digital sovereignty](https://www.linkedin.com/posts/williammilisic_digitalsovereignty-digitalsovereignty-geopolitics-activity-7316326806972731393-JJ6K)? China may have the blueprint. Caveat: it isn't fast or cheap. 
 
-## 6 April 2025
-* "*I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living. It's a way of looking through the wrong end of the microscope, which is what I do, and that enables you to laugh at life's realities.*" — Dr. Seuss
-
 ## 12 April 2025
 * [Leadership is about the footprint](https://www.linkedin.com/posts/williammilisic_leadershiplegacy-peoplefirst-leadwithheart-activity-7315965633769148417-EeIK) you leave in other people's lives. 
+
+## 11 April 2025
+* The cloud gives, and the cloud takes, your budget, if you blink
+
+
+## 6 April 2025
+* "*I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living. It's a way of looking through the wrong end of the microscope, which is what I do, and that enables you to laugh at life's realities.*" — Dr. Seuss
 
 ## 3 April 2025
 * "*I shot an arrow into the air,
