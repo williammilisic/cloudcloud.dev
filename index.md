@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 1 May 2025
+* What am I reading today? [Here](https://www.chinatalk.media/p/will-everyone-get-nukes?publication_id=4220) is a great discussion on how the current US administration is effectively undermining 70 years worth of nuclear non-proliferation and through its actions pushing US allies to pursue own nuclear strategies.
+
 ## 30 April 2025
 * Walpurgis Night and 13 days until [FSI/Fintech spring event at Google](https://www.linkedin.com/posts/williammilisic_sebtech-sebcloud-fsi-activity-7323350260079050752-QcQq), with me as one of the speakers.
 
