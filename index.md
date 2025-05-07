@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 7 May 2025
+* The story of my evacuation from wartime Sarajevo when I was twelve and how much a [Canadian flag patch](https://www.linkedin.com/posts/williammilisic_canada-peacekeeping-gratitude-activity-7325790205897035778-IpXq) meant that day! 
+
 ## 1 May 2025
 * What am I reading today? [Here](https://www.chinatalk.media/p/will-everyone-get-nukes?publication_id=4220) is a great discussion on how the current US administration is effectively undermining 70 years worth of nuclear non-proliferation and through its actions pushing US allies to pursue own nuclear strategies.
 
