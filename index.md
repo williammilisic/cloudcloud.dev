@@ -7,7 +7,8 @@
 <br/>
 
 ## 13 May 2025
-* Kubernetes and Cloud agnosticism - cutting through the [hype](https://www.linkedin.com/posts/williammilisic_kubernetes-cloudcomputing-devops-activity-7327927829268992000-50Wn).
+* Kubernetes and Cloud agnosticism - cutting through the [hype](https://www.linkedin.com/posts/williammilisic_kubernetes-cloudcomputing-devops-activity-7327927829268992000-50Wn).<br/><br/>
+* Attended yet another great FSI event at Google and this time got to [talk](https://www.linkedin.com/posts/williammilisic_sebtech-sebcloud-lifeatseb-activity-7328126859945111552-BznV) a bit too!
 
 ## 10 May 2025
 * [Race day](https://www.linkedin.com/posts/williammilisic_resilience-runningcommunity-noexcuses-activity-7327030251891388416-xlqM) even though I've just been getting out of a long running cold. 
