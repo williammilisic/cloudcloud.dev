@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 13 May 2025
+* Kubernetes and Cloud agnosticism - cutting through the [hype](https://www.linkedin.com/posts/williammilisic_kubernetes-cloudcomputing-devops-activity-7327927829268992000-50Wn).
+
 ## 10 May 2025
 * [Race day](https://www.linkedin.com/posts/williammilisic_resilience-runningcommunity-noexcuses-activity-7327030251891388416-xlqM) even though I've just been getting out of a long running cold. 
 
