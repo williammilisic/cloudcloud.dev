@@ -7,7 +7,7 @@
 <br/>
 
 ## 10 May 2025
-* [Race day]( https://www.linkedin.com/posts/williammilisic_resilience-runningcommunity-noexcuses-activity-7327030251891388416-xlqM)  just getting out of a long running cold. 
+* [Race day](https://www.linkedin.com/posts/williammilisic_resilience-runningcommunity-noexcuses-activity-7327030251891388416-xlqM) even though I've just been getting out of a long running cold. 
 
 ## 7 May 2025
 * The story of my evacuation from wartime Sarajevo when I was twelve and how much a [Canadian flag patch](https://www.linkedin.com/posts/williammilisic_canada-peacekeeping-gratitude-activity-7325790205897035778-IpXq) meant that day! 
