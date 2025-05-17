@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 17 May 2025
+* "*There are decades where nothing happens; and there are weeks where decades happen.*" - Lenin
+
 ## 13 May 2025
 * Kubernetes and Cloud agnosticism - cutting through the [hype](https://www.linkedin.com/posts/williammilisic_kubernetes-cloudcomputing-devops-activity-7327927829268992000-50Wn).<br/><br/>
 * Attended yet another great FSI event at Google and this time got to [talk](https://www.linkedin.com/posts/williammilisic_sebtech-sebcloud-lifeatseb-activity-7328126859945111552-BznV) a bit too!
