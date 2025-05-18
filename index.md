@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 18 May 2025
+* “*If people never did silly things nothing intelligent would ever get done.*" - Ludwig Wittgenstein
+
 ## 17 May 2025
 * "*There are decades where nothing happens; and there are weeks where decades happen.*" - Lenin
 
