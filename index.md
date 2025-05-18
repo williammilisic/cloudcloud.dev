@@ -7,7 +7,8 @@
 <br/>
 
 ## 18 May 2025
-* “*If people never did silly things nothing intelligent would ever get done.*" - Ludwig Wittgenstein
+* “*If people never did silly things nothing intelligent would ever get done.*" - Ludwig Wittgenstein<br/><br/>
+* "*You do not really understand something unless you can explain it to your grandmother.*" - Einstein  
 
 ## 17 May 2025
 * "*There are decades where nothing happens; and there are weeks where decades happen.*" - Lenin
