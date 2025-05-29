@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 20 May 2025 
+* Why your 3 year roadmap is a fantasy, and [what to do instead](https://www.linkedin.com/posts/williammilisic_productmanagement-agile-leadership-activity-7329010731603984386-bBSI).
+
 ## 19 May 2025
 * Companies don't have a coordination problem. Companies have a [prioritisation](https://www.linkedin.com/posts/williammilisic_leadership-productivity-strategy-activity-7328642288849436672-ep2R) problem. 
 
