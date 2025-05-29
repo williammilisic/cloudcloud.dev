@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 21 May 2025
+* How teaching maths and programming at the university, tought me the importance of [deep understanding](https://www.linkedin.com/posts/williammilisic_lifelonglearning-teachingmindset-growthoverego-activity-7330095034580516864-HHuU). 
+
 ## 20 May 2025 
 * Why your 3 year roadmap is a fantasy, and [what to do instead](https://www.linkedin.com/posts/williammilisic_productmanagement-agile-leadership-activity-7329010731603984386-bBSI).
 
