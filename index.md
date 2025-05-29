@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 22 May 2025
+* Why "Russophobia" is [not the explanation](https://www.linkedin.com/posts/williammilisic_russia-europe-ukraine-activity-7330455513240899585-CjGE) to the logical and rational cautiousness most neighbours feel towards Russia.
+
 ## 21 May 2025
 * How teaching maths and programming at the university, tought me the importance of [deep understanding](https://www.linkedin.com/posts/williammilisic_lifelonglearning-teachingmindset-growthoverego-activity-7330095034580516864-HHuU). 
 
