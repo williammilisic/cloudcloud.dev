@@ -35,7 +35,7 @@
 * [Kronos vs Kairos](https://www.linkedin.com/posts/williammilisic_timemanagement-mindfulness-productivity-activity-7333734020922474496-Q1CQ) - how two ancient Greek concepts of time, explain it incredibly well, also today. 
 
 ## 29 May 2025
-* From IaC to [machine building machines]. 
+* From IaC to [machine building machines](https://www.linkedin.com/posts/williammilisic_iac-cloudengineering-landingzone-activity-7331542393831231495-sp20). 
 
 ## 27 May 2025
 * Are you building yet another [data center](https://www.linkedin.com/posts/williammilisic_cloudcomputing-nist-digitaltransformation-activity-7332622284001538048-Yfep) in the cloud?
