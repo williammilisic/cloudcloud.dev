@@ -7,7 +7,10 @@
 <br/>
 
 ## 12 June 2025
-* [Google Cloud Summit](https://www.linkedin.com/posts/williammilisic_googlecloudsummitnordics-gcp-sebtech-activity-7338888127786237957-Y3us) presentation reflections. 
+* [Google Cloud Summit Nordics](https://www.linkedin.com/posts/williammilisic_googlecloudsummitnordics-gcp-sebtech-activity-7338888127786237957-Y3us) presentation reflections. 
+
+## 11 June 2025
+* [Top three aha moments](https://www.linkedin.com/posts/williammilisic_googlecloud-cloudsummit-nordics-activity-7338647013917405186-9GTk) from Google Cloud Summit Nordics. 
 
 ## 6 June 2025
 * "*Wars are caused when an aggressor believes he can achieve his objectives at an acceptable price.*" - Margaret Thatcher
