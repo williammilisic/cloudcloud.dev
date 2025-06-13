@@ -44,7 +44,7 @@
 * Are you building yet another [data center](https://www.linkedin.com/posts/williammilisic_cloudcomputing-nist-digitaltransformation-activity-7332622284001538048-Yfep) in the cloud?
 
 ## 25 May 2025
-* Celebrating [a long running launch](https://www.linkedin.com/posts/williammilisic_lifeatseb-seblife-sebtech-activity-7330609678936129538-GViU) with involved teams. 
+* Celebrating [a long running project launch](https://www.linkedin.com/posts/williammilisic_lifeatseb-seblife-sebtech-activity-7330609678936129538-GViU) with involved teams. 
 
 ## 22 May 2025
 * Why "Russophobia" is [not the explanation](https://www.linkedin.com/posts/williammilisic_russia-europe-ukraine-activity-7330455513240899585-CjGE) to the logical and rational cautiousness most neighbours feel towards Russia.
