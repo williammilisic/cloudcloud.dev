@@ -15,6 +15,9 @@
 ## 10 June 2015
 * PR at 5k run at [Blodomloppet](https://www.linkedin.com/posts/williammilisic_blodomloppet-teamseb-pr-activity-7338288243991371776-eBH9).
 
+## 9 June 2025
+* [Met with Google's Richard Seroter](https://www.linkedin.com/posts/williammilisic_ai-tech-documentation-activity-7337798740835012608-mqxg) and discussed AI, and how AI needs key hygiene factors: automation, cloud, data management and devex. 
+
 ## 6 June 2025
 * "*Wars are caused when an aggressor believes he can achieve his objectives at an acceptable price.*" - Margaret Thatcher
 
