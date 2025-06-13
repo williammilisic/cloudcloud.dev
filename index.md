@@ -32,7 +32,7 @@
 * Are you [falling for new tech fads](https://www.linkedin.com/posts/williammilisic_techstrategy-digitalfoundations-datagovernance-activity-7335552353032376320-fOGF)? Be wary that skipping foundations comes with consequences. 
 
 ## 30 Nay 2025
-* [Kronos vs Kairos](https://www.linkedin.com/posts/williammilisic_timemanagement-mindfulness-productivity-activity-7333734020922474496-Q1CQ) - how two ancient Greek concepts of time, explain it incredibly well. 
+* [Kronos vs Kairos](https://www.linkedin.com/posts/williammilisic_timemanagement-mindfulness-productivity-activity-7333734020922474496-Q1CQ) - how two ancient Greek concepts of time, explain it incredibly well, also today. 
 
 ## 22 May 2025
 * Why "Russophobia" is [not the explanation](https://www.linkedin.com/posts/williammilisic_russia-europe-ukraine-activity-7330455513240899585-CjGE) to the logical and rational cautiousness most neighbours feel towards Russia.
