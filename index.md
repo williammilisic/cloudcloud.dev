@@ -31,8 +31,11 @@
 ## 3 June 2025
 * Are you [falling for new tech fads](https://www.linkedin.com/posts/williammilisic_techstrategy-digitalfoundations-datagovernance-activity-7335552353032376320-fOGF)? Be wary that skipping foundations comes with consequences. 
 
-## 30 Nay 2025
+## 30 May 2025
 * [Kronos vs Kairos](https://www.linkedin.com/posts/williammilisic_timemanagement-mindfulness-productivity-activity-7333734020922474496-Q1CQ) - how two ancient Greek concepts of time, explain it incredibly well, also today. 
+
+## 29 May 2025
+* From IaC to [machine building machines]. 
 
 ## 27 May 2025
 * Are you building yet another [data center](https://www.linkedin.com/posts/williammilisic_cloudcomputing-nist-digitaltransformation-activity-7332622284001538048-Yfep) in the cloud?
