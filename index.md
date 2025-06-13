@@ -25,6 +25,9 @@
 ## 5 June 2025
 * Why isn't Sovereign Cloud the [DEFAULT](https://www.linkedin.com/posts/williammilisic_sovereigncloud-digitalsovereignty-dataprivacy-activity-7336258555047477270-E6yB) for Cloud Service Providers in Europe?
 
+## 4 June 2025
+* Hanging out at [AWS Summit](https://www.linkedin.com/posts/williammilisic_awssummit-stockholm-kickoff-activity-7335924198030069761-2v2i).
+
 ## 22 May 2025
 * Why "Russophobia" is [not the explanation](https://www.linkedin.com/posts/williammilisic_russia-europe-ukraine-activity-7330455513240899585-CjGE) to the logical and rational cautiousness most neighbours feel towards Russia.
 
