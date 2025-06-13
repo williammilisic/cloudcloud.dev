@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 12 June 2025
+* [Google Cloud Summit](https://www.linkedin.com/posts/williammilisic_googlecloudsummitnordics-gcp-sebtech-activity-7338888127786237957-Y3us) presentation reflections. 
+
 ## 6 June 2025
 * "*Wars are caused when an aggressor believes he can achieve his objectives at an acceptable price.*" - Margaret Thatcher
 
