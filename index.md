@@ -22,6 +22,9 @@
 * "*Wars are caused when an aggressor believes he can achieve his objectives at an acceptable price.*" - Margaret Thatcher <br/><br/>
 * Happy [National Day](https://www.linkedin.com/posts/williammilisic_sweden-nationalday-sverige-activity-7336642148303261696-A0-N) Sweden!
 
+## 5 June 2025
+* Why isn't Sovereign Cloud the [DEFAULT](https://www.linkedin.com/posts/williammilisic_sovereigncloud-digitalsovereignty-dataprivacy-activity-7336258555047477270-E6yB) for Cloud Service Providers in Europe?
+
 ## 22 May 2025
 * Why "Russophobia" is [not the explanation](https://www.linkedin.com/posts/williammilisic_russia-europe-ukraine-activity-7330455513240899585-CjGE) to the logical and rational cautiousness most neighbours feel towards Russia.
 
