@@ -28,6 +28,9 @@
 ## 4 June 2025
 * Hanging out at [AWS Summit](https://www.linkedin.com/posts/williammilisic_awssummit-stockholm-kickoff-activity-7335924198030069761-2v2i).
 
+## 3 June 2025
+* Are you [falling for new tech fads](https://www.linkedin.com/posts/williammilisic_techstrategy-digitalfoundations-datagovernance-activity-7335552353032376320-fOGF)? Be wary that skipping foundations comes with consequences. 
+
 ## 22 May 2025
 * Why "Russophobia" is [not the explanation](https://www.linkedin.com/posts/williammilisic_russia-europe-ukraine-activity-7330455513240899585-CjGE) to the logical and rational cautiousness most neighbours feel towards Russia.
 
