@@ -34,6 +34,9 @@
 ## 30 Nay 2025
 * [Kronos vs Kairos](https://www.linkedin.com/posts/williammilisic_timemanagement-mindfulness-productivity-activity-7333734020922474496-Q1CQ) - how two ancient Greek concepts of time, explain it incredibly well, also today. 
 
+## 27 May 2025
+* Are you building yet another [data center](https://www.linkedin.com/posts/williammilisic_cloudcomputing-nist-digitaltransformation-activity-7332622284001538048-Yfep) in the cloud?
+
 ## 22 May 2025
 * Why "Russophobia" is [not the explanation](https://www.linkedin.com/posts/williammilisic_russia-europe-ukraine-activity-7330455513240899585-CjGE) to the logical and rational cautiousness most neighbours feel towards Russia.
 
