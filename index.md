@@ -37,6 +37,9 @@
 ## 29 May 2025
 * From IaC to [machine building machines](https://www.linkedin.com/posts/williammilisic_iac-cloudengineering-landingzone-activity-7331542393831231495-sp20). 
 
+## 28 May 2025
+* What's your [walk on anthem](https://www.linkedin.com/posts/williammilisic_entrancesong-soundtrackofsuccess-ownthestage-activity-7330824247981830144-_zSe)?
+
 ## 27 May 2025
 * Are you building yet another [data center](https://www.linkedin.com/posts/williammilisic_cloudcomputing-nist-digitaltransformation-activity-7332622284001538048-Yfep) in the cloud?
 
