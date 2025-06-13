@@ -19,7 +19,8 @@
 * [Met with Google's Richard Seroter](https://www.linkedin.com/posts/williammilisic_ai-tech-documentation-activity-7337798740835012608-mqxg) and discussed AI, and how AI needs key hygiene factors: automation, cloud, data management and devex. 
 
 ## 6 June 2025
-* "*Wars are caused when an aggressor believes he can achieve his objectives at an acceptable price.*" - Margaret Thatcher
+* "*Wars are caused when an aggressor believes he can achieve his objectives at an acceptable price.*" - Margaret Thatcher <br/><br/>
+* Happy [National Day](https://www.linkedin.com/posts/williammilisic_sweden-nationalday-sverige-activity-7336642148303261696-A0-N) Sweden!
 
 ## 22 May 2025
 * Why "Russophobia" is [not the explanation](https://www.linkedin.com/posts/williammilisic_russia-europe-ukraine-activity-7330455513240899585-CjGE) to the logical and rational cautiousness most neighbours feel towards Russia.
