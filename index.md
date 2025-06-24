@@ -6,6 +6,10 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 24 June 2025
+* "*Everything we call real is made of things that cannot be regarded as real. <br/>
+If quantum mechanics hasn't profoundly shocked you, you haven't understood it yet.*" - Niels Bohr
+
 ## 12 June 2025
 * [Google Cloud Summit Nordics](https://www.linkedin.com/posts/williammilisic_googlecloudsummitnordics-gcp-sebtech-activity-7338888127786237957-Y3us) presentation reflections. 
 
