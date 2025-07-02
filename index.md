@@ -10,6 +10,9 @@
 * "*Everything we call real is made of things that cannot be regarded as real. <br/>
 If quantum mechanics hasn't profoundly shocked you, you haven't understood it yet.*" - Niels Bohr
 
+## 20 June 2025
+* The planning fallacy, identified by Daniel Kahneman and Amos Tversky, is the tendency to underestimate the time, cost, and resources needed to complete a project, while simultaneously overestimating the benefits. This bias leads to overly optimistic timelines and budgets, even when past experiences suggest otherwise. 
+
 ## 19 June 2025
 * Book [review](https://www.linkedin.com/posts/williammilisic_essentialism-productivity-focus-activity-7340449271294353410-f0ab) of "Essentialism" by Greg McKeown.
 
