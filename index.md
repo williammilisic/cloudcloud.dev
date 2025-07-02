@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 1 July 2025
+* "*People are effective because they say no.*" - Peter Drucker
+
 ## 30 June 2025
 * Book review of "[Cloud Strategy](https://www.linkedin.com/posts/williammilisic_cloudcomputing-onpremise-hybridcloud-activity-7342555608602046465-1Pp4)" by Gregor Hohpe. 
 
