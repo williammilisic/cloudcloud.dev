@@ -25,6 +25,9 @@
 * "*Everything we call real is made of things that cannot be regarded as real. <br/>
 If quantum mechanics hasn't profoundly shocked you, you haven't understood it yet.*" - Niels Bohr
 
+## 22 June 2025
+* Wear a smile and have friends, wear a scowl and have wrinkles. What do we live for if not to make the world less difficult for each other.
+
 ## 20 June 2025
 * The planning fallacy, identified by Daniel Kahneman and Amos Tversky, is the tendency to underestimate the time, cost, and resources needed to complete a project, while simultaneously overestimating the benefits. This bias leads to overly optimistic timelines and budgets, even when past experiences suggest otherwise. 
 
