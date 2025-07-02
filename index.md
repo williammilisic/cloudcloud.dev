@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 25 June 2025
+* “Cloud agnostic” often means “cloud mediocre.” True multicloud success isn’t about forcing sameness - it’s about [intentionally leveraging difference](https://www.linkedin.com/posts/williammilisic_cloudstrategy-multicloud-cloudcomputing-activity-7341171541620994048-e43F).
+
 ## 24 June 2025
 * "*Everything we call real is made of things that cannot be regarded as real. <br/>
 If quantum mechanics hasn't profoundly shocked you, you haven't understood it yet.*" - Niels Bohr
