@@ -12,6 +12,9 @@
 ## 30 June 2025
 * Book review of "[Cloud Strategy](https://www.linkedin.com/posts/williammilisic_cloudcomputing-onpremise-hybridcloud-activity-7342555608602046465-1Pp4)" by Gregor Hohpe. 
 
+## 29 June 2025
+* "*Routine, in an intelligent man, is a sign of ambition.*" - W.H. Auden
+
 ## 27 June 2025
 * "*A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.*" - George Bernard Shaw
 
