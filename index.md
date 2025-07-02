@@ -6,6 +6,10 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 2 July 2025
+* "*Conservatives are not necessarily stupid, but most stupid people are conservatives...
+I never meant to say that the Conservatives are generally stupid. I meant to say that stupid people are generally Conservative. I believe that is so obviously and universally admitted a principle that I hardly think any gentleman will deny it. Suppose any party, in addition to whatever share it may possess of the ability of the community, has nearly the whole of its stupidity, that party must, by the law of its constitution, be the stupidest party; and I do not see why honorable gentlemen should see that position as at all offensive to them, for it ensures their being always an extremely powerful party . . . There is so much dense, solid force in sheer stupidity, that any body of able men with that force pressing behind them may ensure victory in many a struggle, and many a victory the Conservative party has gained through that power.*" - John Stuart Mill (British philosopher, economist, and liberal member of Parliament) 
+
 ## 1 July 2025
 * "*People are effective because they say no.*" - Peter Drucker
 
