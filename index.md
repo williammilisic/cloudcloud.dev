@@ -11,7 +11,7 @@
 If quantum mechanics hasn't profoundly shocked you, you haven't understood it yet.*" - Niels Bohr
 
 ## 18 June 2025
-* Don't dress for the job you want. [Wear your authenticity](https://www.linkedin.com/posts/williammilisic_workplaceculture-authenticleadership-careeradvice-activity-7339530019834114048-bdzF) rather than a work armour. 
+* [Wear your authenticity](https://www.linkedin.com/posts/williammilisic_workplaceculture-authenticleadership-careeradvice-activity-7339530019834114048-bdzF) rather than a work armour. 
 
 ## 12 June 2025
 * [Google Cloud Summit Nordics](https://www.linkedin.com/posts/williammilisic_googlecloudsummitnordics-gcp-sebtech-activity-7338888127786237957-Y3us) presentation reflections. 
