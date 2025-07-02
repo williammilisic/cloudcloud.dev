@@ -28,6 +28,9 @@
 * "*Everything we call real is made of things that cannot be regarded as real. <br/>
 If quantum mechanics hasn't profoundly shocked you, you haven't understood it yet.*" - Niels Bohr
 
+## 23 June 2025
+* "*I seldom end up where I wanted to go, but almost always end up where I need to be.*" - Douglas Adams
+
 ## 22 June 2025
 * Wear a smile and have friends, wear a scowl and have wrinkles. What do we live for if not to make the world less difficult for each other.
 
