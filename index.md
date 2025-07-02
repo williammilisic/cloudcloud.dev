@@ -10,6 +10,9 @@
 * "*Everything we call real is made of things that cannot be regarded as real. <br/>
 If quantum mechanics hasn't profoundly shocked you, you haven't understood it yet.*" - Niels Bohr
 
+## 19 June 2025
+* Book [review](https://www.linkedin.com/posts/williammilisic_essentialism-productivity-focus-activity-7340449271294353410-f0ab) of "Essentialism" by Greg McKeown.
+
 ## 18 June 2025
 * [Wear your authenticity](https://www.linkedin.com/posts/williammilisic_workplaceculture-authenticleadership-careeradvice-activity-7339530019834114048-bdzF) rather than a work armour. 
 
