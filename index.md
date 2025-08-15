@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 7 July 2025
+* Some thoughts about how airports can improve their [efficiencies](https://www.linkedin.com/posts/williammilisic_traveltech-automation-airportexperience-activity-7347863812626132992-TqFT) by investing in modern systems and automation. 
+
 ## 5 July 2025
 * [Oasis](https://www.linkedin.com/posts/williammilisic_oasis-britpop-comebacktour-activity-7347158174170238976-n7Z1) kicked off their reunion tour. Here's hoping that the tour is successful and that some things live forever. 
 
