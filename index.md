@@ -6,10 +6,11 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 5 July 2025
+* [Oasis](https://www.linkedin.com/posts/williammilisic_oasis-britpop-comebacktour-activity-7347158174170238976-n7Z1) kicked off their reunion tour. Here's hoping that the tour is successful and that some things live forever. 
 
 ## 4 July 2025
 * Book review of Jim Collin's updated classic "[Beyond Entrepreneurship 2.0](https://www.linkedin.com/posts/williammilisic_jimcollins-beyondentrepreneurship-leadership-activity-7346614494229360640-J90I)". 
-
 
 ## 2 July 2025
 * "*Conservatives are not necessarily stupid, but most stupid people are conservatives...
