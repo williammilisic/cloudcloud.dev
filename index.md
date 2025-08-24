@@ -9,11 +9,11 @@
 ## 24 August 2025
 * **Hoʻoponopono** means "to make things right" or "to correct" and refers to a traditional Hawaiian practice of reconciliation and forgiveness, used to resolve conflicts, heal relationships, and restore balance by taking personal responsibility. It is centered on phrases like "I'm sorry," "Please forgive me," "Thank you," and "I love you," which are repeated to express remorse, seek forgiveness, show gratitude, and send love. <br/><br/>
 The word is derived from the Hawaiian words hoʻo ("to make") and pono ("right"), with the repetition of pono emphasizing the meaning of "doubly right".<br/><br/>
-When practicing Hoʻoponopono, the following four phrases are recited: <br/>
-I'm sorry: Acknowledges your part in the situation, even if the harm was unintentional.<br/>
-Please forgive me: Asks for forgiveness from yourself and others for any pain caused.<br/>
-Thank you: Expresses gratitude for the situation, for the chance to learn and grow.<br/>
-I love you: Sends love and appreciation to yourself and others, promoting healing and transformation.
+When practicing Hoʻoponopono, the following four phrases are recited: <br/><br/>
+**I'm sorry**: Acknowledges your part in the situation, even if the harm was unintentional.<br/>
+**Please forgive me**: Asks for forgiveness from yourself and others for any pain caused.<br/>
+**Thank you**: Expresses gratitude for the situation, for the chance to learn and grow.<br/>
+**I love you**: Sends love and appreciation to yourself and others, promoting healing and transformation.
 
 ## 7 July 2025
 * Some thoughts about how airports can improve their [efficiencies](https://www.linkedin.com/posts/williammilisic_traveltech-automation-airportexperience-activity-7347863812626132992-TqFT) by investing in modern systems and automation. 
