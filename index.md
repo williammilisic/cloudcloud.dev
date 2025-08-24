@@ -6,6 +6,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 24 August 2025
+* *Hoʻoponopono* means "to make things right" or "to correct" and refers to a traditional Hawaiian practice of reconciliation and forgiveness, used to resolve conflicts, heal relationships, and restore balance by taking personal responsibility. It is centered on phrases like "I'm sorry," "Please forgive me," "Thank you," and "I love you," which are repeated to express remorse, seek forgiveness, show gratitude, and send love. 
+
 ## 7 July 2025
 * Some thoughts about how airports can improve their [efficiencies](https://www.linkedin.com/posts/williammilisic_traveltech-automation-airportexperience-activity-7347863812626132992-TqFT) by investing in modern systems and automation. 
 
