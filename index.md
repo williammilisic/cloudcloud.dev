@@ -15,6 +15,9 @@ When practicing Hoʻoponopono, the following four phrases are recited: <br/><br/
 **Thank you**: Expresses gratitude for the situation, for the chance to learn and grow.<br/>
 **I love you**: Sends love and appreciation to yourself and others, promoting healing and transformation.
 
+## 14 July 2025
+* A [packed calendar](https://www.linkedin.com/posts/williammilisic_productivity-deepwork-timemanagement-activity-7348366156505780224-4Qip) is not productivity, it is performative busyness. 
+
 ## 7 July 2025
 * Some thoughts about how airports can improve their [efficiencies](https://www.linkedin.com/posts/williammilisic_traveltech-automation-airportexperience-activity-7347863812626132992-TqFT) by investing in modern systems and automation. 
 
