@@ -7,7 +7,6 @@ published: true
 ---
 
 <!-- markdownlint-disable MD033 -->
-<!--{% include follow-on-linkedin.html %}-->
 {% assign published_posts = site.data.linkedin-posts.data.posts %}
 
 <!-- Buttons for ordering LinkedIn posts -->
