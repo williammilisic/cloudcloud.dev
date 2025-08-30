@@ -1,6 +1,6 @@
 # cloudcloud.dev
 <!--[RSS](https://williammilisic.github.io/cloudcloud.dev/feed.xml)-->
-[Books List](booklist.md) | [Podcasts List](podcastlist.md) | [LinkedIn](https://linkedin.com/in/williammilisic)
+[Books List](booklist.md) | [Podcasts List](podcastlist.md) | [LinkedIn](https://linkedin.com/in/williammilisic) | [LinkedIn posts](linkedin.md)
 
 
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
@@ -14,8 +14,6 @@ When practicing Hoʻoponopono, the following four phrases are recited: <br/><br/
 **Please forgive me**: Asks for forgiveness from yourself and others for any pain caused.<br/>
 **Thank you**: Expresses gratitude for the situation, for the chance to learn and grow.<br/>
 **I love you**: Sends love and appreciation to yourself and others, promoting healing and transformation.
-
-## 
 
 ## 23 July 2025
 * Reconnecting with our roots, especially [the humble ones that shaped us](https://www.linkedin.com/posts/williammilisic_nostalgia-family-resilience-activity-7353673677302808577-wpYp), is powerful. 
