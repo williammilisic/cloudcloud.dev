@@ -1,6 +1,6 @@
 # cloudcloud.dev LinkedIn Posts
 
-Back to [main](index.md).
+Back to [main](../index.md).
 
 <br/>
 
