@@ -21,7 +21,7 @@ Back to [main](../index.md).
   <a href="{{ post.url }}" target="_blank" class="linkedin-post-link">
    <div class="linkedin-post-card">
     <div class="linkedin-post-text">
-      <h3 class="linkedin-post-title">{{ post.text | truncatewords: 50 }}</h3>
+      <h4 class="linkedin-post-title">{{ post.text | truncatewords: 50 }}</h4>
       <p class="linkedin-post-description">
        Posted on {{ post.posted_at.date | date: "%b %-d, %Y" }}
       </p>
