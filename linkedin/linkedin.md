@@ -1,11 +1,9 @@
+# cloudcloud.dev LinkedIn Posts
 
----
-layout: page
-permalink: linkedin
-title: LinkedIn Posts
-description: LinkedIn posts by William Milisic.
-published: true
----
+Back to [main](/index.md).
+
+<br/>
+
 
 <!-- markdownlint-disable MD033 -->
 {% assign published_posts = site.data.linkedin-posts.data.posts %}
