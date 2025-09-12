@@ -1,10 +1,8 @@
----
-layout: page
-permalink: /linkedin/by-comments
-title: LinkedIn Posts by Comments
-description: LinkedIn posts by William Milisic, sorted by number of comments.
-published: true
----
+# cloudcloud.dev LinkedIn posts by comments
+
+Back to [main](../index.md).
+
+<br/>
 
 <!-- markdownlint-disable MD033 -->
 {% assign published_posts = site.data.linkedin-posts.data.posts %}
