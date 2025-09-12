@@ -9,10 +9,10 @@ Back to [main](../index.md).
 
 <!-- Buttons for ordering LinkedIn posts -->
 <div class="list-filters">
-  <a href="/linkedin" class="list-filter">All ({{ published_posts.size }})</a>
-  <a href="/linkedin/by-year" class="list-filter">By Year</a>
-  <a href="/linkedin/by-reactions" class="list-filter">By Reactions</a>
-  <a href="/linkedin/by-comments" class="list-filter">By Comments</a>
+  <a href="linkedin.html" class="list-filter">All ({{ published_posts.size }})</a>
+  <a href="year.html" class="list-filter">By Year</a>
+  <a href="reactions.html" class="list-filter">By Reactions</a>
+  <a href="comments.html" class="list-filter">By Comments</a>
 </div>
 
 {% assign sorted_posts = site.data.linkedin-posts.data.posts | sort: "commentsCount" | reverse %}
