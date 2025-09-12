@@ -1,9 +1,8 @@
----
-layout: page
-permalink: /linkedin/by-reactions
-title: LinkedIn Posts by Reactions
-description: LinkedIn posts by William Milisic, sorted by number of reactions.
-published: true
+# cloudcloud.dev LinkedIn posts by reactions
+
+Back to [main](../index.md).
+
+<br/>
 ---
 
 <!-- markdownlint-disable MD033 -->
