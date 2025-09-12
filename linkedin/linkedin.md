@@ -11,9 +11,9 @@ Back to [main](../index.md).
 <!-- Buttons for ordering LinkedIn posts -->
 <div class="list-filters">
   <a href="linkedin.html" class="list-filter">All ({{ published_posts.size }})</a>
-  <a href="byyear.html" class="list-filter">By Year</a>
-  <a href="byreactions.html" class="list-filter">By Reactions</a>
-  <a href="bycomments.html" class="list-filter">By Comments</a>
+  <a href="year.html" class="list-filter">By Year</a>
+  <a href="reactions.html" class="list-filter">By Reactions</a>
+  <a href="comments.html" class="list-filter">By Comments</a>
 </div>
 
 <div class="linkedin-posts-container post-preview">
