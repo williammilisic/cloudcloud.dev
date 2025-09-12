@@ -112,7 +112,7 @@ jobs:
               output_path="${dir}/${filename}"
               if [ ! -f "$output_path" ]; then
                 echo "Downloading image to $output_path"
-                if ! curl -L "$url" -o "$output_path"; then
+                if ! curl -v -L "$url" -o "$output_path"; then
                   echo "Failed to download $url, skipping"
                 fi
               else
