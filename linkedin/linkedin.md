@@ -1,4 +1,4 @@
-# cloudcloud.dev LinkedIn Posts
+# cloudcloud.dev LinkedIn posts
 
 Back to [main](../index.md).
 
@@ -11,9 +11,9 @@ Back to [main](../index.md).
 <!-- Buttons for ordering LinkedIn posts -->
 <div class="list-filters">
   <a href="/linkedin" class="list-filter">All ({{ published_posts.size }})</a>
-  <a href="/linkedin/byyear.md" class="list-filter">By Year</a>
-  <a href="/linkedin/byreactions.md" class="list-filter">By Reactions</a>
-  <a href="/linkedin/bycomments.md" class="list-filter">By Comments</a>
+  <a href="../linkedin/byyear.md" class="list-filter">By Year</a>
+  <a href="../linkedin/byreactions.md" class="list-filter">By Reactions</a>
+  <a href="../linkedin/bycomments.md" class="list-filter">By Comments</a>
 </div>
 
 <div class="linkedin-posts-container post-preview">
