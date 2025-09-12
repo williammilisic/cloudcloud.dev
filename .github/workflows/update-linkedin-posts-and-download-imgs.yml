@@ -19,7 +19,7 @@ jobs:
           RAPIDAPI_LINKEDIN_DATA_API_KEY: ${{ secrets.RAPIDAPI_LINKEDIN_DATA_API_KEY }}
         run: |
           # Generate URL-encoded date string for last week's UTC date at 00:00
-          encodedDate=$(date -u -d '7 days ago' +'%Y-%m-%d 00:00' | sed 's/ /%20/g;s/:/%3A/g')
+          encodedDate=$(date -u -d '2 years ago' +'%Y-%m-%d 00:00' | sed 's/ /%20/g;s/:/%3A/g')
           echo "Fetching posts from date: $encodedDate"
           # Fetch LinkedIn posts using the API
           curl --request GET \
