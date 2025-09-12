@@ -1,6 +1,6 @@
 # cloudcloud.dev
 <!--[RSS](https://williammilisic.github.io/cloudcloud.dev/feed.xml)-->
-[Books List](booklist.md) | [Podcasts List](podcastlist.md) | [LinkedIn profile](https://linkedin.com/in/williammilisic) | [LinkedIn posts](/linkedin/linkedin.md)
+[Books List](booklist.md) | [Podcasts List](podcastlist.md) | [LinkedIn profile](https://linkedin.com/in/williammilisic) | [LinkedIn posts](/linkedin/index.md)
 
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
