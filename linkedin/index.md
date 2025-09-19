@@ -35,5 +35,4 @@ Back to [main](../index.md).
   </a>
 </div>
   {% endfor %}
-</div>
 
