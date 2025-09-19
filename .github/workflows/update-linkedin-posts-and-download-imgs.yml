@@ -19,14 +19,14 @@ jobs:
           RAPIDAPI_LINKEDIN_DATA_API_KEY: ${{ secrets.RAPIDAPI_LINKEDIN_DATA_API_KEY }}
         run: |
           # Generate URL-encoded date string for last week's UTC date at 00:00
-          encodedDate=$(date -u -d '7 days ago' +'%Y-%m-%d 00:00' | sed 's/ /%20/g;s/:/%3A/g')
+          encodedDate=$(date -u -d '10 years ago' +'%Y-%m-%d 00:00' | sed 's/ /%20/g;s/:/%3A/g')
           echo "Fetching posts from date: $encodedDate"
           # Fetch LinkedIn posts using the API
           curl --request GET \
-            --url 'https://linkedin-scraper-api-real-time-fast-affordable.p.rapidapi.com/profile/posts?username=williammilisic' \
-            --header 'x-rapidapi-host: linkedin-scraper-api-real-time-fast-affordable.p.rapidapi.com' \
-            --header "x-rapidapi-key: $RAPIDAPI_LINKEDIN_DATA_API_KEY" \
-            -o linkedin-posts.json
+           --url 'https://linkedin-scraper-api-real-time-fast-affordable.p.rapidapi.com/profile/posts?username=williammilisic' \
+           --header 'x-rapidapi-host: linkedin-scraper-api-real-time-fast-affordable.p.rapidapi.com' \
+           --header "x-rapidapi-key: $RAPIDAPI_LINKEDIN_DATA_API_KEY" \
+           -o linkedin-posts.json
 
       - name: Merge new posts with existing JSON
         run: |
@@ -35,41 +35,41 @@ jobs:
             # count existing posts
             originalCount=$(jq '.data.posts | length' _data/linkedin-posts.json)
             # merge posts arrays using posted_at.timestamp
-            jq -s '{
-                success: true,
-                message: "",
-                data: {
-                  posts: (.[0].data.posts + .[1].data.posts
-                          | unique_by(.posted_at.timestamp)
-                          | sort_by(.posted_at.timestamp)
-                          | reverse
-                          | map(
-                              .commentsCount = (.stats.comments | tonumber)
-                            | .totalReactionCount = (.stats.total_reactions | tonumber)
-                            | .repostsCount = (.stats.reposts | tonumber)
-                           )
+          jq -s '{
+              success: true,
+              message: "",
+              data: {
+                posts: (.[0].data.posts + .[1].data.posts
+                        | unique_by(.posted_at.timestamp)
+                        | sort_by(.posted_at.timestamp)
+                        | reverse
+                        | map(
+                            .commentsCount = (.stats.comments | tonumber)
+                          | .totalReactionCount = (.stats.total_reactions | tonumber)
+                          | .repostsCount = (.stats.reposts | tonumber)
                          )
-                }
-              }' linkedin-posts.json _data/linkedin-posts.json > merged.json
+                       )
+              }
+            }' linkedin-posts.json _data/linkedin-posts.json > merged.json
             newCount=$(jq '.data.posts | length' merged.json)
             echo "Number of new entries added: $((newCount - originalCount))"
           else
             # initialize new feed sorted by timestamp
-            jq '{
-                success: true,
-                message: "",
-                data: {
-                  posts: (.data.posts
-                          | sort_by(.posted_at.timestamp)
-                          | reverse
-                          | map(
-                              .commentsCount = (.stats.comments | tonumber)
-                            | .totalReactionCount = (.stats.total_reactions | tonumber)
-                            | .repostsCount = (.stats.reposts | tonumber)
-                           )
+          jq '{
+              success: true,
+              message: "",
+              data: {
+                posts: (.data.posts
+                        | sort_by(.posted_at.timestamp)
+                        | reverse
+                        | map(
+                            .commentsCount = (.stats.comments | tonumber)
+                          | .totalReactionCount = (.stats.total_reactions | tonumber)
+                          | .repostsCount = (.stats.reposts | tonumber)
                          )
-                }
-              }' linkedin-posts.json > merged.json
+                       )
+              }
+            }' linkedin-posts.json > merged.json
             newCount=$(jq '.data.posts | length' merged.json)
             echo "Number of new entries added: $newCount"
           fi
@@ -101,15 +101,9 @@ jobs:
             [ -z "$posted_ts" ] && { echo "Warning: Missing timestamp for post, skipping"; continue; }
             dir="assets/images/linkedin/${posted_ts}"
             mkdir -p "$dir"
-            # Robustly collect only valid image URLs (http/https) from media array
+            # Collect media URLs (handles both object entries and raw URL strings)
             mapfile -t urls < <(
-              echo "$post" | jq -r '
-                .media[] 
-                | if type=="string" and test("^https?://") then . 
-                  elif type=="object" and .url != null and (.url | test("^https?://")) then .url 
-                  else empty 
-                  end
-              '
+              echo "$post" | jq -r '.media[] | if type=="object" then .url else . end | select(length>0)'
             )
             for url in "${urls[@]}"; do
               [ -z "$url" ] && continue
@@ -118,7 +112,7 @@ jobs:
               output_path="${dir}/${filename}"
               if [ ! -f "$output_path" ]; then
                 echo "Downloading image to $output_path"
-                if ! curl -L "$url" -o "$output_path"; then
+                if ! curl -v -L "$url" -o "$output_path"; then
                   echo "Failed to download $url, skipping"
                 fi
               else
@@ -138,3 +132,4 @@ jobs:
             git push
           else
             echo "No changes to commit"
+          fi
