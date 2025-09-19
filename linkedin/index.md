@@ -4,7 +4,6 @@ Back to [main](../index.md).
 
 <br/>
 
-
 <!-- markdownlint-disable MD033 -->
 {% assign published_posts = site.data.linkedin-posts.data.posts %}
 
@@ -35,5 +34,3 @@ Back to [main](../index.md).
   </a>
   {% endfor %}
 </div>
-  {% endfor %}
-
