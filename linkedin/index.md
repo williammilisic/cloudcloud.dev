@@ -31,30 +31,9 @@ Back to [main](../index.md).
        <span><i class="fas fa-retweet"></i> Repost: {{ post.repostsCount | default: 0 }}</span>
       </p>
     </div>
-    {% assign media_folder = '/assets/images/linkedin/' | append: post.posted_at.timestamp | append: '/' %}
-    {% assign post_media = nil %}
-    {% for file in site.static_files %}
-      {% if file.path contains media_folder %}
-       {% assign post_media = file.path %}
-       {% break %}
-      {% endif %}
-    {% endfor %}
-
-    {% if post_media %}
-    <div class="linkedin-post-thumbnail">
-      {% if post.media and post.media.type == 'video' %}
-      <video controls>
-       <source src="{{ post_media }}" type="video/mp4">
-       Your browser does not support the video tag.
-      </video>
-      {% else %}
-      <img src="{{ post_media }}" alt="LinkedIn Post Image">
-      {% endif %}
-    </div>
-    {% endif %}
    </div>
-
   </a>
+</div>
   {% endfor %}
 </div>
 
