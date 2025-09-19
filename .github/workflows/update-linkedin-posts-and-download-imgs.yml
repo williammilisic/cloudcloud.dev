@@ -92,7 +92,15 @@ jobs:
           fi
           # Collect posts with media into an array to avoid broken pipes
           mapfile -t posts < <(
-            jq -r '.data.posts[] | select(.media != null and (.media | length > 0)) | @base64' _data/linkedin-posts.json
+          jq -r '
+          .data.posts[] 
+          | select(.media != null and (.media | length > 0)) 
+          | .media[] 
+          | if type=="string" and test("^https?://") then . 
+          elif type=="object" and .url != null and (.url | test("^https?://")) then .url 
+          else empty 
+          end
+          ' _data/linkedin-posts.json
           )
           for post_b64 in "${posts[@]}"; do
             [ -z "$post_b64" ] && continue
@@ -103,8 +111,13 @@ jobs:
             mkdir -p "$dir"
             # Collect media URLs (handles both object entries and raw URL strings)
             mapfile -t urls < <(
-              echo "$post" | jq -r '.media[] | if type=="object" then .url else . end | select(length>0)'
-            )
+            echo "$post" | jq -r '
+            .media[] 
+            | if type=="string" and test("^https?://") then . 
+            elif type=="object" and .url != null and (.url | test("^https?://")) then .url 
+            else empty 
+            end
+            ')
             for url in "${urls[@]}"; do
               [ -z "$url" ] && continue
               # Strip query parameters from URL before deriving filename
