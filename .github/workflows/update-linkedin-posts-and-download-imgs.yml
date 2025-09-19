@@ -23,7 +23,7 @@ jobs:
           echo "Fetching posts from date: $encodedDate"
           # Fetch LinkedIn posts using the API
           curl --request GET \
-            --url 'https://linkedin-scraper-api-real-time-fast-affordable.p.rapidapi.com/profile/posts?username=cesarsotovalero' \
+            --url 'https://linkedin-scraper-api-real-time-fast-affordable.p.rapidapi.com/profile/posts?username=williammilisic' \
             --header 'x-rapidapi-host: linkedin-scraper-api-real-time-fast-affordable.p.rapidapi.com' \
             --header "x-rapidapi-key: $RAPIDAPI_LINKEDIN_DATA_API_KEY" \
             -o linkedin-posts.json
