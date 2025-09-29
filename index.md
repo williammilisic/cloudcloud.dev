@@ -5,6 +5,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 25 September 2025
+* Presented together with Gergely at GDG (Google Developer Group) Stockholm event at our Solna office about [our journey to Cloud](https://www.linkedin.com/posts/gergely-szilagyi-sweden_gdg-googledevelopers-seblife-activity-7377281547495907328-JMXv) through continuous automation. 
+
 ## 7 September 2025
 * There are probably a few things in the world as fun as sharing one’s [favourite movies, music, games](https://www.linkedin.com/posts/williammilisic_parenting-leadership-legacy-activity-7370341552558108672-l4nd) etc with one’s offspring. 
 
