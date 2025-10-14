@@ -2,7 +2,7 @@ name: Update LinkedIn Posts and Download Images
 
 on:
   schedule:
-    - cron: "0 0 * * 1" # Runs every Monday at midnight UTC
+    - cron: "0 0 * * 1" # Every Monday at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -25,7 +25,6 @@ jobs:
           api_host="linkedin-scraper-api-real-time-fast-affordable.p.rapidapi.com"
           api_key="${RAPIDAPI_LINKEDIN_DATA_API_KEY}"
 
-          # Temporary file to collect posts
           tmp_posts="tmp_posts.jsonl"
           : > "$tmp_posts"
 
@@ -43,17 +42,11 @@ jobs:
                 --header "x-rapidapi-key: $api_key")
             fi
 
-            # Extract posts and append them as ndjson
             echo "$response" | jq -c '.data.posts[]?' >> "$tmp_posts"
-
-            # Get next pagination token, if any
             pagination_token=$(echo "$response" | jq -r '.paginationToken // empty')
-
-            # Stop if no more pages
             [ -z "$pagination_token" ] && break
           done
 
-          # Combine all individual posts into a single JSON array
           jq -s '{success: true, message: "", data: {posts: .}}' "$tmp_posts" > "$posts_file"
           rm -f "$tmp_posts"
 
@@ -61,7 +54,8 @@ jobs:
         run: |
           if [ -f _data/linkedin-posts.json ]; then
             originalCount=$(jq '.data.posts | length' _data/linkedin-posts.json)
-            jq -s '{
+            jq -s '
+            {
               success: true,
               message: "",
               data: {
@@ -71,4 +65,47 @@ jobs:
                   | reverse
                   | map(
                       .commentsCount = (.stats.comments | tonumber)
-                      | .totalReactionCount = (.stats
+                      | .totalReactionCount = (.stats.total_reactions | tonumber)
+                      | .repostsCount = (.stats.reposts | tonumber)
+                    )
+                )
+              }
+            }' linkedin-posts.json _data/linkedin-posts.json > merged.json
+            newCount=$(jq '.data.posts | length' merged.json)
+            echo "Number of new entries added: $((newCount - originalCount))"
+          else
+            jq '
+            {
+              success: true,
+              message: "",
+              data: {
+                posts: (.data.posts
+                  | sort_by(.posted_at.timestamp)
+                  | reverse
+                  | map(
+                      .commentsCount = (.stats.comments | tonumber)
+                      | .totalReactionCount = (.stats.total_reactions | tonumber)
+                      | .repostsCount = (.stats.reposts | tonumber)
+                    )
+                )
+              }
+            }' linkedin-posts.json > merged.json
+            newCount=$(jq '.data.posts | length' merged.json)
+            echo "Number of new entries added: $newCount"
+          fi
+          mv -f merged.json _data/linkedin-posts.json
+
+      - name: Remove temporary posts file
+        run: rm -f linkedin-posts.json
+
+      - name: Commit and push changes if any
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add _data/linkedin-posts.json
+          git add assets/images/linkedin/
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Update LinkedIn posts and images $(date -u +'%Y-%m-%d')"
+            git push
+          else
+            echo "No changes to commit"
