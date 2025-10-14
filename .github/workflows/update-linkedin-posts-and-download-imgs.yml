@@ -1,8 +1,7 @@
 name: Update LinkedIn Posts and Download Images
-
 on:
   schedule:
-    - cron: "0 0 * * 1"
+    - cron: "0 0 * * 1" # Runs every Monday at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -15,88 +14,66 @@ jobs:
       - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq
 
-      - name: Fetch ALL LinkedIn posts with safe pagination
+      - name: Fetch LinkedIn posts
         env:
           RAPIDAPI_LINKEDIN_DATA_API_KEY: ${{ secrets.RAPIDAPI_LINKEDIN_DATA_API_KEY }}
         run: |
-          posts_file="linkedin-posts.json"
-          username="williammilisic"
-          api_url="https://linkedin-scraper-api-real-time-fast-affordable.p.rapidapi.com/profile/posts"
-          api_host="linkedin-scraper-api-real-time-fast-affordable.p.rapidapi.com"
-          api_key="${RAPIDAPI_LINKEDIN_DATA_API_KEY}"
-
-          tmp_posts="tmp_posts.jsonl"
-          > "$tmp_posts" # Clear file
-
-          pagination_token=""
-          while true; do
-            if [ -z "$pagination_token" ]; then
-              response=$(curl --silent --request GET \
-                --url "$api_url?username=$username" \
-                --header "x-rapidapi-host: $api_host" \
-                --header "x-rapidapi-key: $api_key")
-            else
-              response=$(curl --silent --request GET \
-                --url "$api_url?username=$username&paginationToken=$pagination_token" \
-                --header "x-rapidapi-host: $api_host" \
-                --header "x-rapidapi-key: $api_key")
-            fi
-
-            # Safely append posts to temp file
-            echo "$response" | jq -c '.data.posts[]?' >> "$tmp_posts"
-            pagination_token=$(echo "$response" | jq -r '.paginationToken // empty')
-
-            # Break the loop if no more pages
-            [ -z "$pagination_token" ] && break
-          done
-
-          # Combine JSONL into array
-          jq -s '{success: true, message: "", data: {posts: .}}' "$tmp_posts" > "$posts_file"
-          rm -f "$tmp_posts"
+          # Generate URL-encoded date string for last week's UTC date at 00:00
+          encodedDate=$(date -u -d '7 days ago' +'%Y-%m-%d 00:00' | sed 's/ /%20/g;s/:/%3A/g')
+          echo "Fetching posts from date: $encodedDate"
+          # Fetch LinkedIn posts using the API
+          curl --request GET \
+           --url 'https://linkedin-scraper-api-real-time-fast-affordable.p.rapidapi.com/profile/posts?username=williammilisic' \
+           --header 'x-rapidapi-host: linkedin-scraper-api-real-time-fast-affordable.p.rapidapi.com' \
+           --header "x-rapidapi-key: $RAPIDAPI_LINKEDIN_DATA_API_KEY" \
+           -o linkedin-posts.json
 
       - name: Merge new posts with existing JSON
         run: |
+          # If the JSON file already exists, merge new data with the existing entries.
           if [ -f _data/linkedin-posts.json ]; then
+            # count existing posts
             originalCount=$(jq '.data.posts | length' _data/linkedin-posts.json)
-            jq -s '
-            {
+            # merge posts arrays using posted_at.timestamp
+          jq -s '{
               success: true,
               message: "",
               data: {
                 posts: (.[0].data.posts + .[1].data.posts
-                  | unique_by(.posted_at.timestamp)
-                  | sort_by(.posted_at.timestamp)
-                  | reverse
-                  | map(
-                      .commentsCount = (.stats.comments | tonumber)
-                      | .totalReactionCount = (.stats.total_reactions | tonumber)
-                      | .repostsCount = (.stats.reposts | tonumber)
-                    )
-                )
+                        | unique_by(.posted_at.timestamp)
+                        | sort_by(.posted_at.timestamp)
+                        | reverse
+                        | map(
+                            .commentsCount = (.stats.comments | tonumber)
+                          | .totalReactionCount = (.stats.total_reactions | tonumber)
+                          | .repostsCount = (.stats.reposts | tonumber)
+                         )
+                       )
               }
             }' linkedin-posts.json _data/linkedin-posts.json > merged.json
             newCount=$(jq '.data.posts | length' merged.json)
             echo "Number of new entries added: $((newCount - originalCount))"
           else
-            jq '
-            {
+            # initialize new feed sorted by timestamp
+          jq '{
               success: true,
               message: "",
               data: {
                 posts: (.data.posts
-                  | sort_by(.posted_at.timestamp)
-                  | reverse
-                  | map(
-                      .commentsCount = (.stats.comments | tonumber)
-                      | .totalReactionCount = (.stats.total_reactions | tonumber)
-                      | .repostsCount = (.stats.reposts | tonumber)
-                    )
-                )
+                        | sort_by(.posted_at.timestamp)
+                        | reverse
+                        | map(
+                            .commentsCount = (.stats.comments | tonumber)
+                          | .totalReactionCount = (.stats.total_reactions | tonumber)
+                          | .repostsCount = (.stats.reposts | tonumber)
+                         )
+                       )
               }
             }' linkedin-posts.json > merged.json
             newCount=$(jq '.data.posts | length' merged.json)
             echo "Number of new entries added: $newCount"
           fi
+          # Move the merged file to the _data directory, overwriting if it exists
           mv -f merged.json _data/linkedin-posts.json
 
       - name: Remove temporary posts file
@@ -113,3 +90,4 @@ jobs:
             git push
           else
             echo "No changes to commit"
+          fi
