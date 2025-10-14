@@ -22,11 +22,43 @@ jobs:
           encodedDate=$(date -u -d '7 days ago' +'%Y-%m-%d 00:00' | sed 's/ /%20/g;s/:/%3A/g')
           echo "Fetching posts from date: $encodedDate"
           # Fetch LinkedIn posts using the API
-          curl --request GET \
-           --url 'https://linkedin-scraper-api-real-time-fast-affordable.p.rapidapi.com/profile/posts?username=williammilisic' \
-           --header 'x-rapidapi-host: linkedin-scraper-api-real-time-fast-affordable.p.rapidapi.com' \
-           --header "x-rapidapi-key: $RAPIDAPI_LINKEDIN_DATA_API_KEY" \
-           -o linkedin-posts.json
+posts_file="linkedin-posts.json"
+username="williammilisic"
+api_url="https://linkedin-scraper-api-real-time-fast-affordable.p.rapidapi.com/profile/posts"
+api_host="linkedin-scraper-api-real-time-fast-affordable.p.rapidapi.com"
+api_key="${{ secrets.RAPIDAPI_LINKEDIN_DATA_API_KEY }}"
+
+all_posts=()
+pagination_token=""
+
+while :; do
+    if [ -z "$pagination_token" ]; then
+        response=$(curl --silent --request GET \
+            --url "$api_url?username=$username" \
+            --header "x-rapidapi-host: $api_host" \
+            --header "x-rapidapi-key: $api_key")
+    else
+        response=$(curl --silent --request GET \
+            --url "$api_url?username=$username&paginationToken=$pagination_token" \
+            --header "x-rapidapi-host: $api_host" \
+            --header "x-rapidapi-key: $api_key")
+    fi
+
+    # Extract posts and append to collection
+    page_posts=$(echo "$response" | jq '.data.posts')
+    all_posts+=( $(echo "$page_posts") )
+
+    # Get next pagination token, if any
+    pagination_token=$(echo "$response" | jq -r '.paginationToken // empty')
+
+    # Stop if no more pages
+    [ -z "$pagination_token" ] && break
+done
+
+# Combine posts into one big JSON output file
+jq -n --argjson posts "$(printf '%s\n' "${all_posts[@]}" | jq -s 'add')" \
+   '{success: true, message: "", data: {posts: $posts}}' > "$posts_file"
+
 
       - name: Merge new posts with existing JSON
         run: |
