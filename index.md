@@ -6,7 +6,9 @@
 <br/>
 
 ## 18 October 2025
-* "*Stupidity is a more dangerous enemy of the good than malice.*" - Dietrich Bonhoeffer
+* "*Stupidity is a more dangerous enemy of the good than malice.*" - Dietrich Bonhoeffer<br/><br/>
+* "*The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge.*" - Stephen Hawking<br/><br/>
+* "*In the age of universal deceit, telling the truth is a revolutionary act.*" - George Orwell
 
 ## 25 September 2025
 * Presented together with Gergely at GDG (Google Developer Group) Stockholm event at our Solna office about [our journey to Cloud](https://www.linkedin.com/posts/gergely-szilagyi-sweden_gdg-googledevelopers-seblife-activity-7377281547495907328-JMXv) through continuous automation. 
