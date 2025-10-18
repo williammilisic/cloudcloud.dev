@@ -5,6 +5,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 18 October 2025
+* "*Stupidity is a more dangerous enemy of the good than malice.*" - Dietrich Bonhoeffer
+
 ## 25 September 2025
 * Presented together with Gergely at GDG (Google Developer Group) Stockholm event at our Solna office about [our journey to Cloud](https://www.linkedin.com/posts/gergely-szilagyi-sweden_gdg-googledevelopers-seblife-activity-7377281547495907328-JMXv) through continuous automation. 
 
