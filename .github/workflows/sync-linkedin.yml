@@ -1,0 +1,58 @@
+name: Sync LinkedIn posts older than 1 year
+on:
+  schedule:
+    # Runs on the first day of every month at 02:00 UTC
+    - cron: '0 2 1 * *'
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run LinkedIn sync script
+        env:
+          LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
+          LINKEDIN_AUTHOR_URN: ${{ secrets.LINKEDIN_AUTHOR_URN }}
+          TARGET_DIR: posts
+          CUTOFF_DAYS: 365
+        run: |
+          python scripts/sync_linkedin.py
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push new/updated posts
+        env:
+          TARGET_BRANCH: sync/linkedin-old-posts
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Create or switch to branch
+          git fetch origin $TARGET_BRANCH || true
+          if git rev-parse --verify origin/$TARGET_BRANCH >/dev/null 2>&1; then
+            git checkout -B $TARGET_BRANCH origin/$TARGET_BRANCH
+          else
+            git checkout -B $TARGET_BRANCH
+          fi
+
+          git add ${TARGET_DIR:-posts} || true
+
+          # Only commit if there are staged changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Sync LinkedIn posts older than 1 year"
+            git push --set-upstream "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git" $TARGET_BRANCH
+          fi
