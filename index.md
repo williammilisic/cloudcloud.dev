@@ -5,6 +5,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 11 November 2025
+* "The only real justification for power is service." - John D. Rockefeller, Jr.
+
 ## 18 October 2025
 * "*Stupidity is a more dangerous enemy of the good than malice.*" - Dietrich Bonhoeffer<br/><br/>
 * "*The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge.*" - Stephen Hawking<br/><br/>
