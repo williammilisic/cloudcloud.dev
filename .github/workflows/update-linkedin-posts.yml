@@ -1,4 +1,4 @@
-name: Update LinkedIn Posts and Download Images
+name: Update LinkedIn Posts
 on:
   schedule:
     - cron: "0 0 * * 1" # Runs every Monday at midnight UTC
