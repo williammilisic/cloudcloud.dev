@@ -7,7 +7,7 @@
 
 ## 5 December 2025
 * "*I have nothing to offer but blood, toil, tears and sweat. We have before us an ordeal of the most grievous kind. We have before us many, many long months of struggle and of suffering." (…)
-You ask, what is our aim? I can answer in one word: Victory. Victory at all costs—Victory in spite of all terror—Victory, however long and hard the road may be; for without victory there is no survival.*" - Churchill
+You ask, what is our aim? I can answer in one word: Victory. Victory at all costs - Victory in spite of all terror - Victory, however long and hard the road may be; for without victory there is no survival.*" - Churchill
 
 
 ## 11 November 2025
