@@ -7,7 +7,7 @@ Back to [main](index.md).
 ## 2025
 
 * **The Let Them Theory**
-<br/>By: Mel Robbins<br/>December 2015 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_theletthemtheory-melrobbins-personaldevelopment-activity-7401507751220355074-5KrY)
+<br/>By: Mel Robbins<br/>December 2025 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_theletthemtheory-melrobbins-personaldevelopment-activity-7401507751220355074-5KrY)
 
 * **The 5 Types of Wealth**
 <br/>By: Sahil Bloom<br/>October 2025 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_bookreview-the5typesofwealth-sahilbloom-activity-7386992090184040448-HmNr)
