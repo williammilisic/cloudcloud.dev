@@ -27,6 +27,9 @@ Back to [main](index.md).
 * **Effortless**
 <br/>By: Greg McKeown<br/>August 2025<br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_effortless-productivity-timemanagement-activity-7360545035324469248-DPZL)
 
+* **Beyond Entrepreneurship 2.0**
+<br/>By:Jim Collins<br/>July 2025<br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_jimcollins-beyondentrepreneurship-leadership-activity-7346614494229360640-J90I)
+
 * **The Software Engineer's Guidebook**
 <br/>By: Gergely Orosz<br/>January 2025 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_guidebook-engineer-ceo-activity-7286989443196948480-4oqZ)
 
