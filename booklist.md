@@ -12,6 +12,9 @@ Back to [main](index.md).
 * **The 5 Types of Wealth**
 <br/>By: Sahil Bloom<br/>October 2025 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_bookreview-the5typesofwealth-sahilbloom-activity-7386992090184040448-HmNr)
 
+* **7 Rules of Power**
+<br/>By: Jeffrey Pfeffer<br/>October 2025 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_7rulesofpower-jeffreypfeffer-bookreview-activity-7380836829937418242-FQok)
+
 * **The Software Engineer's Guidebook**
 <br/>By: Gergely Orosz<br/>January 2025 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_guidebook-engineer-ceo-activity-7286989443196948480-4oqZ)
 
