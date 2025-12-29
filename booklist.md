@@ -15,6 +15,9 @@ Back to [main](index.md).
 * **7 Rules of Power**
 <br/>By: Jeffrey Pfeffer<br/>October 2025 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_7rulesofpower-jeffreypfeffer-bookreview-activity-7380836829937418242-FQok)
 
+* **Do Androids Dream of Electric Sheep**
+<br/>By: Philip K. Dick<br/>October 2025 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_doandroidsdreamofelectricsheep-bladerunner-activity-7379119801639616512-x3oc)
+
 * **The Software Engineer's Guidebook**
 <br/>By: Gergely Orosz<br/>January 2025 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_guidebook-engineer-ceo-activity-7286989443196948480-4oqZ)
 
