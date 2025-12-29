@@ -6,6 +6,9 @@ Back to [main](index.md).
 
 ## 2025
 
+* **The Let Them Theory**
+<br/>By: Mel Robbins<br/>December 2015 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_theletthemtheory-melrobbins-personaldevelopment-activity-7401507751220355074-5KrY)
+
 * **The Software Engineer's Guidebook**
 <br/>By: Gergely Orosz<br/>January 2025 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_guidebook-engineer-ceo-activity-7286989443196948480-4oqZ)
 
