@@ -30,6 +30,9 @@ Back to [main](index.md).
 * **Beyond Entrepreneurship 2.0**
 <br/>By:Jim Collins<br/>July 2025<br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_jimcollins-beyondentrepreneurship-leadership-activity-7346614494229360640-J90I)
 
+* **Cloud Strategy: A Decision-Based Approach to Successful Cloud Migration**
+<br/>By: Gregor Hohpe<br/>June 2015<br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_cloudstrategy-cloudmigration-digitaltransformation-activity-7345519223445622785-_2d2)
+
 * **The Software Engineer's Guidebook**
 <br/>By: Gergely Orosz<br/>January 2025 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_guidebook-engineer-ceo-activity-7286989443196948480-4oqZ)
 
