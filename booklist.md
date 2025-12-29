@@ -33,6 +33,9 @@ Back to [main](index.md).
 * **Cloud Strategy: A Decision-Based Approach to Successful Cloud Migration**
 <br/>By: Gregor Hohpe<br/>June 2025<br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_cloudstrategy-cloudmigration-digitaltransformation-activity-7345519223445622785-_2d2)
 
+* **Essentialism: The Disciplined Pursuit of Less**
+<br/>By: Greg McKeown<br/>June 2025<br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_essentialism-productivity-focus-activity-7340449271294353410-f0ab)
+
 * **The Software Engineer's Guidebook**
 <br/>By: Gergely Orosz<br/>January 2025 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_guidebook-engineer-ceo-activity-7286989443196948480-4oqZ)
 
