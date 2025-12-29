@@ -36,7 +36,7 @@ Back to [main](index.md).
 * **Essentialism: The Disciplined Pursuit of Less**
 <br/>By: Greg McKeown<br/>June 2025<br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_essentialism-productivity-focus-activity-7340449271294353410-f0ab)
 
-* **How The Mighty Fall**
+* **How The Mighty Fall: And Why Some Companies Necer Give Up**
 <br/>By: Jim Collins<br/>January 2025<br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_jim-collins-nokia-activity-7290254807116750850-XseZ)
 
 * **The Software Engineer's Guidebook**
