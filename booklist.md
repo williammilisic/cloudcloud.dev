@@ -21,6 +21,9 @@ Back to [main](index.md).
 * **Assault on Intelligence: American National Security in an Age of Lies**
 <br/>By: General Michael V. Hayden<br/>September 2025 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_bookreview-nationalsecurity-intelligence-activity-7373943483843309568-2o9S)
 
+* **High on Life**
+<br/>By: David JP Philips<br/>August 2025<br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_personaldevelopment-selfleadership-hormones-activity-7367061833305772032-tOM0)
+
 * **The Software Engineer's Guidebook**
 <br/>By: Gergely Orosz<br/>January 2025 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_guidebook-engineer-ceo-activity-7286989443196948480-4oqZ)
 
