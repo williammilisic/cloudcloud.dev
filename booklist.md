@@ -24,6 +24,9 @@ Back to [main](index.md).
 * **High on Life**
 <br/>By: David JP Philips<br/>August 2025<br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_personaldevelopment-selfleadership-hormones-activity-7367061833305772032-tOM0)
 
+* **Effortless**
+<br/>By: Greg McKeown<br/>August 2025<br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_effortless-productivity-timemanagement-activity-7360545035324469248-DPZL)
+
 * **The Software Engineer's Guidebook**
 <br/>By: Gergely Orosz<br/>January 2025 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_guidebook-engineer-ceo-activity-7286989443196948480-4oqZ)
 
