@@ -6,7 +6,7 @@
 <br/>
 
 ## 31 December 2025
-* "*As you start to walk on the way, the way appears.*" - Rumi<br/>
+* "*As you start to walk on the way, the way appears.*" - Rumi<br/><br/>
 * "*Muddy water is best cleared by leaving it alone.*" - Alan Watts
 
 ## 5 December 2025
