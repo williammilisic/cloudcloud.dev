@@ -5,6 +5,10 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 31 December 2025
+* "*As you start to walk on the way, the way appears.*" - Rumi<br/>
+* "*Muddy water is best cleared by leaving it alone.*" - Alan Watts
+
 ## 5 December 2025
 * "*I have nothing to offer but blood, toil, tears and sweat. We have before us an ordeal of the most grievous kind. We have before us many, many long months of struggle and of suffering." (…)
 You ask, what is our aim? I can answer in one word: Victory. Victory at all costs - Victory in spite of all terror - Victory, however long and hard the road may be; for without victory there is no survival.*" - Churchill
