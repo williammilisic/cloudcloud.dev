@@ -6,6 +6,7 @@
 <br/>
 
 ## 31 December 2025
+* "*Strategy is not complex. But it is hard. It's hard because it forces people and organisations to make specific choices about their future - something that doesn't happen in most companies.*" - A.G. Lafley & Roger L. Martin<br/><br/>
 * "*As you start to walk on the way, the way appears.*" - Rumi<br/><br/>
 * "*Muddy water is best cleared by leaving it alone.*" - Alan Watts
 
