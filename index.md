@@ -5,6 +5,10 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+
+## 1 January 2026
+* "*No amount of evidence will ever persuade a fool.*" - Mark Twain
+
 ## 31 December 2025
 * "*Strategy is not complex. But it is hard. It's hard because it forces people and organisations to make specific choices about their future - something that doesn't happen in most companies.*" - A.G. Lafley & Roger L. Martin<br/><br/>
 * "*As you start to walk on the way, the way appears.*" - Rumi<br/><br/>
