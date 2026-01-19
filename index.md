@@ -6,7 +6,7 @@
 <br/>
 
 ## 19 January 2026
-* "*An evil man will burn his own nation to the ground to rule over the ashes.*" - Lao Tzu 
+* "*An evil man will burn his own nation to the ground to rule over the ashes.*" - Sun Tzu 
 
 ## 1 January 2026
 * "*No amount of evidence will ever persuade a fool.*" - Mark Twain
