@@ -6,7 +6,8 @@
 <br/>
 
 ## 20 January 2026
-* "*Disruption means that someone has changed the rules of the game. Those who play by the old rules have already lost.*” - Gregor Hohpe
+* "*Disruption means that someone has changed the rules of the game. Those who play by the old rules have already lost.*” - Gregor Hohpe<br/><br/>
+* "*Upgrading technology without changing ways of working is optimisation, not transformation.*" - Gregor Hohpe
 
 ## 19 January 2026
 * "*An evil man will burn his own nation to the ground to rule over the ashes.*" - Sun Tzu 
