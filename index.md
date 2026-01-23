@@ -5,6 +5,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 23 January 2026
+* "*You can only dev your way out of ops.*"
+
 ## 20 January 2026
 * "*Disruption means that someone has changed the rules of the game. Those who play by the old rules have already lost.*” - Gregor Hohpe<br/><br/>
 * "*Upgrading technology without changing ways of working is optimisation, not transformation.*" - Gregor Hohpe
