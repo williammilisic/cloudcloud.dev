@@ -5,6 +5,18 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 26 February 2026
+* ”*This living spirit of revolt,<br/>
+Of progress, liberty and right,<br/>
+Shall not retreat before the night,<br/>
+Shall nevermore be brought to halt.<br/>
+In ruins evil round us lies,<br/>
+The avalanche’s rush now dies—<br/>
+In all the world there is no force<br/>
+That can avail to stay its course,<br/>
+That can put out the vital spark<br/>
+We now see glimmering in the dark.*”<br/><br/> - Ivan Franko, Hymn, 1880
+
 ## 23 January 2026
 * "*You can only dev your way out of ops.*"
 
