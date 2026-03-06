@@ -5,6 +5,9 @@
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>
 
+## 6 March 2026
+* "*Those are my principles, and if you don't like them, I have others.*" - Groucho Marx
+
 ## 26 February 2026
 * ”*This living spirit of revolt,<br/>
 Of progress, liberty and right,<br/>
