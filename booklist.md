@@ -3,6 +3,14 @@
 Back to [main](index.md).
 
 <br/>
+## 2026
+
+* **The Metamorphosis**
+<br/>By: Franz Kafka<br/>March 2026 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_franzkafka-themetamorphosis-dieverwandlung-activity-7441740584459075584-CaWt)
+
+* **Autocrazy Inc. - The Dictators who want to run the World**
+<br/>By: Anne Applebaum<br/>March 2026 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_autocracyinc-anneapplebaum-democracy-activity-7439589191828557824-fBw2)
+
 
 ## 2025
 
