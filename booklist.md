@@ -8,8 +8,15 @@ Back to [main](index.md).
 * **The Metamorphosis**
 <br/>By: Franz Kafka<br/>March 2026 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_franzkafka-themetamorphosis-dieverwandlung-activity-7441740584459075584-CaWt)
 
-* **Autocrazy Inc. - The Dictators who want to run the World**
+* **Autocracy Inc. - The Dictators who want to run the World**
 <br/>By: Anne Applebaum<br/>March 2026 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_autocracyinc-anneapplebaum-democracy-activity-7439589191828557824-fBw2)
+
+* **The Machine Stops**
+<br/>By: E. M. Forster<br/>March 2026 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_that-moment-the-wi-fi-drops-and-you-feel-activity-7437747287801475072-VymC)
+
+* **Think Faster, Talk Smarter**
+<br/>By: Matt Abrahams<br/>February 2026 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_thinkfasttalksmart-communication-publicspeaking-activity-7437032884084924416-dPvz)
+
 
 
 ## 2025
