@@ -17,6 +17,17 @@ Back to [main](index.md).
 * **Think Faster, Talk Smarter**
 <br/>By: Matt Abrahams<br/>February 2026 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_thinkfasttalksmart-communication-publicspeaking-activity-7437032884084924416-dPvz)
 
+* **Brave New World**
+<br/>By: Aldous Huxley<br/>February 2026 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_bravenewworld-activity-7424336192655175680-qUy_))
+
+* **Playing to Win - How Strategy Really Works**
+<br/>By: A.G. Lafley & Roger L. Martin<br/>February 2026 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_strategy-bookreview-playingtowin-activity-7421796603151360000-6HUL)
+
+* **1984**
+<br/>By: George Orwell<br/>January 2026 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_orwell-nineteeneightyfour-dystopia-activity-7419263304646406144-iYzT)
+
+* **Chip War - The Fight For The World's Most Critical Technology**
+<br/>By: Chris Miller<br/>January 2026 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_chipwar-semiconductors-geopolitics-activity-7413835591911559168-ml2F)
 
 
 ## 2025
