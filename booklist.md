@@ -5,6 +5,21 @@ Back to [main](index.md).
 <br/>
 ## 2026
 
+* **Incorruptible**
+<br/>By: Eric Ries<br/>August 2026 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_ericries-incorruptible-leadership-activity-7490281462714339328-sMU-)
+
+* **Nexus**
+<br/>By: Yuval Noah Harari<br/>June 2026 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_nexus-yuvalnoahharari-bookreview-activity-7469614150122606592-4mAe)
+
+* **Project Hail Mary**
+<br/>By: Andy Weir<br/>May 2026 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_projecthailmary-scifi-bookreview-activity-7457290621867945984-H0yW)
+
+* **Platform Strategy**
+<br/>By: Gregor Hohpe<br/>April 2026 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_platformengineering-gregorhohpe-devops-activity-7448603915950149632-K-Hm)
+
+* **We**
+<br/>By: Yevgeny Zamyatin<br/>March 2026 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_bookreview-webyzamyatin-dystopianfiction-activity-7444668486645309440-IJP-)
+
 * **The Metamorphosis**
 <br/>By: Franz Kafka<br/>March 2026 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_franzkafka-themetamorphosis-dieverwandlung-activity-7441740584459075584-CaWt)
 
@@ -67,6 +82,9 @@ Back to [main](index.md).
 
 * **The Software Engineer's Guidebook**
 <br/>By: Gergely Orosz<br/>January 2025 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_guidebook-engineer-ceo-activity-7286989443196948480-4oqZ)
+
+* **Good to Great**
+<br/>By: Jim Collins<br/>January 2025 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_life-leadership-personalgrowth-activity-7280852405280231424-ftkC)
 
 ## 2024
 
