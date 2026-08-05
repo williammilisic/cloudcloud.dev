@@ -1,7 +1,7 @@
-name: Update LinkedIn Posts
+name: Update LinkedIn Posts & Booklist
 on:
   schedule:
-      - cron: "0 0 * * *" # Runs every day at midnight UTC
+    - cron: "0 0 * * *" # Runs every day at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -9,7 +9,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
 
       - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq
@@ -79,14 +84,17 @@ jobs:
       - name: Remove temporary posts file
         run: rm -f linkedin-posts.json
 
+      - name: Sync new book reviews to booklist.md
+        run: |
+          python scripts/update_booklist.py
+
       - name: Commit and push changes if any
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add _data/linkedin-posts.json
-          git add assets/images/linkedin/
+          git add _data/linkedin-posts.json booklist.md assets/images/linkedin/
           if [ -n "$(git status --porcelain)" ]; then
-            git commit -m "Update LinkedIn posts and images $(date -u +'%Y-%m-%d')"
+            git commit -m "Update LinkedIn posts and booklist.md $(date -u +'%Y-%m-%d')"
             git push
           else
             echo "No changes to commit"
