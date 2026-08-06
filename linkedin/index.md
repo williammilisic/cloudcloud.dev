@@ -9,7 +9,7 @@ Back to [main](../index.md).
 
 <!-- Buttons for ordering LinkedIn posts -->
 <div class="list-filters">
-  <a href="linkedin.html" class="list-filter">All ({{ published_posts.size }})</a>
+  <a href="index.html" class="list-filter">All ({{ published_posts.size }})</a>
   <a href="year.html" class="list-filter">By Year</a>
   <a href="reactions.html" class="list-filter">By Reactions</a>
   <a href="comments.html" class="list-filter">By Comments</a>

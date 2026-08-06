@@ -1,0 +1,4 @@
+*.save
+_site/
+.jekyll-cache/
+.jekyll-metadata
