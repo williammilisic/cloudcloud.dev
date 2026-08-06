@@ -15,6 +15,26 @@ Back to [main](../index.md).
   <a href="comments.html" class="list-filter">By Comments</a>
 </div>
 
+<style>
+.linkedin-posts-container .linkedin-post-card {
+  padding: 1.75em 0;
+  border-bottom: 1px solid #dcdcdc;
+}
+.linkedin-posts-container .linkedin-post-card:last-child {
+  border-bottom: 0;
+}
+.linkedin-post-body {
+  line-height: 1.55;
+  margin-bottom: 0.9em;
+}
+.linkedin-post-description,
+.linkedin-post-stats {
+  font-size: 0.85em;
+  color: #6d6d6d;
+  margin: 0.3em 0 0 0;
+}
+</style>
+
 <div class="linkedin-posts-container post-preview">
   {% for post in site.data.linkedin-posts.data.posts %}
    <div class="linkedin-post-card">
