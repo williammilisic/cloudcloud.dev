@@ -17,12 +17,12 @@ Back to [main](../index.md).
 
 <div class="linkedin-posts-container post-preview">
   {% for post in site.data.linkedin-posts.data.posts %}
-  <a href="{{ post.url }}" target="_blank" class="linkedin-post-link">
    <div class="linkedin-post-card">
     <div class="linkedin-post-text">
-      <h4 class="linkedin-post-title">{{ post.text | truncatewords: 100 }}</h4>
+      <div class="linkedin-post-body">{{ post.text | escape | newline_to_br | strip_newlines }}</div>
       <p class="linkedin-post-description">
-       Posted on {{ post.posted_at.date | date: "%b %-d, %Y" }}
+       Posted on {{ post.posted_at.date | date: "%b %-d, %Y" }} ·
+       <a href="{{ post.url | escape }}" target="_blank" rel="noopener noreferrer" class="linkedin-post-link">Read on LinkedIn</a>
       </p>
       <p class="linkedin-post-stats">
        <span><i class="fas fa-thumbs-up"></i> Reactions: {{ post.totalReactionCount | default: 0 }}</span> |
@@ -31,6 +31,5 @@ Back to [main](../index.md).
       </p>
     </div>
    </div>
-  </a>
   {% endfor %}
 </div>
