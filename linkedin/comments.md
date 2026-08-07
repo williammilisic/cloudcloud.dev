@@ -15,8 +15,11 @@ Back to [main](../index.md).
   <a href="comments.html" class="list-filter">By Comments</a>
 </div>
 
-{% assign sorted_posts = site.data.linkedin-posts.data.posts | sort: "commentsCount" | reverse %}
-{% assign ranges_order = "100+,10-99,<10" | split: "," %}
+<!-- Archive posts have no engagement data, so they get their own bucket instead of counting as 0 -->
+{% assign known_posts = published_posts | where_exp: "p", "p.stats" %}
+{% assign unknown_posts = published_posts | where_exp: "p", "p.stats == nil" %}
+{% assign sorted_posts = known_posts | sort: "commentsCount" | reverse %}
+{% assign ranges_order = "100+,10-99,<10,Unknown" | split: "," %}
 
 <!-- Comments cloud -->
 <div class="tag-list">
@@ -29,6 +32,11 @@ Back to [main](../index.md).
 
 <div id="full-tags-list">
   {% for range in ranges_order %}
+   {%- if range == "Unknown" %}
+   {%- assign range_posts = unknown_posts %}
+   {%- assign posts_count = unknown_posts.size %}
+   {%- else %}
+   {%- assign range_posts = sorted_posts %}
    {% assign posts_count = 0 %}
    {% for post in sorted_posts %}
     {% assign comments = post.commentsCount | default: 0 %}
@@ -44,12 +52,16 @@ Back to [main](../index.md).
       {% assign posts_count = posts_count | plus: 1 %}
     {% endif %}
    {% endfor %}
+   {%- endif %}
    <h3 id="{{ range }}" class="linked-section">
     <i class="fas fa-comments" aria-hidden="true"></i>
     &nbsp;{{ range }}&nbsp;({{ posts_count }} posts)
    </h3>
    <div class="post-list">
-    {% for post in sorted_posts %}
+    {% for post in range_posts %}
+      {%- if range == "Unknown" %}
+      {%- assign in_range = true %}
+      {%- else %}
       {% assign comments = post.commentsCount | default: 0 %}
       {% assign in_range = false %}
       {% if range == "100+" and comments >= 100 %}
@@ -59,15 +71,20 @@ Back to [main](../index.md).
       {% elsif range == "<10" and comments < 10 %}
        {% assign in_range = true %}
       {% endif %}
+      {%- endif %}
       {% if in_range %}
        <div class="tag-entry">
         <a href="{{ post.url }}" target="_blank">{{ post.text | truncatewords: 15 }}</a>
         <div class="entry-date">
           <time datetime="{{ post.posted_at.date }}">{{ post.posted_at.date | date: "%b %-d, %Y" }}</time>
           <span class="post-stats">
+           {%- if post.stats %}
            · <i class="fas fa-comments" aria-hidden="true"></i> {{ post.commentsCount | default: 0 }}
            · <i class="fas fa-thumbs-up" aria-hidden="true"></i> {{ post.totalReactionCount | default: 0 }}
            · <i class="fas fa-retweet" aria-hidden="true"></i> {{ post.repostsCount | default: 0 }}
+           {%- else %}
+           · engagement data unavailable
+           {%- endif %}
           </span>
         </div>
        </div>

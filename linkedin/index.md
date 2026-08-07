@@ -39,15 +39,22 @@ Back to [main](../index.md).
   {% for post in site.data.linkedin-posts.data.posts %}
    <div class="linkedin-post-card">
     <div class="linkedin-post-text">
-      <div class="linkedin-post-body">{{ post.text | escape | newline_to_br | strip_newlines }}</div>
+      <div class="linkedin-post-body">{{ post.text | escape | newline_to_br | strip_newlines }}{%- if post.text_truncated %}&hellip;{%- endif %}</div>
       <p class="linkedin-post-description">
        Posted on {{ post.posted_at.date | date: "%b %-d, %Y" }} ·
        <a href="{{ post.url | escape }}" target="_blank" rel="noopener noreferrer" class="linkedin-post-link">Read on LinkedIn</a>
+       {%- if post.text_truncated %}
+       · preview only, full text unavailable
+       {%- endif %}
       </p>
       <p class="linkedin-post-stats">
+       {%- if post.stats %}
        <span><i class="fas fa-thumbs-up"></i> Reactions: {{ post.totalReactionCount | default: 0 }}</span> |
        <span><i class="fas fa-comments"></i> Comments: {{ post.commentsCount | default: 0 }}</span> |
        <span><i class="fas fa-retweet"></i> Repost: {{ post.repostsCount | default: 0 }}</span>
+       {%- else %}
+       <span>engagement data unavailable</span>
+       {%- endif %}
       </p>
     </div>
    </div>

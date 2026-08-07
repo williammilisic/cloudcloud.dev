@@ -59,9 +59,13 @@ Back to [main](../index.md).
                      <!-- markdownlint-enable MD033 -->
                      <!-- markdownlint-disable MD033 -->
                      <span class="post-stats">
+                          {%- if post.stats %}
                           · <i class="fas fa-thumbs-up" aria-hidden="true"></i> {{ post.totalReactionCount | default: 0 }}
                           · <i class="fas fa-comment" aria-hidden="true"></i> {{ post.commentsCount | default: 0 }}
                           · <i class="fas fa-retweet" aria-hidden="true"></i> {{ post.repostsCount | default: 0 }}
+                          {%- else %}
+                          · engagement data unavailable
+                          {%- endif %}
                      </span>
                      <!-- markdownlint-enable MD033 -->
                 </div>
