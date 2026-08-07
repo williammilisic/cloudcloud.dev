@@ -102,7 +102,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add _data/linkedin-posts.json booklist.md assets/images/linkedin/
+          git add _data/linkedin-posts.json booklist.md
           if [ -n "$(git status --porcelain)" ]; then
             git commit -m "Update LinkedIn posts and booklist.md $(date -u +'%Y-%m-%d')"
             git push
