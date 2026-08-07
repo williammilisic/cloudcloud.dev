@@ -81,6 +81,9 @@ Back to [main](../index.md).
             <a href="{{ post.url }}" target="_blank">{{ post.text | truncatewords: 15 }}</a>
             <div class="entry-date">
               <time datetime="{{ post.posted_at.date }}">{{ post.posted_at.date | date: "%b %-d, %Y" }}</time>
+              {%- unless post.author.username == "williammilisic" %}
+              · reposted from {{ post.author.first_name | append: " " | append: post.author.last_name | strip | escape }}
+              {%- endunless %}
               <span class="post-stats">
                 {%- if post.stats %}
                 · <i class="fas fa-thumbs-up" aria-hidden="true"></i> {{ post.totalReactionCount | default: 0 }}

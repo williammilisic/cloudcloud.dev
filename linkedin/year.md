@@ -58,6 +58,9 @@ Back to [main](../index.md).
                      <time datetime="{{ post.posted_at.date }}">{{ post.posted_at.date | date: "%b %-d, %Y"}}</time>
                      <!-- markdownlint-enable MD033 -->
                      <!-- markdownlint-disable MD033 -->
+                     {%- unless post.author.username == "williammilisic" %}
+                     · reposted from {{ post.author.first_name | append: " " | append: post.author.last_name | strip | escape }}
+                     {%- endunless %}
                      <span class="post-stats">
                           {%- if post.stats %}
                           · <i class="fas fa-thumbs-up" aria-hidden="true"></i> {{ post.totalReactionCount | default: 0 }}

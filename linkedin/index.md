@@ -27,11 +27,15 @@ Back to [main](../index.md).
   line-height: 1.55;
   margin-bottom: 0.9em;
 }
+.linkedin-post-author,
 .linkedin-post-description,
 .linkedin-post-stats {
   font-size: 0.85em;
   color: #6d6d6d;
   margin: 0.3em 0 0 0;
+}
+.linkedin-post-author {
+  margin: 0 0 0.6em 0;
 }
 </style>
 
@@ -39,6 +43,15 @@ Back to [main](../index.md).
   {% for post in site.data.linkedin-posts.data.posts %}
    <div class="linkedin-post-card">
     <div class="linkedin-post-text">
+      {%- unless post.author.username == "williammilisic" %}
+      <p class="linkedin-post-author">Reposted from
+       {%- if post.author.profile_url %}
+       <a href="{{ post.author.profile_url | escape }}" target="_blank" rel="noopener noreferrer">{{ post.author.first_name | append: " " | append: post.author.last_name | strip | escape }}</a>
+       {%- else %}
+       {{ post.author.first_name | append: " " | append: post.author.last_name | strip | escape }}
+       {%- endif %}
+      </p>
+      {%- endunless %}
       <div class="linkedin-post-body">{{ post.text | escape | newline_to_br | strip_newlines }}{%- if post.text_truncated %}&hellip;{%- endif %}</div>
       <p class="linkedin-post-description">
        Posted on {{ post.posted_at.date | date: "%b %-d, %Y" }} ·
