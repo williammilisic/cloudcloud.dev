@@ -78,9 +78,9 @@ Back to [main](../index.md).
         {%- endif %}
         {% if in_range %}
           <div class="tag-entry">
-            <a href="{{ post.url }}" target="_blank">{{ post.text | truncatewords: 15 }}</a>
+            <a href="{{ post.url | escape }}" target="_blank" rel="noopener noreferrer">{{ post.text | truncatewords: 15 | escape }}</a>
             <div class="entry-date">
-              <time datetime="{{ post.posted_at.date }}">{{ post.posted_at.date | date: "%b %-d, %Y" }}</time>
+              <time datetime="{{ post.posted_at.date | escape }}">{{ post.posted_at.date | date: "%b %-d, %Y" }}</time>
               {%- unless post.author.username == "williammilisic" %}
               · reposted from {{ post.author.first_name | append: " " | append: post.author.last_name | strip | escape }}
               {%- endunless %}

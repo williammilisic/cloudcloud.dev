@@ -52,10 +52,10 @@ Back to [main](../index.md).
           {% assign post_year = post.posted_at.date | date: "%Y" %}
           {% if post_year == year %}
           <div class="tag-entry">
-                <a href="{{ post.url }}" target="_blank">{{ post.text | truncatewords: 15 }}</a>
+                <a href="{{ post.url | escape }}" target="_blank" rel="noopener noreferrer">{{ post.text | truncatewords: 15 | escape }}</a>
                 <div class="entry-date">
                      <!-- markdownlint-disable MD033 -->
-                     <time datetime="{{ post.posted_at.date }}">{{ post.posted_at.date | date: "%b %-d, %Y"}}</time>
+                     <time datetime="{{ post.posted_at.date | escape }}">{{ post.posted_at.date | date: "%b %-d, %Y"}}</time>
                      <!-- markdownlint-enable MD033 -->
                      <!-- markdownlint-disable MD033 -->
                      {%- unless post.author.username == "williammilisic" %}
