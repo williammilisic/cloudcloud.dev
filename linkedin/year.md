@@ -47,7 +47,13 @@ Back to [main](../index.md).
           have a page of their own are listed there, so this link cannot 404.
           {% endcomment %}
           <div class="tag-entry">
-                {%- if archive_years contains year %}
+                {%- assign has_page = true %}
+                {%- if archive_years %}
+                {%- unless archive_years contains year %}
+                {%- assign has_page = false %}
+                {%- endunless %}
+                {%- endif %}
+                {%- if has_page %}
                 <a href="{{ year }}.html">Read all {{ posts_count }} posts from {{ year }}</a>
                 {%- else %}
                 <span>No page for {{ year }} yet</span>
