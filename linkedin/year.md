@@ -7,13 +7,7 @@ Back to [main](../index.md).
 <!-- markdownlint-disable MD033 -->
 {% assign published_posts = site.data.linkedin-posts.data.posts %}
 
-<!-- Buttons for ordering LinkedIn posts -->
-<div class="list-filters">
-  <a href="index.html" class="list-filter">All ({{ published_posts.size }})</a>
-  <a href="year.html" class="list-filter">By Year</a>
-  <a href="reactions.html" class="list-filter">By Reactions</a>
-  <a href="comments.html" class="list-filter">By Comments</a>
-</div>
+{% include linkedin-nav.html %}
 
 {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
 {% assign years_list = "" | split: "" %}
@@ -48,33 +42,17 @@ Back to [main](../index.md).
           &nbsp;{{- year -}}&nbsp;({{ posts_count }} posts)
      </h3>
      <div class="post-list">
-          {% for post in site.data.linkedin-posts.data.posts %}
-          {% assign post_year = post.posted_at.date | date: "%Y" %}
-          {% if post_year == year %}
+          {% comment %}
+          archive_years is set by the nav include above. Only years that already
+          have a page of their own are listed there, so this link cannot 404.
+          {% endcomment %}
           <div class="tag-entry">
-                <a href="{{ post.url | escape }}" target="_blank" rel="noopener noreferrer">{{ post.text | truncatewords: 15 | escape }}</a>
-                <div class="entry-date">
-                     <!-- markdownlint-disable MD033 -->
-                     <time datetime="{{ post.posted_at.date | escape }}">{{ post.posted_at.date | date: "%b %-d, %Y"}}</time>
-                     <!-- markdownlint-enable MD033 -->
-                     <!-- markdownlint-disable MD033 -->
-                     {%- unless post.author.username == "williammilisic" %}
-                     · reposted from {{ post.author.first_name | append: " " | append: post.author.last_name | strip | escape }}
-                     {%- endunless %}
-                     <span class="post-stats">
-                          {%- if post.stats %}
-                          · <i class="fas fa-thumbs-up" aria-hidden="true"></i> {{ post.totalReactionCount | default: 0 }}
-                          · <i class="fas fa-comment" aria-hidden="true"></i> {{ post.commentsCount | default: 0 }}
-                          · <i class="fas fa-retweet" aria-hidden="true"></i> {{ post.repostsCount | default: 0 }}
-                          {%- else %}
-                          · engagement data unavailable
-                          {%- endif %}
-                     </span>
-                     <!-- markdownlint-enable MD033 -->
-                </div>
+                {%- if archive_years contains year %}
+                <a href="{{ year }}.html">Read all {{ posts_count }} posts from {{ year }}</a>
+                {%- else %}
+                <span>No page for {{ year }} yet</span>
+                {%- endif %}
           </div>
-          {% endif %}
-          {% endfor %}
      </div>
      {% endfor %}
 </div>

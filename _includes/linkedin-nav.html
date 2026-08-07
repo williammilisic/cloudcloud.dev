@@ -1,0 +1,16 @@
+<div class="list-filters">
+  <a href="index.html" class="list-filter">Latest ({{ site.data.linkedin-posts.data.posts.size }} in total)</a>
+  <a href="year.html" class="list-filter">By Year</a>
+  <a href="reactions.html" class="list-filter">By Reactions</a>
+  <a href="comments.html" class="list-filter">By Comments</a>
+</div>
+{%- comment -%}
+Only years that already have their own page are listed, so the strip can never
+link somewhere that does not exist. Add a year here when its page is added.
+{%- endcomment -%}
+{%- assign archive_years = "2026,2025,2024,2023,2022,2021,2020,2019,2018,2017,2016,2015" | split: "," -%}
+<div class="list-filters">
+  {%- for archive_year in archive_years %}
+  <a href="{{ archive_year }}.html" class="list-filter">{{ archive_year }}</a>
+  {%- endfor %}
+</div>

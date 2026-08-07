@@ -7,13 +7,7 @@ Back to [main](../index.md).
 <!-- markdownlint-disable MD033 -->
 {% assign published_posts = site.data.linkedin-posts.data.posts %}
 
-<!-- Buttons for ordering LinkedIn posts -->
-<div class="list-filters">
-  <a href="index.html" class="list-filter">All ({{ published_posts.size }})</a>
-  <a href="year.html" class="list-filter">By Year</a>
-  <a href="reactions.html" class="list-filter">By Reactions</a>
-  <a href="comments.html" class="list-filter">By Comments</a>
-</div>
+{% include linkedin-nav.html %}
 
 <!-- Archive posts have no engagement data, so they get their own bucket instead of counting as 0 -->
 {% assign known_posts = published_posts | where_exp: "p", "p.stats" %}
