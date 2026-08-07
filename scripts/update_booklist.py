@@ -80,7 +80,7 @@ def update_booklist():
     posts = posts_data.get("data", {}).get("posts", [])
     
     # Collect existing activity IDs and URLs from booklist.md
-    existing_act_ids = set(re.findall(r'activity-(\d+)', booklist_content))
+    existing_act_ids = set(re.findall(r'activity[-:](\d+)', booklist_content))
     
     new_entries = []
 
@@ -94,7 +94,7 @@ def update_booklist():
         text = post.get("text", "")
         date_str = post.get("posted_at", {}).get("date", "")
 
-        act_id_m = re.search(r'activity-(\d+)', url)
+        act_id_m = re.search(r'activity[-:](\d+)', url)
         act_id = act_id_m.group(1) if act_id_m else ""
 
         # Check if already present in booklist.md
