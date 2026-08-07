@@ -12,34 +12,41 @@ Back to [main](../index.md).
 <!-- Archive posts have no engagement data, so they get their own bucket instead of counting as 0 -->
 {% assign known_posts = published_posts | where_exp: "p", "p.stats" %}
 {% assign unknown_posts = published_posts | where_exp: "p", "p.stats == nil" %}
-{% assign sorted_posts = known_posts | sort: "commentsCount" | reverse %}
 {% assign ranges_order = "100+,10-99,<10,Unknown" | split: "," %}
+{% assign bucket_slugs = "100-plus,10-99,under-10,unknown" | split: "," %}
+{% comment %}
+Buckets that have a page of their own. Same guard as the year strip, so
+a bucket can never link at a page that is not there.
+{% endcomment %}
+{% assign bucket_pages = "100-plus,10-99,under-10,unknown" | split: "," %}
 
 <!-- Comments cloud -->
 <div class="tag-list">
   {% for range in ranges_order %}
-   <a href="#{{ range }}" class="btn btn-primary tag-btn">
-    <i class="fas fa-comments" aria-hidden="true"></i>&nbsp;{{ range }}&nbsp;
+   {%- assign bucket_slug = bucket_slugs[forloop.index0] %}
+   <a href="#{{ bucket_slug }}" class="btn btn-primary tag-btn">
+    <i class="fas fa-comments" aria-hidden="true"></i>&nbsp;{{ range | escape }}&nbsp;
    </a>
   {% endfor %}
 </div>
 
 <div id="full-tags-list">
   {% for range in ranges_order %}
-   {%- if range == "Unknown" %}
-   {%- assign range_posts = unknown_posts %}
+   {%- assign bucket_slug = bucket_slugs[forloop.index0] %}
+   {%- if bucket_slug == "unknown" %}
    {%- assign posts_count = unknown_posts.size %}
+   {%- assign bucket_href = "unknown.html" %}
    {%- else %}
-   {%- assign range_posts = sorted_posts %}
+   {%- assign bucket_href = "comments-" | append: bucket_slug | append: ".html" %}
    {% assign posts_count = 0 %}
-   {% for post in sorted_posts %}
-    {% assign comments = post.commentsCount | default: 0 %}
+   {% for post in known_posts %}
+    {% assign tally = post.commentsCount | default: 0 %}
     {% assign in_range = false %}
-    {% if range == "100+" and comments >= 100 %}
+    {% if bucket_slug == "100-plus" and tally >= 100 %}
       {% assign in_range = true %}
-    {% elsif range == "10-99" and comments >= 10 and comments < 100 %}
+    {% elsif bucket_slug == "10-99" and tally >= 10 and tally < 100 %}
       {% assign in_range = true %}
-    {% elsif range == "<10" and comments < 10 %}
+    {% elsif bucket_slug == "under-10" and tally < 10 %}
       {% assign in_range = true %}
     {% endif %}
     {% if in_range %}
@@ -47,46 +54,24 @@ Back to [main](../index.md).
     {% endif %}
    {% endfor %}
    {%- endif %}
-   <h3 id="{{ range }}" class="linked-section">
+   <h3 id="{{ bucket_slug }}" class="linked-section">
     <i class="fas fa-comments" aria-hidden="true"></i>
-    &nbsp;{{ range }}&nbsp;({{ posts_count }} posts)
+    &nbsp;{{ range | escape }}&nbsp;({{ posts_count }} posts)
    </h3>
    <div class="post-list">
-    {% for post in range_posts %}
-      {%- if range == "Unknown" %}
-      {%- assign in_range = true %}
-      {%- else %}
-      {% assign comments = post.commentsCount | default: 0 %}
-      {% assign in_range = false %}
-      {% if range == "100+" and comments >= 100 %}
-       {% assign in_range = true %}
-      {% elsif range == "10-99" and comments >= 10 and comments < 100 %}
-       {% assign in_range = true %}
-      {% elsif range == "<10" and comments < 10 %}
-       {% assign in_range = true %}
-      {% endif %}
-      {%- endif %}
-      {% if in_range %}
-       <div class="tag-entry">
-        <a href="{{ post.url | escape }}" target="_blank" rel="noopener noreferrer">{{ post.text | truncatewords: 15 | escape }}</a>
-        <div class="entry-date">
-          <time datetime="{{ post.posted_at.date | escape }}">{{ post.posted_at.date | date: "%b %-d, %Y" }}</time>
-          {%- unless post.author.username == "williammilisic" %}
-          · reposted from {{ post.author.first_name | append: " " | append: post.author.last_name | strip | escape }}
-          {%- endunless %}
-          <span class="post-stats">
-           {%- if post.stats %}
-           · <i class="fas fa-comments" aria-hidden="true"></i> {{ post.commentsCount | default: 0 }}
-           · <i class="fas fa-thumbs-up" aria-hidden="true"></i> {{ post.totalReactionCount | default: 0 }}
-           · <i class="fas fa-retweet" aria-hidden="true"></i> {{ post.repostsCount | default: 0 }}
-           {%- else %}
-           · engagement data unavailable
-           {%- endif %}
-          </span>
-        </div>
-       </div>
-      {% endif %}
-    {% endfor %}
+    <div class="tag-entry">
+     {%- assign has_page = true %}
+     {%- if bucket_pages %}
+     {%- unless bucket_pages contains bucket_slug %}
+     {%- assign has_page = false %}
+     {%- endunless %}
+     {%- endif %}
+     {%- if has_page %}
+     <a href="{{ bucket_href }}">Read all {{ posts_count }} posts in this range</a>
+     {%- else %}
+     <span>No page for this range yet</span>
+     {%- endif %}
+    </div>
    </div>
   {% endfor %}
 </div>

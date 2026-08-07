@@ -1,0 +1,33 @@
+{%- comment %}
+Renders the compact archive entries used by the engagement bucket pages.
+  include.posts   the list of posts to render
+  include.metric  "comments" puts the comment count first, otherwise reactions
+                  come first, matching the page the entries were reached from
+{%- endcomment %}
+<div class="post-list">
+  {%- for post in include.posts %}
+  <div class="tag-entry">
+    <a href="{{ post.url | escape }}" target="_blank" rel="noopener noreferrer">{{ post.text | truncatewords: 15 | escape }}</a>
+    <div class="entry-date">
+      <time datetime="{{ post.posted_at.date | escape }}">{{ post.posted_at.date | date: "%b %-d, %Y" }}</time>
+      {%- unless post.author.username == "williammilisic" %}
+      · reposted from {{ post.author.first_name | append: " " | append: post.author.last_name | strip | escape }}
+      {%- endunless %}
+      <span class="post-stats">
+        {%- if post.stats %}
+        {%- if include.metric == "comments" %}
+        · <i class="fas fa-comments" aria-hidden="true"></i> {{ post.commentsCount | default: 0 }}
+        · <i class="fas fa-thumbs-up" aria-hidden="true"></i> {{ post.totalReactionCount | default: 0 }}
+        {%- else %}
+        · <i class="fas fa-thumbs-up" aria-hidden="true"></i> {{ post.totalReactionCount | default: 0 }}
+        · <i class="fas fa-comment" aria-hidden="true"></i> {{ post.commentsCount | default: 0 }}
+        {%- endif %}
+        · <i class="fas fa-retweet" aria-hidden="true"></i> {{ post.repostsCount | default: 0 }}
+        {%- else %}
+        · engagement data unavailable
+        {%- endif %}
+      </span>
+    </div>
+  </div>
+  {%- endfor %}
+</div>

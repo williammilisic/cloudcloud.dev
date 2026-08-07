@@ -1,0 +1,37 @@
+{%- comment %}
+Selects one engagement bucket and hands it to the entries include.
+  include.metric  "reactions" or "comments"
+  include.bucket  "100-plus", "10-99", "under-10" or "unknown"
+Archive posts carry no engagement data, so they land in the unknown bucket
+rather than counting as zero.
+{%- endcomment %}
+{%- assign all_posts = site.data.linkedin-posts.data.posts -%}
+{%- if include.metric == "comments" -%}
+{%- assign sort_field = "commentsCount" -%}
+{%- else -%}
+{%- assign sort_field = "totalReactionCount" -%}
+{%- endif -%}
+{%- assign bucket_posts = "" | split: "" -%}
+{%- if include.bucket == "unknown" -%}
+{%- assign bucket_posts = all_posts | where_exp: "p", "p.stats == nil" -%}
+{%- else -%}
+{%- assign known_posts = all_posts | where_exp: "p", "p.stats" -%}
+{%- assign sorted_posts = known_posts | sort: sort_field | reverse -%}
+{%- for post in sorted_posts -%}
+{%- if include.metric == "comments" -%}
+{%- assign metric_value = post.commentsCount | default: 0 -%}
+{%- else -%}
+{%- assign metric_value = post.totalReactionCount | default: 0 -%}
+{%- endif -%}
+{%- if include.bucket == "100-plus" and metric_value >= 100 -%}
+{%- assign bucket_posts = bucket_posts | push: post -%}
+{%- endif -%}
+{%- if include.bucket == "10-99" and metric_value >= 10 and metric_value < 100 -%}
+{%- assign bucket_posts = bucket_posts | push: post -%}
+{%- endif -%}
+{%- if include.bucket == "under-10" and metric_value < 10 -%}
+{%- assign bucket_posts = bucket_posts | push: post -%}
+{%- endif -%}
+{%- endfor -%}
+{%- endif -%}
+{% include linkedin-post-entries.html posts=bucket_posts metric=include.metric %}
