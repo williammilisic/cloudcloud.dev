@@ -1,8 +1,13 @@
 remote_theme: pages-themes/dinky@v0.2.0
 title: Cloud Cloud Dot Dev
 description: Written account of my readings, learnings, and thoughts.
+url: https://williammilisic.github.io
+baseurl: /cloudcloud.dev
+lang: en
+author: William Milisic
 markdown: kramdown
 google_analytics: G-RQLR0KV2FF
 plugins:
 - jekyll-remote-theme 
 - jekyll-feed
+- jekyll-seo-tag
