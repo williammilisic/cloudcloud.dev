@@ -49,9 +49,14 @@ jobs:
                         | sort_by(.posted_at.timestamp)
                         | reverse
                         | map(
-                            .commentsCount = (.stats.comments | tonumber)
-                          | .totalReactionCount = (.stats.total_reactions | tonumber)
-                          | .repostsCount = (.stats.reposts | tonumber)
+                            # tonumber aborts the whole program on null, so posts
+                            # archived without engagement data keep their existing
+                            # shape instead of gaining fabricated zero counts.
+                            if (.stats | type) == "object" then
+                              .commentsCount = (.stats.comments | tonumber)
+                            | .totalReactionCount = (.stats.total_reactions | tonumber)
+                            | .repostsCount = (.stats.reposts | tonumber)
+                            else . end
                          )
                        )
               }
@@ -68,9 +73,14 @@ jobs:
                         | sort_by(.posted_at.timestamp)
                         | reverse
                         | map(
-                            .commentsCount = (.stats.comments | tonumber)
-                          | .totalReactionCount = (.stats.total_reactions | tonumber)
-                          | .repostsCount = (.stats.reposts | tonumber)
+                            # tonumber aborts the whole program on null, so posts
+                            # archived without engagement data keep their existing
+                            # shape instead of gaining fabricated zero counts.
+                            if (.stats | type) == "object" then
+                              .commentsCount = (.stats.comments | tonumber)
+                            | .totalReactionCount = (.stats.total_reactions | tonumber)
+                            | .repostsCount = (.stats.reposts | tonumber)
+                            else . end
                          )
                        )
               }

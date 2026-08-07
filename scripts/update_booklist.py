@@ -85,6 +85,11 @@ def update_booklist():
     new_entries = []
 
     for post in posts:
+        # Preview text is cut off mid-sentence, so title/author parsing on it
+        # yields mangled results. Wait for a full-text sync of these posts.
+        if post.get("text_truncated"):
+            continue
+
         url = clean_url(post.get("url", ""))
         text = post.get("text", "")
         date_str = post.get("posted_at", {}).get("date", "")
