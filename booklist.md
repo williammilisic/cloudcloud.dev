@@ -191,7 +191,7 @@ Back to [main](index.md).
 ## 2022
 
 * **How to Create a Mind**
-<br/>By:  Ray Kurzweil <br/>December 2022
+<br/>By:  Ray Kurzweil <br/>December 2022 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:activity:7020290489706819584/)
 
 * **Build**
 <br/>By:  Tony Fadell <br/>December 2022
@@ -215,7 +215,7 @@ Back to [main](index.md).
 <br/>By:  Robert C. Martin <br/>June 2022
 
 * **Building Microservices**
-<br/>By:  Sam Newman <br/>February 2022
+<br/>By:  Sam Newman <br/>February 2022 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:activity:6935363363300380673/)
 
 
 ## 2021
@@ -224,7 +224,7 @@ Back to [main](index.md).
 <br/>By:  Mark Schwartz <br/>December 2021 
 
 * **Empowered**
-<br/>By:  Marty Cagan, Chris Jones <br/>November 2021
+<br/>By:  Marty Cagan, Chris Jones <br/>November 2021 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:activity:6952392582052122624/)
 
 * **Software Engineering at Google**
 <br/>By:  Titus Winters, Tom Manshreck, Hyrum Wright <br/>September 2021
@@ -239,13 +239,13 @@ Back to [main](index.md).
 <br/>By:  Martin Kleppmann <br/>May 2021
 
 * **Clean Code**
-<br/>By:  Robert C. Martin <br/>May 2021
+<br/>By:  Robert C. Martin <br/>May 2021 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:activity:6799088406610632705/)
 
 * **Team Topologies: Organizing Business and Technology Teams for Fast Flow**
-<br/>By:  Matthew Skelton, Manuel Pais <br/>April 2021
+<br/>By:  Matthew Skelton, Manuel Pais <br/>April 2021 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:activity:6795584931629158400/)
 
 * **Think Again**
-<br/>By:  Adam Grant <br/>March 2021
+<br/>By:  Adam Grant <br/>March 2021 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:activity:6785696804471099392/)
 
 * **Ask Your Developer**
 <br/>By:  Jeff Lawson <br/>March 2021
@@ -266,7 +266,7 @@ Back to [main](index.md).
 <br/>By:  Ryan Holiday <br/>June 2020
 
 * **Ego Is the Enemy**
-<br/>By:  Ryan Holiday <br/>May 2020
+<br/>By:  Ryan Holiday <br/>May 2020 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:activity:6677342714561908736/)
 
 * **The Leader's Guide**
 <br/>By:  Eric Ries <br/>March 2020 
@@ -275,7 +275,7 @@ Back to [main](index.md).
 <br/>By:  Eliyahu M. Goldratt, Jeff Cox <br/>February 2020
 
 * **Beyond the Phoenix Project**
-<br/>By:  Gene Kim, John Willis <br/>February 2020
+<br/>By:  Gene Kim, John Willis <br/>February 2020 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:activity:6638587213485481984/)
 
 * **Transforming Nokia** 
 <br/>By:  Risto Siilasmaa <br/>January 2020
@@ -290,7 +290,7 @@ Back to [main](index.md).
 <br/>By:  George Berkowski <br/>October 2019
 
 * **Never Split the Difference**
-<br/>By:  Chris Voss, Tahl Raz <br/>September 2019
+<br/>By:  Chris Voss, Tahl Raz <br/>September 2019 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:activity:6587105515770269696/)
 
 * **DevOps and Site Reliability Engineering (SRE) Handbook**
 <br/>By:  Stephen Fleming <br/>September 2019
@@ -299,7 +299,7 @@ Back to [main](index.md).
 <br/>By:  Marty Cagan <br/>September 2019
 
 * **Rework**
-<br/>By:  Jason Fried, David Heinemeier Hansson <br/>August 2019
+<br/>By:  Jason Fried, David Heinemeier Hansson <br/>August 2019 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:activity:6573634693374197760/)
 
 * **The Lean Startup**
 <br/>By:  Eric Ries <br/>July 2019
@@ -309,6 +309,9 @@ Back to [main](index.md).
 
 * **Accelerate: Building and Scaling High Performing Technology Organizations**
 <br/>By:  Nicole Forsgren PhD, Jez Humble, Gene Kim <br/>May 2019
+
+* **The Agile Mind-set: Making Agile Processes Work**
+<br/>By:  Gil Broza <br/>May 2019 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:activity:6533839233969377280/)
 
 * **Radical Candor**
 <br/>By:  Kim Scott <br/>March 2019
@@ -320,25 +323,28 @@ Back to [main](index.md).
 <br/>By:  John Doerr <br/>March 2019 
 
 * **The Toyota Way**
-<br/>By:  Jeffrey Liker <br/>March 2019
+<br/>By:  Jeffrey Liker <br/>March 2019 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:activity:6508850355000926208/)
 
 * **Powerful: Building a Culture of Freedom and Responsibility**
-<br/>By:  Patty McCord <br/>February 2019
+<br/>By:  Patty McCord <br/>February 2019 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:activity:6506296601068216320/)
 
 * **A Seat at the Table**
-<br/>By:  Mark Schwartz <br/>February 2019 
+<br/>By:  Mark Schwartz <br/>February 2019 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:activity:6509425285497122816/)
 
 * **The DevOps Handbook**
-<br/>By:  Gene Kim, Patrick Debois, John Willis, Jez Humble <br/>February 2019
+<br/>By:  Gene Kim, Patrick Debois, John Willis, Jez Humble <br/>February 2019 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:activity:6505578658042769408/)
 
 
 ## 2018
+
+* **Leaders Eat Last**
+<br/>By:  Simon Sinek <br/>December 2018 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:activity:6484763908937641984/)
 
 * **The 7 Habits of Highly Effective People**
 <br/>By:  Stephen R. Covey <br/>December 2018
 
 * **Turn the Ship Around!**
-<br/>By:  L. David Marquet <br/>November 2018
+<br/>By:  L. David Marquet <br/>November 2018 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:activity:6475734956021686272/)
 
 * **Start with Why**
-<br/>By:  Simon Sinek <br/>November 2018
+<br/>By:  Simon Sinek <br/>November 2018 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:activity:6473100003257655297/)
