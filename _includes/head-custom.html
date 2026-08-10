@@ -1,0 +1,18 @@
+<!--
+Overrides the theme's own head-custom.html, which injected a Universal
+Analytics snippet that stopped collecting data when Google shut that
+product down in 2023.
+-->
+
+<!-- Font Awesome, for the engagement icons on the LinkedIn pages -->
+<link rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.3.0/css/all.min.css"
+      integrity="sha384-sTlsophtwz/I4myskS3OIJf5VvEojkXKZyBTWZm0YD/K1pN7C5wpBPLyrsbr1SU2"
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer">
+
+{%- if site.goatcounter %}
+<!-- Visitor counts. No cookies, so no consent banner is required. -->
+<script data-goatcounter="https://{{ site.goatcounter }}.goatcounter.com/count"
+        async src="https://gc.zgo.at/count.js"></script>
+{%- endif %}

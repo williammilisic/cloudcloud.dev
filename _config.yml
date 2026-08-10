@@ -14,7 +14,10 @@ exclude:
 - Gemfile.lock
 - node_modules/
 - vendor/
-google_analytics: G-RQLR0KV2FF
+# Visitor stats. Set this to your GoatCounter site code, so that a code of
+# "williammilisic" sends counts to williammilisic.goatcounter.com. Leaving it
+# unset simply means no tracking script is loaded at all.
+# goatcounter: williammilisic
 plugins:
 - jekyll-remote-theme 
 - jekyll-feed
