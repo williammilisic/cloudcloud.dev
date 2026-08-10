@@ -1,0 +1,49 @@
+name: Publish Scratch Entries
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - scratch.md
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-scratch
+  cancel-in-progress: false
+
+jobs:
+  publish-scratch:
+    # Skip the run triggered by this workflow emptying the scratch itself.
+    if: "!contains(github.event.head_commit.message, 'Publish scratch entries')"
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Publish scratch into dated posts
+        env:
+          # Date the entry by the commit that triggered this run, not by the
+          # time the runner happened to pick the job up.
+          PUBLISH_DATE: ${{ github.event.head_commit.timestamp }}
+        run: python scripts/publish_scratch.py
+
+      - name: Commit the new entries
+        run: |
+          if [ -z "$(git status --porcelain -- scratch.md _posts)" ]; then
+            echo "Nothing was published"
+            exit 0
+          fi
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add scratch.md _posts
+          git commit -m "Publish scratch entries $(date -u +'%Y-%m-%d')"
+          git push

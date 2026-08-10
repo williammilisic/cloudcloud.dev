@@ -6,6 +6,14 @@ baseurl: /cloudcloud.dev
 lang: en
 author: William Milisic
 markdown: kramdown
+exclude:
+- scratch.md
+- .sass-cache/
+- .jekyll-cache/
+- Gemfile
+- Gemfile.lock
+- node_modules/
+- vendor/
 google_analytics: G-RQLR0KV2FF
 plugins:
 - jekyll-remote-theme 
