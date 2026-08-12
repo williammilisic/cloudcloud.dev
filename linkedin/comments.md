@@ -1,6 +1,6 @@
 # cloudcloud.dev LinkedIn posts by comments
 
-Back to [main](../index.md).
+Back to [main](../).
 
 <br/>
 
@@ -63,9 +63,9 @@ a bucket can never link at a page that is not there.
    {%- assign repost_count = posts_count | minus: own_count %}
    <h3 id="{{ bucket_slug }}" class="linked-section">
     <i class="fas fa-comments" aria-hidden="true"></i>
-    &nbsp;{{ range | escape }}&nbsp;({{ posts_count }} posts
+    &nbsp;{{ range | escape }}&nbsp;<span class="section-counts">({{ posts_count }} posts
     {%- if repost_count > 0 %} · {{ own_count }} own, <span class="count-reposted">{{ repost_count }} reposted</span>{%- endif -%}
-    )
+    )</span>
    </h3>
    <div class="post-list">
     <div class="tag-entry">
