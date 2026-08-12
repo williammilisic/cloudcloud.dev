@@ -19,6 +19,13 @@
 }
 .linkedin-post-author {
   margin: 0 0 0.6em 0;
+  color: #4d6b8a;
+  font-weight: 600;
+}
+.linkedin-posts-container .linkedin-post-repost {
+  border-left: 3px solid #c3d0dd;
+  padding-left: 1.1em;
+  background: #fbfcfd;
 }
 </style>
 {%- comment -%}
@@ -35,10 +42,10 @@ Both are optional. With neither, every post is rendered.
   {%- if include.year and post_year != include.year -%}{%- continue -%}{%- endif -%}
   {%- if card_limit > 0 and card_count >= card_limit -%}{%- break -%}{%- endif -%}
   {%- assign card_count = card_count | plus: 1 -%}
-   <div class="linkedin-post-card">
+   <div class="linkedin-post-card{% unless post.author.username == "williammilisic" %} linkedin-post-repost{% endunless %}">
     <div class="linkedin-post-text">
       {%- unless post.author.username == "williammilisic" %}
-      <p class="linkedin-post-author">Reposted from
+      <p class="linkedin-post-author"><i class="fas fa-retweet" aria-hidden="true"></i> Reposted from
        {%- if post.author.profile_url %}
        <a href="{{ post.author.profile_url | escape }}" target="_blank" rel="noopener noreferrer">{{ post.author.first_name | append: " " | append: post.author.last_name | strip | escape }}</a>
        {%- else %}
