@@ -31,15 +31,22 @@ Back to [main](../index.md).
 <div id="full-tags-list">
      {% for year in reverse_years_list %}
      {% assign posts_count = 0 %}
+     {% assign own_count = 0 %}
      {% for post in site.data.linkedin-posts.data.posts %}
           {% assign post_year = post.posted_at.date | date: "%Y" %}
           {% if post_year == year %}
                 {% assign posts_count = posts_count | plus: 1 %}
+                {% if post.author.username == "williammilisic" %}
+                     {% assign own_count = own_count | plus: 1 %}
+                {% endif %}
           {% endif %}
      {% endfor %}
+     {% assign repost_count = posts_count | minus: own_count %}
      <h3 id="{{- year -}}" class="linked-section">
           <i class="fas fa-calendar-alt" aria-hidden="true"></i>
-          &nbsp;{{- year -}}&nbsp;({{ posts_count }} posts)
+          &nbsp;{{- year -}}&nbsp;({{ posts_count }} posts
+          {%- if repost_count > 0 %} · {{ own_count }} own, <span class="count-reposted">{{ repost_count }} reposted</span>{%- endif -%}
+          )
      </h3>
      <div class="post-list">
           {% comment %}

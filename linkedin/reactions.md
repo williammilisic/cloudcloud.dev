@@ -36,10 +36,13 @@ a bucket can never link at a page that is not there.
    {%- assign bucket_slug = bucket_slugs[forloop.index0] %}
    {%- if bucket_slug == "unknown" %}
    {%- assign posts_count = unknown_posts.size %}
+   {%- assign own_unknown = unknown_posts | where_exp: "p", "p.author.username == 'williammilisic'" %}
+   {%- assign own_count = own_unknown.size %}
    {%- assign bucket_href = "unknown.html" %}
    {%- else %}
    {%- assign bucket_href = "reactions-" | append: bucket_slug | append: ".html" %}
    {% assign posts_count = 0 %}
+   {% assign own_count = 0 %}
    {% for post in known_posts %}
     {% assign tally = post.totalReactionCount | default: 0 %}
     {% assign in_range = false %}
@@ -52,12 +55,18 @@ a bucket can never link at a page that is not there.
     {% endif %}
     {% if in_range %}
       {% assign posts_count = posts_count | plus: 1 %}
+      {% if post.author.username == "williammilisic" %}
+        {% assign own_count = own_count | plus: 1 %}
+      {% endif %}
     {% endif %}
    {% endfor %}
    {%- endif %}
+   {%- assign repost_count = posts_count | minus: own_count %}
    <h3 id="{{ bucket_slug }}" class="linked-section">
     <i class="fas fa-thumbs-up" aria-hidden="true"></i>
-    &nbsp;{{ range | escape }}&nbsp;({{ posts_count }} posts)
+    &nbsp;{{ range | escape }}&nbsp;({{ posts_count }} posts
+    {%- if repost_count > 0 %} · {{ own_count }} own, <span class="count-reposted">{{ repost_count }} reposted</span>{%- endif -%}
+    )
    </h3>
    <div class="post-list">
     <div class="tag-entry">
