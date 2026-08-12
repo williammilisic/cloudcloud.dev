@@ -40,13 +40,21 @@ gives an empty leaf, year.html gives "year", and a bucket page such as
 reactions-100-plus gives a leaf that still starts with its parent tab's name.
 {%- endcomment -%}
 {%- assign nav_leaf = page.url | split: "/" | last | remove: ".html" -%}
+{%- comment -%}
+Jekyll drops the trailing empty segment when splitting "/linkedin/", so the
+landing page arrives here as "linkedin" rather than as an empty leaf.
+{%- endcomment -%}
+{%- assign on_landing = false -%}
+{%- if nav_leaf == "" or nav_leaf == "index" or nav_leaf == "linkedin" -%}
+  {%- assign on_landing = true -%}
+{%- endif -%}
 {%- assign on_year = false -%}
 {%- if nav_leaf == "year" or archive_years contains nav_leaf -%}
   {%- assign on_year = true -%}
 {%- endif -%}
 <div class="list-filters primary-filters">
-  <a href="index.html" class="list-filter{% if nav_leaf == "" or nav_leaf == "index" %} is-current{% endif %}"
-     {%- if nav_leaf == "" or nav_leaf == "index" %} aria-current="page"{% endif %}>Latest ({{ site.data.linkedin-posts.data.posts.size }} in total)</a>
+  <a href="index.html" class="list-filter{% if on_landing %} is-current{% endif %}"
+     {%- if on_landing %} aria-current="page"{% endif %}>Latest ({{ site.data.linkedin-posts.data.posts.size }} in total)</a>
   <a href="year.html" class="list-filter{% if on_year %} is-current{% endif %}"
      {%- if on_year %} aria-current="page"{% endif %}>By Year</a>
   <a href="reactions.html" class="list-filter{% if nav_leaf contains "reactions" %} is-current{% endif %}"
