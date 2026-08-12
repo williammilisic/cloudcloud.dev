@@ -1,0 +1,158 @@
+<style>
+.archive-overview {
+  margin: 1.2em 0 2em;
+}
+.archive-summary {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em 1.6em;
+  padding: 0.9em 0;
+  margin: 0 0 1.2em;
+  border-top: 1px solid #dcdcdc;
+  border-bottom: 1px solid #dcdcdc;
+  font-size: 0.85em;
+  color: #6d6d6d;
+}
+.archive-summary b {
+  display: block;
+  font-size: 1.6em;
+  line-height: 1.15;
+  color: #222;
+  font-weight: 600;
+}
+.year-bars {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.year-bars li {
+  display: flex;
+  align-items: center;
+  gap: 0.7em;
+  margin: 0.3em 0;
+  font-size: 0.82em;
+}
+.year-bars .year-label {
+  flex: 0 0 2.6em;
+  text-align: right;
+}
+.year-bars .bar-track {
+  flex: 1 1 auto;
+  min-width: 0;
+  height: 0.9em;
+  background: #eef1f4;
+  border-radius: 2px;
+  overflow: hidden;
+}
+.year-bars .bar-fill {
+  display: flex;
+  height: 100%;
+}
+.year-bars .seg-own {
+  background: #6b7f92;
+}
+.year-bars .seg-repost {
+  background: #c3d0dd;
+}
+.year-bars .year-figures {
+  flex: 0 0 auto;
+  min-width: 10.5em;
+  white-space: nowrap;
+  color: #6d6d6d;
+}
+.archive-key {
+  margin: 0.9em 0 0;
+  font-size: 0.8em;
+  color: #6d6d6d;
+}
+.archive-key i {
+  display: inline-block;
+  width: 0.75em;
+  height: 0.75em;
+  border-radius: 2px;
+  vertical-align: baseline;
+}
+.archive-key .k-own { background: #6b7f92; }
+.archive-key .k-repost { background: #c3d0dd; }
+</style>
+{%- comment -%}
+Overview of the whole archive. Counts are derived from the data at build time,
+so nothing here needs maintaining as posts are added. archive_years is set by
+the nav include, so this must be included after it.
+{%- endcomment -%}
+{%- assign all_posts = site.data.linkedin-posts.data.posts -%}
+{%- assign own_total = 0 -%}
+{%- assign repost_authors = "" | split: "" -%}
+{%- for post in all_posts -%}
+  {%- if post.author.username == "williammilisic" -%}
+    {%- assign own_total = own_total | plus: 1 -%}
+  {%- else -%}
+    {%- comment -%}
+    Keyed on the display name rather than the handle: a few reposted
+    authors carry no handle in the data, and keying on that counts each
+    of them as a separate person every time they appear.
+    {%- endcomment -%}
+    {%- assign author_key = post.author.first_name | append: " " | append: post.author.last_name | strip -%}
+    {%- unless repost_authors contains author_key -%}
+      {%- assign repost_authors = repost_authors | push: author_key -%}
+    {%- endunless -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign repost_total = all_posts.size | minus: own_total -%}
+{%- assign sorted_years = archive_years | sort -%}
+{%- assign first_year = sorted_years | first -%}
+{%- assign last_year = sorted_years | last -%}
+{%- assign max_year_total = 1 -%}
+{%- for year in archive_years -%}
+  {%- assign year_total = 0 -%}
+  {%- for post in all_posts -%}
+    {%- assign post_year = post.posted_at.date | date: "%Y" -%}
+    {%- if post_year == year -%}{%- assign year_total = year_total | plus: 1 -%}{%- endif -%}
+  {%- endfor -%}
+  {%- if year_total > max_year_total -%}{%- assign max_year_total = year_total -%}{%- endif -%}
+{%- endfor -%}
+<div class="archive-overview">
+  <div class="archive-summary">
+    <span><b>{{ all_posts.size }}</b> posts</span>
+    <span><b>{{ own_total }}</b> written by me</span>
+    <span><b>{{ repost_total }}</b> reposted</span>
+    <span><b>{{ repost_authors.size }}</b> people reposted</span>
+    <span><b>{{ first_year }}&ndash;{{ last_year }}</b> covered</span>
+  </div>
+  <ul class="year-bars">
+    {%- for year in archive_years %}
+    {%- assign year_total = 0 -%}
+    {%- assign year_own = 0 -%}
+    {%- for post in all_posts -%}
+      {%- assign post_year = post.posted_at.date | date: "%Y" -%}
+      {%- if post_year == year -%}
+        {%- assign year_total = year_total | plus: 1 -%}
+        {%- if post.author.username == "williammilisic" -%}
+          {%- assign year_own = year_own | plus: 1 -%}
+        {%- endif -%}
+      {%- endif -%}
+    {%- endfor -%}
+    {%- if year_total > 0 %}
+    {%- assign year_repost = year_total | minus: year_own -%}
+    {%- assign bar_width = year_total | times: 100 | divided_by: max_year_total -%}
+    {%- assign own_share = year_own | times: 100 | divided_by: year_total -%}
+    <li>
+      <a class="year-label" href="{{ year }}.html">{{ year }}</a>
+      <span class="bar-track">
+        <span class="bar-fill" style="width: {{ bar_width }}%">
+          <span class="seg-own" style="width: {{ own_share }}%"></span>
+          <span class="seg-repost" style="width: {{ 100 | minus: own_share }}%"></span>
+        </span>
+      </span>
+      <span class="year-figures">
+        {{ year_total }} posts
+        {%- if year_repost > 0 %}, {{ year_repost }} reposted{%- endif -%}
+      </span>
+    </li>
+    {%- endif -%}
+    {%- endfor %}
+  </ul>
+  <p class="archive-key">
+    <i class="k-own"></i> written by me &nbsp; <i class="k-repost"></i> reposted from someone else
+  </p>
+</div>
