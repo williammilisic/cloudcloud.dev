@@ -1,17 +1,59 @@
 <style>
 .count-reposted { color: #4d6b8a; }
+.primary-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+  margin: 0 0 0.55em;
+}
+.primary-filters .list-filter {
+  display: inline-block;
+  padding: 0.34em 0.8em;
+  border: 1px solid #d7dde3;
+  border-radius: 999px;
+  background: #fff;
+  color: #4a5a6a;
+  font-size: 0.85em;
+  line-height: 1.35;
+  text-decoration: none;
+}
+.primary-filters .list-filter:hover {
+  border-color: #9fb0c1;
+  background: #f3f6f9;
+  text-decoration: none;
+}
+.primary-filters .list-filter.is-current {
+  background: #6b7f92;
+  border-color: #6b7f92;
+  color: #fff;
+  font-weight: 600;
+}
 </style>
-<div class="list-filters">
-  <a href="index.html" class="list-filter">Latest ({{ site.data.linkedin-posts.data.posts.size }} in total)</a>
-  <a href="year.html" class="list-filter">By Year</a>
-  <a href="reactions.html" class="list-filter">By Reactions</a>
-  <a href="comments.html" class="list-filter">By Comments</a>
-</div>
 {%- comment -%}
 Only years that already have their own page are listed, so the strip can never
 link somewhere that does not exist. Add a year here when its page is added.
 {%- endcomment -%}
 {%- assign archive_years = "2026,2025,2024,2023,2022,2021,2020,2019,2018,2017,2016,2015" | split: "," -%}
+{%- comment -%}
+Which tab to mark as current. page.url is the built path, so the landing page
+gives an empty leaf, year.html gives "year", and a bucket page such as
+reactions-100-plus gives a leaf that still starts with its parent tab's name.
+{%- endcomment -%}
+{%- assign nav_leaf = page.url | split: "/" | last | remove: ".html" -%}
+{%- assign on_year = false -%}
+{%- if nav_leaf == "year" or archive_years contains nav_leaf -%}
+  {%- assign on_year = true -%}
+{%- endif -%}
+<div class="list-filters primary-filters">
+  <a href="index.html" class="list-filter{% if nav_leaf == "" or nav_leaf == "index" %} is-current{% endif %}"
+     {%- if nav_leaf == "" or nav_leaf == "index" %} aria-current="page"{% endif %}>Latest ({{ site.data.linkedin-posts.data.posts.size }} in total)</a>
+  <a href="year.html" class="list-filter{% if on_year %} is-current{% endif %}"
+     {%- if on_year %} aria-current="page"{% endif %}>By Year</a>
+  <a href="reactions.html" class="list-filter{% if nav_leaf contains "reactions" %} is-current{% endif %}"
+     {%- if nav_leaf contains "reactions" %} aria-current="page"{% endif %}>By Reactions</a>
+  <a href="comments.html" class="list-filter{% if nav_leaf contains "comments" %} is-current{% endif %}"
+     {%- if nav_leaf contains "comments" %} aria-current="page"{% endif %}>By Comments</a>
+</div>
 <div class="list-filters">
   {%- for archive_year in archive_years %}
   <a href="{{ archive_year }}.html" class="list-filter">{{ archive_year }}</a>
