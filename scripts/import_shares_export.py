@@ -43,6 +43,17 @@ SMART_CHARACTERS = (
     ("\u201e", '"'), ("\u2013", "-"), ("\u2014", "-"), ("\xa0", ""),
 )
 
+# The export escapes the line breaks inside ShareCommentary by wrapping every
+# newline in a straight double quote on each side, so a paragraph break arrives
+# as '"\n"' and a blank line as '"\n""\n"'. Authored quotation marks sit beside
+# those artefacts rather than replacing them, so taking exactly one quote from
+# each side of a newline strips the escaping and leaves real quotes alone.
+LINE_BREAK_ESCAPE = re.compile(r'"\n"')
+
+
+def unescape_line_breaks(text):
+    return LINE_BREAK_ESCAPE.sub("\n", text or "")
+
 
 def comparable(text):
     """Reduce text to what both sources agree on: the scraper renders hashtags
@@ -121,7 +132,7 @@ def build_payload(posts, index):
             "posted_at": post.get("posted_at"),
             "author": post.get("author"),
             "url": post.get("url"),
-            "text": row.get("ShareCommentary"),
+            "text": unescape_line_breaks(row.get("ShareCommentary")),
             "text_truncated": False,
         })
     return payload, skipped
