@@ -16,7 +16,16 @@ Renders the compact archive entries used by the engagement bucket pages.
 <div class="post-list">
   {%- for post in include.posts %}
   <div class="tag-entry{% unless post.author.username == "williammilisic" %} repost{% endunless %}">
+    {%- comment %}
+    escape is HTML escaping only, so the scraped url is scheme checked here
+    before it is allowed to become a clickable href.
+    {%- endcomment %}
+    {%- assign post_url_scheme = post.url | slice: 0, 8 %}
+    {%- if post_url_scheme == "https://" %}
     <a href="{{ post.url | escape }}" target="_blank" rel="noopener noreferrer">{{ post.text | truncatewords: 15 | escape }}</a>
+    {%- else %}
+    {{ post.text | truncatewords: 15 | escape }}
+    {%- endif %}
     <div class="entry-date">
       <time datetime="{{ post.posted_at.date | escape }}">{{ post.posted_at.date | date: "%b %-d, %Y" }}</time>
       {%- unless post.author.username == "williammilisic" %}
@@ -25,13 +34,13 @@ Renders the compact archive entries used by the engagement bucket pages.
       <span class="post-stats">
         {%- if post.stats %}
         {%- if include.metric == "comments" %}
-        · <i class="fas fa-comments" aria-hidden="true"></i> {{ post.commentsCount | default: 0 }}
-        · <i class="fas fa-thumbs-up" aria-hidden="true"></i> {{ post.totalReactionCount | default: 0 }}
+        · <i class="fas fa-comments" aria-hidden="true"></i> {{ post.commentsCount | default: 0 | escape }}
+        · <i class="fas fa-thumbs-up" aria-hidden="true"></i> {{ post.totalReactionCount | default: 0 | escape }}
         {%- else %}
-        · <i class="fas fa-thumbs-up" aria-hidden="true"></i> {{ post.totalReactionCount | default: 0 }}
-        · <i class="fas fa-comment" aria-hidden="true"></i> {{ post.commentsCount | default: 0 }}
+        · <i class="fas fa-thumbs-up" aria-hidden="true"></i> {{ post.totalReactionCount | default: 0 | escape }}
+        · <i class="fas fa-comment" aria-hidden="true"></i> {{ post.commentsCount | default: 0 | escape }}
         {%- endif %}
-        · <i class="fas fa-retweet" aria-hidden="true"></i> {{ post.repostsCount | default: 0 }}
+        · <i class="fas fa-retweet" aria-hidden="true"></i> {{ post.repostsCount | default: 0 | escape }}
         {%- else %}
         · engagement data unavailable
         {%- endif %}

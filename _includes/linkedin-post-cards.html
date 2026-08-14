@@ -46,7 +46,12 @@ Both are optional. With neither, every post is rendered.
     <div class="linkedin-post-text">
       {%- unless post.author.username == "williammilisic" %}
       <p class="linkedin-post-author"><i class="fas fa-retweet" aria-hidden="true"></i> Reposted from
-       {%- if post.author.profile_url %}
+       {%- comment -%}
+       escape is HTML escaping only, so scraped urls are scheme checked here
+       before they are allowed to become a clickable href.
+       {%- endcomment -%}
+       {%- assign author_url_scheme = post.author.profile_url | slice: 0, 8 -%}
+       {%- if author_url_scheme == "https://" %}
        <a href="{{ post.author.profile_url | escape }}" target="_blank" rel="noopener noreferrer">{{ post.author.first_name | append: " " | append: post.author.last_name | strip | escape }}</a>
        {%- else %}
        {{ post.author.first_name | append: " " | append: post.author.last_name | strip | escape }}
@@ -56,16 +61,21 @@ Both are optional. With neither, every post is rendered.
       <div class="linkedin-post-body">{{ post.text | escape | newline_to_br | strip_newlines }}{%- if post.text_truncated %}&hellip;{%- endif %}</div>
       <p class="linkedin-post-description">
        Posted on {{ post.posted_at.date | date: "%b %-d, %Y" }} ·
+       {%- assign post_url_scheme = post.url | slice: 0, 8 -%}
+       {%- if post_url_scheme == "https://" %}
        <a href="{{ post.url | escape }}" target="_blank" rel="noopener noreferrer" class="linkedin-post-link">Read on LinkedIn</a>
+       {%- else %}
+       Read on LinkedIn
+       {%- endif %}
        {%- if post.text_truncated %}
        · preview only, full text unavailable
        {%- endif %}
       </p>
       <p class="linkedin-post-stats">
        {%- if post.stats %}
-       <span><i class="fas fa-thumbs-up"></i> Reactions: {{ post.totalReactionCount | default: 0 }}</span> |
-       <span><i class="fas fa-comments"></i> Comments: {{ post.commentsCount | default: 0 }}</span> |
-       <span><i class="fas fa-retweet"></i> Repost: {{ post.repostsCount | default: 0 }}</span>
+       <span><i class="fas fa-thumbs-up"></i> Reactions: {{ post.totalReactionCount | default: 0 | escape }}</span> |
+       <span><i class="fas fa-comments"></i> Comments: {{ post.commentsCount | default: 0 | escape }}</span> |
+       <span><i class="fas fa-retweet"></i> Repost: {{ post.repostsCount | default: 0 | escape }}</span>
        {%- else %}
        <span>engagement data unavailable</span>
        {%- endif %}
