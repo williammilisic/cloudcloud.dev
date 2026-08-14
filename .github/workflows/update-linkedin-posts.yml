@@ -27,9 +27,6 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install jq
-        run: sudo apt-get update && sudo apt-get install -y jq
-
       - name: Fetch LinkedIn posts
         env:
           RAPIDAPI_LINKEDIN_DATA_API_KEY: ${{ secrets.RAPIDAPI_LINKEDIN_DATA_API_KEY }}
@@ -45,63 +42,12 @@ jobs:
            --header "x-rapidapi-key: $RAPIDAPI_LINKEDIN_DATA_API_KEY" \
            -o linkedin-posts.json
 
+      # The merge is field-level and additive: a truncated preview from the
+      # scraper must never replace the archived full text or engagement stats,
+      # and a rejected payload aborts the run before anything is committed.
       - name: Merge new posts with existing JSON
         run: |
-          # If the JSON file already exists, merge new data with the existing entries.
-          if [ -f _data/linkedin-posts.json ]; then
-            # count existing posts
-            originalCount=$(jq '.data.posts | length' _data/linkedin-posts.json)
-            # merge posts arrays using posted_at.timestamp
-          jq -s '{
-              success: true,
-              message: "",
-              data: {
-                posts: (.[0].data.posts + .[1].data.posts
-                        | unique_by(.posted_at.timestamp)
-                        | sort_by(.posted_at.timestamp)
-                        | reverse
-                        | map(
-                            # tonumber aborts the whole program on null, so posts
-                            # archived without engagement data keep their existing
-                            # shape instead of gaining fabricated zero counts.
-                            if (.stats | type) == "object" then
-                              .commentsCount = (.stats.comments | tonumber)
-                            | .totalReactionCount = (.stats.total_reactions | tonumber)
-                            | .repostsCount = (.stats.reposts | tonumber)
-                            else . end
-                         )
-                       )
-              }
-            }' linkedin-posts.json _data/linkedin-posts.json > merged.json
-            newCount=$(jq '.data.posts | length' merged.json)
-            echo "Number of new entries added: $((newCount - originalCount))"
-          else
-            # initialize new feed sorted by timestamp
-          jq '{
-              success: true,
-              message: "",
-              data: {
-                posts: (.data.posts
-                        | sort_by(.posted_at.timestamp)
-                        | reverse
-                        | map(
-                            # tonumber aborts the whole program on null, so posts
-                            # archived without engagement data keep their existing
-                            # shape instead of gaining fabricated zero counts.
-                            if (.stats | type) == "object" then
-                              .commentsCount = (.stats.comments | tonumber)
-                            | .totalReactionCount = (.stats.total_reactions | tonumber)
-                            | .repostsCount = (.stats.reposts | tonumber)
-                            else . end
-                         )
-                       )
-              }
-            }' linkedin-posts.json > merged.json
-            newCount=$(jq '.data.posts | length' merged.json)
-            echo "Number of new entries added: $newCount"
-          fi
-          # Move the merged file to the _data directory, overwriting if it exists
-          mv -f merged.json _data/linkedin-posts.json
+          python scripts/merge_linkedin_posts.py linkedin-posts.json _data/linkedin-posts.json
 
       - name: Remove temporary posts file
         run: rm -f linkedin-posts.json
