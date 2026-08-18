@@ -75,9 +75,34 @@ SMART_CHARACTERS = (
 # each side of a newline strips the escaping and leaves real quotes alone.
 LINE_BREAK_ESCAPE = re.compile(r'"\n"')
 
+# Jekyll reads data files with a YAML parser, and YAML rejects control
+# characters that JSON is happy to carry, so one stray byte fails the whole site
+# build. Text out of the export occasionally holds a character from the C1
+# block, which is cp1252 punctuation that lost its decoding on the way, so those
+# are put back rather than dropped.
+CONTROL_CHARACTERS = re.compile(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f-\x9f]")
+
+
+def repair_control_characters(text):
+    def readable(match):
+        character = match.group()
+        if "\x80" <= character <= "\x9f":
+            try:
+                decoded = bytes([ord(character)]).decode("cp1252")
+            except (UnicodeDecodeError, ValueError):
+                return ""
+            return "" if CONTROL_CHARACTERS.match(decoded) else decoded
+        return ""
+
+    return CONTROL_CHARACTERS.sub(readable, text or "")
+
 
 def unescape_line_breaks(text):
     return LINE_BREAK_ESCAPE.sub("\n", text or "")
+
+
+def export_text(row):
+    return repair_control_characters(unescape_line_breaks(row.get("ShareCommentary") or ""))
 
 
 def comparable(text):
@@ -157,7 +182,7 @@ def build_payload(posts, index):
             "posted_at": post.get("posted_at"),
             "author": post.get("author"),
             "url": post.get("url"),
-            "text": unescape_line_breaks(row.get("ShareCommentary")),
+            "text": export_text(row),
             "text_truncated": False,
         })
     return payload, skipped
@@ -286,7 +311,7 @@ def build_new_posts(rows, posts, since):
         if not identifier or second is None:
             skipped["no usable permalink or date"] += 1
             continue
-        text = unescape_line_breaks(row.get("ShareCommentary") or "")
+        text = export_text(row)
         if not text.strip():
             skipped["no commentary to publish"] += 1
             continue
@@ -350,6 +375,11 @@ def main(argv):
     if not payload:
         print("nothing to restore")
         return 0
+
+    unreadable = [post for post in payload if CONTROL_CHARACTERS.search(post.get("text") or "")]
+    if unreadable:
+        raise SystemExit("%d posts still carry control characters, which would fail the site "
+                         "build rather than show up as a broken page" % len(unreadable))
 
     handle = tempfile.NamedTemporaryFile("w", suffix=".json", delete=False, encoding="utf-8")
     try:
