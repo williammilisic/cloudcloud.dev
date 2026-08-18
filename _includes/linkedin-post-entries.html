@@ -28,6 +28,14 @@ Renders the compact archive entries used by the engagement bucket pages.
     {%- endif %}
     <div class="entry-date">
       <time datetime="{{ post.posted_at.date | escape }}">{{ post.posted_at.date | date: "%b %-d, %Y" }}</time>
+      {%- comment %}
+      LinkedIn redirects logged out visitors to a signup wall for anything
+      published before 2018, so those entries say so up front.
+      {%- endcomment %}
+      {%- assign post_year_number = post.posted_at.date | date: "%Y" | plus: 0 %}
+      {%- if post_year_number < 2018 %}
+      · sign-in required
+      {%- endif %}
       {%- unless post.author.username == "williammilisic" %}
       · <span class="repost-note"><i class="fas fa-retweet" aria-hidden="true"></i> reposted from {{ post.author.first_name | append: " " | append: post.author.last_name | strip | escape }}</span>
       {%- endunless %}

@@ -62,10 +62,19 @@ Both are optional. With neither, every post is rendered.
       <p class="linkedin-post-description">
        Posted on {{ post.posted_at.date | date: "%b %-d, %Y" }} ·
        {%- assign post_url_scheme = post.url | slice: 0, 8 -%}
+       {%- comment -%}
+       LinkedIn redirects logged out visitors to a signup wall for anything
+       published before 2018, so those links say so up front.
+       {%- endcomment -%}
+       {%- assign post_year_number = post_year | plus: 0 -%}
+       {%- assign link_label = "Read on LinkedIn" -%}
+       {%- if post_year_number < 2018 -%}
+       {%- assign link_label = "Read on LinkedIn (sign-in required)" -%}
+       {%- endif -%}
        {%- if post_url_scheme == "https://" %}
-       <a href="{{ post.url | escape }}" target="_blank" rel="noopener noreferrer" class="linkedin-post-link">Read on LinkedIn</a>
+       <a href="{{ post.url | escape }}" target="_blank" rel="noopener noreferrer" class="linkedin-post-link">{{ link_label }}</a>
        {%- else %}
-       Read on LinkedIn
+       {{ link_label }}
        {%- endif %}
        {%- if post.text_truncated %}
        · preview only, full text unavailable
