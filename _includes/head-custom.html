@@ -11,6 +11,9 @@ product down in 2023.
       crossorigin="anonymous"
       referrerpolicy="no-referrer">
 
+<!-- Styling for the LinkedIn archive pages, which cannot carry it inline -->
+<link rel="stylesheet" href="{{ "/assets/css/linkedin-archive.css" | relative_url }}">
+
 {%- if site.goatcounter %}
 <!-- Visitor counts. No cookies, so no consent banner is required. -->
 <script data-goatcounter="https://{{ site.goatcounter }}.goatcounter.com/count"

@@ -1,0 +1,161 @@
+/*
+Styling for the LinkedIn archive pages. It lives here rather than in the
+includes that render the markup for two reasons: the theme wraps page content
+in a section element, where a style element is not allowed, and each include
+emitted its rules again every time it was invoked.
+*/
+
+/* linkedin-nav.html: the filter strip above every archive page */
+.count-reposted { color: #4d6b8a; }
+/* Keeps the breakdown from pushing section headings onto a second
+   line on narrow screens. */
+.section-counts {
+  font-size: 0.68em;
+  font-weight: 400;
+  color: #6d6d6d;
+  white-space: nowrap;
+}
+.primary-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+  margin: 0 0 0.55em;
+}
+.primary-filters .list-filter {
+  display: inline-block;
+  padding: 0.34em 0.8em;
+  border: 1px solid #d7dde3;
+  border-radius: 999px;
+  background: #fff;
+  color: #4a5a6a;
+  font-size: 0.85em;
+  line-height: 1.35;
+  text-decoration: none;
+}
+.primary-filters .list-filter:hover {
+  border-color: #9fb0c1;
+  background: #f3f6f9;
+  text-decoration: none;
+}
+.primary-filters .list-filter.is-current {
+  background: #6b7f92;
+  border-color: #6b7f92;
+  color: #fff;
+  font-weight: 600;
+}
+
+/* linkedin-overview.html: the summary figures and the per year bars */
+.archive-overview {
+  margin: 1.2em 0 2em;
+}
+.archive-summary {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em 1.6em;
+  padding: 0.9em 0;
+  margin: 0 0 1.2em;
+  border-top: 1px solid #dcdcdc;
+  border-bottom: 1px solid #dcdcdc;
+  font-size: 0.85em;
+  color: #6d6d6d;
+}
+.archive-summary b {
+  display: block;
+  font-size: 1.6em;
+  line-height: 1.15;
+  color: #222;
+  font-weight: 600;
+}
+.year-bars {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.year-bars li {
+  display: flex;
+  align-items: center;
+  gap: 0.7em;
+  margin: 0.3em 0;
+  font-size: 0.82em;
+}
+.year-bars .year-label {
+  flex: 0 0 2.6em;
+  text-align: right;
+}
+.year-bars .bar-track {
+  flex: 1 1 auto;
+  min-width: 0;
+  height: 0.9em;
+  background: #eef1f4;
+  border-radius: 2px;
+  overflow: hidden;
+}
+.year-bars .bar-fill {
+  display: flex;
+  height: 100%;
+}
+.year-bars .seg-own {
+  background: #6b7f92;
+}
+.year-bars .seg-repost {
+  background: #c3d0dd;
+}
+.year-bars .year-figures {
+  flex: 0 0 auto;
+  min-width: 10.5em;
+  white-space: nowrap;
+  color: #6d6d6d;
+}
+.archive-key {
+  margin: 0.9em 0 0;
+  font-size: 0.8em;
+  color: #6d6d6d;
+}
+.archive-key i {
+  display: inline-block;
+  width: 0.75em;
+  height: 0.75em;
+  border-radius: 2px;
+  vertical-align: baseline;
+}
+.archive-key .k-own { background: #6b7f92; }
+.archive-key .k-repost { background: #c3d0dd; }
+
+/* linkedin-post-cards.html: the full post cards */
+.linkedin-posts-container .linkedin-post-card {
+  padding: 2.25em 0;
+  border-bottom: 1px solid #ccc;
+}
+.linkedin-posts-container .linkedin-post-card:last-child {
+  border-bottom: 0;
+}
+.linkedin-post-body {
+  line-height: 1.55;
+  margin-bottom: 0.9em;
+}
+.linkedin-post-author,
+.linkedin-post-description,
+.linkedin-post-stats {
+  font-size: 0.85em;
+  color: #6d6d6d;
+  margin: 0.3em 0 0 0;
+}
+.linkedin-post-author {
+  margin: 0 0 0.6em 0;
+  color: #4d6b8a;
+  font-weight: 600;
+}
+.linkedin-posts-container .linkedin-post-repost {
+  border-left: 3px solid #c3d0dd;
+  padding-left: 1.1em;
+  background: #fbfcfd;
+}
+
+/* linkedin-post-entries.html: the compact entries on the bucket pages */
+.post-list .tag-entry.repost {
+  border-left: 3px solid #c3d0dd;
+  padding-left: 0.75em;
+}
+.post-list .repost-note {
+  color: #4d6b8a;
+}

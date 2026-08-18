@@ -4,15 +4,6 @@ Renders the compact archive entries used by the engagement bucket pages.
   include.metric  "comments" puts the comment count first, otherwise reactions
                   come first, matching the page the entries were reached from
 {%- endcomment %}
-<style>
-.post-list .tag-entry.repost {
-  border-left: 3px solid #c3d0dd;
-  padding-left: 0.75em;
-}
-.post-list .repost-note {
-  color: #4d6b8a;
-}
-</style>
 <div class="post-list">
   {%- for post in include.posts %}
   <div class="tag-entry{% unless post.author.username == "williammilisic" %} repost{% endunless %}">
