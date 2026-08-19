@@ -14,6 +14,7 @@ import os
 import re
 import sys
 import tempfile
+import unicodedata
 
 DEFAULT_BOOKLIST_PATH = "booklist.md"
 DEFAULT_DATA_PATH = os.path.join("_data", "books.json")
@@ -36,10 +37,29 @@ DETAIL_LINE = re.compile(
 REVIEW_LINK = re.compile(r"\[(?P<label>[^\]]+)\]\((?P<url>[^)\s]+)")
 YEAR_HEADING = re.compile(r"^##\s*(?P<year>\d{4})\s*$")
 REREAD_NOTE = re.compile(r"re-?(read|listen)", re.I)
+NON_SLUG = re.compile(r"[^a-z0-9]+")
 
 
 class BookListError(Exception):
     pass
+
+
+def slugify(name):
+    """An anchor for an author heading. Accents are folded rather than dropped so
+    that two names differing only in accent do not collide."""
+    folded = unicodedata.normalize("NFKD", name)
+    ascii_only = "".join(character for character in folded if not unicodedata.combining(character))
+    return NON_SLUG.sub("-", ascii_only.lower()).strip("-")
+
+
+def review_url(entry):
+    """The first review link for an entry, if it is one a browser should follow.
+    booklist.md is hand written, so the scheme is checked here rather than
+    trusted in the template."""
+    for link in entry["links"]:
+        if link["url"].startswith("https://"):
+            return link["url"]
+    return ""
 
 
 def split_authors(author):
@@ -124,6 +144,37 @@ def summarise(entries):
 
     ordered_authors = sorted(authors.items(), key=lambda pair: (-pair[1], pair[0]))
     ordered_years = sorted(years.values(), key=lambda year: year["year"], reverse=True)
+
+    # Anyone read more than once gets their own section on the stats page, so
+    # their books travel with them rather than being gathered in the template.
+    top_authors = []
+    used_slugs = {}
+    for name, count in ordered_authors:
+        if count < 2:
+            continue
+        slug = slugify(name) or "author"
+        if slug in used_slugs:
+            used_slugs[slug] += 1
+            slug = "%s-%d" % (slug, used_slugs[slug])
+        else:
+            used_slugs[slug] = 1
+        written = [entry for entry in entries if name in entry["authors"]]
+        written.sort(key=lambda entry: (entry["year"], entry["title"]), reverse=True)
+        top_authors.append({
+            "name": name,
+            "count": count,
+            "slug": slug,
+            "books": [
+                {
+                    "title": entry["title"],
+                    "year": entry["year"],
+                    "note": entry["note"],
+                    "url": review_url(entry),
+                }
+                for entry in written
+            ],
+        })
+
     return {
         "total": len(entries),
         "reviewed": sum(1 for entry in entries if entry["reviewed"]),
@@ -133,9 +184,7 @@ def summarise(entries):
         "last_year": max(years) if years else "",
         "busiest_year": max(ordered_years, key=lambda year: year["total"])["total"] if years else 0,
         "years": ordered_years,
-        "top_authors": [
-            {"name": name, "count": count} for name, count in ordered_authors if count > 1
-        ],
+        "top_authors": top_authors,
     }
 
 

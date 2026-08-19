@@ -57,107 +57,599 @@
     "top_authors": [
       {
         "name": "Eric Ries",
-        "count": 5
+        "count": 5,
+        "slug": "eric-ries",
+        "books": [
+          {
+            "title": "Incorruptible",
+            "year": "2026",
+            "note": "",
+            "url": "https://www.linkedin.com/posts/williammilisic_ericries-incorruptible-leadership-activity-7490281462714339328-sMU-"
+          },
+          {
+            "title": "The Startup Way: How Modern Companies Use Entrepreneurial Management To Transform Culture & Drive Long Term Growth",
+            "year": "2024",
+            "note": "",
+            "url": "https://www.linkedin.com/posts/williammilisic_ericries-startupway-leanstartup-activity-7176293925748416512-MCd8"
+          },
+          {
+            "title": "The Leader's Guide",
+            "year": "2020",
+            "note": "",
+            "url": ""
+          },
+          {
+            "title": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+            "year": "2019",
+            "note": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:share:6582035918373310464"
+          },
+          {
+            "title": "The Lean Startup",
+            "year": "2019",
+            "note": "",
+            "url": ""
+          }
+        ]
       },
       {
         "name": "Eliyahu M. Goldratt",
-        "count": 4
+        "count": 4,
+        "slug": "eliyahu-m-goldratt",
+        "books": [
+          {
+            "title": "Critical Chain",
+            "year": "2024",
+            "note": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:share:7165960710802419713"
+          },
+          {
+            "title": "Critical Chain",
+            "year": "2024",
+            "note": "",
+            "url": "https://www.linkedin.com/posts/williammilisic_i-recently-finished-eliyahu-m-goldratts-activity-7165960713742622720-5pqM"
+          },
+          {
+            "title": "Beyond the Goal",
+            "year": "2022",
+            "note": "",
+            "url": ""
+          },
+          {
+            "title": "The Goal",
+            "year": "2020",
+            "note": "",
+            "url": ""
+          }
+        ]
       },
       {
         "name": "Gene Kim",
-        "count": 4
+        "count": 4,
+        "slug": "gene-kim",
+        "books": [
+          {
+            "title": "Beyond the Phoenix Project",
+            "year": "2020",
+            "note": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:6638587213485481984/"
+          },
+          {
+            "title": "The Unicorn Project",
+            "year": "2019",
+            "note": "",
+            "url": ""
+          },
+          {
+            "title": "The DevOps Handbook",
+            "year": "2019",
+            "note": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:6505578658042769408/"
+          },
+          {
+            "title": "Accelerate: Building and Scaling High Performing Technology Organizations",
+            "year": "2019",
+            "note": "",
+            "url": ""
+          }
+        ]
       },
       {
         "name": "Marty Cagan",
-        "count": 4
+        "count": 4,
+        "slug": "marty-cagan",
+        "books": [
+          {
+            "title": "Transformed",
+            "year": "2024",
+            "note": "",
+            "url": "https://www.linkedin.com/posts/williammilisic_productteams-collaboration-autonomy-activity-7262355232171454464-Sonf"
+          },
+          {
+            "title": "Empowered",
+            "year": "2021",
+            "note": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:6952392582052122624/"
+          },
+          {
+            "title": "Inspired",
+            "year": "2019",
+            "note": "",
+            "url": ""
+          },
+          {
+            "title": "INSPIRED: How to Create Tech Products Customers Love",
+            "year": "2019",
+            "note": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:share:6579432676569161728"
+          }
+        ]
       },
       {
         "name": "Robert C. Martin",
-        "count": 4
+        "count": 4,
+        "slug": "robert-c-martin",
+        "books": [
+          {
+            "title": "The Clean Coder",
+            "year": "2022",
+            "note": "",
+            "url": ""
+          },
+          {
+            "title": "Clean Agile",
+            "year": "2022",
+            "note": "",
+            "url": ""
+          },
+          {
+            "title": "Clean Code",
+            "year": "2021",
+            "note": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:6799088406610632705/"
+          },
+          {
+            "title": "Clean Architecture",
+            "year": "2021",
+            "note": "",
+            "url": ""
+          }
+        ]
       },
       {
         "name": "Gil Broza",
-        "count": 3
+        "count": 3,
+        "slug": "gil-broza",
+        "books": [
+          {
+            "title": "The Human Side of Agile",
+            "year": "2023",
+            "note": "re-listened",
+            "url": ""
+          },
+          {
+            "title": "The Human Side of Agile - How To Help Your Team Deliver",
+            "year": "2019",
+            "note": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:share:6607419861691879424"
+          },
+          {
+            "title": "The Agile Mind-set: Making Agile Processes Work",
+            "year": "2019",
+            "note": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:6533839233969377280/"
+          }
+        ]
       },
       {
         "name": "Jez Humble",
-        "count": 3
+        "count": 3,
+        "slug": "jez-humble",
+        "books": [
+          {
+            "title": "Lean Enterprise - How High Performance Organisations Innovate at Scale",
+            "year": "2023",
+            "note": "",
+            "url": "https://www.linkedin.com/posts/williammilisic_abookaday-continuouslearning-continuousimprovement-activity-7117744418941472768-X7ln"
+          },
+          {
+            "title": "The DevOps Handbook",
+            "year": "2019",
+            "note": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:6505578658042769408/"
+          },
+          {
+            "title": "Accelerate: Building and Scaling High Performing Technology Organizations",
+            "year": "2019",
+            "note": "",
+            "url": ""
+          }
+        ]
       },
       {
         "name": "Jim Collins",
-        "count": 3
+        "count": 3,
+        "slug": "jim-collins",
+        "books": [
+          {
+            "title": "How The Mighty Fall: And Why Some Companies Never Give Up",
+            "year": "2025",
+            "note": "",
+            "url": "https://www.linkedin.com/posts/williammilisic_jim-collins-nokia-activity-7290254807116750850-XseZ"
+          },
+          {
+            "title": "Good to Great",
+            "year": "2025",
+            "note": "",
+            "url": "https://www.linkedin.com/posts/williammilisic_life-leadership-personalgrowth-activity-7280852405280231424-ftkC"
+          },
+          {
+            "title": "Beyond Entrepreneurship 2.0",
+            "year": "2025",
+            "note": "",
+            "url": "https://www.linkedin.com/posts/williammilisic_jimcollins-beyondentrepreneurship-leadership-activity-7346614494229360640-J90I"
+          }
+        ]
       },
       {
         "name": "John Willis",
-        "count": 3
+        "count": 3,
+        "slug": "john-willis",
+        "books": [
+          {
+            "title": "Investments Unlimited",
+            "year": "2023",
+            "note": "",
+            "url": "https://www.linkedin.com/posts/williammilisic_investments-unlimited-it-revolution-activity-7052915404582625281-pVg7"
+          },
+          {
+            "title": "Beyond the Phoenix Project",
+            "year": "2020",
+            "note": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:6638587213485481984/"
+          },
+          {
+            "title": "The DevOps Handbook",
+            "year": "2019",
+            "note": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:6505578658042769408/"
+          }
+        ]
       },
       {
         "name": "L. David Marquet",
-        "count": 3
+        "count": 3,
+        "slug": "l-david-marquet",
+        "books": [
+          {
+            "title": "Leadership Is Language",
+            "year": "2020",
+            "note": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:share:6728816055340298240"
+          },
+          {
+            "title": "Leadership Is Language",
+            "year": "2020",
+            "note": "",
+            "url": ""
+          },
+          {
+            "title": "Turn the Ship Around!",
+            "year": "2018",
+            "note": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:6475734956021686272/"
+          }
+        ]
       },
       {
         "name": "Simon Sinek",
-        "count": 3
+        "count": 3,
+        "slug": "simon-sinek",
+        "books": [
+          {
+            "title": "The Infinite Game",
+            "year": "2024",
+            "note": "",
+            "url": "https://www.linkedin.com/posts/williammilisic_simon-sinek-simonsinek-activity-7219590614923849728-ODmZ"
+          },
+          {
+            "title": "Start with Why",
+            "year": "2018",
+            "note": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:6473100003257655297/"
+          },
+          {
+            "title": "Leaders Eat Last",
+            "year": "2018",
+            "note": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:6484763908937641984/"
+          }
+        ]
       },
       {
         "name": "Adam Grant",
-        "count": 2
+        "count": 2,
+        "slug": "adam-grant",
+        "books": [
+          {
+            "title": "Give and Take: Why Helping Others Drives Our Success",
+            "year": "2024",
+            "note": "",
+            "url": "https://www.linkedin.com/posts/williammilisic_give-and-take-why-helping-others-drives-activity-7238073568121520128-uIlw"
+          },
+          {
+            "title": "Think Again",
+            "year": "2021",
+            "note": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:6785696804471099392/"
+          }
+        ]
       },
       {
         "name": "Ben Horowitz",
-        "count": 2
+        "count": 2,
+        "slug": "ben-horowitz",
+        "books": [
+          {
+            "title": "What You Do Is Who You Are: How to Create Your Business Culture",
+            "year": "2023",
+            "note": "",
+            "url": "https://www.linkedin.com/posts/williammilisic_abookaday-continuouslearning-continuousimprovement-activity-7117744418941472768-X7ln"
+          },
+          {
+            "title": "The Hard Thing About Hard Things",
+            "year": "2023",
+            "note": "",
+            "url": "https://www.linkedin.com/posts/williammilisic_horowitz-hardthingabouthardthings-bookreview-activity-7100754841571909632-wZR1"
+          }
+        ]
       },
       {
         "name": "Greg McKeown",
-        "count": 2
+        "count": 2,
+        "slug": "greg-mckeown",
+        "books": [
+          {
+            "title": "Essentialism: The Disciplined Pursuit of Less",
+            "year": "2025",
+            "note": "",
+            "url": "https://www.linkedin.com/posts/williammilisic_essentialism-productivity-focus-activity-7340449271294353410-f0ab"
+          },
+          {
+            "title": "Effortless",
+            "year": "2025",
+            "note": "",
+            "url": "https://www.linkedin.com/posts/williammilisic_effortless-productivity-timemanagement-activity-7360545035324469248-DPZL"
+          }
+        ]
       },
       {
         "name": "Gregor Hohpe",
-        "count": 2
+        "count": 2,
+        "slug": "gregor-hohpe",
+        "books": [
+          {
+            "title": "Platform Strategy",
+            "year": "2026",
+            "note": "",
+            "url": "https://www.linkedin.com/posts/williammilisic_platformengineering-gregorhohpe-devops-activity-7448603915950149632-K-Hm"
+          },
+          {
+            "title": "Cloud Strategy: A Decision-Based Approach to Successful Cloud Migration",
+            "year": "2025",
+            "note": "",
+            "url": "https://www.linkedin.com/posts/williammilisic_cloudstrategy-cloudmigration-digitaltransformation-activity-7345519223445622785-_2d2"
+          }
+        ]
       },
       {
         "name": "Hans Rosling",
-        "count": 2
+        "count": 2,
+        "slug": "hans-rosling",
+        "books": [
+          {
+            "title": "How I Learned to Understand the World",
+            "year": "2024",
+            "note": "",
+            "url": "https://www.linkedin.com/posts/williammilisic_cultures-nations-religions-and-people-activity-7168854993356230656-UZ9h"
+          },
+          {
+            "title": "Factfulness: An Essential Guide to Seeing the World Clearly",
+            "year": "2024",
+            "note": "",
+            "url": "https://www.linkedin.com/posts/williammilisic_rosling-factfulness-systematicthinking-activity-7189133187694948352-JGb0"
+          }
+        ]
       },
       {
         "name": "Jeff Lawson",
-        "count": 2
+        "count": 2,
+        "slug": "jeff-lawson",
+        "books": [
+          {
+            "title": "Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century",
+            "year": "2021",
+            "note": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:share:6780847041657495552"
+          },
+          {
+            "title": "Ask Your Developer",
+            "year": "2021",
+            "note": "",
+            "url": ""
+          }
+        ]
       },
       {
         "name": "Kim Scott",
-        "count": 2
+        "count": 2,
+        "slug": "kim-scott",
+        "books": [
+          {
+            "title": "Radical Candor",
+            "year": "2019",
+            "note": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:share:6522216618875977729"
+          },
+          {
+            "title": "Radical Candor",
+            "year": "2019",
+            "note": "",
+            "url": ""
+          }
+        ]
       },
       {
         "name": "Mark Richards",
-        "count": 2
+        "count": 2,
+        "slug": "mark-richards",
+        "books": [
+          {
+            "title": "Fundamentals of Software Architecture: An Engineering Approach",
+            "year": "2024",
+            "note": "reread",
+            "url": "https://www.linkedin.com/posts/williammilisic_softwaredevelopment-softwareengineering-softwarearchitecture-activity-7151150319362605057-wU3y"
+          },
+          {
+            "title": "Fundamentals of Software Architecture",
+            "year": "2023",
+            "note": "",
+            "url": "https://www.linkedin.com/posts/williammilisic_software-engineering-architecture-activity-7039327062771281920-4sbC"
+          }
+        ]
       },
       {
         "name": "Mark Schwartz",
-        "count": 2
+        "count": 2,
+        "slug": "mark-schwartz",
+        "books": [
+          {
+            "title": "The Delicate Art of Bureaucracy",
+            "year": "2021",
+            "note": "",
+            "url": ""
+          },
+          {
+            "title": "A Seat at the Table",
+            "year": "2019",
+            "note": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:6509425285497122816/"
+          }
+        ]
       },
       {
         "name": "Mike Rother",
-        "count": 2
+        "count": 2,
+        "slug": "mike-rother",
+        "books": [
+          {
+            "title": "Toyota Kata",
+            "year": "2019",
+            "note": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:share:6516099101325557760"
+          },
+          {
+            "title": "Toyota Kata",
+            "year": "2019",
+            "note": "",
+            "url": ""
+          }
+        ]
       },
       {
         "name": "Neal Ford",
-        "count": 2
+        "count": 2,
+        "slug": "neal-ford",
+        "books": [
+          {
+            "title": "Fundamentals of Software Architecture: An Engineering Approach",
+            "year": "2024",
+            "note": "reread",
+            "url": "https://www.linkedin.com/posts/williammilisic_softwaredevelopment-softwareengineering-softwarearchitecture-activity-7151150319362605057-wU3y"
+          },
+          {
+            "title": "Fundamentals of Software Architecture",
+            "year": "2023",
+            "note": "",
+            "url": "https://www.linkedin.com/posts/williammilisic_software-engineering-architecture-activity-7039327062771281920-4sbC"
+          }
+        ]
       },
       {
         "name": "Risto Siilasmaa",
-        "count": 2
+        "count": 2,
+        "slug": "risto-siilasmaa",
+        "books": [
+          {
+            "title": "Transforming Nokia",
+            "year": "2020",
+            "note": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:share:6625894424549302272"
+          },
+          {
+            "title": "Transforming Nokia",
+            "year": "2020",
+            "note": "",
+            "url": ""
+          }
+        ]
       },
       {
         "name": "Ryan Holiday",
-        "count": 2
+        "count": 2,
+        "slug": "ryan-holiday",
+        "books": [
+          {
+            "title": "The Obstacle Is the Way",
+            "year": "2020",
+            "note": "",
+            "url": ""
+          },
+          {
+            "title": "Ego Is the Enemy",
+            "year": "2020",
+            "note": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:6677342714561908736/"
+          }
+        ]
       },
       {
         "name": "Sam Newman",
-        "count": 2
+        "count": 2,
+        "slug": "sam-newman",
+        "books": [
+          {
+            "title": "Building Microservices",
+            "year": "2022",
+            "note": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:6935363363300380673/"
+          },
+          {
+            "title": "Monolith to Microservices",
+            "year": "2021",
+            "note": "",
+            "url": ""
+          }
+        ]
       },
       {
         "name": "Simon Lancaster",
-        "count": 2
+        "count": 2,
+        "slug": "simon-lancaster",
+        "books": [
+          {
+            "title": "Connect: How to Inspire, Influence and Energise Anyone, Anywhere, Anytime",
+            "year": "2024",
+            "note": "",
+            "url": "https://www.linkedin.com/posts/williammilisic_bookreview-leadership-communication-activity-7156911212302086144-5dP8"
+          },
+          {
+            "title": "Winning Minds: Secrets From the Language of Leadership",
+            "year": "2023",
+            "note": "",
+            "url": "https://www.linkedin.com/posts/williammilisic_bookreview-continuouslearning-activity-7145789431029948416-SwIk"
+          }
+        ]
       }
     ]
   },

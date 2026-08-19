@@ -41,9 +41,30 @@ edited without the data being rebuilt.
   <h2 class="overview-heading">Authors read more than once</h2>
   <ul class="author-tally">
     {%- for author in summary.top_authors %}
-    <li><span class="tally-count">{{ author.count }}</span> {{ author.name | escape }}</li>
+    <li><a href="#author-{{ author.slug }}"><span class="tally-count">{{ author.count }}</span> {{ author.name | escape }}</a></li>
     {%- endfor %}
   </ul>
+  <div class="author-books">
+    {%- for author in summary.top_authors %}
+    <h3 id="author-{{ author.slug }}">{{ author.name | escape }} <span class="author-count">{{ author.count }} books</span></h3>
+    <ul>
+      {%- for book in author.books %}
+      <li>
+        {%- comment -%}
+        The url is filtered down to an https review link when the data is built,
+        so anything left here is safe to hang a href on.
+        {%- endcomment -%}
+        {%- if book.url != "" %}
+        <a href="{{ book.url | escape }}" target="_blank" rel="noopener noreferrer">{{ book.title | escape }}</a>
+        {%- else %}
+        {{ book.title | escape }}
+        {%- endif %}
+        <span class="book-year">{{ book.year }}{% if book.note != "" %}, {{ book.note | escape }}{% endif %}{% if book.url == "" %}, no review{% endif %}</span>
+      </li>
+      {%- endfor %}
+    </ul>
+    {%- endfor %}
+  </div>
   {%- endif %}
 </div>
 {%- endif -%}

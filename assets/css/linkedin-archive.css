@@ -138,6 +138,9 @@ and each include emitted its rules again every time it was invoked.
 }
 .author-tally li {
   display: flex;
+}
+.author-tally a {
+  display: flex;
   align-items: baseline;
   gap: 0.45em;
   padding: 0.28em 0.7em 0.28em 0.4em;
@@ -145,6 +148,12 @@ and each include emitted its rules again every time it was invoked.
   border-radius: 999px;
   background: #fff;
   color: #4a5a6a;
+  text-decoration: none;
+}
+.author-tally a:hover {
+  border-color: #9fb0c1;
+  background: #f3f6f9;
+  text-decoration: none;
 }
 .author-tally .tally-count {
   display: inline-block;
@@ -156,6 +165,35 @@ and each include emitted its rules again every time it was invoked.
   font-size: 0.85em;
   font-weight: 600;
   text-align: center;
+}
+
+/* book-overview.html: what each repeated author was read for */
+.author-books {
+  margin: 1.6em 0 0;
+}
+.author-books h3 {
+  margin: 1.3em 0 0.35em;
+  font-size: 1em;
+  /* An anchored heading otherwise lands underneath the top of the window. */
+  scroll-margin-top: 1em;
+}
+.author-books .author-count {
+  font-size: 0.78em;
+  font-weight: 400;
+  color: #6d6d6d;
+}
+.author-books ul {
+  margin: 0;
+  padding-left: 1.2em;
+  font-size: 0.9em;
+}
+.author-books li {
+  margin: 0.15em 0;
+}
+.author-books .book-year {
+  color: #6d6d6d;
+  font-size: 0.85em;
+  white-space: nowrap;
 }
 
 /* linkedin-post-cards.html: the full post cards */
