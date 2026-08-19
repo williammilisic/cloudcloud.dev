@@ -1,0 +1,49 @@
+{%- comment -%}
+Overview of the books list. Every figure comes from _data/books.json, which is
+derived from booklist.md itself, so the two can only disagree if that file was
+edited without the data being rebuilt.
+{%- endcomment -%}
+{%- assign summary = site.data.books.summary -%}
+{%- if summary == nil -%}
+<p>The figures are rebuilt from the books list and are not available right now.</p>
+{%- else -%}
+<div class="archive-overview">
+  <div class="archive-summary">
+    <span><b>{{ summary.total }}</b> books</span>
+    <span><b>{{ summary.authors }}</b> authors</span>
+    <span><b>{{ summary.reviewed }}</b> with a review</span>
+    <span><b>{{ summary.first_year }}&ndash;{{ summary.last_year }}</b> covered</span>
+  </div>
+  <ul class="year-bars">
+    {%- for year in summary.years %}
+    {%- assign bar_width = year.total | times: 100 | divided_by: summary.busiest_year -%}
+    {%- assign reviewed_share = year.reviewed | times: 100 | divided_by: year.total -%}
+    <li>
+      <a class="year-label" href="{{ '/booklist.html' | relative_url }}#{{ year.year }}">{{ year.year }}</a>
+      <span class="bar-track">
+        <span class="bar-fill" style="width: {{ bar_width }}%">
+          <span class="seg-own" style="width: {{ reviewed_share }}%"></span>
+          <span class="seg-repost" style="width: {{ 100 | minus: reviewed_share }}%"></span>
+        </span>
+      </span>
+      <span class="year-figures">
+        {{ year.total }} books
+        {%- assign year_plain = year.total | minus: year.reviewed -%}
+        {%- if year_plain > 0 %}, {{ year_plain }} unreviewed{%- endif -%}
+      </span>
+    </li>
+    {%- endfor %}
+  </ul>
+  <p class="archive-key">
+    <i class="k-own"></i> written up on LinkedIn &nbsp; <i class="k-repost"></i> read but never written up
+  </p>
+  {%- if summary.top_authors.size > 0 %}
+  <h2 class="overview-heading">Authors read more than once</h2>
+  <ul class="author-tally">
+    {%- for author in summary.top_authors %}
+    <li><span class="tally-count">{{ author.count }}</span> {{ author.name | escape }}</li>
+    {%- endfor %}
+  </ul>
+  {%- endif %}
+</div>
+{%- endif -%}

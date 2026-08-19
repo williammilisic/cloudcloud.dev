@@ -1,0 +1,47 @@
+name: Refresh Book Stats
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - booklist.md
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-book-stats
+  cancel-in-progress: false
+
+# The nightly sync rebuilds the figures itself, in the same commit that changes
+# booklist.md, because a push made with the workflow token never starts another
+# workflow run. This one is here for the case that leaves behind: booklist.md
+# edited by hand, where nothing else would rebuild them.
+jobs:
+  refresh-book-stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+
+      - name: Set up Python
+        uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
+        with:
+          python-version: '3.11'
+
+      - name: Rebuild the books figures
+        run: python scripts/build_book_stats.py
+
+      - name: Commit the rebuilt figures
+        run: |
+          if [ -z "$(git status --porcelain -- _data/books.json)" ]; then
+            echo "The figures already matched booklist.md"
+            exit 0
+          fi
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add _data/books.json
+          git commit -m "Rebuild the books figures $(date -u +'%Y-%m-%d')"
+          git push

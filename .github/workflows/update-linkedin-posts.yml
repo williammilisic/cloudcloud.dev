@@ -64,11 +64,17 @@ jobs:
         run: |
           python scripts/update_booklist.py
 
+      # The books figures are derived from booklist.md, so they are rebuilt in
+      # the same commit that changes it and cannot drift out of step with it.
+      - name: Rebuild the books figures
+        run: |
+          python scripts/build_book_stats.py
+
       - name: Commit and push changes if any
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add _data/linkedin-posts.json booklist.md
+          git add _data/linkedin-posts.json booklist.md _data/books.json
           if [ -n "$(git status --porcelain)" ]; then
             git commit -m "Update LinkedIn posts and booklist.md $(date -u +'%Y-%m-%d')"
             git push

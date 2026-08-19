@@ -1,6 +1,6 @@
 # cloudcloud.dev books list
 
-Back to [main](index.md).
+Back to [main](index.md) &middot; see the list [in numbers](bookstats.md).
 
 <br/>
 ## 2026
@@ -272,7 +272,7 @@ Back to [main](index.md).
 <br/>By: Risto Siilasmaa<br/>January 2020 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:share:6625894424549302272)
 
 * **Leadership Is Language**
-<br/>By: David L. Marquet<br/>November 2020 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:share:6728816055340298240)
+<br/>By: L. David Marquet<br/>November 2020 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:share:6728816055340298240)
 
 * **Leadership Is Language**
 <br/>By:  L. David Marquet <br/>August 2020
@@ -311,7 +311,7 @@ Back to [main](index.md).
 <br/>By: James P. Womack and Daniel T. Jones<br/>May 2019 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:share:6530309882158022656)
 
 * **Continuous Delivery with Spinnaker**
-<br/>By: Netflix and Google engineers<br/>June 2019 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:share:6549410560767778816)
+<br/>By: Emily Burns, Asher Feldman, Rob Fletcher, Tomas Lin, Justin Reynolds, Chris Sanden, Lars Wander & Rob Zienert<br/>June 2019 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:share:6549410560767778816)
 
 * **INSPIRED: How to Create Tech Products Customers Love**
 <br/>By: Marty Cagan<br/>September 2019 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:share:6579432676569161728)

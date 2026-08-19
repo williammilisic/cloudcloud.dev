@@ -3,7 +3,7 @@ layout: default
 title: cloudcloud.dev
 ---
 # cloudcloud.dev
-[RSS]({{ '/feed.xml' | relative_url }}) | [LinkedIn posts]({{ '/linkedin/' | relative_url }}) | [Books List](booklist.md) | [Podcasts List](podcastlist.md) | [LinkedIn profile](https://linkedin.com/in/williammilisic)
+[RSS]({{ '/feed.xml' | relative_url }}) | [LinkedIn posts]({{ '/linkedin/' | relative_url }}) | [Books List](booklist.md) | [Books in numbers](bookstats.md) | [Podcasts List](podcastlist.md) | [LinkedIn profile](https://linkedin.com/in/williammilisic)
 
 > Cloud Cloud Dot Dev is about things, topics and aha-moments I encounter on a daily basis that I think may be interesting for saving and that also may be interesting for others to learn about or discover.
 <br/>

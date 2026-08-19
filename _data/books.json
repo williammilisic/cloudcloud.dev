@@ -1,0 +1,2355 @@
+{
+  "summary": {
+    "total": 121,
+    "reviewed": 88,
+    "rereads": 2,
+    "authors": 125,
+    "first_year": "2018",
+    "last_year": "2026",
+    "busiest_year": 26,
+    "years": [
+      {
+        "year": "2026",
+        "total": 13,
+        "reviewed": 13
+      },
+      {
+        "year": "2025",
+        "total": 13,
+        "reviewed": 13
+      },
+      {
+        "year": "2024",
+        "total": 19,
+        "reviewed": 19
+      },
+      {
+        "year": "2023",
+        "total": 14,
+        "reviewed": 12
+      },
+      {
+        "year": "2022",
+        "total": 9,
+        "reviewed": 2
+      },
+      {
+        "year": "2021",
+        "total": 14,
+        "reviewed": 6
+      },
+      {
+        "year": "2020",
+        "total": 9,
+        "reviewed": 4
+      },
+      {
+        "year": "2019",
+        "total": 26,
+        "reviewed": 16
+      },
+      {
+        "year": "2018",
+        "total": 4,
+        "reviewed": 3
+      }
+    ],
+    "top_authors": [
+      {
+        "name": "Eric Ries",
+        "count": 5
+      },
+      {
+        "name": "Eliyahu M. Goldratt",
+        "count": 4
+      },
+      {
+        "name": "Gene Kim",
+        "count": 4
+      },
+      {
+        "name": "Marty Cagan",
+        "count": 4
+      },
+      {
+        "name": "Robert C. Martin",
+        "count": 4
+      },
+      {
+        "name": "Gil Broza",
+        "count": 3
+      },
+      {
+        "name": "Jez Humble",
+        "count": 3
+      },
+      {
+        "name": "Jim Collins",
+        "count": 3
+      },
+      {
+        "name": "John Willis",
+        "count": 3
+      },
+      {
+        "name": "L. David Marquet",
+        "count": 3
+      },
+      {
+        "name": "Simon Sinek",
+        "count": 3
+      },
+      {
+        "name": "Adam Grant",
+        "count": 2
+      },
+      {
+        "name": "Ben Horowitz",
+        "count": 2
+      },
+      {
+        "name": "Greg McKeown",
+        "count": 2
+      },
+      {
+        "name": "Gregor Hohpe",
+        "count": 2
+      },
+      {
+        "name": "Hans Rosling",
+        "count": 2
+      },
+      {
+        "name": "Jeff Lawson",
+        "count": 2
+      },
+      {
+        "name": "Kim Scott",
+        "count": 2
+      },
+      {
+        "name": "Mark Richards",
+        "count": 2
+      },
+      {
+        "name": "Mark Schwartz",
+        "count": 2
+      },
+      {
+        "name": "Mike Rother",
+        "count": 2
+      },
+      {
+        "name": "Neal Ford",
+        "count": 2
+      },
+      {
+        "name": "Risto Siilasmaa",
+        "count": 2
+      },
+      {
+        "name": "Ryan Holiday",
+        "count": 2
+      },
+      {
+        "name": "Sam Newman",
+        "count": 2
+      },
+      {
+        "name": "Simon Lancaster",
+        "count": 2
+      }
+    ]
+  },
+  "books": [
+    {
+      "title": "Incorruptible",
+      "author": "Eric Ries",
+      "authors": [
+        "Eric Ries"
+      ],
+      "month": "August",
+      "year": "2026",
+      "section_year": "2026",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_ericries-incorruptible-leadership-activity-7490281462714339328-sMU-"
+        }
+      ]
+    },
+    {
+      "title": "Nexus",
+      "author": "Yuval Noah Harari",
+      "authors": [
+        "Yuval Noah Harari"
+      ],
+      "month": "June",
+      "year": "2026",
+      "section_year": "2026",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_nexus-yuvalnoahharari-bookreview-activity-7469614150122606592-4mAe"
+        }
+      ]
+    },
+    {
+      "title": "Project Hail Mary",
+      "author": "Andy Weir",
+      "authors": [
+        "Andy Weir"
+      ],
+      "month": "May",
+      "year": "2026",
+      "section_year": "2026",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_projecthailmary-scifi-bookreview-activity-7457290621867945984-H0yW"
+        }
+      ]
+    },
+    {
+      "title": "Platform Strategy",
+      "author": "Gregor Hohpe",
+      "authors": [
+        "Gregor Hohpe"
+      ],
+      "month": "April",
+      "year": "2026",
+      "section_year": "2026",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_platformengineering-gregorhohpe-devops-activity-7448603915950149632-K-Hm"
+        }
+      ]
+    },
+    {
+      "title": "We",
+      "author": "Yevgeny Zamyatin",
+      "authors": [
+        "Yevgeny Zamyatin"
+      ],
+      "month": "March",
+      "year": "2026",
+      "section_year": "2026",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_bookreview-webyzamyatin-dystopianfiction-activity-7444668486645309440-IJP-"
+        }
+      ]
+    },
+    {
+      "title": "The Metamorphosis",
+      "author": "Franz Kafka",
+      "authors": [
+        "Franz Kafka"
+      ],
+      "month": "March",
+      "year": "2026",
+      "section_year": "2026",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_franzkafka-themetamorphosis-dieverwandlung-activity-7441740584459075584-CaWt"
+        }
+      ]
+    },
+    {
+      "title": "Autocracy Inc. - The Dictators who want to run the World",
+      "author": "Anne Applebaum",
+      "authors": [
+        "Anne Applebaum"
+      ],
+      "month": "March",
+      "year": "2026",
+      "section_year": "2026",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_autocracyinc-anneapplebaum-democracy-activity-7439589191828557824-fBw2"
+        }
+      ]
+    },
+    {
+      "title": "The Machine Stops",
+      "author": "E. M. Forster",
+      "authors": [
+        "E. M. Forster"
+      ],
+      "month": "March",
+      "year": "2026",
+      "section_year": "2026",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_that-moment-the-wi-fi-drops-and-you-feel-activity-7437747287801475072-VymC"
+        }
+      ]
+    },
+    {
+      "title": "Think Faster, Talk Smarter",
+      "author": "Matt Abrahams",
+      "authors": [
+        "Matt Abrahams"
+      ],
+      "month": "February",
+      "year": "2026",
+      "section_year": "2026",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_thinkfasttalksmart-communication-publicspeaking-activity-7437032884084924416-dPvz"
+        }
+      ]
+    },
+    {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "authors": [
+        "Aldous Huxley"
+      ],
+      "month": "February",
+      "year": "2026",
+      "section_year": "2026",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_bravenewworld-activity-7424336192655175680-qUy_"
+        }
+      ]
+    },
+    {
+      "title": "Playing to Win - How Strategy Really Works",
+      "author": "A.G. Lafley & Roger L. Martin",
+      "authors": [
+        "A.G. Lafley",
+        "Roger L. Martin"
+      ],
+      "month": "February",
+      "year": "2026",
+      "section_year": "2026",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_strategy-bookreview-playingtowin-activity-7421796603151360000-6HUL"
+        }
+      ]
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "authors": [
+        "George Orwell"
+      ],
+      "month": "January",
+      "year": "2026",
+      "section_year": "2026",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_orwell-nineteeneightyfour-dystopia-activity-7419263304646406144-iYzT"
+        }
+      ]
+    },
+    {
+      "title": "Chip War - The Fight For The World's Most Critical Technology",
+      "author": "Chris Miller",
+      "authors": [
+        "Chris Miller"
+      ],
+      "month": "January",
+      "year": "2026",
+      "section_year": "2026",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_chipwar-semiconductors-geopolitics-activity-7413835591911559168-ml2F"
+        }
+      ]
+    },
+    {
+      "title": "The Let Them Theory",
+      "author": "Mel Robbins",
+      "authors": [
+        "Mel Robbins"
+      ],
+      "month": "December",
+      "year": "2025",
+      "section_year": "2025",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_theletthemtheory-melrobbins-personaldevelopment-activity-7401507751220355074-5KrY"
+        }
+      ]
+    },
+    {
+      "title": "The 5 Types of Wealth",
+      "author": "Sahil Bloom",
+      "authors": [
+        "Sahil Bloom"
+      ],
+      "month": "October",
+      "year": "2025",
+      "section_year": "2025",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_bookreview-the5typesofwealth-sahilbloom-activity-7386992090184040448-HmNr"
+        }
+      ]
+    },
+    {
+      "title": "7 Rules of Power",
+      "author": "Jeffrey Pfeffer",
+      "authors": [
+        "Jeffrey Pfeffer"
+      ],
+      "month": "October",
+      "year": "2025",
+      "section_year": "2025",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_7rulesofpower-jeffreypfeffer-bookreview-activity-7380836829937418242-FQok"
+        }
+      ]
+    },
+    {
+      "title": "Do Androids Dream of Electric Sheep?",
+      "author": "Philip K. Dick",
+      "authors": [
+        "Philip K. Dick"
+      ],
+      "month": "October",
+      "year": "2025",
+      "section_year": "2025",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_doandroidsdreamofelectricsheep-bladerunner-activity-7379119801639616512-x3oc"
+        }
+      ]
+    },
+    {
+      "title": "Assault on Intelligence: American National Security in an Age of Lies",
+      "author": "General Michael V. Hayden",
+      "authors": [
+        "General Michael V. Hayden"
+      ],
+      "month": "September",
+      "year": "2025",
+      "section_year": "2025",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_bookreview-nationalsecurity-intelligence-activity-7373943483843309568-2o9S"
+        }
+      ]
+    },
+    {
+      "title": "High on Life",
+      "author": "David JP Philips",
+      "authors": [
+        "David JP Philips"
+      ],
+      "month": "August",
+      "year": "2025",
+      "section_year": "2025",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_personaldevelopment-selfleadership-hormones-activity-7367061833305772032-tOM0"
+        }
+      ]
+    },
+    {
+      "title": "Effortless",
+      "author": "Greg McKeown",
+      "authors": [
+        "Greg McKeown"
+      ],
+      "month": "August",
+      "year": "2025",
+      "section_year": "2025",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_effortless-productivity-timemanagement-activity-7360545035324469248-DPZL"
+        }
+      ]
+    },
+    {
+      "title": "Beyond Entrepreneurship 2.0",
+      "author": "Jim Collins",
+      "authors": [
+        "Jim Collins"
+      ],
+      "month": "July",
+      "year": "2025",
+      "section_year": "2025",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_jimcollins-beyondentrepreneurship-leadership-activity-7346614494229360640-J90I"
+        }
+      ]
+    },
+    {
+      "title": "Cloud Strategy: A Decision-Based Approach to Successful Cloud Migration",
+      "author": "Gregor Hohpe",
+      "authors": [
+        "Gregor Hohpe"
+      ],
+      "month": "June",
+      "year": "2025",
+      "section_year": "2025",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_cloudstrategy-cloudmigration-digitaltransformation-activity-7345519223445622785-_2d2"
+        }
+      ]
+    },
+    {
+      "title": "Essentialism: The Disciplined Pursuit of Less",
+      "author": "Greg McKeown",
+      "authors": [
+        "Greg McKeown"
+      ],
+      "month": "June",
+      "year": "2025",
+      "section_year": "2025",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_essentialism-productivity-focus-activity-7340449271294353410-f0ab"
+        }
+      ]
+    },
+    {
+      "title": "How The Mighty Fall: And Why Some Companies Never Give Up",
+      "author": "Jim Collins",
+      "authors": [
+        "Jim Collins"
+      ],
+      "month": "January",
+      "year": "2025",
+      "section_year": "2025",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_jim-collins-nokia-activity-7290254807116750850-XseZ"
+        }
+      ]
+    },
+    {
+      "title": "The Software Engineer's Guidebook",
+      "author": "Gergely Orosz",
+      "authors": [
+        "Gergely Orosz"
+      ],
+      "month": "January",
+      "year": "2025",
+      "section_year": "2025",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_guidebook-engineer-ceo-activity-7286989443196948480-4oqZ"
+        }
+      ]
+    },
+    {
+      "title": "Good to Great",
+      "author": "Jim Collins",
+      "authors": [
+        "Jim Collins"
+      ],
+      "month": "January",
+      "year": "2025",
+      "section_year": "2025",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_life-leadership-personalgrowth-activity-7280852405280231424-ftkC"
+        }
+      ]
+    },
+    {
+      "title": "Critical Chain",
+      "author": "Eliyahu M. Goldratt",
+      "authors": [
+        "Eliyahu M. Goldratt"
+      ],
+      "month": "February",
+      "year": "2024",
+      "section_year": "2024",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/feed/update/urn:li:share:7165960710802419713"
+        }
+      ]
+    },
+    {
+      "title": "Flow Engineering",
+      "author": "Steve Pereira & Andrew Davis",
+      "authors": [
+        "Steve Pereira",
+        "Andrew Davis"
+      ],
+      "month": "December",
+      "year": "2024",
+      "section_year": "2024",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_recently-i-had-the-chance-to-listen-to-the-activity-7275399028127731712-sCiO"
+        }
+      ]
+    },
+    {
+      "title": "The Fifth Discipline: The Art and Practice of the Learning Organization",
+      "author": "Peter Senge",
+      "authors": [
+        "Peter Senge"
+      ],
+      "month": "November",
+      "year": "2024",
+      "section_year": "2024",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_continuouslearning-innovation-adaptability-activity-7270157546701684736-29AJ"
+        }
+      ]
+    },
+    {
+      "title": "Transformed",
+      "author": "Marty Cagan",
+      "authors": [
+        "Marty Cagan"
+      ],
+      "month": "October",
+      "year": "2024",
+      "section_year": "2024",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_productteams-collaboration-autonomy-activity-7262355232171454464-Sonf"
+        }
+      ]
+    },
+    {
+      "title": "This is Marketing",
+      "author": "Seth Godin",
+      "authors": [
+        "Seth Godin"
+      ],
+      "month": "September",
+      "year": "2024",
+      "section_year": "2024",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_recently-i-finished-listening-seth-godin-activity-7247838137287135232-a9Np"
+        }
+      ]
+    },
+    {
+      "title": "Give and Take: Why Helping Others Drives Our Success",
+      "author": "Adam Grant",
+      "authors": [
+        "Adam Grant"
+      ],
+      "month": "September",
+      "year": "2024",
+      "section_year": "2024",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_give-and-take-why-helping-others-drives-activity-7238073568121520128-uIlw"
+        }
+      ]
+    },
+    {
+      "title": "The Infinite Game",
+      "author": "Simon Sinek",
+      "authors": [
+        "Simon Sinek"
+      ],
+      "month": "August",
+      "year": "2024",
+      "section_year": "2024",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_simon-sinek-simonsinek-activity-7219590614923849728-ODmZ"
+        }
+      ]
+    },
+    {
+      "title": "The Toyota Way to Lean Leadership",
+      "author": "Jeffrey K. Liker & Gary L. Convis",
+      "authors": [
+        "Jeffrey K. Liker",
+        "Gary L. Convis"
+      ],
+      "month": "July",
+      "year": "2024",
+      "section_year": "2024",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_kaizen-activity-7216316432370782214-QQsj"
+        }
+      ]
+    },
+    {
+      "title": "Technofeudalism: What Killed Capitalism",
+      "author": "Yanis Varoufakis",
+      "authors": [
+        "Yanis Varoufakis"
+      ],
+      "month": "June",
+      "year": "2024",
+      "section_year": "2024",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_bookreview-technofeudalism-yanisvaroufakis-activity-7205086444900564992-nPLi"
+        }
+      ]
+    },
+    {
+      "title": "The Five Most Important Questions You Will Ever Ask About Your Organization",
+      "author": "Peter F. Drucker",
+      "authors": [
+        "Peter F. Drucker"
+      ],
+      "month": "June",
+      "year": "2024",
+      "section_year": "2024",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_bookreview-audiobook-drucker-activity-7202564517153640448-lWJ9"
+        }
+      ]
+    },
+    {
+      "title": "Supercommunicators",
+      "author": "Charless Duhigg",
+      "authors": [
+        "Charless Duhigg"
+      ],
+      "month": "June",
+      "year": "2024",
+      "section_year": "2024",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_bookreview-abookaday-activity-7201089579439779842-fixi"
+        }
+      ]
+    },
+    {
+      "title": "Escaping the Build Trap",
+      "author": "Melissa Perri",
+      "authors": [
+        "Melissa Perri"
+      ],
+      "month": "May",
+      "year": "2024",
+      "section_year": "2024",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_productmanagement-productleadership-buildtrap-activity-7192027686431551488-oXb7"
+        }
+      ]
+    },
+    {
+      "title": "Factfulness: An Essential Guide to Seeing the World Clearly",
+      "author": "Hans Rosling, Ola Rosling, Anna Rosling Rönnlund",
+      "authors": [
+        "Hans Rosling",
+        "Ola Rosling",
+        "Anna Rosling Rönnlund"
+      ],
+      "month": "April",
+      "year": "2024",
+      "section_year": "2024",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_rosling-factfulness-systematicthinking-activity-7189133187694948352-JGb0"
+        }
+      ]
+    },
+    {
+      "title": "Empireworld: How British Imperialism Has Shaped The Globe",
+      "author": "Sathnam Sanghera",
+      "authors": [
+        "Sathnam Sanghera"
+      ],
+      "month": "March",
+      "year": "2024",
+      "section_year": "2024",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_empireworld-empireland-bookreview-activity-7179749258466648064-n4Vl"
+        }
+      ]
+    },
+    {
+      "title": "The Startup Way: How Modern Companies Use Entrepreneurial Management To Transform Culture & Drive Long Term Growth",
+      "author": "Eric Ries",
+      "authors": [
+        "Eric Ries"
+      ],
+      "month": "March",
+      "year": "2024",
+      "section_year": "2024",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_ericries-startupway-leanstartup-activity-7176293925748416512-MCd8"
+        }
+      ]
+    },
+    {
+      "title": "How I Learned to Understand the World",
+      "author": "Hans Rosling",
+      "authors": [
+        "Hans Rosling"
+      ],
+      "month": "February",
+      "year": "2024",
+      "section_year": "2024",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_cultures-nations-religions-and-people-activity-7168854993356230656-UZ9h"
+        }
+      ]
+    },
+    {
+      "title": "Critical Chain",
+      "author": "Eliyahu M. Goldratt",
+      "authors": [
+        "Eliyahu M. Goldratt"
+      ],
+      "month": "February",
+      "year": "2024",
+      "section_year": "2024",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_i-recently-finished-eliyahu-m-goldratts-activity-7165960713742622720-5pqM"
+        }
+      ]
+    },
+    {
+      "title": "Connect: How to Inspire, Influence and Energise Anyone, Anywhere, Anytime",
+      "author": "Simon Lancaster",
+      "authors": [
+        "Simon Lancaster"
+      ],
+      "month": "January",
+      "year": "2024",
+      "section_year": "2024",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_bookreview-leadership-communication-activity-7156911212302086144-5dP8"
+        }
+      ]
+    },
+    {
+      "title": "Fundamentals of Software Architecture: An Engineering Approach",
+      "author": "Mark Richards & Neal Ford",
+      "authors": [
+        "Mark Richards",
+        "Neal Ford"
+      ],
+      "month": "January",
+      "year": "2024",
+      "section_year": "2024",
+      "note": "reread",
+      "reread": true,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_softwaredevelopment-softwareengineering-softwarearchitecture-activity-7151150319362605057-wU3y"
+        }
+      ]
+    },
+    {
+      "title": "Winning Minds: Secrets From the Language of Leadership",
+      "author": "Simon Lancaster",
+      "authors": [
+        "Simon Lancaster"
+      ],
+      "month": "December",
+      "year": "2023",
+      "section_year": "2023",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_bookreview-continuouslearning-activity-7145789431029948416-SwIk"
+        }
+      ]
+    },
+    {
+      "title": "Trillion Dollar Coach - The Leadership Playbook by Sillicon Valley's Bill Campbell",
+      "author": "Eric Schmidt, Jonathan Rosenberg & Alan Eagle",
+      "authors": [
+        "Eric Schmidt",
+        "Jonathan Rosenberg",
+        "Alan Eagle"
+      ],
+      "month": "November",
+      "year": "2023",
+      "section_year": "2023",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_silliconvalley-billcampbell-stevejobs-activity-7134790509385908224-sQap"
+        },
+        {
+          "label": "Additional post",
+          "url": "https://www.linkedin.com/posts/williammilisic_leadership-coaching-121s-activity-7135519000129679360-CZzZ"
+        }
+      ]
+    },
+    {
+      "title": "The Coming Wave",
+      "author": "Mustafa Suleyman",
+      "authors": [
+        "Mustafa Suleyman"
+      ],
+      "month": "October",
+      "year": "2023",
+      "section_year": "2023",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_ai-robotics-quantum-activity-7123534853764960256-bZ6f"
+        }
+      ]
+    },
+    {
+      "title": "Lean Enterprise - How High Performance Organisations Innovate at Scale",
+      "author": "Jez Humble, Barry O’Reilly and Joanne Molesky",
+      "authors": [
+        "Jez Humble",
+        "Barry O’Reilly",
+        "Joanne Molesky"
+      ],
+      "month": "September",
+      "year": "2023",
+      "section_year": "2023",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_abookaday-continuouslearning-continuousimprovement-activity-7117744418941472768-X7ln"
+        }
+      ]
+    },
+    {
+      "title": "What You Do Is Who You Are: How to Create Your Business Culture",
+      "author": "Ben Horowitz",
+      "authors": [
+        "Ben Horowitz"
+      ],
+      "month": "September",
+      "year": "2023",
+      "section_year": "2023",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_abookaday-continuouslearning-continuousimprovement-activity-7117744418941472768-X7ln"
+        }
+      ]
+    },
+    {
+      "title": "The Hard Thing About Hard Things",
+      "author": "Ben Horowitz",
+      "authors": [
+        "Ben Horowitz"
+      ],
+      "month": "August",
+      "year": "2023",
+      "section_year": "2023",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_horowitz-hardthingabouthardthings-bookreview-activity-7100754841571909632-wZR1"
+        }
+      ]
+    },
+    {
+      "title": "Ikigai: The Japanese Secret to a Long and Happy Life",
+      "author": "Héctor García and Francesc Miralles",
+      "authors": [
+        "Héctor García",
+        "Francesc Miralles"
+      ],
+      "month": "July",
+      "year": "2023",
+      "section_year": "2023",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_during-the-summer-i-finished-listening-to-activity-7096922154939629569-9u1h"
+        }
+      ]
+    },
+    {
+      "title": "Think Like a Rocket Scientist",
+      "author": "Ozan Varol",
+      "authors": [
+        "Ozan Varol"
+      ],
+      "month": "June",
+      "year": "2023",
+      "section_year": "2023",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_thinklikearocketscientist-innovation-creativity-activity-7081523211972075520-8i3S"
+        }
+      ]
+    },
+    {
+      "title": "The Journey to Enterprise Agility",
+      "author": "Daryl Kulak, Hong Li",
+      "authors": [
+        "Daryl Kulak",
+        "Hong Li"
+      ],
+      "month": "April",
+      "year": "2023",
+      "section_year": "2023",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_agile-lean-cloudcomputing-activity-7067741149242830848-udAi"
+        }
+      ]
+    },
+    {
+      "title": "Investments Unlimited",
+      "author": "Helen Beal, Bill Bensing, Jason Cox, Michael Edenzon, Topo Pal, Caleb Queern, John Rzezotarski, Andres Vega, John Willis",
+      "authors": [
+        "Helen Beal",
+        "Bill Bensing",
+        "Jason Cox",
+        "Michael Edenzon",
+        "Topo Pal",
+        "Caleb Queern",
+        "John Rzezotarski",
+        "Andres Vega",
+        "John Willis"
+      ],
+      "month": "March",
+      "year": "2023",
+      "section_year": "2023",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_investments-unlimited-it-revolution-activity-7052915404582625281-pVg7"
+        }
+      ]
+    },
+    {
+      "title": "Loved",
+      "author": "Martina Lauchengco",
+      "authors": [
+        "Martina Lauchengco"
+      ],
+      "month": "March",
+      "year": "2023",
+      "section_year": "2023",
+      "note": "",
+      "reread": false,
+      "reviewed": false,
+      "links": []
+    },
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "authors": [
+        "James Clear"
+      ],
+      "month": "February",
+      "year": "2023",
+      "section_year": "2023",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_atomic-habits-how-to-get-1-better-every-activity-7034256008684154880-CzhG"
+        }
+      ]
+    },
+    {
+      "title": "Fundamentals of Software Architecture",
+      "author": "Mark Richards, Neal Ford",
+      "authors": [
+        "Mark Richards",
+        "Neal Ford"
+      ],
+      "month": "January",
+      "year": "2023",
+      "section_year": "2023",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review (initial)",
+          "url": "https://www.linkedin.com/posts/williammilisic_software-engineering-architecture-activity-7039327062771281920-4sbC"
+        },
+        {
+          "label": "LinkedIn review (final)",
+          "url": "https://www.linkedin.com/posts/williammilisic_softwaredevelopment-softwareengineering-softwarearchitecture-activity-7151150319362605057-wU3y"
+        }
+      ]
+    },
+    {
+      "title": "The Human Side of Agile",
+      "author": "Gil Broza",
+      "authors": [
+        "Gil Broza"
+      ],
+      "month": "January",
+      "year": "2023",
+      "section_year": "2023",
+      "note": "re-listened",
+      "reread": true,
+      "reviewed": false,
+      "links": []
+    },
+    {
+      "title": "How to Create a Mind",
+      "author": "Ray Kurzweil",
+      "authors": [
+        "Ray Kurzweil"
+      ],
+      "month": "December",
+      "year": "2022",
+      "section_year": "2022",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7020290489706819584/"
+        }
+      ]
+    },
+    {
+      "title": "Build",
+      "author": "Tony Fadell",
+      "authors": [
+        "Tony Fadell"
+      ],
+      "month": "December",
+      "year": "2022",
+      "section_year": "2022",
+      "note": "",
+      "reread": false,
+      "reviewed": false,
+      "links": []
+    },
+    {
+      "title": "Continuous Discovery Habits",
+      "author": "Teresa Torres",
+      "authors": [
+        "Teresa Torres"
+      ],
+      "month": "October",
+      "year": "2022",
+      "section_year": "2022",
+      "note": "",
+      "reread": false,
+      "reviewed": false,
+      "links": []
+    },
+    {
+      "title": "User Story Mapping",
+      "author": "Jeff Patton, Peter Economy - foreword",
+      "authors": [
+        "Jeff Patton",
+        "Peter Economy - foreword"
+      ],
+      "month": "September",
+      "year": "2022",
+      "section_year": "2022",
+      "note": "",
+      "reread": false,
+      "reviewed": false,
+      "links": []
+    },
+    {
+      "title": "Beyond the Goal",
+      "author": "Eliyahu M. Goldratt",
+      "authors": [
+        "Eliyahu M. Goldratt"
+      ],
+      "month": "August",
+      "year": "2022",
+      "section_year": "2022",
+      "note": "",
+      "reread": false,
+      "reviewed": false,
+      "links": []
+    },
+    {
+      "title": "The Pragmatic Programmer: 20th Anniversary Edition, 2nd Edition",
+      "author": "David Thomas, Andrew Hunt",
+      "authors": [
+        "David Thomas",
+        "Andrew Hunt"
+      ],
+      "month": "August",
+      "year": "2022",
+      "section_year": "2022",
+      "note": "",
+      "reread": false,
+      "reviewed": false,
+      "links": []
+    },
+    {
+      "title": "Clean Agile",
+      "author": "Robert C. Martin",
+      "authors": [
+        "Robert C. Martin"
+      ],
+      "month": "July",
+      "year": "2022",
+      "section_year": "2022",
+      "note": "",
+      "reread": false,
+      "reviewed": false,
+      "links": []
+    },
+    {
+      "title": "The Clean Coder",
+      "author": "Robert C. Martin",
+      "authors": [
+        "Robert C. Martin"
+      ],
+      "month": "June",
+      "year": "2022",
+      "section_year": "2022",
+      "note": "",
+      "reread": false,
+      "reviewed": false,
+      "links": []
+    },
+    {
+      "title": "Building Microservices",
+      "author": "Sam Newman",
+      "authors": [
+        "Sam Newman"
+      ],
+      "month": "February",
+      "year": "2022",
+      "section_year": "2022",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:6935363363300380673/"
+        }
+      ]
+    },
+    {
+      "title": "The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth",
+      "author": "Amy Edmondson",
+      "authors": [
+        "Amy Edmondson"
+      ],
+      "month": "March",
+      "year": "2021",
+      "section_year": "2021",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/feed/update/urn:li:share:6775671866758590464"
+        }
+      ]
+    },
+    {
+      "title": "Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century",
+      "author": "Jeff Lawson",
+      "authors": [
+        "Jeff Lawson"
+      ],
+      "month": "March",
+      "year": "2021",
+      "section_year": "2021",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/feed/update/urn:li:share:6780847041657495552"
+        }
+      ]
+    },
+    {
+      "title": "The Delicate Art of Bureaucracy",
+      "author": "Mark Schwartz",
+      "authors": [
+        "Mark Schwartz"
+      ],
+      "month": "December",
+      "year": "2021",
+      "section_year": "2021",
+      "note": "",
+      "reread": false,
+      "reviewed": false,
+      "links": []
+    },
+    {
+      "title": "Empowered",
+      "author": "Marty Cagan, Chris Jones",
+      "authors": [
+        "Marty Cagan",
+        "Chris Jones"
+      ],
+      "month": "November",
+      "year": "2021",
+      "section_year": "2021",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:6952392582052122624/"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineering at Google",
+      "author": "Titus Winters, Tom Manshreck, Hyrum Wright",
+      "authors": [
+        "Titus Winters",
+        "Tom Manshreck",
+        "Hyrum Wright"
+      ],
+      "month": "September",
+      "year": "2021",
+      "section_year": "2021",
+      "note": "",
+      "reread": false,
+      "reviewed": false,
+      "links": []
+    },
+    {
+      "title": "Clean Architecture",
+      "author": "Robert C. Martin",
+      "authors": [
+        "Robert C. Martin"
+      ],
+      "month": "July",
+      "year": "2021",
+      "section_year": "2021",
+      "note": "",
+      "reread": false,
+      "reviewed": false,
+      "links": []
+    },
+    {
+      "title": "Monolith to Microservices",
+      "author": "Sam Newman",
+      "authors": [
+        "Sam Newman"
+      ],
+      "month": "May",
+      "year": "2021",
+      "section_year": "2021",
+      "note": "",
+      "reread": false,
+      "reviewed": false,
+      "links": []
+    },
+    {
+      "title": "Designing Data-Intensive Applications",
+      "author": "Martin Kleppmann",
+      "authors": [
+        "Martin Kleppmann"
+      ],
+      "month": "May",
+      "year": "2021",
+      "section_year": "2021",
+      "note": "",
+      "reread": false,
+      "reviewed": false,
+      "links": []
+    },
+    {
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "authors": [
+        "Robert C. Martin"
+      ],
+      "month": "May",
+      "year": "2021",
+      "section_year": "2021",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:6799088406610632705/"
+        }
+      ]
+    },
+    {
+      "title": "Team Topologies: Organizing Business and Technology Teams for Fast Flow",
+      "author": "Matthew Skelton, Manuel Pais",
+      "authors": [
+        "Matthew Skelton",
+        "Manuel Pais"
+      ],
+      "month": "April",
+      "year": "2021",
+      "section_year": "2021",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:6795584931629158400/"
+        }
+      ]
+    },
+    {
+      "title": "Think Again",
+      "author": "Adam Grant",
+      "authors": [
+        "Adam Grant"
+      ],
+      "month": "March",
+      "year": "2021",
+      "section_year": "2021",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:6785696804471099392/"
+        }
+      ]
+    },
+    {
+      "title": "Ask Your Developer",
+      "author": "Jeff Lawson",
+      "authors": [
+        "Jeff Lawson"
+      ],
+      "month": "March",
+      "year": "2021",
+      "section_year": "2021",
+      "note": "",
+      "reread": false,
+      "reviewed": false,
+      "links": []
+    },
+    {
+      "title": "No Rules Rules",
+      "author": "Reed Hastings, Erin Meyer",
+      "authors": [
+        "Reed Hastings",
+        "Erin Meyer"
+      ],
+      "month": "March",
+      "year": "2021",
+      "section_year": "2021",
+      "note": "",
+      "reread": false,
+      "reviewed": false,
+      "links": []
+    },
+    {
+      "title": "The Fearless Organization",
+      "author": "Amy C. Edmondson",
+      "authors": [
+        "Amy C. Edmondson"
+      ],
+      "month": "February",
+      "year": "2021",
+      "section_year": "2021",
+      "note": "",
+      "reread": false,
+      "reviewed": false,
+      "links": []
+    },
+    {
+      "title": "Transforming Nokia",
+      "author": "Risto Siilasmaa",
+      "authors": [
+        "Risto Siilasmaa"
+      ],
+      "month": "January",
+      "year": "2020",
+      "section_year": "2020",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/feed/update/urn:li:share:6625894424549302272"
+        }
+      ]
+    },
+    {
+      "title": "Leadership Is Language",
+      "author": "L. David Marquet",
+      "authors": [
+        "L. David Marquet"
+      ],
+      "month": "November",
+      "year": "2020",
+      "section_year": "2020",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/feed/update/urn:li:share:6728816055340298240"
+        }
+      ]
+    },
+    {
+      "title": "Leadership Is Language",
+      "author": "L. David Marquet",
+      "authors": [
+        "L. David Marquet"
+      ],
+      "month": "August",
+      "year": "2020",
+      "section_year": "2020",
+      "note": "",
+      "reread": false,
+      "reviewed": false,
+      "links": []
+    },
+    {
+      "title": "The Obstacle Is the Way",
+      "author": "Ryan Holiday",
+      "authors": [
+        "Ryan Holiday"
+      ],
+      "month": "June",
+      "year": "2020",
+      "section_year": "2020",
+      "note": "",
+      "reread": false,
+      "reviewed": false,
+      "links": []
+    },
+    {
+      "title": "Ego Is the Enemy",
+      "author": "Ryan Holiday",
+      "authors": [
+        "Ryan Holiday"
+      ],
+      "month": "May",
+      "year": "2020",
+      "section_year": "2020",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:6677342714561908736/"
+        }
+      ]
+    },
+    {
+      "title": "The Leader's Guide",
+      "author": "Eric Ries",
+      "authors": [
+        "Eric Ries"
+      ],
+      "month": "March",
+      "year": "2020",
+      "section_year": "2020",
+      "note": "",
+      "reread": false,
+      "reviewed": false,
+      "links": []
+    },
+    {
+      "title": "The Goal",
+      "author": "Eliyahu M. Goldratt, Jeff Cox",
+      "authors": [
+        "Eliyahu M. Goldratt",
+        "Jeff Cox"
+      ],
+      "month": "February",
+      "year": "2020",
+      "section_year": "2020",
+      "note": "",
+      "reread": false,
+      "reviewed": false,
+      "links": []
+    },
+    {
+      "title": "Beyond the Phoenix Project",
+      "author": "Gene Kim, John Willis",
+      "authors": [
+        "Gene Kim",
+        "John Willis"
+      ],
+      "month": "February",
+      "year": "2020",
+      "section_year": "2020",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:6638587213485481984/"
+        }
+      ]
+    },
+    {
+      "title": "Transforming Nokia",
+      "author": "Risto Siilasmaa",
+      "authors": [
+        "Risto Siilasmaa"
+      ],
+      "month": "January",
+      "year": "2020",
+      "section_year": "2020",
+      "note": "",
+      "reread": false,
+      "reviewed": false,
+      "links": []
+    },
+    {
+      "title": "My story",
+      "author": "Petter Northug and Jonas Forsang",
+      "authors": [
+        "Petter Northug",
+        "Jonas Forsang"
+      ],
+      "month": "February",
+      "year": "2019",
+      "section_year": "2019",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/feed/update/urn:li:share:6498294594172657664"
+        }
+      ]
+    },
+    {
+      "title": "Toyota Kata",
+      "author": "Mike Rother",
+      "authors": [
+        "Mike Rother"
+      ],
+      "month": "March",
+      "year": "2019",
+      "section_year": "2019",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/feed/update/urn:li:share:6516099101325557760"
+        }
+      ]
+    },
+    {
+      "title": "Radical Candor",
+      "author": "Kim Scott",
+      "authors": [
+        "Kim Scott"
+      ],
+      "month": "April",
+      "year": "2019",
+      "section_year": "2019",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/feed/update/urn:li:share:6522216618875977729"
+        }
+      ]
+    },
+    {
+      "title": "Lean Thinking: Banish Waste and Create Wealth in Your Corporation",
+      "author": "James P. Womack and Daniel T. Jones",
+      "authors": [
+        "James P. Womack",
+        "Daniel T. Jones"
+      ],
+      "month": "May",
+      "year": "2019",
+      "section_year": "2019",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/feed/update/urn:li:share:6530309882158022656"
+        }
+      ]
+    },
+    {
+      "title": "Continuous Delivery with Spinnaker",
+      "author": "Emily Burns, Asher Feldman, Rob Fletcher, Tomas Lin, Justin Reynolds, Chris Sanden, Lars Wander & Rob Zienert",
+      "authors": [
+        "Emily Burns",
+        "Asher Feldman",
+        "Rob Fletcher",
+        "Tomas Lin",
+        "Justin Reynolds",
+        "Chris Sanden",
+        "Lars Wander",
+        "Rob Zienert"
+      ],
+      "month": "June",
+      "year": "2019",
+      "section_year": "2019",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/feed/update/urn:li:share:6549410560767778816"
+        }
+      ]
+    },
+    {
+      "title": "INSPIRED: How to Create Tech Products Customers Love",
+      "author": "Marty Cagan",
+      "authors": [
+        "Marty Cagan"
+      ],
+      "month": "September",
+      "year": "2019",
+      "section_year": "2019",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/feed/update/urn:li:share:6579432676569161728"
+        }
+      ]
+    },
+    {
+      "title": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+      "author": "Eric Ries",
+      "authors": [
+        "Eric Ries"
+      ],
+      "month": "September",
+      "year": "2019",
+      "section_year": "2019",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/feed/update/urn:li:share:6582035918373310464"
+        }
+      ]
+    },
+    {
+      "title": "Sagan om Spotify",
+      "author": "Erik Wisterberg and Jon Mauno Pettersson",
+      "authors": [
+        "Erik Wisterberg",
+        "Jon Mauno Pettersson"
+      ],
+      "month": "November",
+      "year": "2019",
+      "section_year": "2019",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/feed/update/urn:li:share:6600627243511230465"
+        }
+      ]
+    },
+    {
+      "title": "The Human Side of Agile - How To Help Your Team Deliver",
+      "author": "Gil Broza",
+      "authors": [
+        "Gil Broza"
+      ],
+      "month": "December",
+      "year": "2019",
+      "section_year": "2019",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/feed/update/urn:li:share:6607419861691879424"
+        }
+      ]
+    },
+    {
+      "title": "The Unicorn Project",
+      "author": "Gene Kim",
+      "authors": [
+        "Gene Kim"
+      ],
+      "month": "December",
+      "year": "2019",
+      "section_year": "2019",
+      "note": "",
+      "reread": false,
+      "reviewed": false,
+      "links": []
+    },
+    {
+      "title": "How to Build a Billion Dollar App",
+      "author": "George Berkowski",
+      "authors": [
+        "George Berkowski"
+      ],
+      "month": "October",
+      "year": "2019",
+      "section_year": "2019",
+      "note": "",
+      "reread": false,
+      "reviewed": false,
+      "links": []
+    },
+    {
+      "title": "Never Split the Difference",
+      "author": "Chris Voss, Tahl Raz",
+      "authors": [
+        "Chris Voss",
+        "Tahl Raz"
+      ],
+      "month": "September",
+      "year": "2019",
+      "section_year": "2019",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:6587105515770269696/"
+        }
+      ]
+    },
+    {
+      "title": "DevOps and Site Reliability Engineering (SRE) Handbook",
+      "author": "Stephen Fleming",
+      "authors": [
+        "Stephen Fleming"
+      ],
+      "month": "September",
+      "year": "2019",
+      "section_year": "2019",
+      "note": "",
+      "reread": false,
+      "reviewed": false,
+      "links": []
+    },
+    {
+      "title": "Inspired",
+      "author": "Marty Cagan",
+      "authors": [
+        "Marty Cagan"
+      ],
+      "month": "September",
+      "year": "2019",
+      "section_year": "2019",
+      "note": "",
+      "reread": false,
+      "reviewed": false,
+      "links": []
+    },
+    {
+      "title": "Rework",
+      "author": "Jason Fried, David Heinemeier Hansson",
+      "authors": [
+        "Jason Fried",
+        "David Heinemeier Hansson"
+      ],
+      "month": "August",
+      "year": "2019",
+      "section_year": "2019",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:6573634693374197760/"
+        }
+      ]
+    },
+    {
+      "title": "The Lean Startup",
+      "author": "Eric Ries",
+      "authors": [
+        "Eric Ries"
+      ],
+      "month": "July",
+      "year": "2019",
+      "section_year": "2019",
+      "note": "",
+      "reread": false,
+      "reviewed": false,
+      "links": []
+    },
+    {
+      "title": "How to Be Right",
+      "author": "James O'Brien",
+      "authors": [
+        "James O'Brien"
+      ],
+      "month": "June",
+      "year": "2019",
+      "section_year": "2019",
+      "note": "",
+      "reread": false,
+      "reviewed": false,
+      "links": []
+    },
+    {
+      "title": "Accelerate: Building and Scaling High Performing Technology Organizations",
+      "author": "Nicole Forsgren PhD, Jez Humble, Gene Kim",
+      "authors": [
+        "Nicole Forsgren PhD",
+        "Jez Humble",
+        "Gene Kim"
+      ],
+      "month": "May",
+      "year": "2019",
+      "section_year": "2019",
+      "note": "",
+      "reread": false,
+      "reviewed": false,
+      "links": []
+    },
+    {
+      "title": "The Agile Mind-set: Making Agile Processes Work",
+      "author": "Gil Broza",
+      "authors": [
+        "Gil Broza"
+      ],
+      "month": "May",
+      "year": "2019",
+      "section_year": "2019",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:6533839233969377280/"
+        }
+      ]
+    },
+    {
+      "title": "Radical Candor",
+      "author": "Kim Scott",
+      "authors": [
+        "Kim Scott"
+      ],
+      "month": "March",
+      "year": "2019",
+      "section_year": "2019",
+      "note": "",
+      "reread": false,
+      "reviewed": false,
+      "links": []
+    },
+    {
+      "title": "Toyota Kata",
+      "author": "Mike Rother",
+      "authors": [
+        "Mike Rother"
+      ],
+      "month": "March",
+      "year": "2019",
+      "section_year": "2019",
+      "note": "",
+      "reread": false,
+      "reviewed": false,
+      "links": []
+    },
+    {
+      "title": "Measure What Matters",
+      "author": "John Doerr",
+      "authors": [
+        "John Doerr"
+      ],
+      "month": "March",
+      "year": "2019",
+      "section_year": "2019",
+      "note": "",
+      "reread": false,
+      "reviewed": false,
+      "links": []
+    },
+    {
+      "title": "The Toyota Way",
+      "author": "Jeffrey Liker",
+      "authors": [
+        "Jeffrey Liker"
+      ],
+      "month": "March",
+      "year": "2019",
+      "section_year": "2019",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:6508850355000926208/"
+        }
+      ]
+    },
+    {
+      "title": "Powerful: Building a Culture of Freedom and Responsibility",
+      "author": "Patty McCord",
+      "authors": [
+        "Patty McCord"
+      ],
+      "month": "February",
+      "year": "2019",
+      "section_year": "2019",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:6506296601068216320/"
+        }
+      ]
+    },
+    {
+      "title": "A Seat at the Table",
+      "author": "Mark Schwartz",
+      "authors": [
+        "Mark Schwartz"
+      ],
+      "month": "February",
+      "year": "2019",
+      "section_year": "2019",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:6509425285497122816/"
+        }
+      ]
+    },
+    {
+      "title": "The DevOps Handbook",
+      "author": "Gene Kim, Patrick Debois, John Willis, Jez Humble",
+      "authors": [
+        "Gene Kim",
+        "Patrick Debois",
+        "John Willis",
+        "Jez Humble"
+      ],
+      "month": "February",
+      "year": "2019",
+      "section_year": "2019",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:6505578658042769408/"
+        }
+      ]
+    },
+    {
+      "title": "Leaders Eat Last",
+      "author": "Simon Sinek",
+      "authors": [
+        "Simon Sinek"
+      ],
+      "month": "December",
+      "year": "2018",
+      "section_year": "2018",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:6484763908937641984/"
+        }
+      ]
+    },
+    {
+      "title": "The 7 Habits of Highly Effective People",
+      "author": "Stephen R. Covey",
+      "authors": [
+        "Stephen R. Covey"
+      ],
+      "month": "December",
+      "year": "2018",
+      "section_year": "2018",
+      "note": "",
+      "reread": false,
+      "reviewed": false,
+      "links": []
+    },
+    {
+      "title": "Turn the Ship Around!",
+      "author": "L. David Marquet",
+      "authors": [
+        "L. David Marquet"
+      ],
+      "month": "November",
+      "year": "2018",
+      "section_year": "2018",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:6475734956021686272/"
+        }
+      ]
+    },
+    {
+      "title": "Start with Why",
+      "author": "Simon Sinek",
+      "authors": [
+        "Simon Sinek"
+      ],
+      "month": "November",
+      "year": "2018",
+      "section_year": "2018",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:6473100003257655297/"
+        }
+      ]
+    }
+  ]
+}

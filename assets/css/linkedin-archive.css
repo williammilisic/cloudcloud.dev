@@ -1,8 +1,9 @@
 /*
-Styling for the LinkedIn archive pages. It lives here rather than in the
-includes that render the markup for two reasons: the theme wraps page content
-in a section element, where a style element is not allowed, and each include
-emitted its rules again every time it was invoked.
+Styling for the LinkedIn archive pages, and for the books overview, which
+reuses the summary and bar rules rather than restating them. It lives here
+rather than in the includes that render the markup for two reasons: the theme
+wraps page content in a section element, where a style element is not allowed,
+and each include emitted its rules again every time it was invoked.
 */
 
 /* linkedin-nav.html: the filter strip above every archive page */
@@ -120,6 +121,42 @@ emitted its rules again every time it was invoked.
 }
 .archive-key .k-own { background: #6b7f92; }
 .archive-key .k-repost { background: #c3d0dd; }
+
+/* book-overview.html: the tally of authors read more than once */
+.overview-heading {
+  margin: 1.8em 0 0.6em;
+  font-size: 1.1em;
+}
+.author-tally {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45em 0.6em;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-size: 0.85em;
+}
+.author-tally li {
+  display: flex;
+  align-items: baseline;
+  gap: 0.45em;
+  padding: 0.28em 0.7em 0.28em 0.4em;
+  border: 1px solid #e2e7ec;
+  border-radius: 999px;
+  background: #fff;
+  color: #4a5a6a;
+}
+.author-tally .tally-count {
+  display: inline-block;
+  min-width: 1.5em;
+  padding: 0.05em 0;
+  border-radius: 999px;
+  background: #6b7f92;
+  color: #fff;
+  font-size: 0.85em;
+  font-weight: 600;
+  text-align: center;
+}
 
 /* linkedin-post-cards.html: the full post cards */
 .linkedin-posts-container .linkedin-post-card {
