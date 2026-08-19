@@ -12,11 +12,39 @@ MONTH_NAMES = [
     "July", "August", "September", "October", "November", "December"
 ]
 
+OWN_USERNAME = "williammilisic"
+
+# A title and author are carved out of post text by the regexes below, so they
+# arrive here as arbitrary text rather than as known-good values. Everything
+# written into booklist.md is therefore constrained first: kramdown renders
+# inline HTML in that file, which is what the <br/> tags in it rely on, so an
+# unfiltered title would land on the books page as live markup.
+MARKUP_CHARACTERS = re.compile(r"[<>&\[\]()`*_|\\\r\n\t]")
+MAX_FIELD_LENGTH = 200
+
+# Only a LinkedIn post permalink is ever a legitimate review link, so the url is
+# matched against that shape rather than merely checked for a scheme.
+SAFE_URL = re.compile(r"^https://(?:www\.)?linkedin\.com/[A-Za-z0-9._~:/?#@!$&'*+,;=%-]*$")
+
 def clean_url(url):
     if not url:
         return ""
     # Strip tracking query parameters like ?utm_source=...
     return url.split("?")[0]
+
+def safe_link(url):
+    """Return the url only if it can stand as a markdown link destination."""
+    if not url or not SAFE_URL.match(url):
+        return ""
+    return url
+
+def safe_field(value):
+    """Reduce a parsed title or author to plain text that renders as itself."""
+    if not value:
+        return ""
+    collapsed = MARKUP_CHARACTERS.sub(" ", value)
+    collapsed = re.sub(r"\s+", " ", collapsed).strip()
+    return collapsed[:MAX_FIELD_LENGTH].strip()
 
 def parse_title_author(text):
     clean_text = text.replace('”', '"').replace('“', '"').replace('’', "'").replace('‘', "'")
@@ -90,6 +118,11 @@ def update_booklist():
         if post.get("text_truncated"):
             continue
 
+        # A repost is someone else's review, and this is a list of books I read,
+        # so reposted text is never parsed and never reaches booklist.md.
+        if (post.get("author") or {}).get("username") != OWN_USERNAME:
+            continue
+
         url = clean_url(post.get("url", ""))
         text = post.get("text", "")
         date_str = post.get("posted_at", {}).get("date", "")
@@ -113,9 +146,16 @@ def update_booklist():
             continue
 
         title, author = parse_title_author(text)
+        title = safe_field(title)
+        author = safe_field(author)
 
         if not title or not author:
             print(f"Skipping unparsed book post: {date_str} - {url}")
+            continue
+
+        link = safe_link(url)
+        if not link:
+            print(f"Skipping book post with an unusable link: {date_str} - {url!r}")
             continue
 
         # Parse date
@@ -134,8 +174,8 @@ def update_booklist():
         year_str = str(dt.year)
         month_name = MONTH_NAMES[dt.month]
 
-        entry_md = f"* **{title}**\n<br/>By: {author}<br/>{month_name} {year_str} <br/>[LinkedIn review]({url})"
-        new_entries.append((dt, year_str, month_name, title, author, url, entry_md))
+        entry_md = f"* **{title}**\n<br/>By: {author}<br/>{month_name} {year_str} <br/>[LinkedIn review]({link})"
+        new_entries.append((dt, year_str, month_name, title, author, link, entry_md))
 
     if not new_entries:
         print("No new book reviews found.")
@@ -147,15 +187,22 @@ def update_booklist():
     for dt, year_str, month_name, title, author, url, entry_md in new_entries:
         year_header = f"## {year_str}"
 
+        # The entry goes in through a function rather than a replacement string,
+        # because re.sub reads backslashes in a replacement string as group
+        # references: a title holding \1 would splice the heading into the entry,
+        # and one holding \g<x> would abort the nightly run outright.
         if year_header in booklist_content:
             # Insert under year header
             pattern = rf"(## {year_str}\n\n)"
-            replacement = f"\\1{entry_md}\n\n"
-            booklist_content = re.sub(pattern, replacement, booklist_content, count=1)
+            booklist_content = re.sub(
+                pattern, lambda m: f"{m.group(1)}{entry_md}\n\n", booklist_content, count=1
+            )
         else:
             # Create new year section at top after first <br/>
             new_section = f"## {year_str}\n\n{entry_md}\n\n\n"
-            booklist_content = re.sub(r"(<br/>\n)", rf"\1{new_section}", booklist_content, count=1)
+            booklist_content = re.sub(
+                r"(<br/>\n)", lambda m: f"{m.group(1)}{new_section}", booklist_content, count=1
+            )
 
     with open(BOOKLIST_PATH, "w", encoding="utf-8") as f:
         f.write(booklist_content)

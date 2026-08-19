@@ -13,11 +13,18 @@ reduce the number of archived posts.
 import copy
 import json
 import os
+import re
 import sys
 import tempfile
 
 DEFAULT_FETCHED_PATH = "linkedin-posts.json"
 DEFAULT_ARCHIVE_PATH = os.path.join("_data", "linkedin-posts.json")
+
+# Jekyll reads this archive with a YAML parser, and YAML rejects control
+# characters that JSON carries happily, so a single stray byte in a fetched post
+# fails the whole site build after the commit has already landed. Tab, newline
+# and carriage return are the ones YAML allows, so they are left alone.
+CONTROL_CHARACTERS = re.compile(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f-\x9f]")
 
 DERIVED_COUNTS = (
     ("commentsCount", "comments"),
@@ -47,6 +54,48 @@ def as_int(value):
         except ValueError:
             return None
     return None
+
+
+def repair_control_characters(text):
+    """Put back the cp1252 punctuation that lost its decoding upstream, and drop
+    anything else the YAML parser would refuse."""
+    def readable(match):
+        character = match.group()
+        if "\x80" <= character <= "\x9f":
+            try:
+                decoded = bytes([ord(character)]).decode("cp1252")
+            except (UnicodeDecodeError, ValueError):
+                return ""
+            return "" if CONTROL_CHARACTERS.match(decoded) else decoded
+        return ""
+
+    return CONTROL_CHARACTERS.sub(readable, text)
+
+
+def repair_values(value):
+    if isinstance(value, str):
+        return repair_control_characters(value)
+    if isinstance(value, dict):
+        return {key: repair_values(item) for key, item in value.items()}
+    if isinstance(value, list):
+        return [repair_values(item) for item in value]
+    return value
+
+
+def find_control_characters(value, path="post"):
+    if isinstance(value, str):
+        return [path] if CONTROL_CHARACTERS.search(value) else []
+    if isinstance(value, dict):
+        found = []
+        for key, item in value.items():
+            found.extend(find_control_characters(item, f"{path}.{key}"))
+        return found
+    if isinstance(value, list):
+        found = []
+        for index, item in enumerate(value):
+            found.extend(find_control_characters(item, f"{path}[{index}]"))
+        return found
+    return []
 
 
 def identity_keys(post):
@@ -185,6 +234,17 @@ def check_not_destructive(stored_posts, merged_posts):
             raise MergeError(f"stored post {identity_keys(post)} would lose its stats object")
 
 
+def check_readable(posts):
+    for post in posts:
+        found = find_control_characters(post)
+        if found:
+            raise MergeError(
+                "post %s still carries control characters at %s, which would fail the site "
+                "build after the commit rather than show up as a broken page"
+                % (identity_keys(post), ", ".join(found))
+            )
+
+
 def merge_archives(stored_posts, fetched_posts):
     merged_posts = [copy.deepcopy(post) for post in stored_posts]
     positions = {}
@@ -217,6 +277,7 @@ def merge_archives(stored_posts, fetched_posts):
         apply_derived_counts(post)
     merged_posts.sort(key=timestamp_of, reverse=True)
     check_not_destructive(stored_posts, merged_posts)
+    check_readable(merged_posts)
     return merged_posts, added, updated
 
 
@@ -247,6 +308,8 @@ def main(argv):
         fetched_posts = load_payload(fetched_path, f"fetched payload '{fetched_path}'")
     except (OSError, ValueError, MergeError) as error:
         fail(f"{error}; the archive was left untouched")
+
+    fetched_posts = [repair_values(post) for post in fetched_posts]
 
     stored_posts = []
     if os.path.exists(archive_path):

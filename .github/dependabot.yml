@@ -1,0 +1,16 @@
+version: 2
+
+# Both workflows pin their actions to commit SHAs so that a retagged or
+# compromised release cannot reach the RapidAPI key. A pin never moves on its
+# own, though, so without this the pinned commits quietly age out of support and
+# never pick up a security fix. Dependabot raises a pull request when the tag a
+# pin was taken from starts pointing somewhere new.
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly
+    commit-message:
+      prefix: Update
+    labels:
+      - dependencies

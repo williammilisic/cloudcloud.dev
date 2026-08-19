@@ -34,9 +34,17 @@ jobs:
           # Generate URL-encoded date string for last week's UTC date at 00:00
           encodedDate=$(date -u -d '7 days ago' +'%Y-%m-%d 00:00' | sed 's/ /%20/g;s/:/%3A/g')
           echo "Fetching posts from date: $encodedDate"
-          # Fetch LinkedIn posts using the API
+          # --fail stops an HTTP error body being saved as though it were data,
+          # and the two limits keep a hung or oversized response from stalling
+          # the runner or filling its disk. Redirects stay off so the key is
+          # never replayed to a host other than the one it belongs to.
           curl --request GET \
            --proto '=https' \
+           --fail \
+           --silent \
+           --show-error \
+           --max-time 120 \
+           --max-filesize 50000000 \
            --url 'https://linkedin-scraper-api-real-time-fast-affordable.p.rapidapi.com/profile/posts?username=williammilisic' \
            --header 'x-rapidapi-host: linkedin-scraper-api-real-time-fast-affordable.p.rapidapi.com' \
            --header "x-rapidapi-key: $RAPIDAPI_LINKEDIN_DATA_API_KEY" \
