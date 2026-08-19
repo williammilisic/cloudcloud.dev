@@ -89,7 +89,7 @@ Back to [main](index.md) &middot; see the list [in numbers](bookstats.md).
 ## 2024
 
 * **Critical Chain**
-<br/>By: Eliyahu M. Goldratt<br/>February 2024 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:share:7165960710802419713)
+<br/>By: Eliyahu M. Goldratt<br/>February 2024 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:share:7165960710802419713) <br/>[Additional post](https://www.linkedin.com/posts/williammilisic_i-recently-finished-eliyahu-m-goldratts-activity-7165960713742622720-5pqM)
 
 * **Flow Engineering**
 <br/>By: Steve Pereira & Andrew Davis<br/>December 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_recently-i-had-the-chance-to-listen-to-the-activity-7275399028127731712-sCiO)
@@ -135,9 +135,6 @@ Back to [main](index.md) &middot; see the list [in numbers](bookstats.md).
 
 * **How I Learned to Understand the World**
 <br/>By: Hans Rosling <br/>February 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_cultures-nations-religions-and-people-activity-7168854993356230656-UZ9h)
-
-* **Critical Chain**
-<br/>By: Eliyahu M. Goldratt <br/>February 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_i-recently-finished-eliyahu-m-goldratts-activity-7165960713742622720-5pqM)
 
 * **Connect: How to Inspire, Influence and Energise Anyone, Anywhere, Anytime**
 <br/>By: Simon Lancaster <br/>January 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_bookreview-leadership-communication-activity-7156911212302086144-5dP8)
@@ -256,9 +253,6 @@ Back to [main](index.md) &middot; see the list [in numbers](bookstats.md).
 * **Think Again**
 <br/>By:  Adam Grant <br/>March 2021 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:activity:6785696804471099392/)
 
-* **Ask Your Developer**
-<br/>By:  Jeff Lawson <br/>March 2021
-
 * **No Rules Rules** 
 <br/>By:  Reed Hastings, Erin Meyer <br/>March 2021
 
@@ -274,9 +268,6 @@ Back to [main](index.md) &middot; see the list [in numbers](bookstats.md).
 * **Leadership Is Language**
 <br/>By: L. David Marquet<br/>November 2020 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:share:6728816055340298240)
 
-* **Leadership Is Language**
-<br/>By:  L. David Marquet <br/>August 2020
-
 * **The Obstacle Is the Way**
 <br/>By:  Ryan Holiday <br/>June 2020
 
@@ -291,10 +282,6 @@ Back to [main](index.md) &middot; see the list [in numbers](bookstats.md).
 
 * **Beyond the Phoenix Project**
 <br/>By:  Gene Kim, John Willis <br/>February 2020 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:activity:6638587213485481984/)
-
-* **Transforming Nokia** 
-<br/>By:  Risto Siilasmaa <br/>January 2020
-
 
 ## 2019
 
@@ -343,9 +330,6 @@ Back to [main](index.md) &middot; see the list [in numbers](bookstats.md).
 * **Rework**
 <br/>By:  Jason Fried, David Heinemeier Hansson <br/>August 2019 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:activity:6573634693374197760/)
 
-* **The Lean Startup**
-<br/>By:  Eric Ries <br/>July 2019
-
 * **How to Be Right**
 <br/>By:  James O'Brien <br/>June 2019
 
@@ -354,12 +338,6 @@ Back to [main](index.md) &middot; see the list [in numbers](bookstats.md).
 
 * **The Agile Mind-set: Making Agile Processes Work**
 <br/>By:  Gil Broza <br/>May 2019 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:activity:6533839233969377280/)
-
-* **Radical Candor**
-<br/>By:  Kim Scott <br/>March 2019
-
-* **Toyota Kata**
-<br/>By:  Mike Rother <br/>March 2019
 
 * **Measure What Matters**
 <br/>By:  John Doerr <br/>March 2019 

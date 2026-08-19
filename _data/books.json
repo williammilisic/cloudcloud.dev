@@ -1,12 +1,12 @@
 {
   "summary": {
-    "total": 121,
-    "reviewed": 88,
+    "total": 114,
+    "reviewed": 87,
     "rereads": 2,
     "authors": 125,
     "first_year": "2018",
     "last_year": "2026",
-    "busiest_year": 26,
+    "busiest_year": 23,
     "years": [
       {
         "year": "2026",
@@ -20,8 +20,8 @@
       },
       {
         "year": "2024",
-        "total": 19,
-        "reviewed": 19
+        "total": 18,
+        "reviewed": 18
       },
       {
         "year": "2023",
@@ -35,17 +35,17 @@
       },
       {
         "year": "2021",
-        "total": 14,
+        "total": 13,
         "reviewed": 6
       },
       {
         "year": "2020",
-        "total": 9,
+        "total": 7,
         "reviewed": 4
       },
       {
         "year": "2019",
-        "total": 26,
+        "total": 23,
         "reviewed": 16
       },
       {
@@ -57,7 +57,7 @@
     "top_authors": [
       {
         "name": "Eric Ries",
-        "count": 5,
+        "count": 4,
         "slug": "eric-ries",
         "books": [
           {
@@ -83,43 +83,6 @@
             "year": "2019",
             "note": "",
             "url": "https://www.linkedin.com/feed/update/urn:li:share:6582035918373310464"
-          },
-          {
-            "title": "The Lean Startup",
-            "year": "2019",
-            "note": "",
-            "url": ""
-          }
-        ]
-      },
-      {
-        "name": "Eliyahu M. Goldratt",
-        "count": 4,
-        "slug": "eliyahu-m-goldratt",
-        "books": [
-          {
-            "title": "Critical Chain",
-            "year": "2024",
-            "note": "",
-            "url": "https://www.linkedin.com/feed/update/urn:li:share:7165960710802419713"
-          },
-          {
-            "title": "Critical Chain",
-            "year": "2024",
-            "note": "",
-            "url": "https://www.linkedin.com/posts/williammilisic_i-recently-finished-eliyahu-m-goldratts-activity-7165960713742622720-5pqM"
-          },
-          {
-            "title": "Beyond the Goal",
-            "year": "2022",
-            "note": "",
-            "url": ""
-          },
-          {
-            "title": "The Goal",
-            "year": "2020",
-            "note": "",
-            "url": ""
           }
         ]
       },
@@ -211,6 +174,31 @@
           {
             "title": "Clean Architecture",
             "year": "2021",
+            "note": "",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "name": "Eliyahu M. Goldratt",
+        "count": 3,
+        "slug": "eliyahu-m-goldratt",
+        "books": [
+          {
+            "title": "Critical Chain",
+            "year": "2024",
+            "note": "",
+            "url": "https://www.linkedin.com/feed/update/urn:li:share:7165960710802419713"
+          },
+          {
+            "title": "Beyond the Goal",
+            "year": "2022",
+            "note": "",
+            "url": ""
+          },
+          {
+            "title": "The Goal",
+            "year": "2020",
             "note": "",
             "url": ""
           }
@@ -313,31 +301,6 @@
             "year": "2019",
             "note": "",
             "url": "https://www.linkedin.com/feed/update/urn:li:activity:6505578658042769408/"
-          }
-        ]
-      },
-      {
-        "name": "L. David Marquet",
-        "count": 3,
-        "slug": "l-david-marquet",
-        "books": [
-          {
-            "title": "Leadership Is Language",
-            "year": "2020",
-            "note": "",
-            "url": "https://www.linkedin.com/feed/update/urn:li:share:6728816055340298240"
-          },
-          {
-            "title": "Leadership Is Language",
-            "year": "2020",
-            "note": "",
-            "url": ""
-          },
-          {
-            "title": "Turn the Ship Around!",
-            "year": "2018",
-            "note": "",
-            "url": "https://www.linkedin.com/feed/update/urn:li:activity:6475734956021686272/"
           }
         ]
       },
@@ -462,40 +425,21 @@
         ]
       },
       {
-        "name": "Jeff Lawson",
+        "name": "L. David Marquet",
         "count": 2,
-        "slug": "jeff-lawson",
+        "slug": "l-david-marquet",
         "books": [
           {
-            "title": "Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century",
-            "year": "2021",
+            "title": "Leadership Is Language",
+            "year": "2020",
             "note": "",
-            "url": "https://www.linkedin.com/feed/update/urn:li:share:6780847041657495552"
+            "url": "https://www.linkedin.com/feed/update/urn:li:share:6728816055340298240"
           },
           {
-            "title": "Ask Your Developer",
-            "year": "2021",
+            "title": "Turn the Ship Around!",
+            "year": "2018",
             "note": "",
-            "url": ""
-          }
-        ]
-      },
-      {
-        "name": "Kim Scott",
-        "count": 2,
-        "slug": "kim-scott",
-        "books": [
-          {
-            "title": "Radical Candor",
-            "year": "2019",
-            "note": "",
-            "url": "https://www.linkedin.com/feed/update/urn:li:share:6522216618875977729"
-          },
-          {
-            "title": "Radical Candor",
-            "year": "2019",
-            "note": "",
-            "url": ""
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:6475734956021686272/"
           }
         ]
       },
@@ -538,25 +482,6 @@
         ]
       },
       {
-        "name": "Mike Rother",
-        "count": 2,
-        "slug": "mike-rother",
-        "books": [
-          {
-            "title": "Toyota Kata",
-            "year": "2019",
-            "note": "",
-            "url": "https://www.linkedin.com/feed/update/urn:li:share:6516099101325557760"
-          },
-          {
-            "title": "Toyota Kata",
-            "year": "2019",
-            "note": "",
-            "url": ""
-          }
-        ]
-      },
-      {
         "name": "Neal Ford",
         "count": 2,
         "slug": "neal-ford",
@@ -572,25 +497,6 @@
             "year": "2023",
             "note": "",
             "url": "https://www.linkedin.com/posts/williammilisic_software-engineering-architecture-activity-7039327062771281920-4sbC"
-          }
-        ]
-      },
-      {
-        "name": "Risto Siilasmaa",
-        "count": 2,
-        "slug": "risto-siilasmaa",
-        "books": [
-          {
-            "title": "Transforming Nokia",
-            "year": "2020",
-            "note": "",
-            "url": "https://www.linkedin.com/feed/update/urn:li:share:6625894424549302272"
-          },
-          {
-            "title": "Transforming Nokia",
-            "year": "2020",
-            "note": "",
-            "url": ""
           }
         ]
       },
@@ -1165,6 +1071,10 @@
         {
           "label": "LinkedIn review",
           "url": "https://www.linkedin.com/feed/update/urn:li:share:7165960710802419713"
+        },
+        {
+          "label": "Additional post",
+          "url": "https://www.linkedin.com/posts/williammilisic_i-recently-finished-eliyahu-m-goldratts-activity-7165960713742622720-5pqM"
         }
       ]
     },
@@ -1454,25 +1364,6 @@
         {
           "label": "LinkedIn review",
           "url": "https://www.linkedin.com/posts/williammilisic_cultures-nations-religions-and-people-activity-7168854993356230656-UZ9h"
-        }
-      ]
-    },
-    {
-      "title": "Critical Chain",
-      "author": "Eliyahu M. Goldratt",
-      "authors": [
-        "Eliyahu M. Goldratt"
-      ],
-      "month": "February",
-      "year": "2024",
-      "section_year": "2024",
-      "note": "",
-      "reread": false,
-      "reviewed": true,
-      "links": [
-        {
-          "label": "LinkedIn review",
-          "url": "https://www.linkedin.com/posts/williammilisic_i-recently-finished-eliyahu-m-goldratts-activity-7165960713742622720-5pqM"
         }
       ]
     },
@@ -2121,20 +2012,6 @@
       ]
     },
     {
-      "title": "Ask Your Developer",
-      "author": "Jeff Lawson",
-      "authors": [
-        "Jeff Lawson"
-      ],
-      "month": "March",
-      "year": "2021",
-      "section_year": "2021",
-      "note": "",
-      "reread": false,
-      "reviewed": false,
-      "links": []
-    },
-    {
       "title": "No Rules Rules",
       "author": "Reed Hastings, Erin Meyer",
       "authors": [
@@ -2200,20 +2077,6 @@
           "url": "https://www.linkedin.com/feed/update/urn:li:share:6728816055340298240"
         }
       ]
-    },
-    {
-      "title": "Leadership Is Language",
-      "author": "L. David Marquet",
-      "authors": [
-        "L. David Marquet"
-      ],
-      "month": "August",
-      "year": "2020",
-      "section_year": "2020",
-      "note": "",
-      "reread": false,
-      "reviewed": false,
-      "links": []
     },
     {
       "title": "The Obstacle Is the Way",
@@ -2296,20 +2159,6 @@
           "url": "https://www.linkedin.com/feed/update/urn:li:activity:6638587213485481984/"
         }
       ]
-    },
-    {
-      "title": "Transforming Nokia",
-      "author": "Risto Siilasmaa",
-      "authors": [
-        "Risto Siilasmaa"
-      ],
-      "month": "January",
-      "year": "2020",
-      "section_year": "2020",
-      "note": "",
-      "reread": false,
-      "reviewed": false,
-      "links": []
     },
     {
       "title": "My story",
@@ -2589,20 +2438,6 @@
       ]
     },
     {
-      "title": "The Lean Startup",
-      "author": "Eric Ries",
-      "authors": [
-        "Eric Ries"
-      ],
-      "month": "July",
-      "year": "2019",
-      "section_year": "2019",
-      "note": "",
-      "reread": false,
-      "reviewed": false,
-      "links": []
-    },
-    {
       "title": "How to Be Right",
       "author": "James O'Brien",
       "authors": [
@@ -2650,34 +2485,6 @@
           "url": "https://www.linkedin.com/feed/update/urn:li:activity:6533839233969377280/"
         }
       ]
-    },
-    {
-      "title": "Radical Candor",
-      "author": "Kim Scott",
-      "authors": [
-        "Kim Scott"
-      ],
-      "month": "March",
-      "year": "2019",
-      "section_year": "2019",
-      "note": "",
-      "reread": false,
-      "reviewed": false,
-      "links": []
-    },
-    {
-      "title": "Toyota Kata",
-      "author": "Mike Rother",
-      "authors": [
-        "Mike Rother"
-      ],
-      "month": "March",
-      "year": "2019",
-      "section_year": "2019",
-      "note": "",
-      "reread": false,
-      "reviewed": false,
-      "links": []
     },
     {
       "title": "Measure What Matters",
