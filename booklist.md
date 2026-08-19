@@ -88,6 +88,9 @@ Back to [main](index.md).
 
 ## 2024
 
+* **Critical Chain**
+<br/>By: Eliyahu M. Goldratt<br/>February 2024 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:share:7165960710802419713)
+
 * **Flow Engineering**
 <br/>By: Steve Pereira & Andrew Davis<br/>December 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_recently-i-had-the-chance-to-listen-to-the-activity-7275399028127731712-sCiO)
 
@@ -220,6 +223,12 @@ Back to [main](index.md).
 
 ## 2021
 
+* **The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth**
+<br/>By: listening to<br/>March 2021 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:share:6775671866758590464)
+
+* **Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century**
+<br/>By: listening to<br/>March 2021 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:share:6780847041657495552)
+
 * **The Delicate Art of Bureaucracy**
 <br/>By:  Mark Schwartz <br/>December 2021 
 
@@ -259,6 +268,12 @@ Back to [main](index.md).
 
 ## 2020
 
+* **Transforming Nokia**
+<br/>By: listening to<br/>January 2020 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:share:6625894424549302272)
+
+* **Leadership Is Language**
+<br/>By: listening to<br/>November 2020 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:share:6728816055340298240)
+
 * **Leadership Is Language**
 <br/>By:  L. David Marquet <br/>August 2020
 
@@ -282,6 +297,33 @@ Back to [main](index.md).
 
 
 ## 2019
+
+* **My story**
+<br/>By: listening to<br/>February 2019 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:share:6498294594172657664)
+
+* **Toyota Kata**
+<br/>By: the excellent<br/>March 2019 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:share:6516099101325557760)
+
+* **Radical Candor**
+<br/>By: listening to<br/>April 2019 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:share:6522216618875977729)
+
+* **Lean Thinking: Banish Waste and Create Wealth in Your Corporation**
+<br/>By: listening to<br/>May 2019 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:share:6530309882158022656)
+
+* **Continuous Delivery with Spinnaker**
+<br/>By: reading<br/>June 2019 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:share:6549410560767778816)
+
+* **INSPIRED: How to Create Tech Products Customers Love**
+<br/>By: listening to<br/>September 2019 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:share:6579432676569161728)
+
+* **The Lean Startup: How Today**
+<br/>By: listening to<br/>September 2019 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:share:6582035918373310464)
+
+* **Sagan om Spotify**
+<br/>By: Erik Wisterberg and Jon Mauno Pettersson.<br/>November 2019 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:share:6600627243511230465)
+
+* **The Human Side of Agile - How To Help Your Team Deliver**
+<br/>By: listening to<br/>December 2019 <br/>[LinkedIn review](https://www.linkedin.com/feed/update/urn:li:share:6607419861691879424)
 
 * **The Unicorn Project**
 <br/>By:  Gene Kim <br/>December 2019
