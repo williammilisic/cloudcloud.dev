@@ -1,0 +1,48 @@
+---
+layout: default
+---
+{%- comment -%}
+A single dated entry. These pages are what a search result or the feed links to,
+so each one carries the site nav and a way through to the entries on either side
+rather than ending the visit.
+
+Jekyll's previous and next are positional, so which of the two is the older entry
+is decided by comparing the dates rather than assumed.
+{%- endcomment -%}
+{%- assign older = false -%}
+{%- assign newer = false -%}
+{%- if page.previous -%}
+  {%- if page.previous.date < page.date -%}
+    {%- assign older = page.previous -%}
+  {%- elsif page.previous.date > page.date -%}
+    {%- assign newer = page.previous -%}
+  {%- endif -%}
+{%- endif -%}
+{%- if page.next -%}
+  {%- if page.next.date < page.date -%}
+    {%- assign older = page.next -%}
+  {%- elsif page.next.date > page.date -%}
+    {%- assign newer = page.next -%}
+  {%- endif -%}
+{%- endif -%}
+{% include site-nav.html %}
+
+<h1 class="entry-title">{{ page.title }}</h1>
+
+{{ content }}
+
+<nav class="entry-pager" aria-label="Nearby entries">
+  <span class="pager-side pager-older">
+    {%- if older %}
+    <a href="{{ older.url | relative_url }}" rel="prev">&larr; {{ older.title }}</a>
+    {%- endif %}
+  </span>
+  <span class="pager-side pager-all">
+    <a href="{{ '/' | relative_url }}">All entries</a>
+  </span>
+  <span class="pager-side pager-newer">
+    {%- if newer %}
+    <a href="{{ newer.url | relative_url }}" rel="next">{{ newer.title }} &rarr;</a>
+    {%- endif %}
+  </span>
+</nav>

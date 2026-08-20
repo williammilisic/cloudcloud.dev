@@ -1,0 +1,13 @@
+{%- comment -%}
+The links across the top of the site. The home page carries them as markdown of
+its own; this exists so that the dated entry pages, which a search result or the
+feed drops people straight into, are not a dead end.
+{%- endcomment -%}
+<p class="site-nav">
+  <a href="{{ '/' | relative_url }}">cloudcloud.dev</a> |
+  <a href="{{ '/feed.xml' | relative_url }}">RSS</a> |
+  <a href="{{ '/linkedin/' | relative_url }}">LinkedIn posts</a> |
+  <a href="{{ '/booklist.html' | relative_url }}">Books List</a> |
+  <a href="{{ '/bookstats.html' | relative_url }}">Books in numbers</a> |
+  <a href="{{ '/podcastlist.html' | relative_url }}">Podcasts List</a>
+</p>

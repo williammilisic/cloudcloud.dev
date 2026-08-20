@@ -6,6 +6,39 @@ wraps page content in a section element, where a style element is not allowed,
 and each include emitted its rules again every time it was invoked.
 */
 
+/* entry.html: the dated entry pages, which people arrive at from search or the
+   feed rather than from the front page */
+.site-nav {
+  margin: 0 0 1.4em;
+  padding-bottom: 0.7em;
+  border-bottom: 1px solid #dcdcdc;
+  font-size: 0.85em;
+  color: #6d6d6d;
+}
+.entry-title {
+  margin-top: 0;
+}
+.entry-pager {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.6em 1.2em;
+  margin-top: 2.2em;
+  padding-top: 0.9em;
+  border-top: 1px solid #dcdcdc;
+  font-size: 0.85em;
+}
+.entry-pager .pager-side {
+  flex: 1 1 auto;
+}
+.entry-pager .pager-all {
+  flex: 0 0 auto;
+  order: 2;
+  text-align: center;
+}
+.entry-pager .pager-older { order: 1; }
+.entry-pager .pager-newer { order: 3; text-align: right; }
+
 /* linkedin-nav.html: the filter strip above every archive page */
 .count-reposted { color: #4d6b8a; }
 /* Keeps the breakdown from pushing section headings onto a second

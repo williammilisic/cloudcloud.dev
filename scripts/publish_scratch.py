@@ -107,7 +107,7 @@ def write_entry(day, content):
     title = title_for(day)
     front = [
         "---",
-        "layout: default",
+        "layout: entry",
         'title: "%s"' % title,
         "date: %s" % day.isoformat(),
         "permalink: /%04d/%02d/%02d/" % (day.year, day.month, day.day),
