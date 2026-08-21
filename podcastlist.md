@@ -52,3 +52,13 @@ A miniseries about product strategy, looking into the decisions that have guided
 ### Babbage | The Economist Podcasts
 Reports on the intersections between science, technology, culture and policy.
 [Link](https://open.spotify.com/show/2ZFDmgDS2Z6xccP51s1zFQ)
+
+### Radio Atlantic | The Atlantic
+The Atlantic's flagship show, hosted by Hanna Rosin and Adam Harris, carrying the magazine's ideas-driven journalism over into audio.
+Each episode takes one of the ideas sitting underneath the news and tests it in conversation with the writers covering it, which makes it a useful counterweight to the daily tech shows.
+[Link](https://www.theatlantic.com/podcasts/radio-atlantic/)
+
+### FT Tech Tonic
+The Financial Times' technology show, which runs in themed seasons rather than as a news round-up.
+Each season takes one subject and works through it over several episodes with the FT journalists who cover it, so recent runs have gone deep on the rivalry between the frontier AI labs and on how technology is reshaping sport.
+[Link](https://www.ft.com/tech-tonic)
