@@ -39,6 +39,56 @@ and each include emitted its rules again every time it was invoked.
 .entry-pager .pager-older { order: 1; }
 .entry-pager .pager-newer { order: 3; text-align: right; }
 
+/* search.md: the keyword search over the archive */
+.archive-search {
+  margin: 1.2em 0 0.6em;
+}
+.archive-search label {
+  display: block;
+  margin-bottom: 0.35em;
+  font-size: 0.85em;
+  color: #6d6d6d;
+}
+.archive-search input {
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 32em;
+  padding: 0.55em 0.7em;
+  border: 1px solid #c9c9c9;
+  border-radius: 5px;
+  font-size: 1em;
+  font-family: inherit;
+}
+.archive-search input:focus {
+  outline: 2px solid #4183c4;
+  outline-offset: 1px;
+}
+.search-status {
+  margin: 0.4em 0 0;
+  font-size: 0.85em;
+  color: #6d6d6d;
+}
+#search-results mark {
+  padding: 0 0.1em;
+  background: #ffec99;
+  color: inherit;
+}
+.search-more {
+  margin-top: 1em;
+}
+.search-more button {
+  padding: 0.45em 0.9em;
+  border: 1px solid #c9c9c9;
+  border-radius: 999px;
+  background: #f6f6f6;
+  font-size: 0.85em;
+  font-family: inherit;
+  cursor: pointer;
+}
+.search-more button:hover {
+  background: #ececec;
+}
+
 /* linkedin-nav.html: the filter strip above every archive page */
 .count-reposted { color: #4d6b8a; }
 /* Keeps the breakdown from pushing section headings onto a second

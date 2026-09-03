@@ -1,0 +1,38 @@
+---
+layout: null
+permalink: /linkedin/search-index.json
+---
+{%- comment -%}
+What the search page downloads. Jekyll rebuilds it from the archive on every
+build, so the nightly sync cannot leave the two out of step, and nothing derived
+has to be committed.
+
+Only the fields the search itself needs are here rather than the whole archive,
+which is roughly three megabytes of media urls, reaction breakdowns and profile
+pictures that a keyword search has no use for. The keys are single letters for
+the same reason: at thirteen hundred posts the names would cost more than the
+values.
+
+  d  the day it was posted
+  t  the text, which is both what is matched and what the snippet is cut from
+  u  the permalink, only when it is one a browser should follow, with LinkedIn's
+     share tracking trimmed off the end: it is a sixth of the whole download and
+     the post opens the same without it
+  a  the original author, only on reposts, since own posts are the default
+  x  set when the archive only holds a preview of the post
+
+The scheme check on u mirrors the one in linkedin-post-cards.html, so the page
+can attach a href without re-examining scraped data.
+{%- endcomment -%}
+[
+{%- for post in site.data.linkedin-posts.data.posts -%}
+{%- unless forloop.first %},{% endunless %}
+{%- assign author_name = post.author.first_name | append: " " | append: post.author.last_name | strip -%}
+{%- assign url_scheme = post.url | slice: 0, 8 -%}
+{%- assign post_url = post.url | split: "?" | first -%}
+{"d":{{ post.posted_at.date | date: "%Y-%m-%d" | jsonify }},"t":{{ post.text | jsonify }}
+{%- if url_scheme == "https://" %},"u":{{ post_url | jsonify }}{% endif %}
+{%- if post.author.username != "williammilisic" and author_name != "" %},"a":{{ author_name | jsonify }}{% endif %}
+{%- if post.text_truncated %},"x":1{% endif %}}
+{%- endfor %}
+]

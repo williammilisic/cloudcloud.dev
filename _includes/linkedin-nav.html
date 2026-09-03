@@ -30,6 +30,8 @@ landing page arrives here as "linkedin" rather than as an empty leaf.
      {%- if nav_leaf contains "reactions" %} aria-current="page"{% endif %}>By Reactions</a>
   <a href="comments.html" class="list-filter{% if nav_leaf contains "comments" %} is-current{% endif %}"
      {%- if nav_leaf contains "comments" %} aria-current="page"{% endif %}>By Comments</a>
+  <a href="search.html" class="list-filter{% if nav_leaf == "search" %} is-current{% endif %}"
+     {%- if nav_leaf == "search" %} aria-current="page"{% endif %}>Search</a>
 </div>
 <div class="list-filters">
   {%- for archive_year in archive_years %}
