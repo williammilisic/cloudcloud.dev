@@ -11,3 +11,4 @@ Or open with a date heading to backdate an entry, or to write several at once:
     ## 9 August 2026
     * Something from yesterday.
 -->
+"*I love deadlines. I like the whooshing sound they make as they fly by.*" - Douglas Adams
