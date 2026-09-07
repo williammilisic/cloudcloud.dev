@@ -60,6 +60,16 @@ jobs:
       - name: Remove temporary posts file
         run: rm -f linkedin-posts.json
 
+      # LinkedIn signs its media links with an expiry roughly a month out and
+      # answers 403 afterwards, so an image can only be fetched in the window
+      # between the sync that recorded its link and that moment. Running this
+      # here, on the links the merge has just refreshed, is what keeps the
+      # archive from filling up with links to pictures nobody can load. Already
+      # saved images are skipped, so a run that finds nothing new costs nothing.
+      - name: Save any new post images
+        run: |
+          python scripts/download_post_media.py
+
       - name: Sync new book reviews to booklist.md
         run: |
           python scripts/update_booklist.py
@@ -74,7 +84,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add _data/linkedin-posts.json booklist.md _data/books.json
+          git add _data/linkedin-posts.json booklist.md _data/books.json assets/images/linkedin
           if [ -n "$(git status --porcelain)" ]; then
             git commit -m "Update LinkedIn posts and booklist.md $(date -u +'%Y-%m-%d')"
             git push

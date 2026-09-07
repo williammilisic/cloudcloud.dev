@@ -1,5 +1,4 @@
 *.save
 _site/
-assets/images/linkedin/
 .jekyll-cache/
 .jekyll-metadata
