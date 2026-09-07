@@ -1,4 +1,1437 @@
 {
+  "2025-01-02-a7f794bcb1.jpg": {
+    "bytes": 18387,
+    "path": "/dms/image/v2/D4D22AQGybxmUXStwlA/feedshare-shrink_1280/B4DZQrIrfiG0Ak-/0/1735890484089",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_life-leadership-personalgrowth-activity-7280852405280231424-ftkC",
+    "posted": "2025-01-02",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "b68911c520b1d0028939bdbdcb6e5fe20b99c60eefc18eb18fed83dde2c10531",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQGybxmUXStwlA/feedshare-shrink_1280/B4DZQrIrfiG0Ak-/0/1735890484089?e=1790208000&v=beta&t=E41aXJEU6WwpLoh21Xc4il8b0H1TyKiX0W_kQBYAyAA"
+  },
+  "2025-01-07-694c98bcf9.jpg": {
+    "bytes": 43374,
+    "path": "/dms/image/v2/D4D22AQF3BmZ9le8oQQ/feedshare-shrink_1280/B4DZREmpivGkAk-/0/1736317770946",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_how-do-you-objectively-assess-the-operational-activity-7282644576442474496-DC4N",
+    "posted": "2025-01-07",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "31e796a6d2b2c3191a7f54b08e381b0707bafbf79fba3e53293ebb746cf7c173",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQF3BmZ9le8oQQ/feedshare-shrink_1280/B4DZREmpivGkAk-/0/1736317770946?e=1790208000&v=beta&t=feZdDS0c3rgh27RXL5UCLZdP5zBt_JNDCg9GsYwakVw"
+  },
+  "2025-01-07-a335b20956.jpg": {
+    "bytes": 281717,
+    "path": "/dms/image/v2/D4D22AQFWjsEs0lb5ug/feedshare-shrink_1280/B4DZQ_yInCG0As-/0/1736236900079",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_commuting-running-sebtech-activity-7282305395522498561-f9x9",
+    "posted": "2025-01-07",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "47e0dec201ada58cddfe28c6acd6b954b515c0e428b349a25f53b4c15e24db81",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQFWjsEs0lb5ug/feedshare-shrink_1280/B4DZQ_yInCG0As-/0/1736236900079?e=1790208000&v=beta&t=7v6cYtnU9UohhOoYfR5uGz6UhKxYuG3tbmFLCECii5c"
+  },
+  "2025-01-14-1799273254.jpg": {
+    "bytes": 359772,
+    "path": "/dms/image/v2/D5622AQEGQAGNaWDLOg/feedshare-shrink_1280/B56ZRou.a6HoAw-/0/1736923936311",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_leadership-inclusion-communication-activity-7285187019306151938-OM8x",
+    "posted": "2025-01-14",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "8714dc62b6bc26cb12405e2f26544a8af54820a0da30998ce414edd3f7ff4b9e",
+    "url": "https://media.licdn.com/dms/image/v2/D5622AQEGQAGNaWDLOg/feedshare-shrink_1280/B56ZRou.a6HoAw-/0/1736923936311?e=1790208000&v=beta&t=kCNcdHFYiNxvogQ7rcEi2KYTFLwFBXsYqpUP74nD34E"
+  },
+  "2025-01-19-aeafa7466c.jpg": {
+    "bytes": 271815,
+    "path": "/dms/image/v2/D4D22AQEv_aAgalXhMA/feedshare-shrink_1280/B4DZSCWP7PHIAk-/0/1737353667489",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_guidebook-engineer-ceo-activity-7286989443196948480-4oqZ",
+    "posted": "2025-01-19",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "3b3af0429c3ebce9a4cd8723c1656006f77d378ab59758a32d22fadb1a7378fe",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQEv_aAgalXhMA/feedshare-shrink_1280/B4DZSCWP7PHIAk-/0/1737353667489?e=1790208000&v=beta&t=34QoK6k9QEw61ggmvjSOjYpfHU-QjR3H3-IUJ6RN2KU"
+  },
+  "2025-01-22-a8a1a44f2c.jpg": {
+    "bytes": 56158,
+    "path": "/dms/image/v2/D4D22AQGSpCGKWRlREA/feedshare-shrink_1280/B4DZSPsA8iHIAk-/0/1737577468701",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_disinformation-polarisation-technological-activity-7287928135038242816-B6vy",
+    "posted": "2025-01-22",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "150841de7a25dafb087036c22c4c0077c3db0700a23ff16404d22019982f124e",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQGSpCGKWRlREA/feedshare-shrink_1280/B4DZSPsA8iHIAk-/0/1737577468701?e=1790208000&v=beta&t=khiuKvymzPsxgEmYz0G5SD2r6IluKEieTMRft5yUZ5E"
+  },
+  "2025-01-28-3036531c11.jpg": {
+    "bytes": 106940,
+    "path": "/dms/image/v2/D4D22AQFxIC1nkeZ7LQ/feedshare-shrink_1280/B4DZSwwG0hG8Ak-/0/1738132190519",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_jim-collins-nokia-activity-7290254807116750850-XseZ",
+    "posted": "2025-01-28",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "14c356dd3da63adb7ee4fe68de0b64c30d8da2e3b87b9b8ed62f027342f9db92",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQFxIC1nkeZ7LQ/feedshare-shrink_1280/B4DZSwwG0hG8Ak-/0/1738132190519?e=1790208000&v=beta&t=-bVFY9geZajrHcu5Wa97Odxo59kWoVBXAXZkS4zFvYA"
+  },
+  "2025-01-28-41e61f6d41.jpg": {
+    "bytes": 56169,
+    "path": "/dms/image/v2/D4D22AQGnAaOgw891cA/feedshare-shrink_1280/B4DZSud6.oH0Ak-/0/1738093869966",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_runcommute-activity-7290094083090345984-P8U-",
+    "posted": "2025-01-28",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "b544a6cf9e30a50efa45c8e89823192aec90fe4ba8dea14e51a45845d5f57722",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQGnAaOgw891cA/feedshare-shrink_1280/B4DZSud6.oH0Ak-/0/1738093869966?e=1790208000&v=beta&t=jPyq4ebjQXxr2pJPF6hkf_GhNnj3T6EVF5nLcaHMTyw"
+  },
+  "2025-01-29-7e31151708.jpg": {
+    "bytes": 57517,
+    "path": "/dms/image/v2/D4D22AQFl2IORT4ZmtQ/feedshare-shrink_1280/B4DZSy9pvOHkAk-/0/1738169294533",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_cloudcomputing-sustainability-cfe-activity-7290410428319305729-eK-i",
+    "posted": "2025-01-29",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "ef80212d0d1ab5fc1c087e237b181284e01da755a326ac6a8b1af542c45efeed",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQFl2IORT4ZmtQ/feedshare-shrink_1280/B4DZSy9pvOHkAk-/0/1738169294533?e=1790208000&v=beta&t=WVFHEcVI2XlDCu6xW7-SxwyMBZXMHnnB9lUioNAmAEE"
+  },
+  "2025-02-03-0d5528ed73.jpg": {
+    "bytes": 79594,
+    "path": "/dms/image/v2/D4D22AQFkMkGq-zKU2w/feedshare-shrink_1280/B4DZTPo.UuG4Ak-/0/1738650413369",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_codebase-application-cloud-activity-7292428390500868096-0TPe",
+    "posted": "2025-02-03",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "e383a60b3cc6c43a9674d253ddafc1bff5880f4b0309eb2bfc81a072e0dfbb87",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQFkMkGq-zKU2w/feedshare-shrink_1280/B4DZTPo.UuG4Ak-/0/1738650413369?e=1790208000&v=beta&t=syWm9fKrUUFQsa2itSuYtih1BMTbtbTSPEyqRC9P6IA"
+  },
+  "2025-02-07-2632043d66.jpg": {
+    "bytes": 302084,
+    "path": "/dms/image/v2/D4D22AQFlMqWhaSrdBw/feedshare-shrink_1280/B4DZTkZ7ITHYAk-/0/1738998795435",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_recently-picked-up-gregor-hohpes-cloud-activity-7293889613071368194-R5_r",
+    "posted": "2025-02-07",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "776d04ec223e2856148113173ef35f5e7317c7846fb645848f0b20121af0e343",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQFlMqWhaSrdBw/feedshare-shrink_1280/B4DZTkZ7ITHYAk-/0/1738998795435?e=1790208000&v=beta&t=0ID0a2hY5OboUFgZz651hsirGNvckNB2ZgSRbuMty9s"
+  },
+  "2025-02-11-f033d509cd.jpg": {
+    "bytes": 87705,
+    "path": "/dms/image/v2/D4D22AQHwY-JEfD-2Nw/feedshare-shrink_1280/B4DZT25zBEGcAk-/0/1739309174837",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_charter-for-a-competitive-diverse-dynamic-activity-7295191435589382147-ulrm",
+    "posted": "2025-02-11",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "b0c5ede6324005da044d1a8e0389cff79779384d9502ae0d690f32fed62218c2",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQHwY-JEfD-2Nw/feedshare-shrink_1280/B4DZT25zBEGcAk-/0/1739309174837?e=1790208000&v=beta&t=q7ojRbTxvEKFIgEJ-0CQHc6PkGjA2lbaeeHhwEuYUCs"
+  },
+  "2025-02-12-a9991a4dc9.jpg": {
+    "bytes": 429793,
+    "path": "/dms/image/v2/D4D22AQH81Ek0yWtoPQ/feedshare-shrink_1280/B4DZT7wOQkHYAk-/0/1739390516308",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_identity-careerjourney-adaptibility-activity-7295532608443047936-3ckP",
+    "posted": "2025-02-12",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "46e32d8b6bdc73970cf329681e28b6265988a6cb8dd95265fc4e77c63a4828c5",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQH81Ek0yWtoPQ/feedshare-shrink_1280/B4DZT7wOQkHYAk-/0/1739390516308?e=1790208000&v=beta&t=3Gd0iv89DXThcy3hY347cSRZNTNU7Yjp8JFsClC82Zk"
+  },
+  "2025-02-14-bc69e84af4.jpg": {
+    "bytes": 223259,
+    "path": "/dms/image/v2/D4D22AQEpiNcSLWhbZw/feedshare-shrink_1280/B4DZUIasTYHIAk-/0/1739602973699",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_european-digitalsovereignty-dependencymanagement-activity-7296423719864819712-mysx",
+    "posted": "2025-02-14",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "bb5ea02204098893bd3dd8bf01eecfe865edc7b2d07b6ba532efa00d39a16248",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQEpiNcSLWhbZw/feedshare-shrink_1280/B4DZUIasTYHIAk-/0/1739602973699?e=1790208000&v=beta&t=yol3XW_tKoUHck-saChH6m-Ag52Fka0Khi6ysi4Ru3s"
+  },
+  "2025-02-19-bb8f83b332.jpg": {
+    "bytes": 184545,
+    "path": "/dms/image/v2/D4D22AQFmij21H9inIg/feedshare-shrink_1280/B4DZUfvL6mHYA0-/0/1739994301816",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_leadership-growthmindset-transparency-activity-7298065065478381568-wW2D",
+    "posted": "2025-02-19",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "9f6534e18a60cab7b71aeb7ec124b296635cc5f517b0b0902b760ae49f5f07f8",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQFmij21H9inIg/feedshare-shrink_1280/B4DZUfvL6mHYA0-/0/1739994301816?e=1790208000&v=beta&t=oEAzppSpJtblxvGjJGMKy19BS4cUAXgy4xlx24nUU4Y"
+  },
+  "2025-02-20-40959b0422.jpg": {
+    "bytes": 21360,
+    "path": "/dms/image/v2/D4D22AQGtma5IeA2IKg/feedshare-shrink_1280/B4DZUk2ihLG4Ak-/0/1740080032399",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_russian-ukraine-struggle-activity-7298424644083056642-hV33",
+    "posted": "2025-02-20",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "c62e98e7aaae22a4b6554af42bcb491dc03bb7043000c124bf46387a42031d76",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQGtma5IeA2IKg/feedshare-shrink_1280/B4DZUk2ihLG4Ak-/0/1740080032399?e=1790208000&v=beta&t=ncBlS3c5lOtEuu7EFhuhchsAWdwzaExvZ6YCfDJ8_1A"
+  },
+  "2025-02-22-350bbc581d.jpg": {
+    "bytes": 117932,
+    "path": "/dms/image/v2/D4D22AQGoLwIjq_0IXw/feedshare-shrink_1280/B4DZUtDxwdG8Ak-/0/1740217720884",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_paxamericana-activity-7299002154327932929-MyS6",
+    "posted": "2025-02-22",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "ed85bd182064fac4244bd0c58e6411e854c94740a5cef323c7ceefb1b96558ab",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQGoLwIjq_0IXw/feedshare-shrink_1280/B4DZUtDxwdG8Ak-/0/1740217720884?e=1790208000&v=beta&t=Gr_fFDL9fbc0Mpg1Bw1i_HtbWKcj1oql4A1cpQDnUe4"
+  },
+  "2025-02-23-fd50ee90cf.jpg": {
+    "bytes": 223939,
+    "path": "/dms/image/v2/D4D22AQEyCLJoV0M3rQ/feedshare-shrink_1280/B4DZU2m5ATGkAk-/0/1740377922651",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_fitness-parenting-qualitytime-activity-7299674085762981888-hJNE",
+    "posted": "2025-02-23",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "c34b7522c1b1fd177b39c9d6b04d26b166d1b94d3ab80791cceeb31da78319db",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQEyCLJoV0M3rQ/feedshare-shrink_1280/B4DZU2m5ATGkAk-/0/1740377922651?e=1790208000&v=beta&t=ffhzl8sj9xtG9xHJvYifT6NAPO0puFPpmuNJuA-ZJ3k"
+  },
+  "2025-02-27-9fde55d625.jpg": {
+    "bytes": 170731,
+    "path": "/dms/image/v2/D4D22AQG_kJ87y3ZTpw/feedshare-shrink_1280/B4DZVIv.AQHYAk-/0/1740682290676",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_authenticity-leadership-courage-activity-7300950703148003329-WNoF",
+    "posted": "2025-02-27",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "f21fd8abb71af2b99d1f8b01f88a78bd130e70db155e8c338a4a69294825fc4e",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQG_kJ87y3ZTpw/feedshare-shrink_1280/B4DZVIv.AQHYAk-/0/1740682290676?e=1790208000&v=beta&t=KI9Ubt8WNwaqL31TVz3Ate503gSR4aSUKCbf6kUqSeE"
+  },
+  "2025-03-04-2fa4d08b2e.jpg": {
+    "bytes": 27358,
+    "path": "/dms/image/v2/D4D22AQH-o3-f53RD_g/feedshare-shrink_1280/B4DZVfv5YjHkAo-/0/1741068147132",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_leadership-hardconversations-feedbackculture-activity-7302569098800959489-vlGB",
+    "posted": "2025-03-04",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "5dac579170712f8ff2af9df025954a9d95959d8cd53bab6a58eb450e88da0621",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQH-o3-f53RD_g/feedshare-shrink_1280/B4DZVfv5YjHkAo-/0/1741068147132?e=1790208000&v=beta&t=botoLZ7pfnOND8HecllM2NZSutp08l-5S8mWn7ZCOag"
+  },
+  "2025-03-05-c109240a84.jpg": {
+    "bytes": 35738,
+    "path": "/dms/image/v2/D4D22AQGyG9Mq988poA/feedshare-shrink_1280/B4DZVn1mJPGkAo-/0/1741203858756",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_europe-union-democracy-activity-7303138315703099392-Fjfj",
+    "posted": "2025-03-05",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "e50547675b38d3f9fc7ddfa2fb556eeaf8e8a837d5b8174d6cee4a411d7f20b4",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQGyG9Mq988poA/feedshare-shrink_1280/B4DZVn1mJPGkAo-/0/1741203858756?e=1790208000&v=beta&t=kJExGJ6WvYlP9Miy_vzMngbIlXXSJafTBrPem_ec_xk"
+  },
+  "2025-03-08-be3d8358df.jpg": {
+    "bytes": 167553,
+    "path": "/dms/image/v2/D4D22AQEcx7S4Zk5Ezg/feedshare-shrink_1280/B4DZV0atFKHkAo-/0/1741414914019",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_staygrounded-focusonthegood-reconnect-activity-7304023543682363392-g6Xt",
+    "posted": "2025-03-08",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "a32fc8830c910d7fed15d9da2d062879229165d9624932bc38c64cf9586656b2",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQEcx7S4Zk5Ezg/feedshare-shrink_1280/B4DZV0atFKHkAo-/0/1741414914019?e=1790208000&v=beta&t=rCFHN87CDKw-6-pqPKe0AW-aTHCC9oq4dXulwLEhqAo"
+  },
+  "2025-03-17-42a28b56b8.jpg": {
+    "bytes": 181330,
+    "path": "/dms/image/v2/D4D22AQGGDnRJVoyNog/feedshare-shrink_1280/B4DZWlvTvyHkAk-/0/1742242399188",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_stpatricksday-europe-resilience-activity-7307494269089378304-WGvE",
+    "posted": "2025-03-17",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "1d4a7e56f4969ff41eb43a9c52971f739b2491863a7fc9b2a187d5a3b9bafd4e",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQGGDnRJVoyNog/feedshare-shrink_1280/B4DZWlvTvyHkAk-/0/1742242399188?e=1790208000&v=beta&t=9V-wXPycEi6ujApROnCKEF-_FF1tFr_-fSxWJAjWNSs"
+  },
+  "2025-03-19-f40996b83d.jpg": {
+    "bytes": 24489,
+    "path": "/dms/image/v2/D4D22AQEw-F3hhIvStw/feedshare-shrink_1280/B4DZWtBXx4G4Ao-/0/1742364573836",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_wit-womenintech-sebtech-activity-7308006709824778240-2OzX",
+    "posted": "2025-03-19",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "ea2d05700396f339d70fef989eb5216a67e247f988fcf3c3e8d4ff9cca06a012",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQEw-F3hhIvStw/feedshare-shrink_1280/B4DZWtBXx4G4Ao-/0/1742364573836?e=1790208000&v=beta&t=bheK7ucGDqmvZBTBQZjUlbjk0tOhUDSAc50xutMss2k"
+  },
+  "2025-03-26-9f041d4b2a.jpg": {
+    "bytes": 215013,
+    "path": "/dms/image/v2/D4D22AQE_WWEQQubjxg/feedshare-shrink_1280/B4DZXReBY1HAAk-/0/1742976065018",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_leadership-teambuilding-changemanagement-activity-7310571488372285441-a_w4",
+    "posted": "2025-03-26",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "fa0167ddb6fe60540052f27912f586b66694311045755a254323e0c3a49007ff",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQE_WWEQQubjxg/feedshare-shrink_1280/B4DZXReBY1HAAk-/0/1742976065018?e=1790208000&v=beta&t=dgjlK40S1SbQUH7sOmzjHNSZEGDLmH66k2dbgVHD2yE"
+  },
+  "2025-03-28-58ed24cee9.jpg": {
+    "bytes": 123963,
+    "path": "/dms/image/v2/D4D22AQEjAO1pPofKsA/feedshare-shrink_1280/B4DZXbY.dJHYAo-/0/1743142513699",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_cloudmigration-digitaltransformation-techstrategy-activity-7311269620936564736-ULR5",
+    "posted": "2025-03-28",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "6a7e4448a8a079db3592adda035cef4a6b61ad72a8c59694a257c2ef543564fb",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQEjAO1pPofKsA/feedshare-shrink_1280/B4DZXbY.dJHYAo-/0/1743142513699?e=1790208000&v=beta&t=5qWJKTIvpvXKH1Rv63HcCZqtSEhoy2GjHQ2ENykzutU"
+  },
+  "2025-04-01-117993adaf.jpg": {
+    "bytes": 138419,
+    "path": "/dms/image/v2/D4D22AQGuQ-H_XOCWXA/feedshare-shrink_1280/B4DZXvvRljH4Ak-/0/1743483903707",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_authoritarianism-democracy-freedom-activity-7312701515712860160-Wq9t",
+    "posted": "2025-04-01",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "a1a046284825c9e2aa400db2f0ad9174304e68cfb2c616dc1b0562e28228d527",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQGuQ-H_XOCWXA/feedshare-shrink_1280/B4DZXvvRljH4Ak-/0/1743483903707?e=1790208000&v=beta&t=f-cfddl7iUzGjUUk8bF_VMCuTxSkgKGJ62gYj6aNtLA"
+  },
+  "2025-04-02-9ec320864e.jpg": {
+    "bytes": 141704,
+    "path": "/dms/image/v2/D4D22AQFqJzWg0p310w/feedshare-shrink_1280/B4DZX3pTFaGkAk-/0/1743616554663",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_rearm-europe-madeineurope-activity-7313257897705009152-tKh1",
+    "posted": "2025-04-02",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "8d19d59a6844d431fb60f9396d5abbe08621a76b0958bf6ee6b31009e2a02de5",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQFqJzWg0p310w/feedshare-shrink_1280/B4DZX3pTFaGkAk-/0/1743616554663?e=1790208000&v=beta&t=y6TTUl1qZ-KUJNcdfF8UhGvDRUffMCxp6XMTl8vnOcM"
+  },
+  "2025-04-04-20ef11f2bb.jpg": {
+    "bytes": 85363,
+    "path": "/dms/image/v2/D4D22AQGc4ZqMQZvkEQ/feedshare-shrink_1280/B4DZX_QfcgHIAk-/0/1743744269378",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_leadership-businessstrategy-innovation-activity-7313793573332643840-A0ms",
+    "posted": "2025-04-04",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "94fa31e2ed2dcb041b14628cb9f843265d9b4a068f1ce212beac5277277a4aa0",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQGc4ZqMQZvkEQ/feedshare-shrink_1280/B4DZX_QfcgHIAk-/0/1743744269378?e=1790208000&v=beta&t=Kuyxlw2KzDQJNkDgJUw-9zBpbfGnfEkvvg_YOOVRpcg"
+  },
+  "2025-04-05-51ba3bd5be.jpg": {
+    "bytes": 113597,
+    "path": "/dms/image/v2/D4D22AQGYztNGdYfC8w/feedshare-shrink_1280/B4DZYF94JHHIAk-/0/1743856832686",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_observability-devops-techstrategy-activity-7314265742000963584-HKdI",
+    "posted": "2025-04-05",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "36621c08adb8a6b419aa8b5e1bca69dee6c32975e2b0178332a67f782a35aa9c",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQGYztNGdYfC8w/feedshare-shrink_1280/B4DZYF94JHHIAk-/0/1743856832686?e=1790208000&v=beta&t=B6cdC-WsfkRL7o6YBZvpBefDZ6qB_qoqhFhwvCkj8G0"
+  },
+  "2025-04-09-813cd9639f.jpg": {
+    "bytes": 126155,
+    "path": "/dms/image/v2/D4D22AQFCvciuvWF-wg/feedshare-shrink_1280/B4DZYZDrhoGkAk-/0/1744177118286",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_finops-finops-cloudcostmanagement-activity-7315609068759351296-7zjP",
+    "posted": "2025-04-09",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "149d21aea3796df41af23db46b168cfa1df50e01576c4da67afb025f5a6da567",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQFCvciuvWF-wg/feedshare-shrink_1280/B4DZYZDrhoGkAk-/0/1744177118286?e=1790208000&v=beta&t=qaGp5FwHgXWNrCkod4ZqcvlcCQEWkqMm9XkFbJRzbwM"
+  },
+  "2025-04-10-bad52c6964.jpg": {
+    "bytes": 290647,
+    "path": "/dms/image/v2/D4D22AQF1z4or2axRaA/feedshare-shrink_1280/B4DZYeH8z.G8Ak-/0/1744262127803",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_leadershiplegacy-peoplefirst-leadwithheart-activity-7315965633769148417-EeIK",
+    "posted": "2025-04-10",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "f7757158e921d294f51094918385dae7079e969b5a4dca2c1387a851caa50da2",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQF1z4or2axRaA/feedshare-shrink_1280/B4DZYeH8z.G8Ak-/0/1744262127803?e=1790208000&v=beta&t=uyVC0AhcFQMZnwb5kxgDUt8VEdXygvd5BiUsNVxiwZE"
+  },
+  "2025-04-11-b7c591980d.jpg": {
+    "bytes": 150449,
+    "path": "/dms/image/v2/D5622AQFiMmJA6c5dVw/feedshare-shrink_1280/B56ZYjQdCoGcAk-/0/1744348239424",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_digitalsovereignty-digitalsovereignty-geopolitics-activity-7316326806972731393-JJ6K",
+    "posted": "2025-04-11",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "f70b35288c82dfc9168649ded7b467008aae6969500f79099ff3ff8c989b5cf2",
+    "url": "https://media.licdn.com/dms/image/v2/D5622AQFiMmJA6c5dVw/feedshare-shrink_1280/B56ZYjQdCoGcAk-/0/1744348239424?e=1790208000&v=beta&t=dMCqre3Ayt8WUgWgCnHaKYCPRJ4-nE0D3IlpVCjG8s4"
+  },
+  "2025-04-17-b5d93ffb0f.jpg": {
+    "bytes": 147731,
+    "path": "/dms/image/v2/D4D22AQFuee-_-eLJrw/feedshare-shrink_1280/B4DZZFETvLHwAo-/0/1744915480988",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_londoncalling-familyadventures-worklifebalance-activity-7318705986540572672-uvWj",
+    "posted": "2025-04-17",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "e81e71bd9e0b526c6dd927b7bb64de14e76ffbf2c38b37377a7a7e9c533077f8",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQFuee-_-eLJrw/feedshare-shrink_1280/B4DZZFETvLHwAo-/0/1744915480988?e=1790208000&v=beta&t=KRl7CNs2VcAdT4bjFFQa5TYNBDHu991QnfJP-jyshG0"
+  },
+  "2025-04-23-317ab9b459.jpg": {
+    "bytes": 197950,
+    "path": "/dms/image/v2/D4D22AQFAck56t6xM0A/feedshare-shrink_1280/B4DZZhs.mwH4Ak-/0/1745395908551",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_witswe2025-kickoff-sebtech-activity-7320721046645428226-j6pf",
+    "posted": "2025-04-23",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "56664e73c0fb74e60fa943f54e8ad6e03e5058b6ae99a51368922fb07b3f6635",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQFAck56t6xM0A/feedshare-shrink_1280/B4DZZhs.mwH4Ak-/0/1745395908551?e=1790208000&v=beta&t=5uKCf_Vudu2ypt1Nl--ez0BAYkSSsQiba7hNlB_LHoE"
+  },
+  "2025-04-23-b67bca495e.jpg": {
+    "bytes": 49776,
+    "path": "/dms/image/v2/D4D22AQEDIoqsi3Dckg/feedshare-shrink_1280/B4DZZhEH3dGsAk-/0/1745385193533",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_devops-cloudcomputing-softwareengineering-activity-7320676105781170177-S3-K",
+    "posted": "2025-04-23",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "642ec9f5334f15d44cc1cf6ceec03ed0bf4fb163d281dce8adf0b1d93e8bcc6b",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQEDIoqsi3Dckg/feedshare-shrink_1280/B4DZZhEH3dGsAk-/0/1745385193533?e=1790208000&v=beta&t=MKKF4C55kc94QGKQVmi8bsh9DDn-vjDq0ZBpAuvFDp0"
+  },
+  "2025-04-25-bac7ff0439.jpg": {
+    "bytes": 186312,
+    "path": "/dms/image/v2/D4D22AQHZ9qB4BouIJA/feedshare-shrink_1280/B4DZZrUm6iGgAo-/0/1745557288092",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_theeconomist-cover-americaneagle-activity-7321397919885017088-kzVs",
+    "posted": "2025-04-25",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "3363fb11fd00420e30359bb8bed14e305410e937ecf84f4721d94b53233fe3b6",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQHZ9qB4BouIJA/feedshare-shrink_1280/B4DZZrUm6iGgAo-/0/1745557288092?e=1790208000&v=beta&t=CvIo9uhMDvt2nkMwLSrAe9eBv1miJxv6eE_N6LqG6d0"
+  },
+  "2025-04-28-aa60777c77.jpg": {
+    "bytes": 45135,
+    "path": "/dms/image/v2/D4D22AQHwv9kTuauoaw/feedshare-shrink_1280/B4DZZ9r.qmGgAk-/0/1745865403983",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_america-americans-manufacturing-activity-7322690254765760512-SGpF",
+    "posted": "2025-04-28",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "81d814680aeb305fe75b764d824eaf09637a9cbac85ad8e25582d179e0f913c5",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQHwv9kTuauoaw/feedshare-shrink_1280/B4DZZ9r.qmGgAk-/0/1745865403983?e=1790208000&v=beta&t=vVhegdnYSOawNJBt0CIdwEQdCk-r1a7dv5jpf6ec7Wk"
+  },
+  "2025-04-30-05296fe9be.jpg": {
+    "bytes": 455541,
+    "path": "/dms/image/v2/D4D22AQHJX5NuLjJzfA/feedshare-shrink_1280/B4DZaHEO__G0Ak-/0/1746022762277",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_sebtech-sebcloud-fsi-activity-7323350260079050752-QcQq",
+    "posted": "2025-04-30",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "93e2d11a631877546f8702b3a306a43ffc2acc6298defdd92b5c28a51bf2f00a",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQHJX5NuLjJzfA/feedshare-shrink_1280/B4DZaHEO__G0Ak-/0/1746022762277?e=1790208000&v=beta&t=smEog3Xdj0ViZ8eJR__zH0Fc_GYFLUEC2KARxH3d1TA"
+  },
+  "2025-05-13-518a3fc0fa.jpg": {
+    "bytes": 32603,
+    "path": "/dms/image/v2/D4D22AQHmEGj0NEVieA/feedshare-shrink_1280/B4DZbIHh0wHEAk-/0/1747114139596",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_kubernetes-cloudcomputing-devops-activity-7327927829268992000-50Wn",
+    "posted": "2025-05-13",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "8e0e03d021d56a06afc3747ee5bb8b45e69e59ad1c9dc7f3122518eb35937ad4",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQHmEGj0NEVieA/feedshare-shrink_1280/B4DZbIHh0wHEAk-/0/1747114139596?e=1790208000&v=beta&t=l6GC9s2RNZfOhKnQMqbNqukvq5tBq8DrLWh2hBuT-es"
+  },
+  "2025-05-15-0af7b11cea.jpg": {
+    "bytes": 149594,
+    "path": "/dms/image/v2/D4D22AQFsgp1QSoTkhA/feedshare-shrink_1280/B4DZbSRUV_G0Ak-/0/1747284478995",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_leadership-productivity-strategy-activity-7328642288849436672-ep2R",
+    "posted": "2025-05-15",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "681c5a0fff94de7c2447a261fcf8464b2ef52e458d77454bbb344a03436dc911",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQFsgp1QSoTkhA/feedshare-shrink_1280/B4DZbSRUV_G0Ak-/0/1747284478995?e=1790208000&v=beta&t=FjJIWh5IFOVgO7kyVV6iqlh-GydYtrnt5c6TPt0Ni74"
+  },
+  "2025-05-16-9b47fbeba5.jpg": {
+    "bytes": 178127,
+    "path": "/dms/image/v2/D4D22AQFXP78h7vpFNg/feedshare-shrink_1280/B4DZbXgaw_HEA0-/0/1747372323021",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_productmanagement-agile-leadership-activity-7329010731603984386-bBSI",
+    "posted": "2025-05-16",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "4680b5b0b46ae373c9a76edbd23761c9294de48ccf1e2836a2221aa528cc5293",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQFXP78h7vpFNg/feedshare-shrink_1280/B4DZbXgaw_HEA0-/0/1747372323021?e=1790208000&v=beta&t=cdDvuLcfoivH7MvgCaRTBWK-8ZZ9PLiZMcXDCzK96CI"
+  },
+  "2025-05-19-f39c8f7ca7.jpg": {
+    "bytes": 20025,
+    "path": "/dms/image/v2/D4D22AQFUR8BZzH3Njg/feedshare-shrink_1280/B4DZbm6lzSH8Ak-/0/1747630841665",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_lifelonglearning-teachingmindset-growthoverego-activity-7330095034580516864-HHuU",
+    "posted": "2025-05-19",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "e40ed6f4abfc81a8caa53e65735b140abc31d0ff4656f2790ff6a3437f1979ac",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQFUR8BZzH3Njg/feedshare-shrink_1280/B4DZbm6lzSH8Ak-/0/1747630841665?e=1790208000&v=beta&t=Jv9outlBagYS_bo9xS7VnnME7GrEOlPO9QPObWnwS8s"
+  },
+  "2025-05-20-f4c9e1a9cc.jpg": {
+    "bytes": 156758,
+    "path": "/dms/image/v2/D4D22AQE3DNMThAzWSA/feedshare-shrink_1280/B4DZbsCcVHG0Ak-/0/1747716786462",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_russia-europe-ukraine-activity-7330455513240899585-CjGE",
+    "posted": "2025-05-20",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "5a94ec3d2ed6ab80ac29535b01a4b9c71a94455a60ac5e2272dea0354d5a654f",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQE3DNMThAzWSA/feedshare-shrink_1280/B4DZbsCcVHG0Ak-/0/1747716786462?e=1790208000&v=beta&t=iCM1XPC8wwyvtCL6Z15qF_iYQGFW6QpuPCIwvhn9qWY"
+  },
+  "2025-05-20-fc49306b3a.jpg": {
+    "bytes": 277989,
+    "path": "/dms/image/v2/D4D22AQF9_SaakK8Ruw/feedshare-shrink_1280/B4DZbuOppuG8Ao-/0/1747753542358",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_lifeatseb-seblife-sebtech-activity-7330609678936129538-GViU",
+    "posted": "2025-05-20",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "80f6db670c1c204767bc44ea903f37d33d5b73605212e054694500263aa927a1",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQF9_SaakK8Ruw/feedshare-shrink_1280/B4DZbuOppuG8Ao-/0/1747753542358?e=1790208000&v=beta&t=nqq7J-rAYY__XggYESKmIZu9aByBw_Vepa1vFmgSxmk"
+  },
+  "2025-05-21-c45fd77d35.jpg": {
+    "bytes": 175346,
+    "path": "/dms/image/v2/D4D22AQGYYy9EbaJnzw/feedshare-shrink_1280/B4DZbxRzjBHEAk-/0/1747804699995",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_entrancesong-soundtrackofsuccess-ownthestage-activity-7330824247981830144-_zSe",
+    "posted": "2025-05-21",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "85df6bdeee8845ebe8c3441cdf3375d4601c73bb5b827894f6d05b22d9c3c1ef",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQGYYy9EbaJnzw/feedshare-shrink_1280/B4DZbxRzjBHEAk-/0/1747804699995?e=1790208000&v=beta&t=SxjldeOARNN8Gh7-nuKL3sMAbTkRD9wq1FVRHLgsBDI"
+  },
+  "2025-05-23-4553570405.jpg": {
+    "bytes": 140422,
+    "path": "/dms/image/v2/D4D22AQGEUcJlGns37Q/feedshare-shrink_1280/B4DZb7e9GDHsAo-/0/1747975919071",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_iac-cloudengineering-landingzone-activity-7331542393831231495-sp20",
+    "posted": "2025-05-23",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "ea716cd56cce31bffcd0d28f9a2a1e07e48d737314be9b54569efb79e1bc9b58",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQGEUcJlGns37Q/feedshare-shrink_1280/B4DZb7e9GDHsAo-/0/1747975919071?e=1790208000&v=beta&t=tzIdGeO_E-9qF6VOBZjmNxentSm-hu2h8Jl3DEW2RVw"
+  },
+  "2025-05-26-cc54cd7bed.jpg": {
+    "bytes": 217432,
+    "path": "/dms/image/v2/D4D22AQFyepKpQxQB1A/feedshare-shrink_1280/B4DZcK1Fq5GYAk-/0/1748233384458",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_cloudcomputing-nist-digitaltransformation-activity-7332622284001538048-Yfep",
+    "posted": "2025-05-26",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "3b0c958340de84da61d8cde8809a432230cb0db839a893713650cb1f3c116f46",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQFyepKpQxQB1A/feedshare-shrink_1280/B4DZcK1Fq5GYAk-/0/1748233384458?e=1790208000&v=beta&t=W13J3qOZJb32LjJFQ4Hw-TLNPP9kL5pqdyfqQj43YPI"
+  },
+  "2025-05-29-b368abcd3b.jpg": {
+    "bytes": 33633,
+    "path": "/dms/image/v2/D4D22AQGoBpyf7b64dA/feedshare-shrink_1280/B4DZcaoOmiGgAk-/0/1748498443311",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_timemanagement-mindfulness-productivity-activity-7333734020922474496-Q1CQ",
+    "posted": "2025-05-29",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "e3c617fd3df6713c66d6a5cff9b6eee2c44e0a467f77634437737d12abcfa9c6",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQGoBpyf7b64dA/feedshare-shrink_1280/B4DZcaoOmiGgAk-/0/1748498443311?e=1790208000&v=beta&t=N-4bREpwLd44ScqnlS0VVlzAmPdG6om80rT2stAj73o"
+  },
+  "2025-06-03-4f4854d82b.jpg": {
+    "bytes": 154821,
+    "path": "/dms/image/v2/D4D22AQGxNFtfKL-qJQ/feedshare-shrink_1280/B4DZc0d_ZaG8Ao-/0/1748931967294",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_techstrategy-digitalfoundations-datagovernance-activity-7335552353032376320-fOGF",
+    "posted": "2025-06-03",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "85e1e86628682c71a69002c39d0f0241f9a1db7a9139e8fbb2ff5335b36a2b1c",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQGxNFtfKL-qJQ/feedshare-shrink_1280/B4DZc0d_ZaG8Ao-/0/1748931967294?e=1790208000&v=beta&t=DkPUdoFc06jVsyDEGueYDjgYuqZ3VVwvfj_QxD0GUig"
+  },
+  "2025-06-04-a575924e9f.jpg": {
+    "bytes": 298722,
+    "path": "/dms/image/v2/D4D22AQFdcyjCGZ5fCQ/feedshare-shrink_1280/B4DZc5wKMrGkAk-/0/1749020621462",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_awssummit-stockholm-kickoff-activity-7335924198030069761-2v2i",
+    "posted": "2025-06-04",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "42ea74f4f39136490395e2f869fc8ba1103fdbe0db8f166ee9a47895400e0577",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQFdcyjCGZ5fCQ/feedshare-shrink_1280/B4DZc5wKMrGkAk-/0/1749020621462?e=1790208000&v=beta&t=L5XJrblLZktvJTj7pTjhs8spY9QmnOS1rK7Sa_pwrx0"
+  },
+  "2025-06-05-cd8dea7e04.jpg": {
+    "bytes": 39540,
+    "path": "/dms/image/v2/D4D22AQG2HK5YV07O7w/feedshare-shrink_1280/B4DZc.gRoNHAAk-/0/1749100338919",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_sovereigncloud-digitalsovereignty-dataprivacy-activity-7336258555047477270-E6yB",
+    "posted": "2025-06-05",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "8b604b41aafab9ee5467601152577ab8987e226bde8f522571789910d787b802",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQG2HK5YV07O7w/feedshare-shrink_1280/B4DZc.gRoNHAAk-/0/1749100338919?e=1790208000&v=beta&t=N9c84eaiNx9kkYCXr0IXxGBw0Wjf19kyQYSgOsj3JRI"
+  },
+  "2025-06-06-a80b749375.jpg": {
+    "bytes": 382501,
+    "path": "/dms/image/v2/D4D22AQHZGixeu6swWw/feedshare-shrink_1280/B4DZdD9JT7H4Ao-/0/1749191795686",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_sweden-nationalday-sverige-activity-7336642148303261696-A0-N",
+    "posted": "2025-06-06",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "45b2c2b8e686be4a2f7da57d484e4f45077cad28651d8326658df96442fe2763",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQHZGixeu6swWw/feedshare-shrink_1280/B4DZdD9JT7H4Ao-/0/1749191795686?e=1790208000&v=beta&t=QFmBCyNEHWp25glTOW7jWOvYdNaFB7QcM1GPdm1UXY4"
+  },
+  "2025-06-09-ed72e0a0f2.jpg": {
+    "bytes": 190750,
+    "path": "/dms/image/v2/D4D22AQGlpj31P5eOcg/feedshare-shrink_1280/B4DZdUZDT0HwAo-/0/1749467547554",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_ai-tech-documentation-activity-7337798740835012608-mqxg",
+    "posted": "2025-06-09",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "0e3bc396eec23092bffdf22b932979772aa2a7df647dc54d747e9b1a8b7dbdaa",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQGlpj31P5eOcg/feedshare-shrink_1280/B4DZdUZDT0HwAo-/0/1749467547554?e=1790208000&v=beta&t=-O3WQBr_cMFFpCWqASempTOF8TP2eX_id8ruyorWtpI"
+  },
+  "2025-06-11-135f11e377.jpg": {
+    "bytes": 270960,
+    "path": "/dms/image/v2/D4D22AQEvt2iyMue-5g/feedshare-shrink_1280/B4DZdgcjbzH4Ak-/0/1749669792171",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_googlecloud-cloudsummit-nordics-activity-7338647013917405186-9GTk",
+    "posted": "2025-06-11",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "c89ab37a3ea4565d287a529a9d476139158c9ec39e066754ffef72234dca17f2",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQEvt2iyMue-5g/feedshare-shrink_1280/B4DZdgcjbzH4Ak-/0/1749669792171?e=1790208000&v=beta&t=Ve4-Lf6UHe1dPRvzByFo80r6mivlmnwqtL43lTHtyPk"
+  },
+  "2025-06-14-0f1a4d2e8f.jpg": {
+    "bytes": 85927,
+    "path": "/dms/image/v2/D4D22AQFbS_2dxzJqsQ/feedshare-shrink_1280/B4DZds_pqvGsAk-/0/1749880316966",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_workplaceculture-authenticleadership-careeradvice-activity-7339530019834114048-bdzF",
+    "posted": "2025-06-14",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "578ea8be94fa653e9383e439013dd0e94a408a1b0ff10e6ff7e34bfa229cdc84",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQFbS_2dxzJqsQ/feedshare-shrink_1280/B4DZds_pqvGsAk-/0/1749880316966?e=1790208000&v=beta&t=OWJ-IjTpDLk7Z0vP_JYqeN6p5GFKdffmHg2Ah0CQXdg"
+  },
+  "2025-06-16-42e37212cd.jpg": {
+    "bytes": 127183,
+    "path": "/dms/image/v2/D4D22AQGVlmFBokvHTw/feedshare-shrink_1280/B4DZd6DtgTHAAs-/0/1750099483488",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_essentialism-productivity-focus-activity-7340449271294353410-f0ab",
+    "posted": "2025-06-16",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "7519aeefbc89046ae4d5d3b82adb27af38fd0aa5d7e28a2762e4813e7474d515",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQGVlmFBokvHTw/feedshare-shrink_1280/B4DZd6DtgTHAAs-/0/1750099483488?e=1790208000&v=beta&t=Utnc49AGqgiizokzQinGz608EGSNtxnUNCbmtd3ZjvI"
+  },
+  "2025-06-18-5fae298a26.jpg": {
+    "bytes": 133300,
+    "path": "/dms/image/v2/D4D22AQETxPdZjk2Bgw/feedshare-shrink_1280/B4DZeEUm_jHAAk-/0/1750271686002",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_cloudstrategy-multicloud-cloudcomputing-activity-7341171541620994048-e43F",
+    "posted": "2025-06-18",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "63031901f7920c8ae2c2b73901d252db9dc39a37e62def99eaaf693f63532a1b",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQETxPdZjk2Bgw/feedshare-shrink_1280/B4DZeEUm_jHAAk-/0/1750271686002?e=1790208000&v=beta&t=o_LlKrlIDa0yZcxYCqLPZFSCGSdxduy0DwuUt6fn7-Q"
+  },
+  "2025-06-22-79b9555e17.jpg": {
+    "bytes": 384559,
+    "path": "/dms/image/v2/D4D22AQGqBJ9GZ1NEkA/feedshare-shrink_1280/B4DZeX_Y6rG8Ak-/0/1750601671962",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_cloudcomputing-onpremise-hybridcloud-activity-7342555608602046465-1Pp4",
+    "posted": "2025-06-22",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "a7f61a938137a35a75adf0b68db1e4ada2b22bf93d3e55bb7073df5a07986fad",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQGqBJ9GZ1NEkA/feedshare-shrink_1280/B4DZeX_Y6rG8Ak-/0/1750601671962?e=1790208000&v=beta&t=XGZQfUisqexOWrgGelWXHE-C5F0XdFOK8rAKzzMsp64"
+  },
+  "2025-06-30-19ffcea789.jpg": {
+    "bytes": 459670,
+    "path": "/dms/image/v2/D4D22AQGB5Xb2XugWNQ/feedshare-shrink_1280/B4DZfCGyc3GUAs-/0/1751308254709",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_cloudstrategy-cloudmigration-digitaltransformation-activity-7345519223445622785-_2d2",
+    "posted": "2025-06-30",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "20c2abd1a4d1e059634b79bdcda9f08296c38cac06609dd9cc0665597560af02",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQGB5Xb2XugWNQ/feedshare-shrink_1280/B4DZfCGyc3GUAs-/0/1751308254709?e=1790208000&v=beta&t=iUv8tBwFz0k5mfMQbKa9JLhPpsPsddcORKyNM8lA-9Q"
+  },
+  "2025-07-03-97983b805a.jpg": {
+    "bytes": 16182,
+    "path": "/dms/image/v2/D4D22AQEjsyekK7Ae7Q/feedshare-shrink_1280/B4DZfRq83BGgAk-/0/1751569387405",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_jimcollins-beyondentrepreneurship-leadership-activity-7346614494229360640-J90I",
+    "posted": "2025-07-03",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "440612bc4a7a864ed475b81e0599393ee50e1cd416409479ebc6626d0aa287ab",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQEjsyekK7Ae7Q/feedshare-shrink_1280/B4DZfRq83BGgAk-/0/1751569387405?e=1790208000&v=beta&t=SwPxeQ_ej2OH7V8tWEamUbiIcrCUUqw6ThBemBSMskA"
+  },
+  "2025-07-05-ce844e294a.jpg": {
+    "bytes": 270538,
+    "path": "/dms/image/v2/D4D22AQHIgoH81OrXYg/feedshare-shrink_1280/B4DZfZZa54HkAk-/0/1751699010699",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_oasis-britpop-comebacktour-activity-7347158174170238976-n7Z1",
+    "posted": "2025-07-05",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "73ab69003885da4a0160aea96e2c2f7615e61bcf884a4d2192d13ba7ddd88b2a",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQHIgoH81OrXYg/feedshare-shrink_1280/B4DZfZZa54HkAk-/0/1751699010699?e=1790208000&v=beta&t=aV7YkvWl3fDdsKh1hIvr5G9xWEPP5c12MQ99ce1UOzM"
+  },
+  "2025-07-07-4dbd57ef28.jpg": {
+    "bytes": 290261,
+    "path": "/dms/image/v2/D4D22AQGklxrvtMZHlA/feedshare-shrink_1280/B4DZfjbMYkH4As-/0/1751867248102",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_traveltech-automation-airportexperience-activity-7347863812626132992-TqFT",
+    "posted": "2025-07-07",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "9dc9e4cf86fef3fae4caa183fa52f359f9314829703d1b63b794cafbade990a1",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQGklxrvtMZHlA/feedshare-shrink_1280/B4DZfjbMYkH4As-/0/1751867248102?e=1790208000&v=beta&t=Gf10ZI6MyidC_9VDoXB9_P8AnfeJwcsrMkdnV3VOHDI"
+  },
+  "2025-07-08-99ed60ae27.jpg": {
+    "bytes": 597176,
+    "path": "/dms/image/v2/D4D22AQHUIHdrr-tdNQ/feedshare-shrink_1280/B4DZfqkEVYGkAo-/0/1751987016009",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_productivity-deepwork-timemanagement-activity-7348366156505780224-4Qip",
+    "posted": "2025-07-08",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "0e90f0778a392dd1939caa9f9056f43fffcd1c66833ce7d0ffd87e9cf5f94a47",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQHUIHdrr-tdNQ/feedshare-shrink_1280/B4DZfqkEVYGkAo-/0/1751987016009?e=1790208000&v=beta&t=3qJVX7wJkbEDO0DTsKLqU009rSzN9XLeVEbjj2FgHxc"
+  },
+  "2025-07-11-552167d53f.jpg": {
+    "bytes": 244157,
+    "path": "/dms/image/v2/D4D22AQFsK_-MBFJQmQ/feedshare-shrink_1280/B4DZf55DwrHAAk-/0/1752244175670",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_vacation-icecream-stikkinikki-activity-7349444758676615189-0ECK",
+    "posted": "2025-07-11",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "767a1fe1d6de6180ef2aad2108bf5a51e70e59fca6141408ae4f1f142420ac6b",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQFsK_-MBFJQmQ/feedshare-shrink_1280/B4DZf55DwrHAAk-/0/1752244175670?e=1790208000&v=beta&t=RQfG_qMCXd_E6fkQv55oXnmzDQx4L7H6f7VF6AIBfVc"
+  },
+  "2025-07-29-9f0f828ea1.jpg": {
+    "bytes": 263297,
+    "path": "/dms/image/v2/D4D22AQHzf_mMX8DrTA/feedshare-shrink_1280/B4DZhXlDDVHYAo-/0/1753815995449",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_parenting-lifelong-adventure-activity-7356037450965692416-zKRP",
+    "posted": "2025-07-29",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "7ebeb433c77f90d45e382f1e577727daefa1f3bb6dd87ab631c10be876c99330",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQHzf_mMX8DrTA/feedshare-shrink_1280/B4DZhXlDDVHYAo-/0/1753815995449?e=1790208000&v=beta&t=rSggHyxz7XhfDEo2mzz44ZVxGIgNeywNAkCuZ78Fc20"
+  },
+  "2025-08-04-9b31d8b79c.jpg": {
+    "bytes": 233316,
+    "path": "/dms/image/v2/D4D22AQEiL9iCZ9LDKg/feedshare-shrink_1280/B4DZh2Zu3KGQAk-/0/1754333115522",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_worklifebalance-rechargeafterbreak-summervibes-activity-7358206407105507328-ojw5",
+    "posted": "2025-08-04",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "e0604262ec4413cfe673ab6c881bba58143df3e567f4a172caee9f60b56f4668",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQEiL9iCZ9LDKg/feedshare-shrink_1280/B4DZh2Zu3KGQAk-/0/1754333115522?e=1790208000&v=beta&t=_DcZZpOMp3kRlJXEWCn2-Qw0GvkWwk_bgadlk1FGJuA"
+  },
+  "2025-08-11-1f4fefa933.jpg": {
+    "bytes": 81192,
+    "path": "/dms/image/v2/D4D22AQHiP37GVi_0bQ/feedshare-shrink_1280/B4DZiZNxHFGQAk-/0/1754917180523",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_ai-genai-cloud-activity-7360656152411488256-qqC8",
+    "posted": "2025-08-11",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "263e9669c842ceafbd24a57ce0f69be296b0c0e9afad8b540ddbd549a9316385",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQHiP37GVi_0bQ/feedshare-shrink_1280/B4DZiZNxHFGQAk-/0/1754917180523?e=1790208000&v=beta&t=PVkd9IVSs9BX78-OQvPb5xGcTMmZik-AXhN0xnN2t08"
+  },
+  "2025-08-11-414d7b4a91.jpg": {
+    "bytes": 202535,
+    "path": "/dms/image/v2/D4D22AQEgLw7cdy6WzA/feedshare-shrink_1280/B4DZiXos_2GsAo-/0/1754890687747",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_effortless-productivity-timemanagement-activity-7360545035324469248-DPZL",
+    "posted": "2025-08-11",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "6eedbe805fc6809011e2528bade3d3429c43d0dbbf8d57aa5b35fa4cb22266fd",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQEgLw7cdy6WzA/feedshare-shrink_1280/B4DZiXos_2GsAo-/0/1754890687747?e=1790208000&v=beta&t=ylCWkdfRSWuL6kLglz-LA0bmWFILmeUH0zUm42DuteQ"
+  },
+  "2025-08-11-571944f7ff.jpg": {
+    "bytes": 167986,
+    "path": "/dms/image/v2/D4D22AQHgvN4oUGg2Cg/feedshare-shrink_1280/B4DZiYEn36HwAk-/0/1754898010341",
+    "post_url": "https://www.linkedin.com/posts/aurasalla_chatcontrol-csam-csam-activity-7360575751525494784-CjzR",
+    "posted": "2025-08-11",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "8f96f2b0a0ba445b0d470f6cef028b042e9741d1ffcb6c27c9218bab3d187b50",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQHgvN4oUGg2Cg/feedshare-shrink_1280/B4DZiYEn36HwAk-/0/1754898010341?e=1790208000&v=beta&t=X7B12gs0LVXVeWdhv6Qtf4c2-JmkPhHEBTdNX6go-fU"
+  },
+  "2025-08-12-ba82b46b2a.jpg": {
+    "bytes": 29959,
+    "path": "/dms/image/v2/D4D22AQFwpgpno6Zjyg/feedshare-shrink_1280/B4DZiePdyQGQAs-/0/1755001511579",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_leadership-selfleadership-stressmanagement-activity-7361009865105797122-rAMY",
+    "posted": "2025-08-12",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "f1e08bdc27f7eab2355c08b8413bf54d1663408fff8d0b98a1e4b1763ccc9549",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQFwpgpno6Zjyg/feedshare-shrink_1280/B4DZiePdyQGQAs-/0/1755001511579?e=1790208000&v=beta&t=aJwR6B3ILpv9ACh7Aymi_elDsgnoSiRGQCYfxjCURcM"
+  },
+  "2025-08-22-c542a67c74.jpg": {
+    "bytes": 49500,
+    "path": "/dms/image/v2/D4D22AQHegTG0Ou7EMA/feedshare-shrink_1280/B4DZjQHcePHsAs-/0/1755838269891",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_dashboards-cloudplatform-cloudfoundation-activity-7364519488077074432-CU2l",
+    "posted": "2025-08-22",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "859590f00a4b3f253aa3c3f6bdfdd436e7b9d5492a585fa9bd48a957b1e03ec1",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQHegTG0Ou7EMA/feedshare-shrink_1280/B4DZjQHcePHsAs-/0/1755838269891?e=1790208000&v=beta&t=wB3rjsdAtefkHAkuGpJJTbd1YumEUbB1IlroXeG7pmQ"
+  },
+  "2025-08-29-79c49c0878.jpg": {
+    "bytes": 105886,
+    "path": "/dms/image/v2/D5622AQGvnYBaBRstJA/feedshare-shrink_1280/B56Zj0PshGHQAs-/0/1756444413234",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_personaldevelopment-selfleadership-hormones-activity-7367061833305772032-tOM0",
+    "posted": "2025-08-29",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "470062ec2d7e4785948f7b11eb97392cf043a776c91c92046d24d599a240325a",
+    "url": "https://media.licdn.com/dms/image/v2/D5622AQGvnYBaBRstJA/feedshare-shrink_1280/B56Zj0PshGHQAs-/0/1756444413234?e=1790208000&v=beta&t=mHukHp1kygP8WBNBmxAljXOsCgl-MFv24uyQXwe4kDw"
+  },
+  "2025-08-30-c66633c29b.jpg": {
+    "bytes": 241258,
+    "path": "/dms/image/v2/D4D22AQEVnatS8dJ6sA/feedshare-shrink_1280/B4DZj8WTPHH4Aw-/0/1756580363182",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_stockholmhalfmarathon-pr-thursdayrun-activity-7367632047470833664-zkJf",
+    "posted": "2025-08-30",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "b27ecf797fa964fb3c223123d1e3708f9929baa132b17c092b718d923b398e7b",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQEVnatS8dJ6sA/feedshare-shrink_1280/B4DZj8WTPHH4Aw-/0/1756580363182?e=1790208000&v=beta&t=aA0V7jtQ3gQrVTizH1_BFgrxC_dXu-_2vD2EJ6q_8cY"
+  },
+  "2025-09-02-3f255787e1.jpg": {
+    "bytes": 106901,
+    "path": "/dms/image/v2/D4D22AQHVZA5J6zbQqg/feedshare-shrink_1280/B4DZkI7LCnGgAs-/0/1756791354807",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_strategy-leadership-businessstrategy-activity-7368517014702698496-JkKM",
+    "posted": "2025-09-02",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "331bec7c8bd485bb961003ff5a42a3713afa2451eea73a8db583fb8c86fb55eb",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQHVZA5J6zbQqg/feedshare-shrink_1280/B4DZkI7LCnGgAs-/0/1756791354807?e=1790208000&v=beta&t=ZZU54YczuthcYOvRzCSxZ8yP0CRNWsRit46-Vh0nHjM"
+  },
+  "2025-09-07-0ee8445682.jpg": {
+    "bytes": 156648,
+    "path": "/dms/image/v2/D4D22AQFCeRT2rFW_FQ/feedshare-shrink_1280/B4DZki2lU.IYAs-/0/1757226359206",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_parenting-leadership-legacy-activity-7370341552558108672-l4nd",
+    "posted": "2025-09-07",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "d6184823b9e2f0b5c460c02c90b4a70812909f0c61eb0f73129524a42e8f14af",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQFCeRT2rFW_FQ/feedshare-shrink_1280/B4DZki2lU.IYAs-/0/1757226359206?e=1790208000&v=beta&t=WKh2qbakZRsnpJGhGZhLiFiibm-roQOE9o_IsmXddXU"
+  },
+  "2025-09-17-4a3a70860e.jpg": {
+    "bytes": 22408,
+    "path": "/dms/image/v2/D4D22AQG8jXa7I7hREw/feedshare-shrink_1280/B4DZlWChWBHYAs-/0/1758085126260",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_bookreview-nationalsecurity-intelligence-activity-7373943483843309568-2o9S",
+    "posted": "2025-09-17",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "06a9bd0be097408b429d7e00772e06f7fa4f53e69a097b6572e7f4badb23eb2c",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQG8jXa7I7hREw/feedshare-shrink_1280/B4DZlWChWBHYAs-/0/1758085126260?e=1790208000&v=beta&t=BvQSTUXxgUnteYCNFsSvOyAFDYfEQXGSGnGhQybQd20"
+  },
+  "2025-09-17-bf5ad94acc.jpg": {
+    "bytes": 38263,
+    "path": "/dms/image/v2/D4D22AQElYrUUofWFQQ/feedshare-shrink_1280/B4DZlWqpIDJYAw-/0/1758095643558",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_linkedinetiquette-linkedin-activity-7373987597099876353-Ju4G",
+    "posted": "2025-09-17",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "2942c806a94f701c1f2cb2e04ab7008b2a7e769661ba1ad18d624a2db51e3e08",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQElYrUUofWFQQ/feedshare-shrink_1280/B4DZlWqpIDJYAw-/0/1758095643558?e=1790208000&v=beta&t=2EwZnPy9yIPipG6PltLRztc4dx4npH24lsJsXlo2zWU"
+  },
+  "2025-09-24-fad07c3225.jpg": {
+    "bytes": 222121,
+    "path": "/dms/image/v2/D4D22AQFPdPBIdR8R7A/feedshare-shrink_1280/B4DZl8_2fPIYAw-/0/1758738738349",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_nanobanana-activity-7376684930925428737-C8KI",
+    "posted": "2025-09-24",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "6d32fdbe1d559fc1fc1cd98e8f84772fc25f824b004cb2abd8640443b0a59a13",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQFPdPBIdR8R7A/feedshare-shrink_1280/B4DZl8_2fPIYAw-/0/1758738738349?e=1790208000&v=beta&t=TjSSsjY61v65oyvOT1o5y1-Hcg9Tl1D_IHxtjHa1a4c"
+  },
+  "2025-09-26-84e2bf9f2f.jpg": {
+    "bytes": 250259,
+    "path": "/dms/image/v2/D5622AQFfbip6QxEnbA/feedshare-shrink_1280/B56ZmFCewoJ4Aw-/0/1758873645271",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_notochatcontrol-fightchatcontrol-activity-7377250771765080064-y3vU",
+    "posted": "2025-09-26",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "0a5acf4cbed90ecc8d13e3a9e9b9bec3667776aba67eb21f6ff3d965d35c971f",
+    "url": "https://media.licdn.com/dms/image/v2/D5622AQFfbip6QxEnbA/feedshare-shrink_1280/B56ZmFCewoJ4Aw-/0/1758873645271?e=1790208000&v=beta&t=goT_YYhLt-1xL9eCanAP0KGlu0cilvXSjntTJeNQD8Q"
+  },
+  "2025-10-01-fe66767e05.jpg": {
+    "bytes": 262602,
+    "path": "/dms/image/v2/D4D22AQEiOk9WF83zgA/feedshare-shrink_1280/B4DZmfmVHaIgAs-/0/1759319256456",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_doandroidsdreamofelectricsheep-bladerunner-activity-7379119801639616512-x3oc",
+    "posted": "2025-10-01",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "c5cb58b9075c6a6f76fe1ed4184bca8ee7b9d61102f9dc9e8fb46fabb2311ba6",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQEiOk9WF83zgA/feedshare-shrink_1280/B4DZmfmVHaIgAs-/0/1759319256456?e=1790208000&v=beta&t=lzAgrTVVveAaPeRD5l4s0EuZGN9XWSlBymsOsDtO2gE"
+  },
+  "2025-10-02-98dd47f9e7.jpg": {
+    "bytes": 251592,
+    "path": "/dms/image/v2/D4D22AQFBamADQoFUYg/feedshare-shrink_1280/B4DZmmp0qJJMAs-/0/1759437609521",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_oktoberfest-oktoberfest-companyculture-activity-7379616207169204225-74Rn",
+    "posted": "2025-10-02",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "d10a2d76f8ba4a7ad58ce1517f314358152db22819a7c9726b5216d7e9ae3c45",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQFBamADQoFUYg/feedshare-shrink_1280/B4DZmmp0qJJMAs-/0/1759437609521?e=1790208000&v=beta&t=50Ur__BKIe5-7-p8EYOG09PvuTptW-CTsvgLdocRiEE"
+  },
+  "2025-10-03-a9e2acc8c8.jpg": {
+    "bytes": 114976,
+    "path": "/dms/image/v2/D4D22AQEICckV0CjjFg/feedshare-shrink_1280/B4DZmqOxO3HwAs-/0/1759497623917",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_gcp-azure-aws-activity-7379867926750969856-r1uf",
+    "posted": "2025-10-03",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "5e4cb13b6792a7482a82b5404f39f6d6d4bfc1e678e62f9f8f2cf94a810dabd4",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQEICckV0CjjFg/feedshare-shrink_1280/B4DZmqOxO3HwAs-/0/1759497623917?e=1790208000&v=beta&t=l6OUqN7EplkdHwXrRSeLcrt3U8pk726QswXrxpXT9uo"
+  },
+  "2025-10-06-eb4896cfd3.jpg": {
+    "bytes": 40702,
+    "path": "/dms/image/v2/D4D22AQFmm1NQA8aWhA/feedshare-shrink_1280/B4DZm3_.zxIgAs-/0/1759728627710",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_7rulesofpower-jeffreypfeffer-bookreview-activity-7380836829937418242-FQok",
+    "posted": "2025-10-06",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "9365d077b4a8825740f724772d4e9b8832b9683891ff1119ec36addecd0da4a6",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQFmm1NQA8aWhA/feedshare-shrink_1280/B4DZm3_.zxIgAs-/0/1759728627710?e=1790208000&v=beta&t=vuD89YZFjNUmJZzTqqIrZg8V8wXSmQYgixAJ4-hSQEw"
+  },
+  "2025-10-08-3ab1b13282.jpg": {
+    "bytes": 517082,
+    "path": "/dms/image/v2/D5622AQHzLMNhjIsvjA/feedshare-shrink_1280/B56ZnDFzg9IAAs-/0/1759914715408",
+    "post_url": "https://www.linkedin.com/posts/aurasalla_ai-tech-data-activity-7381617337604620288-6EzU",
+    "posted": "2025-10-08",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "547b4090a35bb3a96fedf90a07e156f9e65569956447c6657cf40a5526a5d7b5",
+    "url": "https://media.licdn.com/dms/image/v2/D5622AQHzLMNhjIsvjA/feedshare-shrink_1280/B56ZnDFzg9IAAs-/0/1759914715408?e=1790208000&v=beta&t=sTuiS2nXM12Yr-On151tMcFeNlIo0NOvmpPLu8merr8"
+  },
+  "2025-10-10-fa85f1348d.jpg": {
+    "bytes": 36443,
+    "path": "/dms/image/v2/D5622AQGvB0w8V2OfIg/feedshare-shrink_1280/B56ZnMgk5hKMAs-/0/1760072716632",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_cloudsecurity-zerotrust-cybersecurity-activity-7382280042464083968-RpmZ",
+    "posted": "2025-10-10",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "daa31250cc2981f92d698c2d3c9ab6e9fad8f9b3b913c53fce197340414e5678",
+    "url": "https://media.licdn.com/dms/image/v2/D5622AQGvB0w8V2OfIg/feedshare-shrink_1280/B56ZnMgk5hKMAs-/0/1760072716632?e=1790208000&v=beta&t=6t_8uwMCaCMDNyGyaw6rs0UG-EMG0UD3YwjpRm6HXwY"
+  },
+  "2025-10-15-c0fa26c567.jpg": {
+    "bytes": 117624,
+    "path": "/dms/image/v2/D4D22AQEk4sGQrZm1bQ/feedshare-shrink_1280/B4DZnpKLs0JUAs-/0/1760553385663",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_leadership-empowerment-decisionmaking-activity-7384296113236901888-ZfGH",
+    "posted": "2025-10-15",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "0d6cd245ffaff86d25d49d2f1597106af6e0c71a6d8448ad7904d6338e572ef7",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQEk4sGQrZm1bQ/feedshare-shrink_1280/B4DZnpKLs0JUAs-/0/1760553385663?e=1790208000&v=beta&t=qxQXIsrrZ8a7raXapY3h9fYu4fP045sftVk6N1i8bRE"
+  },
+  "2025-10-16-d5514e711e.jpg": {
+    "bytes": 55877,
+    "path": "/dms/image/v2/D4D22AQH7LoYeEDKjjw/feedshare-shrink_1280/B4DZnsBHUhG8As-/0/1760601340211",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_dropkickmurphys-forthepeople-celticpunk-activity-7384497249747197952-gBlt",
+    "posted": "2025-10-16",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "4a3ca4e9ba18548ac469355ceaa2dc91bd1a5b17062244f477fddd668e234ff8",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQH7LoYeEDKjjw/feedshare-shrink_1280/B4DZnsBHUhG8As-/0/1760601340211?e=1790208000&v=beta&t=gxSYeccspXLqZoXxF6r91ZIKVNMz-8uE_TR5u_L1erA"
+  },
+  "2025-10-20-6a699af7fa.jpg": {
+    "bytes": 16252,
+    "path": "/dms/image/v2/D4D22AQGMXbZbp8bFtQ/feedshare-shrink_1280/B4DZoC8dBrH0As-/0/1760985993844",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_aws-cloudcomputing-techoutage-activity-7386110606812119042-XoPm",
+    "posted": "2025-10-20",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "ecb585f955d7add0af5b49475c055823e8455a0f101feef472b084d244c8ff00",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQGMXbZbp8bFtQ/feedshare-shrink_1280/B4DZoC8dBrH0As-/0/1760985993844?e=1790208000&v=beta&t=HCgygElzg42L3BeK58tYweCoaaZXz2zbcp85usVWohw"
+  },
+  "2025-10-23-5bdbd35aa6.jpg": {
+    "bytes": 277503,
+    "path": "/dms/image/v2/D4D22AQGbGaEGQspwdg/feedshare-shrink_1280/B4DZoQbSNWGgAs-/0/1761212181140",
+    "post_url": "https://www.linkedin.com/posts/aurasalla_28regime-tech-digital-activity-7387059302299066368-m_t5",
+    "posted": "2025-10-23",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "fe45a8d864fc73ac7de91fe3ba442d9c27f0c9a2806e04af79f28ffb504a5e5e",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQGbGaEGQspwdg/feedshare-shrink_1280/B4DZoQbSNWGgAs-/0/1761212181140?e=1790208000&v=beta&t=aYEcUUN5FAWD4hGBfd8kSjAG0T95zE0U99S6KLYe-RE"
+  },
+  "2025-10-23-d64d84f9ec.jpg": {
+    "bytes": 48587,
+    "path": "/dms/image/v2/D4D22AQEjIWXtvZaDVQ/feedshare-shrink_1280/B4DZoPeKFMJIAs-/0/1761196156248",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_bookreview-the5typesofwealth-sahilbloom-activity-7386992090184040448-HmNr",
+    "posted": "2025-10-23",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "b478641b729574b115ab50e194ca55691a5750c0afbb015b3ef3e98d1d81cec2",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQEjIWXtvZaDVQ/feedshare-shrink_1280/B4DZoPeKFMJIAs-/0/1761196156248?e=1790208000&v=beta&t=_-WzmoLHKDHh5-XR_xsjq2V4_fzD50j8fD_FNp0MNao"
+  },
+  "2025-10-27-f1cce5586e.jpg": {
+    "bytes": 195229,
+    "path": "/dms/image/v2/D4D22AQFthv5zrZ5fWQ/feedshare-shrink_1280/B4DZokQL2fIAAs-/0/1761544816937",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_stadium-nightrun-5k-activity-7388454475839131648-BSSX",
+    "posted": "2025-10-27",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "abc98d3f07c05b84c613235e51da5c32ef921e20a8932de90f738246b0c22537",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQFthv5zrZ5fWQ/feedshare-shrink_1280/B4DZokQL2fIAAs-/0/1761544816937?e=1790208000&v=beta&t=75iJVqqxsbKXzeuZlouaP8tlXQXmx9VJl_1JJlL6odI"
+  },
+  "2025-11-03-6033dc8b9d.jpg": {
+    "bytes": 22805,
+    "path": "/dms/image/v2/D4D22AQEarp_DqQZoqg/feedshare-shrink_1280/B4DZpLObxHGwAs-/0/1762198666861",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_problemmanagement-rootcauseanalysis-fivewhys-activity-7391196926408278016-VX9x",
+    "posted": "2025-11-03",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "e1a76f8ae8249fd2753abbe28f271c8f475b2b638c07cc780ab8cc2ab777705b",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQEarp_DqQZoqg/feedshare-shrink_1280/B4DZpLObxHGwAs-/0/1762198666861?e=1790208000&v=beta&t=yylEnU0qaJ1WxAovA8LdI2EPAU1PfRITe40lq2mjetk"
+  },
+  "2025-11-08-b66e0839fe.jpg": {
+    "bytes": 55999,
+    "path": "/dms/image/v2/D4D22AQEsGTS8xtCbvw/feedshare-shrink_1280/B4DZpihOS9HwAs-/0/1762589468543",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_datadriven-dataanalytics-bigquery-activity-7392836065860141057-FjRO",
+    "posted": "2025-11-08",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "de209b115fafa98d5539c25a319a6d13a3e64ed2d084208d45f4cb1b249a0528",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQEsGTS8xtCbvw/feedshare-shrink_1280/B4DZpihOS9HwAs-/0/1762589468543?e=1790208000&v=beta&t=-4pKcKXDdHvsuWQRDcgReBpI5H298H9UXVx-Fi4oH-o"
+  },
+  "2025-11-12-07c43139b7.jpg": {
+    "bytes": 64754,
+    "path": "/dms/image/v2/D4D22AQHC007EFzwv0w/feedshare-shrink_1280/B4DZp5oEDSJEAs-/0/1762977137599",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_changemanagement-itil-itsm-activity-7394462068227080192-w9wb",
+    "posted": "2025-11-12",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "fa68ecf4f2fa242cf741310e92253ef413660e588995a928b49c11a827ea1b3c",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQHC007EFzwv0w/feedshare-shrink_1280/B4DZp5oEDSJEAs-/0/1762977137599?e=1790208000&v=beta&t=hS7PwfVnjktqO1eXtbmIBt_gHQqBYh4ABa7DKwSHV7A"
+  },
+  "2025-11-12-3c8beacc6a.jpg": {
+    "bytes": 539866,
+    "path": "/dms/image/v2/D4D22AQHTuarfL5IJjQ/feedshare-shrink_1280/B4DZp3FkYPHsAs-/0/1762934544634",
+    "post_url": "https://www.linkedin.com/posts/aurasalla_killthechatcontrolforgood-digital-data-activity-7394283416541761536-L5Yu",
+    "posted": "2025-11-12",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "bb864acd50b1ab6c28af4496a023c9f0054011f3be703c4c30c61b605a836cf9",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQHTuarfL5IJjQ/feedshare-shrink_1280/B4DZp3FkYPHsAs-/0/1762934544634?e=1790208000&v=beta&t=a9LDvGDFdRL5f5oTsy7SlwXY5GWYGcQyBKiXYI5WX0E"
+  },
+  "2025-11-15-8bdffa7468.jpg": {
+    "bytes": 276944,
+    "path": "/dms/image/v2/D4D22AQEllPecFghZcQ/feedshare-shrink_1280/B4DZqGiYYxH4Aw-/0/1763193753412",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_cybersecurity-defenseindepth-cyberresilience-activity-7395370621595090944--qEo",
+    "posted": "2025-11-15",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "52d8b0a59e0c5c1f88b2c6d249a34963f6832ddeaca62f114b98f1a9967aad49",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQEllPecFghZcQ/feedshare-shrink_1280/B4DZqGiYYxH4Aw-/0/1763193753412?e=1790208000&v=beta&t=hr13wASfK8htVUzo4nKE-urG3olLoraqyVyuh3OeFaM"
+  },
+  "2025-11-20-16e708f849.jpg": {
+    "bytes": 535521,
+    "path": "/dms/image/v2/D4D22AQHhupcq1ykmDw/feedshare-shrink_1280/B4DZqhg7quGwB0-/0/1763646358029",
+    "post_url": "https://www.linkedin.com/posts/aurasalla_europe-is-finally-treating-defence-as-activity-7397268982132523026-kXPz",
+    "posted": "2025-11-20",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "b44591834a9b2d0b0be982c083b7f5a41b9bebb215f31191e98a8e7811e152cc",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQHhupcq1ykmDw/feedshare-shrink_1280/B4DZqhg7quGwB0-/0/1763646358029?e=1790208000&v=beta&t=-SJnNJurdyh7KSkmD-SPPbDQtlvPTTh-HFCuxSBYy7A"
+  },
+  "2025-11-21-98bba85767.jpg": {
+    "bytes": 109717,
+    "path": "/dms/image/v2/D4D22AQEWUKVpj7M8IQ/feedshare-shrink_1280/B4DZqnXXlkIAAs-/0/1763744513364",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_happyfriday-achievement-workhard-activity-7397680675098787840-sJ0e",
+    "posted": "2025-11-21",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "0e7c1f270c413e822369d31f732e4a094c5ebaf60c3be80aca59df21eef8dae6",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQEWUKVpj7M8IQ/feedshare-shrink_1280/B4DZqnXXlkIAAs-/0/1763744513364?e=1790208000&v=beta&t=NtD9-MM-F_4Xnzgt1EXq6JDgODwEYwHOWBXwZEArR2Q"
+  },
+  "2025-11-21-b7081ca3f1.jpg": {
+    "also_at": [
+      "/dms/image/v2/D4D22AQHLza3lOsJZJA/feedshare-shrink_1280/B4DZVOcGoJHYAk-/0/1740777745920"
+    ],
+    "bytes": 116656,
+    "path": "/dms/image/v2/D4D22AQFvk8nlgwMbZQ/feedshare-shrink_1280/B4DZqonecqGgAw-/0/1763765541931",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_slavaukraini-activity-7397768870813634560-Hhh7",
+    "posted": "2025-11-21",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "6040d7f0e9392efc0b99ff84f668ec2018e7067f549556c15820053ee88a6ddf",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQFvk8nlgwMbZQ/feedshare-shrink_1280/B4DZqonecqGgAw-/0/1763765541931?e=1790208000&v=beta&t=YbiWnzUZP1o-KoxZm0O0Rpu7cd2L8HghlAOEDEkz-Aw"
+  },
+  "2025-11-24-0be05f7116.jpg": {
+    "bytes": 171069,
+    "path": "/dms/image/v2/D4D22AQEchJipVU46Vw/feedshare-shrink_1280/B4DZq3pL0OKIAw-/0/1764017619945",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_agile-continuousdelivery-principles-activity-7398826165106380800-NA1T",
+    "posted": "2025-11-24",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "cda348b2e62db8889f323737bfe408500411a2c193d2399e8d63b692a31df900",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQEchJipVU46Vw/feedshare-shrink_1280/B4DZq3pL0OKIAw-/0/1764017619945?e=1790208000&v=beta&t=5KMOU9_oMB_Fk5iOgzmDhzUM11zeBIit-r4iWyGZtuc"
+  },
+  "2025-11-26-13fbcfe7ef.jpg": {
+    "bytes": 115529,
+    "path": "/dms/image/v2/D4D22AQH0nkNefwJwsw/feedshare-shrink_1280/B4DZrBsETMJEAw-/0/1764186146888",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_berlin-checkpointcharlie-european-activity-7399533019922948096-nol0",
+    "posted": "2025-11-26",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "d78acb651cd90a756eaae3c301434b554578655ef6725eb184b54efffd75c449",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQH0nkNefwJwsw/feedshare-shrink_1280/B4DZrBsETMJEAw-/0/1764186146888?e=1790208000&v=beta&t=FPCjtIUk17xrTzw8i1XajIk7hdT52s9e_2dsxkc0yoc"
+  },
+  "2025-12-01-a511f45afd.jpg": {
+    "bytes": 141337,
+    "path": "/dms/image/v2/D4D22AQH4v5XCGz0_Cw/feedshare-shrink_1280/B4DZraKJUOJAAs-/0/1764596685582",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_schwarzwald-nanobanana-yellowstone-activity-7401254940456693761-dBwn",
+    "posted": "2025-12-01",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "7a848a4b042d2ff397e11d9d010a11a817e56b0114da1ee8d72a8a40dbf16899",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQH4v5XCGz0_Cw/feedshare-shrink_1280/B4DZraKJUOJAAs-/0/1764596685582?e=1790208000&v=beta&t=y05XnsdpEqqiz4rYlYwjQw3gsLJyR3eDiqp9sj16_YI"
+  },
+  "2025-12-02-9267eec45d.jpg": {
+    "bytes": 60224,
+    "path": "/dms/image/v2/D4D22AQHt4HKEjBqN6Q/feedshare-shrink_1280/B4DZrdwEpUG8Aw-/0/1764656959039",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_theletthemtheory-melrobbins-personaldevelopment-activity-7401507751220355074-5KrY",
+    "posted": "2025-12-02",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "c0bdbaa4fc2779493c3c919499ceffe87653f2709f5c8acf1fc7bad3930063c7",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQHt4HKEjBqN6Q/feedshare-shrink_1280/B4DZrdwEpUG8Aw-/0/1764656959039?e=1790208000&v=beta&t=P2pO_MfUhsBHuTpDyXlw-GDkSb79BdLWz8dStiI5jl0"
+  },
+  "2025-12-02-e2362b9bb2.jpg": {
+    "bytes": 43569,
+    "path": "/dms/image/v2/D4D22AQFIuCn50zWvgw/feedshare-shrink_480/B4DZrdwEo_G0AY-/0/1764656959173",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_theletthemtheory-melrobbins-personaldevelopment-activity-7401507751220355074-5KrY",
+    "posted": "2025-12-02",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "3c0d2ad636ba2b1894c8826f2ea6286e7a96a26eeec9212372fc32525fda4a57",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQFIuCn50zWvgw/feedshare-shrink_480/B4DZrdwEo_G0AY-/0/1764656959173?e=1790208000&v=beta&t=rSgMn1ihzVOq9nX7nlmV_IB-wIOACtrAKW16DABeoog"
+  },
+  "2025-12-03-0c2ebfbc56.jpg": {
+    "bytes": 174881,
+    "path": "/dms/image/v2/D4D22AQFOjH071wxcug/feedshare-shrink_1280/B4DZri5ZEjGsAs-/0/1764743289811",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_leadershipdevelopment-gardeningandleadership-activity-7401869844721102848-wWqT",
+    "posted": "2025-12-03",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "3c6a194b9f84f88026899ed0bd83c1f6f23e1419c316a65626a883888fdbb6c8",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQFOjH071wxcug/feedshare-shrink_1280/B4DZri5ZEjGsAs-/0/1764743289811?e=1790208000&v=beta&t=GF02GdLL9-4bXxY7I1-qdl9nzA9sQQMxXEDIiUkY81I"
+  },
+  "2025-12-05-d6e932761e.jpg": {
+    "bytes": 188922,
+    "path": "/dms/image/v2/D4D22AQEfaN8slx0Fmw/feedshare-shrink_1280/B4DZrtNEQDG4Aw-/0/1764916217926",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_yearendreflection-personalkpis-growth-activity-7402595156358598656-a2UH",
+    "posted": "2025-12-05",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "5de90cd5239be361eb22c672694e14ac794ff2359e62b6a09fd10b6ae05fee5d",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQEfaN8slx0Fmw/feedshare-shrink_1280/B4DZrtNEQDG4Aw-/0/1764916217926?e=1790208000&v=beta&t=72-joGpatFQJJ5XYUxbPV6SnixHculSME1KkzANDfzY"
+  },
+  "2025-12-09-1e83cb315a.jpg": {
+    "bytes": 54272,
+    "path": "/dms/image/v2/D4D22AQF5QqGgVqLniA/feedshare-shrink_1280/B4DZsFObauLsAw-/0/1765319227932",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_happy-70th-birthday-to-the-european-flag-activity-7404285506009870336-uG3P",
+    "posted": "2025-12-09",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "1fec3dcf797bc283e02ad58dd3a44f716bb9dcaf94cfe4a680ced4b487d5316d",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQF5QqGgVqLniA/feedshare-shrink_1280/B4DZsFObauLsAw-/0/1765319227932?e=1790208000&v=beta&t=mB-tYp8WydLtvxmA5NjEjlnHywzEJaQiznG_BfWucKY"
+  },
+  "2025-12-09-93b948d3d2.jpg": {
+    "bytes": 136877,
+    "path": "/dms/image/v2/D4D22AQH1pbec-6IDvQ/feedshare-shrink_1280/B4DZsE3K_lLUAw-/0/1765313132219",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_europe-usa-freespeech-activity-7404259941022412801-ROKz",
+    "posted": "2025-12-09",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "55a2ac84c72fbbbc9738bf3bc2fe9c324a80902666e83511451478a6e1b36a83",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQH1pbec-6IDvQ/feedshare-shrink_1280/B4DZsE3K_lLUAw-/0/1765313132219?e=1790208000&v=beta&t=4SJ3Ao2fef3TLn5w_enXzXKouSckOVOVrGiGvWN-lAQ"
+  },
+  "2025-12-12-7ad8edf4c4.jpg": {
+    "bytes": 265440,
+    "path": "/dms/image/v2/D4D22AQHJpj8sYQ4SGw/feedshare-shrink_1280/B4DZsTAMHHLUAs-/0/1765550379434",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_yearinreview-reflection-teamwork-activity-7405255025276436480-xv18",
+    "posted": "2025-12-12",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "d4b0133b53e77e47fcb34c9b002208f6d2070557c024cfcf0fd0849a992093df",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQHJpj8sYQ4SGw/feedshare-shrink_1280/B4DZsTAMHHLUAs-/0/1765550379434?e=1790208000&v=beta&t=L9A0qbvjWkaYCSMZtWGjuSSAB_G2J68KYMa2I1hpy3A"
+  },
+  "2025-12-19-c3b84af7df.jpg": {
+    "bytes": 91482,
+    "path": "/dms/image/v2/D4D22AQG8U5OnraXvvA/feedshare-shrink_1280/B4DZs1VRCkKwAs-/0/1766126327151",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_jira-waysofworking-productivity-activity-7407670723390984193-cr18",
+    "posted": "2025-12-19",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "e2d201cc4be097eafc6954b7eab1e4cc3a71a97943b1a9f9728059ee21d767b3",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQG8U5OnraXvvA/feedshare-shrink_1280/B4DZs1VRCkKwAs-/0/1766126327151?e=1790208000&v=beta&t=x91ySi8zBEbkqEf_NoaYeC9wSRMu3QwNeXPp7qf-3dk"
+  },
+  "2025-12-23-532ba0f7a0.jpg": {
+    "bytes": 380176,
+    "path": "/dms/image/v2/D5622AQEeocVKyabnxg/feedshare-shrink_1280/B56ZtKZPZ_JYAw-/0/1766479691871",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_christmas-reflection-hope-activity-7409152843300974592-hcCH",
+    "posted": "2025-12-23",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "a902adbf10e0be3d35d875e754ebd4b3177ff03fbda9f43fabebff32cea23dc4",
+    "url": "https://media.licdn.com/dms/image/v2/D5622AQEeocVKyabnxg/feedshare-shrink_1280/B56ZtKZPZ_JYAw-/0/1766479691871?e=1790208000&v=beta&t=LIeWop7bKcRwBOsYtufE_UIzGKWDW3q4iSwDf1Cx9a8"
+  },
+  "2025-12-30-db41a48dae.jpg": {
+    "bytes": 178441,
+    "path": "/dms/image/v2/D4D22AQGrKnsG1ArrFA/feedshare-shrink_1280/B4DZtuMNH0JUAs-/0/1767080253834",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_bookreview-yearinbooks-learning-activity-7411671784174919680-tQrC",
+    "posted": "2025-12-30",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "0a62bb331013018bc8d3a5f92fa6329244fe9a1a5498caa668b48b2ab367fca9",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQGrKnsG1ArrFA/feedshare-shrink_1280/B4DZtuMNH0JUAs-/0/1767080253834?e=1790208000&v=beta&t=N_p0_OQgOnLhf9AcraCUcJGHJoEFkm4bQMdQDrMGNro"
+  },
+  "2025-12-31-2e33629cd7.jpg": {
+    "bytes": 35642,
+    "path": "/dms/image/v2/D4D22AQGtkNT_QJwEYg/feedshare-shrink_480/B4DZtzTMysIkAY-/0/1767165974170",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_newyearreflections-selfcomparison-personalgrowth-activity-7412031324380717056-4E5x",
+    "posted": "2025-12-31",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "cf0e0abc3314d9a1c7417e95a8c14bfdfd3a5a36352450e22df3a0a3226eb942",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQGtkNT_QJwEYg/feedshare-shrink_480/B4DZtzTMysIkAY-/0/1767165974170?e=1790208000&v=beta&t=CplJxta0FMfM2OdUhhO7Vf_cBWJzI0Zbw-8N7S_ux9U"
+  },
+  "2025-12-31-7fa0ec66fa.jpg": {
+    "bytes": 20895,
+    "path": "/dms/image/v2/D4D22AQEV0DTiDX5sjg/feedshare-shrink_480/B4DZtzTMyKKYAc-/0/1767165974111",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_newyearreflections-selfcomparison-personalgrowth-activity-7412031324380717056-4E5x",
+    "posted": "2025-12-31",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "79488e2550ff35cf40c854ad56fed72a9fa40313d5faf844c47d0b47bea739bb",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQEV0DTiDX5sjg/feedshare-shrink_480/B4DZtzTMyKKYAc-/0/1767165974111?e=1790208000&v=beta&t=cVyLSo0Z91H7EG0OkJzMBuwlbzsB0cuMaLk2n3aIViA"
+  },
+  "2026-01-01-f9a3c645c0.jpg": {
+    "bytes": 195462,
+    "path": "/dms/image/v2/D4D22AQHZPrG11UYNLg/feedshare-shrink_1280/B4DZt5rJPPH4As-/0/1767272915357",
+    "post_url": "https://www.linkedin.com/posts/stefan-oelrich-b87a765_europe-lets-get-our-act-together-activity-7412479865482027009-RkUt",
+    "posted": "2026-01-01",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "a430a5a97f80e8895f89667f252c489d1eb67fee22b6b57b0a4d4c93ae54b163",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQHZPrG11UYNLg/feedshare-shrink_1280/B4DZt5rJPPH4As-/0/1767272915357?e=1790208000&v=beta&t=1LokDrLiftZkH-nevc3wN2u4xc0mB3zOAb3jYAzJq4Q"
+  },
+  "2026-01-05-1dfb619f9c.jpg": {
+    "bytes": 66217,
+    "path": "/dms/image/v2/D4D22AQEEOE7ZnewVHw/feedshare-shrink_1280/B4DZuM8Ln7IkAs-/0/1767596146023",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_chipwar-semiconductors-geopolitics-activity-7413835591911559168-ml2F",
+    "posted": "2026-01-05",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "05b1188386e30f227f666a5a9155f0d72de037fc40397501e7abd63136153724",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQEEOE7ZnewVHw/feedshare-shrink_1280/B4DZuM8Ln7IkAs-/0/1767596146023?e=1790208000&v=beta&t=lu8BKGA6m1EyHOriIhhoVze9YnHL52J-eq70Cc7aaao"
+  },
+  "2026-01-05-f23642850e.jpg": {
+    "bytes": 24062,
+    "path": "/dms/image/v2/D4D22AQFGO9M8xu4itw/feedshare-shrink_1280/B4DZuNn_ljGgAs-/0/1767607634174",
+    "post_url": "https://www.linkedin.com/posts/ma%C5%82gorzata-wasiukiewicz-rogulska-343a4b14_donald-tusk-no-one-will-take-seriously-activity-7413883903549251584-kBVG",
+    "posted": "2026-01-05",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "199922adc387bbe82c98b2acf296e144749d3a8c38a6a871cda0959a8519de4f",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQFGO9M8xu4itw/feedshare-shrink_1280/B4DZuNn_ljGgAs-/0/1767607634174?e=1790208000&v=beta&t=KhtaNULS_rZ83qim-5z8fkKX5xWa2mhIRPPU4TQH2UA"
+  },
+  "2026-01-09-79a3ec7610.jpg": {
+    "bytes": 107595,
+    "path": "/dms/image/v2/D4D22AQF2OZ_LrABu_w/feedshare-shrink_1280/B4DZuheZM4G8As-/0/1767940658905",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_changemanagement-itleadership-digitaltransformation-activity-7415280586321461248-Pp8l",
+    "posted": "2026-01-09",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "f095c4f1975878e8fd85de17d3af0257948c84ba763fc5790bbfdbd11cdaea4f",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQF2OZ_LrABu_w/feedshare-shrink_1280/B4DZuheZM4G8As-/0/1767940658905?e=1790208000&v=beta&t=YM-Zzh_X7r-zVtq6vFPkXLjb1_Zu6dTUNIhueOyAXqI"
+  },
+  "2026-01-13-c834baa3bc.jpg": {
+    "bytes": 101131,
+    "path": "/dms/image/v2/D4D22AQESpWu_-exhOg/feedshare-shrink_1280/B4DZu48g1.JkAs-/0/1768334430853",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_freeiran-activity-7416932182998413313-1aDn",
+    "posted": "2026-01-13",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "e0f39a5c14b2f9fbf2d456aedf9b8564441ac956b2997a57224c28d949f30082",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQESpWu_-exhOg/feedshare-shrink_1280/B4DZu48g1.JkAs-/0/1768334430853?e=1790208000&v=beta&t=lc58pPXkcWxslqt7JDogG9uomORgZCM5Dhv3sFhaDuk"
+  },
+  "2026-01-15-aa2490b811.jpg": {
+    "bytes": 39076,
+    "path": "/dms/image/v2/D4D22AQGCN0mPzG3jTQ/feedshare-shrink_1280/B4DZvDQ1U3IgAw-/0/1768507529226",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_geopolitics-future-strategy-activity-7417658209685094400-Tb2J",
+    "posted": "2026-01-15",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "b261fb5bba4d92e24695b593fe6a6787085305918a7ee0280bcf3eed97ba297a",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQGCN0mPzG3jTQ/feedshare-shrink_1280/B4DZvDQ1U3IgAw-/0/1768507529226?e=1790208000&v=beta&t=11CPwaE_fjO9nUmPBpW66GYjeb1sA0JIobwefCcEkac"
+  },
+  "2026-01-17-efbd37b6cc.jpg": {
+    "bytes": 94659,
+    "path": "/dms/image/v2/D4D22AQEeDOr-pjCxHw/feedshare-shrink_1280/B4DZvOH_6dHYAc-/0/1768689762124",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_sumsitnicely-stateofworldaffairs-eu-activity-7418422547571994624-NUxl",
+    "posted": "2026-01-17",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "b6e6ea60163ec430b88a9c17476972750d65779106bfb00aee0e648574a347c5",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQEeDOr-pjCxHw/feedshare-shrink_1280/B4DZvOH_6dHYAc-/0/1768689762124?e=1790208000&v=beta&t=PpvziqnO-10CW-3St7Hg6w5XH7hIAefi3IZzCFkAeKA"
+  },
+  "2026-01-20-c4763f5031.jpg": {
+    "bytes": 125560,
+    "path": "/dms/image/v2/D4D22AQGCxhbMKbvIEA/feedshare-shrink_1280/B4DZvaEqNvJYAc-/0/1768890213446",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_orwell-nineteeneightyfour-dystopia-activity-7419263304646406144-iYzT",
+    "posted": "2026-01-20",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "4146d8d0b12e0e1475df8dafa7bd5e35a845c05a0e106fda574bd681f8b665d5",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQGCxhbMKbvIEA/feedshare-shrink_1280/B4DZvaEqNvJYAc-/0/1768890213446?e=1790208000&v=beta&t=skWKe4uIRpQPVnFgpbUcJxZmxNmBRMoUpVhJkUnwPVQ"
+  },
+  "2026-01-22-d9b9b0f70d.jpg": {
+    "bytes": 20368,
+    "path": "/dms/image/v2/D4D22AQGrw6QhWDn48Q/feedshare-shrink_1280/B4DZvkcFhcK0AY-/0/1769064126722",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_quarterlyplanning-productmanagement-teamalignment-activity-7419992751586377728-GtQa",
+    "posted": "2026-01-22",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "70901c9605ed5c7d09db58d74e7323e477b72b696a10adef977b9f0509fa01d3",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQGrw6QhWDn48Q/feedshare-shrink_1280/B4DZvkcFhcK0AY-/0/1769064126722?e=1790208000&v=beta&t=98Xcpi9Qh5DZ82MZYXdM_LeoMpQ_DoMRJ_ClttLnlOY"
+  },
+  "2026-01-23-f43731b815.jpg": {
+    "bytes": 61837,
+    "path": "/dms/image/v2/D4D22AQElz0NJB-TeeA/feedshare-shrink_1280/B4DZvplliqH0Ac-/0/1769150503455",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_leadership-strategy-digitaltransformation-activity-7420355042332917760--k_t",
+    "posted": "2026-01-23",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "01f98f95e6ab1b5dd6a1bb84181934aecda3e2da2dcb7b9b3f8ce6206d66a3eb",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQElz0NJB-TeeA/feedshare-shrink_1280/B4DZvplliqH0Ac-/0/1769150503455?e=1790208000&v=beta&t=C7xhIlwd11zFz4E0445Srh5PBtmcmSJte-5XjmEbUpQ"
+  },
+  "2026-01-26-d36d023296.jpg": {
+    "bytes": 88765,
+    "path": "/dms/image/v2/D4D22AQF7gOzaCbDblg/feedshare-shrink_1280/B4DZv7D3eoIwAc-/0/1769443653785",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_europe-eu-parliament-activity-7421584599002210304-jz1b",
+    "posted": "2026-01-26",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "2d3910a9482fd7174480eeefadada750066e0b7f14acef3896bcaabd12f83582",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQF7gOzaCbDblg/feedshare-shrink_1280/B4DZv7D3eoIwAc-/0/1769443653785?e=1790208000&v=beta&t=3oSGC290ElHlC-SzfbOwbN6jKe6ux9ULoagnM3vV6d8"
+  },
+  "2026-01-27-added78fea.jpg": {
+    "bytes": 45700,
+    "path": "/dms/image/v2/D4D22AQGxoLJCtD7T4A/feedshare-shrink_1280/B4DZv.ErhkGQAc-/0/1769494198604",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_strategy-bookreview-playingtowin-activity-7421796603151360000-6HUL",
+    "posted": "2026-01-27",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "9b6613f877a0efc6cf85f564926d65e7f31f3fbfff92ee6f2ccd720ae36e9392",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQGxoLJCtD7T4A/feedshare-shrink_1280/B4DZv.ErhkGQAc-/0/1769494198604?e=1790208000&v=beta&t=tDt92rwu5mjfzOS6mxZVvCEQfpOq-WdU3VVD3qDwL0w"
+  },
+  "2026-01-29-06fc7b366c.jpg": {
+    "bytes": 152056,
+    "path": "/dms/image/v2/D5622AQGE49qoh3LTBg/feedshare-shrink_1280/B56ZvyUjJJIUAc-/0/1769297032140",
+    "post_url": "https://www.linkedin.com/posts/johnpcutler_putting-agile-fatigue-into-context-activity-7420969626618060800-5CXP",
+    "posted": "2026-01-29",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "a1175912551c1a18170f4d79f2e274a064df42fa7d4560b6a0a00e84b3b8d03a",
+    "url": "https://media.licdn.com/dms/image/v2/D5622AQGE49qoh3LTBg/feedshare-shrink_1280/B56ZvyUjJJIUAc-/0/1769297032140?e=1790208000&v=beta&t=u9Cllu0EpEeIAaSTsBHM2iXzZYVUOB6gwN4yWkUb8W4"
+  },
+  "2026-02-03-9511140d54.jpg": {
+    "bytes": 103956,
+    "path": "/dms/image/v2/D4D22AQGsWQzWlsGQSA/feedshare-shrink_1280/B4DZwiKbKtHgAc-/0/1770099684209",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_bravenewworld-activity-7424336192655175680-qUy_",
+    "posted": "2026-02-03",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "50ac24c22fef700e062151813fe1fa4caf35d02379f74af42600267fef3422a8",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQGsWQzWlsGQSA/feedshare-shrink_1280/B4DZwiKbKtHgAc-/0/1770099684209?e=1790208000&v=beta&t=FIspP24JJFtqrQCYI-7Hx0o_IwW0WdCGcfsqgzrq9Yk"
+  },
+  "2026-02-06-8fed2087bf.jpg": {
+    "bytes": 82495,
+    "path": "/dms/image/v2/D4D22AQGWJVgRmAwV1g/feedshare-shrink_1280/B4DZwzJIB8IwAc-/0/1770384556607",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_seb-cloudjourney-lifeatseb-activity-7425531032692580352-GSdC",
+    "posted": "2026-02-06",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "d2996c3352b97ae2bdc30f3c32da1e1ec2c59a8b6ff7df12c99ebcf42681673e",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQGWJVgRmAwV1g/feedshare-shrink_1280/B4DZwzJIB8IwAc-/0/1770384556607?e=1790208000&v=beta&t=W0Y1RG6cATypSJ3TQShekLG6cHLbQxHAgLI8ygleLWQ"
+  },
+  "2026-02-08-6c37e8904a.jpg": {
+    "bytes": 84579,
+    "path": "/dms/image/v2/D4D22AQEKXvh5f9MZeA/feedshare-shrink_1280/B4DZw8IcRQGQAc-/0/1770535372025",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_teamleadership-management-teamdynamics-activity-7426163602186862593-U86e",
+    "posted": "2026-02-08",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "4cc9aaddab3aee062fd7c06923e08a28692070d059861ba4ababc70a75e0541a",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQEKXvh5f9MZeA/feedshare-shrink_1280/B4DZw8IcRQGQAc-/0/1770535372025?e=1790208000&v=beta&t=M8N5GP1_uvSKhfO-rsaVC8u7TkgPny2hi_U4pVayTQg"
+  },
+  "2026-02-09-052996d00c.jpg": {
+    "bytes": 48174,
+    "path": "/dms/image/v2/D4D22AQEQgIVWwLTGjA/feedshare-shrink_1280/B4DZxCmDNyHwAk-/0/1770643797070",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_accountability-decisionmaking-management-activity-7426618366519484416-y82B",
+    "posted": "2026-02-09",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "5e7a4d0369f92384a4b634f4b542955b8c1ca232550893d4f097c5e6c6cdef88",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQEQgIVWwLTGjA/feedshare-shrink_1280/B4DZxCmDNyHwAk-/0/1770643797070?e=1790208000&v=beta&t=7ICvS7GZ7z9OLhGej0iFWsr14CI7fc9GW0upNth1mN8"
+  },
+  "2026-02-11-eb1f40ca11.jpg": {
+    "bytes": 157162,
+    "path": "/dms/image/v2/D4E22AQE1GB-CNJBB5g/feedshare-shrink_1280/B4EZxMNMYCK0Ac-/0/1770805053222",
+    "post_url": "https://www.linkedin.com/posts/jasongorman_feb-11th-2001-exactly-25-years-ago-was-activity-7427294723687624704-a3Fh",
+    "posted": "2026-02-11",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "3bf4829d6c472b539944dfcf249f5ec687dcf4e080aeb7e247279357ff074344",
+    "url": "https://media.licdn.com/dms/image/v2/D4E22AQE1GB-CNJBB5g/feedshare-shrink_1280/B4EZxMNMYCK0Ac-/0/1770805053222?e=1790208000&v=beta&t=LYAf_d_x24X4-hpav_xa-Z38GmLLEPBq08QOx1fR0sU"
+  },
+  "2026-02-11-f367a3fd1b.jpg": {
+    "bytes": 45660,
+    "path": "/dms/image/v2/D4D22AQHI0apKDsl06w/feedshare-shrink_1280/B4DZxM_ZcHIwAw-/0/1770818213972",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_cloudfoundation-cloudsecurity-cloudresilience-activity-7427349924876316672-OHbY",
+    "posted": "2026-02-11",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "db4cc06df34c51ba91fc890b64a52f4ed8f2e978717ed536b186d595479ffbaa",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQHI0apKDsl06w/feedshare-shrink_1280/B4DZxM_ZcHIwAw-/0/1770818213972?e=1790208000&v=beta&t=ZBXctOcU7N7o_iUArEA_hZHAbHa0pIG0hDu3XNNWv3g"
+  },
+  "2026-02-17-108c60c797.jpg": {
+    "bytes": 428917,
+    "path": "/dms/image/v2/D4D22AQGXwvfXbNgJzg/feedshare-shrink_1280/B4DZxqTTizJ8Ac-/0/1771309972307",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_over-the-years-ive-found-that-seniority-activity-7429412508064620544-IYUy",
+    "posted": "2026-02-17",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "45775d69933017801a49ca399db8bb0830bf2f15b5d3d1aefa440867938ecdce",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQGXwvfXbNgJzg/feedshare-shrink_1280/B4DZxqTTizJ8Ac-/0/1771309972307?e=1790208000&v=beta&t=PKFnQ2f7pz8L6_uF0rphNT_v8Uhhe53PPKEkjIgipJI"
+  },
+  "2026-02-25-ba3752862a.jpg": {
+    "bytes": 375428,
+    "path": "/dms/image/v2/D4D22AQHtc6QlDIUiFA/feedshare-shrink_1280/B4DZyTnBYuJoAg-/0/1772003008604",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_platformengineering-cloudstrategy-devops-activity-7432319315598680064-QbiT",
+    "posted": "2026-02-25",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "c069e992fc9709d4e4448b3a759a426f24c341938e28c2c575e55483495751ff",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQHtc6QlDIUiFA/feedshare-shrink_1280/B4DZyTnBYuJoAg-/0/1772003008604?e=1790208000&v=beta&t=7KN-H9fhhnRHkm2naqU_IqEV8fOhRDrYnnWwCG37Pxg"
+  },
+  "2026-02-25-e04695f956.jpg": {
+    "bytes": 359763,
+    "path": "/dms/image/v2/D4D22AQFkp5L03eMwKQ/feedshare-shrink_1280/B4DZyU4bSGG0Ac-/0/1772024346352",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_there-is-nothing-quite-like-a-mid-week-hot-activity-7432408809333129217-8TmS",
+    "posted": "2026-02-25",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "dfeec324cb78c9efd3026823e935406702bb439ac71a84c2ba3a4d8f40e1bd98",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQFkp5L03eMwKQ/feedshare-shrink_1280/B4DZyU4bSGG0Ac-/0/1772024346352?e=1790208000&v=beta&t=rsfVzwaly8K9PaVUPzSRlXN3_XYKQgb7OdjgAkAQa6c"
+  },
+  "2026-03-05-adca093734.jpg": {
+    "bytes": 158625,
+    "path": "/dms/image/v2/D5622AQEAbZaBUnFsRg/feedshare-shrink_1280/B56Zy_RBBIH8Ac-/0/1772735437460",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_agile-teamalignment-leadership-activity-7435391344681988097-LBeQ",
+    "posted": "2026-03-05",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "18a2d42f4853050f20bca2085965dba7b6177d57f10297d782e7ca4b0b21539d",
+    "url": "https://media.licdn.com/dms/image/v2/D5622AQEAbZaBUnFsRg/feedshare-shrink_1280/B56Zy_RBBIH8Ac-/0/1772735437460?e=1790208000&v=beta&t=YHyBL8ciecf_KFF9uH5S2TxI_kgXxTg7v33gv5fSAyg"
+  },
+  "2026-03-07-81ecf20b54.jpg": {
+    "bytes": 395853,
+    "path": "/dms/image/v2/D4D22AQEm7ryDIkSqrQ/feedshare-shrink_1280/B4DZzHESqpG0AM-/0/1772866317499",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_worklife-worklifebalance-mentalhealth-activity-7435940291817373697-zRhe",
+    "posted": "2026-03-07",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "901f2688778a3cef8dd65e42d2f1de89a115d85a7fb0e274d0e9bcb566c6cb32",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQEm7ryDIkSqrQ/feedshare-shrink_1280/B4DZzHESqpG0AM-/0/1772866317499?e=1790208000&v=beta&t=M97ybl9VuSdGzfWgKTMXgPlb0BcbFGH3uZYIcZNaypg"
+  },
+  "2026-03-10-a7783e3c4d.jpg": {
+    "bytes": 181777,
+    "path": "/dms/image/v2/D4D22AQHm7CeRQZNMwA/feedshare-shrink_1280/B4DZzWl_vvIgAM-/0/1773126810999",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_thinkfasttalksmart-communication-publicspeaking-activity-7437032884084924416-dPvz",
+    "posted": "2026-03-10",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "2fbcf9709679851c3a91253de9978d393452f9dd0fbf61f729585e236511f077",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQHm7CeRQZNMwA/feedshare-shrink_1280/B4DZzWl_vvIgAM-/0/1773126810999?e=1790208000&v=beta&t=6RM2ZvOdqXUcbdxUlVYfwiUgKUsR0O5wYitZm_WXEzM"
+  },
+  "2026-03-12-811e24bd40.jpg": {
+    "bytes": 48322,
+    "path": "/dms/image/v2/D4D22AQGlstZE9JM7Ug/feedshare-shrink_1280/B4DZzgvvkEIkAM-/0/1773297138256",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_that-moment-the-wi-fi-drops-and-you-feel-activity-7437747287801475072-VymC",
+    "posted": "2026-03-12",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "4ec930000ddb234230494a43e8d3d93e24582374f413276ce85af151c1bcaf83",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQGlstZE9JM7Ug/feedshare-shrink_1280/B4DZzgvvkEIkAM-/0/1773297138256?e=1790208000&v=beta&t=-0wZwFv4NaewDGX34w5M3xwZt66FhE7xvzOQMrfxIOw"
+  },
+  "2026-03-14-ed65ff324b.jpg": {
+    "bytes": 22563,
+    "path": "/dms/image/v2/D4D22AQEI74hdT1vFVw/feedshare-shrink_1280/B4DZzrMFLYIQAM-/0/1773472338887",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_cloudcomputing-disasterrecovery-devops-activity-7438482128582922240-Y1VR",
+    "posted": "2026-03-14",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "7c2ad3489caf8d30ecc95b5fc5bb14b5ab6bfbb68e49d4d9d4c9cd7a936cde50",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQEI74hdT1vFVw/feedshare-shrink_1280/B4DZzrMFLYIQAM-/0/1773472338887?e=1790208000&v=beta&t=7pVHcdKEqISguLBqgaqhlgw_0foDbqdDOX4EkEhbpKc"
+  },
+  "2026-03-16-8aaae63302.jpg": {
+    "bytes": 55494,
+    "path": "/dms/image/v2/D4D22AQHysqOIkzTSag/feedshare-shrink_1280/B4DZz3FLY5KQAM-/0/1773671855907",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_cloudcomputing-cloudfoundation-cloudgovernance-activity-7439318966172409858-z94R",
+    "posted": "2026-03-16",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "536cd4a5fce186a60c710db30813f36c70cd35432ae8fb4f9e4c03c72907f923",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQHysqOIkzTSag/feedshare-shrink_1280/B4DZz3FLY5KQAM-/0/1773671855907?e=1790208000&v=beta&t=6OY06uF8vEQQkYEygxjCzhqv7f6ZXuobW5dxuiHBaZw"
+  },
   "2026-03-17-a59e30e722.jpg": {
     "bytes": 156799,
     "path": "/dms/image/v2/D4D22AQE5C2M4bfP3PQ/feedshare-shrink_1280/B4DZz7.iJaIwAM-/0/1773754000386",
@@ -7,6 +1440,16 @@
     "saved": "2026-09-07",
     "sha256": "258fb62577cfebd86cc751a7b9a72a84d74ad5333661f8b90b42bcc356cc0c1c",
     "url": "https://media.licdn.com/dms/image/v2/D4D22AQE5C2M4bfP3PQ/feedshare-shrink_1280/B4DZz7.iJaIwAM-/0/1773754000386?e=1789603200&v=beta&t=IKKqLK-irNSt-rGYuJE9dyELpl7hqyXarK0GRv1nnwc"
+  },
+  "2026-03-17-b3c7f39151.jpg": {
+    "bytes": 45837,
+    "path": "/dms/image/v2/D4D22AQGm5QJ-1_SYmA/feedshare-shrink_1280/B4DZz668qJGYAM-/0/1773736283113",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_autocracyinc-anneapplebaum-democracy-activity-7439589191828557824-fBw2",
+    "posted": "2026-03-17",
+    "recovered": true,
+    "saved": "2026-09-07",
+    "sha256": "b7ad87319019dafe1d2f8be1709eb124ced3dc9531ec770d91a2fa9faa4aa513",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQGm5QJ-1_SYmA/feedshare-shrink_1280/B4DZz668qJGYAM-/0/1773736283113?e=1790208000&v=beta&t=JtNxY9-JaVg6-z_M-vpEda0I4v71mumKKz6ss9GAedY"
   },
   "2026-03-18-33c090bac9.jpg": {
     "bytes": 280025,
