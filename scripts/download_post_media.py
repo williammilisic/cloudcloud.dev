@@ -53,6 +53,10 @@ def parse_arguments(argv):
     parser.add_argument("--into", default=DEFAULT_DIRECTORY)
     parser.add_argument("--dry-run", action="store_true",
                         help="report what would be fetched without fetching it")
+    parser.add_argument("--from-links", metavar="FILE",
+                        help="take links from a file of 'activity id<tab>link' lines "
+                             "instead of from the archive, for links gathered by hand "
+                             "from a signed in session")
     return parser.parse_args(argv)
 
 
@@ -87,14 +91,65 @@ def media_links(archive_path):
     return found
 
 
-def stable_key(url):
-    """What identifies an image across re-signings.
+def links_from_file(links_path, archive_path):
+    """Links gathered elsewhere, matched back to the posts they belong to.
 
-    Each sync stores a freshly signed link for the same picture, so the query
-    string changes nightly while the path does not. Keying on the path is what
-    keeps a re-signed link from being saved a second time under a new name.
+    A link whose signature has expired cannot be re-signed from here, but the
+    post itself still renders for someone signed in, and the page it renders
+    carries a fresh link to the same picture. Those are what this reads, as
+    lines of 'activity id<tab>link', so that they land in the same store under
+    the same rules as everything the sync saves itself.
     """
-    return urllib.parse.urlparse(url).path
+    with open(archive_path, encoding="utf-8") as handle:
+        posts = json.load(handle)["data"]["posts"]
+
+    by_activity = {}
+    for post in posts:
+        url = post.get("url") or ""
+        found = re.search(r"activity[:-](\d+)", url)
+        if found:
+            by_activity[found.group(1)] = {
+                "posted": (post.get("posted_at") or {}).get("date", "")[:10],
+                "post_url": url.split("?")[0],
+            }
+
+    links = {}
+    unmatched = 0
+    with open(links_path, encoding="utf-8") as handle:
+        for line in handle:
+            if "\t" not in line:
+                continue
+            activity_id, url = line.strip().split("\t", 1)
+            about = by_activity.get(activity_id)
+            if not about:
+                unmatched += 1
+                continue
+            links.setdefault(url, about)
+    if unmatched:
+        print("lines with no matching post: %d" % unmatched)
+    return links
+
+
+ASSET_IN_PATH = re.compile(r"/dms/image/v2/([^/]+)/")
+
+
+def stable_key(url):
+    """What identifies a picture, whatever link happens to point at it.
+
+    Two things vary for one picture. The query string is re-signed every time
+    the sync runs, so it says nothing about which picture this is. The path then
+    names a rendering rather than the picture: the same photograph is served as
+    feedshare-shrink_800, feedshare-shrink_1280 and feedshare-image-high-res,
+    which are different bytes and so slip past a check on content.
+
+    What does not vary is the asset id in the middle of the path. Keying on that
+    is what keeps one photograph from being saved once per size it is offered
+    in. Anything without one, a video playlist for instance, falls back to the
+    path, which is stable enough for those.
+    """
+    parsed = urllib.parse.urlparse(url)
+    found = ASSET_IN_PATH.search(parsed.path)
+    return found.group(1) if found else parsed.path
 
 
 def expires_at(url):
@@ -150,14 +205,19 @@ def fetch(url):
 
 def main(argv):
     options = parse_arguments(argv)
-    links = media_links(options.archive)
+    if options.from_links:
+        links = links_from_file(options.from_links, options.archive)
+    else:
+        links = media_links(options.archive)
     now = datetime.datetime.now(datetime.timezone.utc)
 
     manifest = load_manifest(options.into)
     already = set()
     for entry in manifest.values():
-        already.add(entry.get("path") or stable_key(entry["url"]))
-        already.update(entry.get("also_at", []))
+        # Recomputed rather than read back, so that entries written before the
+        # key became the asset id are still recognised as held.
+        already.add(stable_key(entry["url"]))
+        already.update(stable_key(seen) for seen in entry.get("also_at", []))
     known_content = {entry["sha256"]: name for name, entry in manifest.items() if entry.get("sha256")}
 
     live = []
