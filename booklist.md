@@ -5,6 +5,9 @@ Back to [main](index.md) &middot; see the list [in numbers](bookstats.md).
 <br/>
 ## 2026
 
+* **The Nvidia Way**
+<br/>By: Tae Kim. I couldn<br/>September 2026 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_thenvidiaway-toyotaway-jensenhuang-activity-7503683517738815488-EzUW)
+
 * **Incorruptible**
 <br/>By: Eric Ries<br/>August 2026 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_ericries-incorruptible-leadership-activity-7490281462714339328-sMU-)
 

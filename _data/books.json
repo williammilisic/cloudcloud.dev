@@ -1,17 +1,17 @@
 {
   "summary": {
-    "total": 114,
-    "reviewed": 87,
+    "total": 115,
+    "reviewed": 88,
     "rereads": 2,
-    "authors": 125,
+    "authors": 126,
     "first_year": "2018",
     "last_year": "2026",
     "busiest_year": 23,
     "years": [
       {
         "year": "2026",
-        "total": 13,
-        "reviewed": 13
+        "total": 14,
+        "reviewed": 14
       },
       {
         "year": "2025",
@@ -560,6 +560,25 @@
     ]
   },
   "books": [
+    {
+      "title": "The Nvidia Way",
+      "author": "Tae Kim. I couldn",
+      "authors": [
+        "Tae Kim. I couldn"
+      ],
+      "month": "September",
+      "year": "2026",
+      "section_year": "2026",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_thenvidiaway-toyotaway-jensenhuang-activity-7503683517738815488-EzUW"
+        }
+      ]
+    },
     {
       "title": "Incorruptible",
       "author": "Eric Ries",
