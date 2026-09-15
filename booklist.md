@@ -36,7 +36,7 @@ Back to [main](index.md) &middot; see the list [in numbers](bookstats.md).
 <br/>By: Matt Abrahams<br/>February 2026 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_thinkfasttalksmart-communication-publicspeaking-activity-7437032884084924416-dPvz)
 
 * **Brave New World**
-<br/>By: Aldous Huxley<br/>February 2026 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_bravenewworld-activity-7424336192655175680-qUy_))
+<br/>By: Aldous Huxley<br/>February 2026 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_bravenewworld-activity-7424336192655175680-qUy_)
 
 * **Playing to Win - How Strategy Really Works**
 <br/>By: A.G. Lafley & Roger L. Martin<br/>February 2026 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_strategy-bookreview-playingtowin-activity-7421796603151360000-6HUL)
@@ -122,7 +122,7 @@ Back to [main](index.md) &middot; see the list [in numbers](bookstats.md).
 <br/>By: Peter F. Drucker<br/>June 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_bookreview-audiobook-drucker-activity-7202564517153640448-lWJ9)
 
 * **Supercommunicators**
-<br/>By: Charless Duhigg<br/>June 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_bookreview-abookaday-activity-7201089579439779842-fixi)
+<br/>By: Charles Duhigg<br/>June 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_bookreview-abookaday-activity-7201089579439779842-fixi)
 
 * **Escaping the Build Trap**
 <br/>By: Melissa Perri<br/>May 2024 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_productmanagement-productleadership-buildtrap-activity-7192027686431551488-oXb7)
@@ -151,7 +151,7 @@ Back to [main](index.md) &middot; see the list [in numbers](bookstats.md).
 * **Winning Minds: Secrets From the Language of Leadership**
 <br/>By: Simon Lancaster <br/>December 2023 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_bookreview-continuouslearning-activity-7145789431029948416-SwIk)
 
-* **Trillion Dollar Coach - The Leadership Playbook by Sillicon Valley's Bill Campbell** 
+* **Trillion Dollar Coach - The Leadership Playbook by Silicon Valley's Bill Campbell** 
 <br/>By:  Eric Schmidt, Jonathan Rosenberg & Alan Eagle <br>November 2023 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_silliconvalley-billcampbell-stevejobs-activity-7134790509385908224-sQap) <br/>[Additional post](https://www.linkedin.com/posts/williammilisic_leadership-coaching-121s-activity-7135519000129679360-CZzZ)
 
 * **The Coming Wave** 
