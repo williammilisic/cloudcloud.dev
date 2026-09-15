@@ -46,6 +46,55 @@ def safe_field(value):
     collapsed = re.sub(r"\s+", " ", collapsed).strip()
     return collapsed[:MAX_FIELD_LENGTH].strip()
 
+# Where a name ends. The patterns below let an author run through letters,
+# spaces and periods, because names contain all three, so a captured name keeps
+# going into whatever followed it in the post: "by Tae Kim. I couldn't help
+# but..." yielded "Tae Kim. I couldn", and "by Jeffrey Pfeffer was that it was
+# highly cynical" yielded the lot.
+#
+# Two things end a name. One is the sentence it sits in; the period after an
+# initial ends nothing, so only a period following a whole word counts, which
+# leaves "L. David Marquet" and "A.G. Lafley" intact. The other is a word that
+# cannot be part of a name: prose is lower case, and names are not, apart from
+# the few words that join two of them together.
+SENTENCE_END = re.compile(r'(?<=[a-z]{2})[.!?](?:\s|$)')
+JOINING_WORDS = {'and', '&', 'with', 'van', 'von', 'de', 'der', 'den', 'di', 'da', 'la', 'le'}
+MAX_NAME_WORDS = 12
+
+
+def trim_to_name(author):
+    """Cut a captured author back to the part that can actually be a name.
+
+    Returns an empty string when nothing in it can be, which is the honest
+    answer for a capture like "two audiobooks": the caller skips the post and
+    says so, rather than writing a sentence fragment into the list as a name.
+    """
+    if not author:
+        return ''
+    author = author.split('\n')[0]
+
+    ends = SENTENCE_END.search(author)
+    if ends:
+        author = author[:ends.start()]
+
+    kept = []
+    for word in author.split()[:MAX_NAME_WORDS]:
+        if word.lower().strip('.,') in JOINING_WORDS:
+            kept.append(word)
+            continue
+        if not word[:1].isupper():
+            break
+        kept.append(word)
+
+    # A name cannot begin or end on the word that joined it to another one.
+    while kept and kept[0].lower().strip('.,') in JOINING_WORDS:
+        kept.pop(0)
+    while kept and kept[-1].lower().strip('.,') in JOINING_WORDS:
+        kept.pop()
+
+    return ' '.join(kept).strip(' .,')
+
+
 def parse_title_author(text):
     clean_text = text.replace('”', '"').replace('“', '"').replace('’', "'").replace('‘', "'")
     lines = [line.strip() for line in clean_text.split('\n') if line.strip()]
@@ -58,35 +107,35 @@ def parse_title_author(text):
     text_sample = " ".join(lines[:3])
     
     # 1. "I just finished [Author]'s [latest/new/classic] book, [Title]" or similar
-    m = re.search(r'(?:finished|read|listened to)\s+([A-Z][a-zA-Z\s\.\-]+?)(?:\'s|\s+latest|\s+classic|\s+new|\s+book)*\s+(?:book,?\s+)?["\']([^"\']+)["\']', text_sample, re.IGNORECASE)
+    m = re.search(r'(?:finished|read|listened to)\s+([A-Z][a-zA-Z\u00C0-\u024F\s\.\-]+?)(?:\'s|\s+latest|\s+classic|\s+new|\s+book)*\s+(?:book,?\s+)?["\']([^"\']+)["\']', text_sample, re.IGNORECASE)
     if m:
         author = m.group(1).strip()
         title = m.group(2).strip()
         author = re.sub(r'^(?:listening to|the audiobook|audiobook|reading|read)\s+', '', author, flags=re.IGNORECASE).strip()
-        return title, author
+        return title, trim_to_name(author)
 
     # 2. "Just finished [Title] by [Author]"
-    m = re.search(r'(?:finished|read|listened to)\s+(?:the\s+audiobook\s+|the\s+book\s+)?["\']([^"\']+)["\']\s+by\s+([A-Z][a-zA-Z\s\.\-]+)', text_sample, re.IGNORECASE)
+    m = re.search(r'(?:finished|read|listened to)\s+(?:the\s+audiobook\s+|the\s+book\s+)?["\']([^"\']+)["\']\s+by\s+([A-Z][a-zA-Z\u00C0-\u024F\s\.\-]+)', text_sample, re.IGNORECASE)
     if m:
         title = m.group(1).strip()
         author = m.group(2).strip().split('\n')[0].split(',')[0].strip()
-        return title, author
+        return title, trim_to_name(author)
 
     # 3. "finished [Title] by [Author]" without quotes
-    m = re.search(r'finished\s+([A-Z][a-zA-Z0-9\s:\-\?]+?)\s+by\s+([A-Z][a-zA-Z\s\.\-]+)', text_sample, re.IGNORECASE)
+    m = re.search(r'finished\s+([A-Z][a-zA-Z0-9\s:\-\?]+?)\s+by\s+([A-Z][a-zA-Z\u00C0-\u024F\s\.\-]+)', text_sample, re.IGNORECASE)
     if m:
         title = m.group(1).strip()
         author = m.group(2).strip().split('\n')[0].split(',')[0].strip()
-        return title, author
+        return title, trim_to_name(author)
 
     # 4. Fallback: extract title from quotes in first line
     quotes = re.findall(r'["\']([^"\']+)["\']', first_line)
     if quotes:
         title = quotes[0].strip()
         # Try finding "by Author"
-        m_by = re.search(r'by\s+([A-Z][a-zA-Z\s\.\-]+)', first_line)
+        m_by = re.search(r'by\s+([A-Z][a-zA-Z\u00C0-\u024F\s\.\-]+)', first_line)
         if m_by:
-            author = m_by.group(1).strip()
+            author = trim_to_name(m_by.group(1).strip())
             
     # 5. Fallback: First line title before colon/dash
     if not title and ":" in first_line:
