@@ -1,4 +1,10 @@
-remote_theme: pages-themes/dinky@v0.2.0
+# The theme supplies the page around everything written here, so whoever
+# controls it controls the markup of every page on the site. A tag can be moved
+# to point at a different commit, which is why the workflows pin their actions
+# by SHA rather than by tag, and the same reasoning applies here. This is the
+# commit v0.2.0 pointed at. Dependabot does not watch this field the way it
+# watches the workflows, so moving to a later release is a deliberate act.
+remote_theme: pages-themes/dinky@e50ec22b31a91ed2beb79e6e086b276ac40b42cf
 title: Cloud Cloud Dot Dev
 description: Written account of my readings, learnings, and thoughts.
 url: https://williammilisic.github.io
