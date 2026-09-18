@@ -53,6 +53,16 @@ A miniseries about product strategy, looking into the decisions that have guided
 Reports on the intersections between science, technology, culture and policy.
 [Link](https://open.spotify.com/show/2ZFDmgDS2Z6xccP51s1zFQ)
 
+### Boss Class | The Economist Podcasts
+The Economist's limited series on management, hosted by Andrew Palmer of the Bartleby column.
+Each season takes one set of boss problems and works through them with people who have actually had the job, from running meetings and hiring to managing a workforce through AI.
+[Link](https://www.economist.com/audio/podcasts/boss-class)
+
+### Acquired
+Long-form histories of how the world's largest companies were built, and why the strategy worked when it did.
+Each episode is a deep dive into one company rather than a news round-up, which makes it useful when a familiar name turns out to have a less familiar origin story.
+[Link](https://www.acquired.fm/)
+
 ### Radio Atlantic | The Atlantic
 The Atlantic's flagship show, hosted by Hanna Rosin and Adam Harris, carrying the magazine's ideas-driven journalism over into audio.
 Each episode takes one of the ideas sitting underneath the news and tests it in conversation with the writers covering it, which makes it a useful counterweight to the daily tech shows.
