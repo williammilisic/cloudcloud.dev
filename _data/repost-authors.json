@@ -1,0 +1,1294 @@
+{
+  "summary": {
+    "total": 73,
+    "authors": 39,
+    "repeated_authors": 11,
+    "first_year": "2022",
+    "last_year": "2026",
+    "busiest_year": 53,
+    "years": [
+      {
+        "year": "2026",
+        "total": 53
+      },
+      {
+        "year": "2025",
+        "total": 18
+      },
+      {
+        "year": "2024",
+        "total": 1
+      },
+      {
+        "year": "2022",
+        "total": 1
+      }
+    ],
+    "top_authors": [
+      {
+        "name": "Aura Salla",
+        "username": "aurasalla",
+        "profile_url": "https://www.linkedin.com/in/aurasalla?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAV2nUMB1B7N1RdO9CsYW0m8JFuJrBCbhtM",
+        "count": 9,
+        "slug": "aura-salla",
+        "posts": [
+          {
+            "snippet": "Last week I asked Commissioner Henna Virkkunen about high-risk vendors in ICT infrastructure and the…",
+            "year": "2025",
+            "date": "2025-12-10",
+            "url": "https://www.linkedin.com/posts/aurasalla_last-week-i-asked-commissioner-henna-virkkunen-ugcPost-7404445405515710465-R8kn?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGjC-9UBcWMqJCFjZNmJnS8pA9AD4MVdYXk",
+            "reactions": 186,
+            "comments": 20
+          },
+          {
+            "snippet": "Europe regulated itself out of the tech game a decade ago. For far too long,…",
+            "year": "2025",
+            "date": "2025-11-27",
+            "url": "https://www.linkedin.com/posts/aurasalla_europe-regulated-itself-out-of-the-tech-game-ugcPost-7399784575964581888-94wM?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGgeHnAB46NIXUQXNfm5kQA_rNEaf0hgQf8",
+            "reactions": 446,
+            "comments": 164
+          },
+          {
+            "snippet": "👆 Europe is finally treating defence as a strategic responsibility. If Europe wants to lead…",
+            "year": "2025",
+            "date": "2025-11-20",
+            "url": "https://www.linkedin.com/posts/aurasalla_europe-is-finally-treating-defence-as-activity-7397268982132523026-kXPz?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGenysoBQFym12KWMFXamevcyNAUYaUwj_4",
+            "reactions": 183,
+            "comments": 10
+          },
+          {
+            "snippet": "The Commission will publish next week its Digital Omnibus - what can we expect: 💡…",
+            "year": "2025",
+            "date": "2025-11-12",
+            "url": "https://www.linkedin.com/posts/aurasalla_killthechatcontrolforgood-digital-data-activity-7394283416541761536-L5Yu?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGdSSGcBgmBFLgdDW8KpAmYIG5brDU_eOs4",
+            "reactions": 563,
+            "comments": 96
+          },
+          {
+            "snippet": "📣 Here’s my take on the Commission’s 2026 Work Programme. This is a bureaucratic policy…",
+            "year": "2025",
+            "date": "2025-10-23",
+            "url": "https://www.linkedin.com/posts/aurasalla_28regime-tech-digital-activity-7387059302299066368-m_t5?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGRI-5UBYO1g5n1dZdATuVxJqYWNzWoIBIk",
+            "reactions": 407,
+            "comments": 41
+          },
+          {
+            "snippet": "The European Commission’s AI strategy launched yesterday is yet again repeating the same problems without…",
+            "year": "2025",
+            "date": "2025-10-09",
+            "url": "https://www.linkedin.com/posts/aurasalla_data-sovereignty-ai-ugcPost-7381947088487493633-UQ-i?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGUtnCEB_BnSlSElIopE5xLNGGycW4mRHlE",
+            "reactions": 631,
+            "comments": 82
+          },
+          {
+            "snippet": "The European Commission just launched its Apply AI strategy. My initial thoughts: are you serious?…",
+            "year": "2025",
+            "date": "2025-10-08",
+            "url": "https://www.linkedin.com/posts/aurasalla_ai-tech-data-activity-7381617337604620288-6EzU?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGQ-gKkBAqVQfbZMqDVGZ_JiC1Rm4iD24Lg",
+            "reactions": 2044,
+            "comments": 262
+          },
+          {
+            "snippet": "Europe claims to defend the open Internet while authoritarian Russia and China push the opposite:…",
+            "year": "2025",
+            "date": "2025-09-10",
+            "url": "https://www.linkedin.com/posts/aurasalla_csam-chatcontrol-ugcPost-7371054149599330304-bmvH?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGVJC6UByYj3z5NLRKC6kme-GRWIIkA0fcc",
+            "reactions": 2484,
+            "comments": 207
+          },
+          {
+            "snippet": "Thank you for all your messages and let me assure that I hear and understand…",
+            "year": "2025",
+            "date": "2025-08-11",
+            "url": "https://www.linkedin.com/posts/aurasalla_chatcontrol-csam-csam-activity-7360575751525494784-CjzR?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGSllVsBY721c7Pxki7DKAXo7EXFcBUmhgE",
+            "reactions": 3506,
+            "comments": 316
+          }
+        ]
+      },
+      {
+        "name": "Avanza Bank",
+        "username": "avanza-bank",
+        "profile_url": "https://www.linkedin.com/company/avanza-bank/posts",
+        "count": 5,
+        "slug": "avanza-bank",
+        "posts": [
+          {
+            "snippet": "Idag drar vi äntligen igång Avanzas Kulturvecka! 🎉 Det blir en hel vecka på kontoret…",
+            "year": "2026",
+            "date": "2026-09-07",
+            "url": "https://www.linkedin.com/posts/avanza-bank_idag-drar-vi-%C3%A4ntligen-ig%C3%A5ng-avanzas-kulturvecka-activity-7502699413723856896-f_RG?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+            "reactions": 154,
+            "comments": 0
+          },
+          {
+            "snippet": "Äntligen sommar, semestertider och förhoppningsvis ett lite skönare tempo! Kanske har du mer tid att…",
+            "year": "2026",
+            "date": "2026-07-07",
+            "url": "https://www.linkedin.com/posts/avanza-bank_karriaeur-career-avanza-activity-7480187120125599745-VqLb?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+            "reactions": 81,
+            "comments": 1
+          },
+          {
+            "snippet": "Nyhet! Nu kan över 2 miljoner sparare dela sina portföljer och strategier med varandra på…",
+            "year": "2026",
+            "date": "2026-06-15",
+            "url": "https://www.linkedin.com/posts/avanza-bank_nyhet-nu-kan-%C3%B6ver-2-miljoner-sparare-dela-ugcPost-7472205841652441088-9aR7?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+            "reactions": 146,
+            "comments": 7
+          },
+          {
+            "snippet": "🩸 Blodomloppet Sverige avklarat! Lite mjölksyra, mycket endorfiner och ett galet starkt gäng. Vissa jagade…",
+            "year": "2026",
+            "date": "2026-06-08",
+            "url": "https://www.linkedin.com/posts/avanza-bank_lifeatavanza-blodomloppet-avanza-activity-7469727827509125121-oUQk?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+            "reactions": 128,
+            "comments": 1
+          },
+          {
+            "snippet": "Med 26 års erfarenhet, Sveriges nöjdaste sparare 16 (!) år i rad och fler än…",
+            "year": "2026",
+            "date": "2026-04-21",
+            "url": "https://www.linkedin.com/posts/avanza-bank_med-26-%C3%A5rs-erfarenhet-sveriges-n%C3%B6jdaste-activity-7452232972176416769-oH-H?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+            "reactions": 694,
+            "comments": 24
+          }
+        ]
+      },
+      {
+        "name": "Itamar Gilad",
+        "username": "itamargilad",
+        "profile_url": "https://www.linkedin.com/in/itamargilad?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAik0wBQRTB6Tpmz8Z8-9Qq_csOtJBPM-U",
+        "count": 5,
+        "slug": "itamar-gilad",
+        "posts": [
+          {
+            "snippet": "Unpopular opinion: AI has not changed the product development lifecycle Yes, coding has accelerated, but…",
+            "year": "2026",
+            "date": "2026-08-10",
+            "url": "https://www.linkedin.com/posts/itamargilad_unpopular-opinion-ai-has-not-changed-the-activity-7492491814986297346-leEd?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+            "reactions": 86,
+            "comments": 24
+          },
+          {
+            "snippet": "AI is making it easier to produce more code. But are we really more productive?…",
+            "year": "2026",
+            "date": "2026-06-28",
+            "url": "https://www.linkedin.com/posts/itamargilad_how-to-measure-development-productivity-activity-7475117613212237824-iUG9?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+            "reactions": 20,
+            "comments": 3
+          },
+          {
+            "snippet": "AI can help you build the wrong product faster than ever. The return of “just…",
+            "year": "2026",
+            "date": "2026-06-27",
+            "url": "https://www.linkedin.com/posts/itamargilad_ai-can-help-you-build-the-wrong-product-faster-activity-7472229200192536577-BVTr?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+            "reactions": 69,
+            "comments": 26
+          },
+          {
+            "snippet": "Many analysts are puzzled (if not shocked) by the apparent irrationality of the stock market:…",
+            "year": "2026",
+            "date": "2026-06-21",
+            "url": "https://www.linkedin.com/posts/itamargilad_many-analysts-are-puzzled-if-not-shocked-activity-7474019652151476224-r7fE?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+            "reactions": 80,
+            "comments": 17
+          },
+          {
+            "snippet": "Breakthrough leap in measuring absolutely nothing. Interestingly, tokens are the worst of the bunch. They…",
+            "year": "2026",
+            "date": "2026-06-17",
+            "url": "https://www.linkedin.com/posts/itamargilad_breakthrough-leap-in-measuring-absolutely-activity-7472986457570316289-KK55?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+            "reactions": 6171,
+            "comments": 204
+          }
+        ]
+      },
+      {
+        "name": "Gregor Hohpe",
+        "username": "ghohpe",
+        "profile_url": "https://www.linkedin.com/in/ghohpe?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAADMZ0BDKCmI9lFuuQ_q31EDBKxnZA5igg",
+        "count": 4,
+        "slug": "gregor-hohpe",
+        "posts": [
+          {
+            "snippet": "Many organizations confuse effort spent on coordination with the actual alignment they achieve. My readers…",
+            "year": "2026",
+            "date": "2026-07-27",
+            "url": "https://www.linkedin.com/posts/ghohpe_architectelevator-activity-7477277205794963456-K-xp?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+            "reactions": 436,
+            "comments": 35
+          },
+          {
+            "snippet": "#Platforms turn central departments from bottleneck to multiplier. That's a powerful maneuver, but deep down…",
+            "year": "2026",
+            "date": "2026-05-31",
+            "url": "https://www.linkedin.com/posts/ghohpe_platforms-activity-7458469892623790080-K9Rg?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+            "reactions": 111,
+            "comments": 14
+          },
+          {
+            "snippet": "If you don't think of development teams as #customers, you don't have a product. If…",
+            "year": "2026",
+            "date": "2026-04-16",
+            "url": "https://www.linkedin.com/posts/ghohpe_customers-product-platform-activity-7450521559515115520-IPsp?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+            "reactions": 164,
+            "comments": 4
+          },
+          {
+            "snippet": "Any architect in large organizations will know this scenario: project teams always have budget to…",
+            "year": "2026",
+            "date": "2026-01-15",
+            "url": "https://www.linkedin.com/posts/ghohpe_platform-activity-7417648691940872192-CO-M?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGmlKvEBU5FVgFvO_d9K_p9qgijgoACQolY",
+            "reactions": 743,
+            "comments": 50
+          }
+        ]
+      },
+      {
+        "name": "Kent Beck",
+        "username": "kentbeck",
+        "profile_url": "https://www.linkedin.com/in/kentbeck?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAFlPOkBAAoncAIKYnP3lnFuMLTeYSAaR3s",
+        "count": 4,
+        "slug": "kent-beck",
+        "posts": [
+          {
+            "snippet": "This is your periodic reminder that the people haven't changed just because the tools changed.…",
+            "year": "2026",
+            "date": "2026-07-02",
+            "url": "https://www.linkedin.com/posts/kentbeck_this-is-your-periodic-reminder-that-the-people-activity-7478518116000661504-M3Jm?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+            "reactions": 650,
+            "comments": 30
+          },
+          {
+            "snippet": "I've been coding with the genie for a while. Here’s what I see. I ask…",
+            "year": "2026",
+            "date": "2026-06-12",
+            "url": "https://www.linkedin.com/posts/kentbeck_the-ai-engineering-report-2026-the-ai-acceleration-activity-7471011017670512640-MKH4?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+            "reactions": 2629,
+            "comments": 162
+          },
+          {
+            "snippet": "Juniors are more valuable than ever, both for what they can accomplish now (properly supervised)…",
+            "year": "2026",
+            "date": "2026-05-15",
+            "url": "https://www.linkedin.com/posts/kentbeck_juniors-are-more-valuable-than-ever-both-activity-7461092148982026240-HMvK?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+            "reactions": 364,
+            "comments": 28
+          },
+          {
+            "snippet": "Listening to VCs talk about AI value, you'd think the only thing it's good for…",
+            "year": "2026",
+            "date": "2026-02-04",
+            "url": "https://www.linkedin.com/posts/kentbeck_listening-to-vcs-talk-about-ai-value-youd-activity-7424889074475425792-u-z0?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGpp194B1bj393JDQMgpcvI34lUSS3YDONo",
+            "reactions": 511,
+            "comments": 41
+          }
+        ]
+      },
+      {
+        "name": "L. David Marquet",
+        "username": "davidmarquet",
+        "profile_url": "https://www.linkedin.com/in/davidmarquet?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAABosKYBPJGitFASh2Tp-F-JcTlMuINUJ14",
+        "count": 4,
+        "slug": "l-david-marquet",
+        "posts": [
+          {
+            "snippet": "Better to fix the environment",
+            "year": "2026",
+            "date": "2026-09-11",
+            "url": "https://www.linkedin.com/posts/davidmarquet_better-to-fix-the-environment-activity-7504237419580309505-N0Ls?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+            "reactions": 63,
+            "comments": 4
+          },
+          {
+            "snippet": "We spend a lot of time keeping our bosses happy and managing our team. This…",
+            "year": "2026",
+            "date": "2026-08-04",
+            "url": "https://www.linkedin.com/posts/davidmarquet_we-spend-a-lot-of-time-keeping-our-bosses-activity-7490421438806482944-Srno?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG2yDWcBA27QaqlSs1Gk_M3tcQF3O70UWQ4",
+            "reactions": 73,
+            "comments": 15
+          },
+          {
+            "snippet": "Hierarchies build systems that push information to those in authority to make decisions. We use…",
+            "year": "2026",
+            "date": "2026-07-25",
+            "url": "https://www.linkedin.com/posts/davidmarquet_hierarchies-build-systems-that-push-information-activity-7486480341013274624-gBUk?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG0hArQBd8qpwbjQbYu7XtRzai1kZwZXwjM",
+            "reactions": 173,
+            "comments": 6
+          },
+          {
+            "snippet": "A Leadership Manifesto: A leader assumes good intent when tempted to be skeptical. A leader…",
+            "year": "2026",
+            "date": "2026-07-08",
+            "url": "https://www.linkedin.com/posts/davidmarquet_a-leadership-manifesto-a-leader-assumes-activity-7480606935403245568-ZCl1?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGxtgJIB53DK27olkhhzalyaY2ZiAEuqL0g",
+            "reactions": 87,
+            "comments": 3
+          }
+        ]
+      },
+      {
+        "name": "Simon Wardley",
+        "username": "simonwardley",
+        "profile_url": "https://www.linkedin.com/in/simonwardley?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAMdmABJzOgMdp87Sult7wsvr-uY-ZW3l4",
+        "count": 4,
+        "slug": "simon-wardley",
+        "posts": [
+          {
+            "snippet": "X: Claude Fable 5 will be available globally tomorrow! Me: Yawn. X: It's really important.…",
+            "year": "2026",
+            "date": "2026-07-01",
+            "url": "https://www.linkedin.com/posts/simonwardley_x-claude-fable-5-will-be-available-globally-activity-7478103191759405057-oFy5?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+            "reactions": 325,
+            "comments": 31
+          },
+          {
+            "snippet": "X: You seems negative about using LLMs to code. Me: Quite the contrary, I'm positive…",
+            "year": "2026",
+            "date": "2026-06-17",
+            "url": "https://www.linkedin.com/posts/simonwardley_x-you-seems-negative-about-using-llms-to-activity-7473080084225200129-upJQ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+            "reactions": 148,
+            "comments": 13
+          },
+          {
+            "snippet": "X: Why are you so negative about AI? Me: I'm not, quite the opposite. But…",
+            "year": "2026",
+            "date": "2026-06-11",
+            "url": "https://www.linkedin.com/posts/simonwardley_x-why-are-you-so-negative-about-ai-me-activity-7470445958707892224-_5od?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+            "reactions": 176,
+            "comments": 22
+          },
+          {
+            "snippet": "X: SaaS is dead. Me: Oh dear. I suppose your argument is it's quicker to…",
+            "year": "2026",
+            "date": "2026-04-19",
+            "url": "https://www.linkedin.com/posts/simonwardley_x-saas-is-dead-me-oh-dear-i-suppose-activity-7451359540291338241-NXwR?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+            "reactions": 252,
+            "comments": 13
+          }
+        ]
+      },
+      {
+        "name": "Gergely Orosz",
+        "username": "gergelyorosz",
+        "profile_url": "https://www.linkedin.com/in/gergelyorosz?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAIk0KwBsmE3oBadWSg2ettxmEyKbqZKG34",
+        "count": 3,
+        "slug": "gergely-orosz",
+        "posts": [
+          {
+            "snippet": "Spent a few hours inside OpenAI & Anthropic yesterday and today. One interesting thing: I…",
+            "year": "2026",
+            "date": "2026-06-27",
+            "url": "https://www.linkedin.com/posts/gergelyorosz_spent-a-few-hours-inside-openai-anthropic-activity-7476403009074307072-XdBI?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+            "reactions": 2368,
+            "comments": 137
+          },
+          {
+            "snippet": "Well this is massive, with lots of implications: 1. Every non-US company sees how they…",
+            "year": "2026",
+            "date": "2026-06-13",
+            "url": "https://www.linkedin.com/posts/gergelyorosz_well-this-is-massive-with-lots-of-implications-activity-7471491467199512576-1HTh?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+            "reactions": 1989,
+            "comments": 173
+          },
+          {
+            "snippet": "We see that AI tools amplify good engineering cultures, and bad. So it is rational…",
+            "year": "2026",
+            "date": "2026-06-03",
+            "url": "https://www.linkedin.com/posts/gergelyorosz_we-see-that-ai-tools-amplify-good-engineering-activity-7467891380305072128-n0xR?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+            "reactions": 812,
+            "comments": 65
+          }
+        ]
+      },
+      {
+        "name": "Gergely Szilágyi",
+        "username": "gergely-szilagyi-sweden",
+        "profile_url": "https://www.linkedin.com/in/gergely-szilagyi-sweden?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAqbRw0BZZ-G4DcSmQMhVb1GGC8A30EXUlw",
+        "count": 3,
+        "slug": "gergely-szilagyi",
+        "posts": [
+          {
+            "snippet": "Excited to share that my first tech blog article has just been published on the…",
+            "year": "2026",
+            "date": "2026-04-01",
+            "url": "https://www.linkedin.com/posts/gergely-szilagyi-sweden_beyond-the-launchpad-rethinking-cloud-landing-activity-7445171453164986368-WPqy?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+            "reactions": 28,
+            "comments": 0
+          },
+          {
+            "snippet": "It was a privilege to present at yesterday’s GDG Cloud Stockholm meetup together with the…",
+            "year": "2025",
+            "date": "2025-09-26",
+            "url": "https://www.linkedin.com/posts/gergely-szilagyi-sweden_gdg-googledevelopers-seblife-ugcPost-7377281546191429632-Y0cY?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGWmuuUBnKxvjngtwpfcFlK_IJaImBDstIw",
+            "reactions": 67,
+            "comments": 2
+          },
+          {
+            "snippet": "Exciting things are happening at the Avicii Arena! Tomorrow at 9:00 AM, William Milisic and…",
+            "year": "2025",
+            "date": "2025-06-10",
+            "url": "https://www.linkedin.com/posts/gergely-szilagyi-sweden_googlecloudsummitnordics-googlecloud-gcp-ugcPost-7338273831700066305-_3Zl?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGIKaUYBwbisP3V05cjEpV-_t5olgOfPRGI",
+            "reactions": 126,
+            "comments": 5
+          }
+        ]
+      },
+      {
+        "name": "John Cutler",
+        "username": "johnpcutler",
+        "profile_url": "https://www.linkedin.com/in/johnpcutler?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAABkgVcByXwZ4Zke2hKjaekv4qJxDWQeqsY",
+        "count": 2,
+        "slug": "john-cutler",
+        "posts": [
+          {
+            "snippet": "Putting \"agile fatigue\" into context... I've heard many leaders talk about \"agile fatigue\" recently, and…",
+            "year": "2026",
+            "date": "2026-01-29",
+            "url": "https://www.linkedin.com/posts/johnpcutler_putting-agile-fatigue-into-context-activity-7420969626618060800-5CXP?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGogZkcBfs8JxRTyilMhp9bbBduYQRz0FaY",
+            "reactions": 160,
+            "comments": 18
+          },
+          {
+            "snippet": "Imagine if a restaurant behaved like your average product team. The kitchen is packed. Everyone…",
+            "year": "2025",
+            "date": "2025-12-07",
+            "url": "https://www.linkedin.com/posts/johnpcutler_imagine-if-a-restaurant-behaved-like-your-activity-7403183762223910913-PjL5?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGisTzoBlLD4NsEHGHU2evhqFBIK4U52-J0",
+            "reactions": 3402,
+            "comments": 168
+          }
+        ]
+      },
+      {
+        "name": "Melissa Perri",
+        "username": "melissajeanperri",
+        "profile_url": "https://www.linkedin.com/in/melissajeanperri?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAADufjUBixvWZNsGEm88A8k3N47Ig2pArvs",
+        "count": 2,
+        "slug": "melissa-perri",
+        "posts": [
+          {
+            "snippet": "AI was supposed to be the great equalizer for product orgs. The data says the…",
+            "year": "2026",
+            "date": "2026-06-21",
+            "url": "https://www.linkedin.com/posts/melissajeanperri_ai-was-supposed-to-be-the-great-equalizer-activity-7474423384869896192-ChGc?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+            "reactions": 317,
+            "comments": 31
+          },
+          {
+            "snippet": "AI just made it possible to build twice as much in half the time. For…",
+            "year": "2026",
+            "date": "2026-06-17",
+            "url": "https://www.linkedin.com/posts/melissajeanperri_ai-just-made-it-possible-to-build-twice-as-activity-7472611500898070528-1GOQ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+            "reactions": 258,
+            "comments": 71
+          }
+        ]
+      }
+    ]
+  },
+  "reposts": [
+    {
+      "author": "L. David Marquet",
+      "username": "davidmarquet",
+      "profile_url": "https://www.linkedin.com/in/davidmarquet?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAABosKYBPJGitFASh2Tp-F-JcTlMuINUJ14",
+      "year": "2026",
+      "date": "2026-09-11",
+      "snippet": "Better to fix the environment",
+      "url": "https://www.linkedin.com/posts/davidmarquet_better-to-fix-the-environment-activity-7504237419580309505-N0Ls?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 63,
+      "comments": 4
+    },
+    {
+      "author": "Malin Nordqvist",
+      "username": "malin-nordqvist-9537994a",
+      "profile_url": "https://www.linkedin.com/in/malin-nordqvist-9537994a?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAApwTw8Bk-KEpQ0hIDUYVv8dBXcnW44IRlk",
+      "year": "2026",
+      "date": "2026-09-10",
+      "snippet": "Älskar du inköp och förhandling och vill vara en del av ett team i ett…",
+      "url": "https://www.linkedin.com/posts/malin-nordqvist-9537994a_%C3%A4lskar-du-ink%C3%B6p-och-f%C3%B6rhandling-och-vill-activity-7503803294176419840-Wvdq?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 44,
+      "comments": 0
+    },
+    {
+      "author": "Avanza Bank",
+      "username": "avanza-bank",
+      "profile_url": "https://www.linkedin.com/company/avanza-bank/posts",
+      "year": "2026",
+      "date": "2026-09-07",
+      "snippet": "Idag drar vi äntligen igång Avanzas Kulturvecka! 🎉 Det blir en hel vecka på kontoret…",
+      "url": "https://www.linkedin.com/posts/avanza-bank_idag-drar-vi-%C3%A4ntligen-ig%C3%A5ng-avanzas-kulturvecka-activity-7502699413723856896-f_RG?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 154,
+      "comments": 0
+    },
+    {
+      "author": "Alexandra Karlsson",
+      "username": "alexandra-karlsson-a22217112",
+      "profile_url": "https://www.linkedin.com/in/alexandra-karlsson-a22217112?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAABwm_foBzC8hb9Hd7dEqpQlgBL2r5OVdVQU",
+      "year": "2026",
+      "date": "2026-08-13",
+      "snippet": "Tillbaka från semestern och supertaggad på hösten! ☀️🚀 Batterierna är laddade och det händer massor…",
+      "url": "https://www.linkedin.com/posts/alexandra-karlsson-a22217112_platform-engineer-activity-7493677661253320704-My5l?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 39,
+      "comments": 1
+    },
+    {
+      "author": "Itamar Gilad",
+      "username": "itamargilad",
+      "profile_url": "https://www.linkedin.com/in/itamargilad?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAik0wBQRTB6Tpmz8Z8-9Qq_csOtJBPM-U",
+      "year": "2026",
+      "date": "2026-08-10",
+      "snippet": "Unpopular opinion: AI has not changed the product development lifecycle Yes, coding has accelerated, but…",
+      "url": "https://www.linkedin.com/posts/itamargilad_unpopular-opinion-ai-has-not-changed-the-activity-7492491814986297346-leEd?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 86,
+      "comments": 24
+    },
+    {
+      "author": "L. David Marquet",
+      "username": "davidmarquet",
+      "profile_url": "https://www.linkedin.com/in/davidmarquet?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAABosKYBPJGitFASh2Tp-F-JcTlMuINUJ14",
+      "year": "2026",
+      "date": "2026-08-04",
+      "snippet": "We spend a lot of time keeping our bosses happy and managing our team. This…",
+      "url": "https://www.linkedin.com/posts/davidmarquet_we-spend-a-lot-of-time-keeping-our-bosses-activity-7490421438806482944-Srno?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG2yDWcBA27QaqlSs1Gk_M3tcQF3O70UWQ4",
+      "reactions": 73,
+      "comments": 15
+    },
+    {
+      "author": "Gregor Hohpe",
+      "username": "ghohpe",
+      "profile_url": "https://www.linkedin.com/in/ghohpe?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAADMZ0BDKCmI9lFuuQ_q31EDBKxnZA5igg",
+      "year": "2026",
+      "date": "2026-07-27",
+      "snippet": "Many organizations confuse effort spent on coordination with the actual alignment they achieve. My readers…",
+      "url": "https://www.linkedin.com/posts/ghohpe_architectelevator-activity-7477277205794963456-K-xp?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 436,
+      "comments": 35
+    },
+    {
+      "author": "L. David Marquet",
+      "username": "davidmarquet",
+      "profile_url": "https://www.linkedin.com/in/davidmarquet?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAABosKYBPJGitFASh2Tp-F-JcTlMuINUJ14",
+      "year": "2026",
+      "date": "2026-07-25",
+      "snippet": "Hierarchies build systems that push information to those in authority to make decisions. We use…",
+      "url": "https://www.linkedin.com/posts/davidmarquet_hierarchies-build-systems-that-push-information-activity-7486480341013274624-gBUk?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG0hArQBd8qpwbjQbYu7XtRzai1kZwZXwjM",
+      "reactions": 173,
+      "comments": 6
+    },
+    {
+      "author": "Marty Cagan",
+      "username": "cagan",
+      "profile_url": "https://www.linkedin.com/in/cagan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAAjycBVwSf0tRMLhZIJgQhgC8WlvNo9g8",
+      "year": "2026",
+      "date": "2026-07-24",
+      "snippet": "we just posted an article discussing what we believe is the root cause for what…",
+      "url": "https://www.linkedin.com/posts/cagan_the-ai-productivity-paradox-silicon-valley-activity-7486139274271084544-CHMl?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 1390,
+      "comments": 127
+    },
+    {
+      "author": "Henrik Hjelm",
+      "username": "henrikhjelm",
+      "profile_url": "https://www.linkedin.com/in/henrikhjelm?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAlbYpsB6vMTNyj5YiO4RSW6WVZy4pfpRNU",
+      "year": "2026",
+      "date": "2026-07-22",
+      "snippet": "Jag letar efter en Infrastructure Engineer som vill vara med och utveckla en modern hybridplattform…",
+      "url": "https://www.linkedin.com/posts/henrikhjelm_infrastructure-engineer-windows-linux-activity-7485685333196562432-N9ZI?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 55,
+      "comments": 0
+    },
+    {
+      "author": "Justin Miller",
+      "username": "justin-miller-793a019a",
+      "profile_url": "https://www.linkedin.com/in/justin-miller-793a019a?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAABUmYx8BZHVEJeiXN6qDu4vu2KPv8QB4-fg",
+      "year": "2026",
+      "date": "2026-07-21",
+      "snippet": "Nobody has ever seen a single pane of glass. It's been sold for twenty years.…",
+      "url": "https://www.linkedin.com/posts/justin-miller-793a019a_nobody-has-ever-seen-a-single-pane-of-glass-activity-7484275271580217344-Cqnu?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 289,
+      "comments": 72
+    },
+    {
+      "author": "L. David Marquet",
+      "username": "davidmarquet",
+      "profile_url": "https://www.linkedin.com/in/davidmarquet?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAABosKYBPJGitFASh2Tp-F-JcTlMuINUJ14",
+      "year": "2026",
+      "date": "2026-07-08",
+      "snippet": "A Leadership Manifesto: A leader assumes good intent when tempted to be skeptical. A leader…",
+      "url": "https://www.linkedin.com/posts/davidmarquet_a-leadership-manifesto-a-leader-assumes-activity-7480606935403245568-ZCl1?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGxtgJIB53DK27olkhhzalyaY2ZiAEuqL0g",
+      "reactions": 87,
+      "comments": 3
+    },
+    {
+      "author": "Avanza Bank",
+      "username": "avanza-bank",
+      "profile_url": "https://www.linkedin.com/company/avanza-bank/posts",
+      "year": "2026",
+      "date": "2026-07-07",
+      "snippet": "Äntligen sommar, semestertider och förhoppningsvis ett lite skönare tempo! Kanske har du mer tid att…",
+      "url": "https://www.linkedin.com/posts/avanza-bank_karriaeur-career-avanza-activity-7480187120125599745-VqLb?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 81,
+      "comments": 1
+    },
+    {
+      "author": "The Pragmatic Engineer",
+      "username": "the-pragmatic-engineer",
+      "profile_url": "https://www.linkedin.com/company/the-pragmatic-engineer/posts",
+      "year": "2026",
+      "date": "2026-07-04",
+      "snippet": "Anyone who thinks software engineering is ‘going away’ doesn’t understand the job. Kent Beck, XP…",
+      "url": "https://www.linkedin.com/posts/the-pragmatic-engineer_anyone-who-thinks-software-engineering-is-ugcPost-7478432487279472640-HtyG?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 439,
+      "comments": 18
+    },
+    {
+      "author": "Kent Beck",
+      "username": "kentbeck",
+      "profile_url": "https://www.linkedin.com/in/kentbeck?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAFlPOkBAAoncAIKYnP3lnFuMLTeYSAaR3s",
+      "year": "2026",
+      "date": "2026-07-02",
+      "snippet": "This is your periodic reminder that the people haven't changed just because the tools changed.…",
+      "url": "https://www.linkedin.com/posts/kentbeck_this-is-your-periodic-reminder-that-the-people-activity-7478518116000661504-M3Jm?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 650,
+      "comments": 30
+    },
+    {
+      "author": "Simon Wardley",
+      "username": "simonwardley",
+      "profile_url": "https://www.linkedin.com/in/simonwardley?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAMdmABJzOgMdp87Sult7wsvr-uY-ZW3l4",
+      "year": "2026",
+      "date": "2026-07-01",
+      "snippet": "X: Claude Fable 5 will be available globally tomorrow! Me: Yawn. X: It's really important.…",
+      "url": "https://www.linkedin.com/posts/simonwardley_x-claude-fable-5-will-be-available-globally-activity-7478103191759405057-oFy5?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 325,
+      "comments": 31
+    },
+    {
+      "author": "Lucia Larsson",
+      "username": "lucialarsson",
+      "profile_url": "https://www.linkedin.com/in/lucialarsson?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAATGl5ABqgMJ0UOphmDN5gXOM-Wbk1a8yU4",
+      "year": "2026",
+      "date": "2026-07-01",
+      "snippet": "Gillar du att optimera processer, förhandla och har ett genuint intresse för tech och SaaS-lösningar?…",
+      "url": "https://www.linkedin.com/posts/lucialarsson_tech-procurement-coordinator-avanza-activity-7478080450070994944-B4Yp?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 28,
+      "comments": 2
+    },
+    {
+      "author": "Itamar Gilad",
+      "username": "itamargilad",
+      "profile_url": "https://www.linkedin.com/in/itamargilad?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAik0wBQRTB6Tpmz8Z8-9Qq_csOtJBPM-U",
+      "year": "2026",
+      "date": "2026-06-28",
+      "snippet": "AI is making it easier to produce more code. But are we really more productive?…",
+      "url": "https://www.linkedin.com/posts/itamargilad_how-to-measure-development-productivity-activity-7475117613212237824-iUG9?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 20,
+      "comments": 3
+    },
+    {
+      "author": "Itamar Gilad",
+      "username": "itamargilad",
+      "profile_url": "https://www.linkedin.com/in/itamargilad?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAik0wBQRTB6Tpmz8Z8-9Qq_csOtJBPM-U",
+      "year": "2026",
+      "date": "2026-06-27",
+      "snippet": "AI can help you build the wrong product faster than ever. The return of “just…",
+      "url": "https://www.linkedin.com/posts/itamargilad_ai-can-help-you-build-the-wrong-product-faster-activity-7472229200192536577-BVTr?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 69,
+      "comments": 26
+    },
+    {
+      "author": "Gergely Orosz",
+      "username": "gergelyorosz",
+      "profile_url": "https://www.linkedin.com/in/gergelyorosz?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAIk0KwBsmE3oBadWSg2ettxmEyKbqZKG34",
+      "year": "2026",
+      "date": "2026-06-27",
+      "snippet": "Spent a few hours inside OpenAI & Anthropic yesterday and today. One interesting thing: I…",
+      "url": "https://www.linkedin.com/posts/gergelyorosz_spent-a-few-hours-inside-openai-anthropic-activity-7476403009074307072-XdBI?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 2368,
+      "comments": 137
+    },
+    {
+      "author": "Kelsey Hightower",
+      "username": "kelsey-hightower-849b342b1",
+      "profile_url": "https://www.linkedin.com/in/kelsey-hightower-849b342b1?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAEsYprkB_Qx_gUKe1h8ZbS-Bce-7JyDYL3g",
+      "year": "2026",
+      "date": "2026-06-24",
+      "snippet": "I can't help but read these ideas of software factories powered by \"AI\" as a…",
+      "url": "https://www.linkedin.com/posts/kelsey-hightower-849b342b1_i-cant-help-but-read-these-ideas-of-software-activity-7475577652821655552--yz4?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 561,
+      "comments": 67
+    },
+    {
+      "author": "Melissa Perri",
+      "username": "melissajeanperri",
+      "profile_url": "https://www.linkedin.com/in/melissajeanperri?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAADufjUBixvWZNsGEm88A8k3N47Ig2pArvs",
+      "year": "2026",
+      "date": "2026-06-21",
+      "snippet": "AI was supposed to be the great equalizer for product orgs. The data says the…",
+      "url": "https://www.linkedin.com/posts/melissajeanperri_ai-was-supposed-to-be-the-great-equalizer-activity-7474423384869896192-ChGc?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 317,
+      "comments": 31
+    },
+    {
+      "author": "Itamar Gilad",
+      "username": "itamargilad",
+      "profile_url": "https://www.linkedin.com/in/itamargilad?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAik0wBQRTB6Tpmz8Z8-9Qq_csOtJBPM-U",
+      "year": "2026",
+      "date": "2026-06-21",
+      "snippet": "Many analysts are puzzled (if not shocked) by the apparent irrationality of the stock market:…",
+      "url": "https://www.linkedin.com/posts/itamargilad_many-analysts-are-puzzled-if-not-shocked-activity-7474019652151476224-r7fE?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 80,
+      "comments": 17
+    },
+    {
+      "author": "Simon Wardley",
+      "username": "simonwardley",
+      "profile_url": "https://www.linkedin.com/in/simonwardley?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAMdmABJzOgMdp87Sult7wsvr-uY-ZW3l4",
+      "year": "2026",
+      "date": "2026-06-17",
+      "snippet": "X: You seems negative about using LLMs to code. Me: Quite the contrary, I'm positive…",
+      "url": "https://www.linkedin.com/posts/simonwardley_x-you-seems-negative-about-using-llms-to-activity-7473080084225200129-upJQ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 148,
+      "comments": 13
+    },
+    {
+      "author": "Itamar Gilad",
+      "username": "itamargilad",
+      "profile_url": "https://www.linkedin.com/in/itamargilad?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAik0wBQRTB6Tpmz8Z8-9Qq_csOtJBPM-U",
+      "year": "2026",
+      "date": "2026-06-17",
+      "snippet": "Breakthrough leap in measuring absolutely nothing. Interestingly, tokens are the worst of the bunch. They…",
+      "url": "https://www.linkedin.com/posts/itamargilad_breakthrough-leap-in-measuring-absolutely-activity-7472986457570316289-KK55?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 6171,
+      "comments": 204
+    },
+    {
+      "author": "Melissa Perri",
+      "username": "melissajeanperri",
+      "profile_url": "https://www.linkedin.com/in/melissajeanperri?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAADufjUBixvWZNsGEm88A8k3N47Ig2pArvs",
+      "year": "2026",
+      "date": "2026-06-17",
+      "snippet": "AI just made it possible to build twice as much in half the time. For…",
+      "url": "https://www.linkedin.com/posts/melissajeanperri_ai-just-made-it-possible-to-build-twice-as-activity-7472611500898070528-1GOQ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 258,
+      "comments": 71
+    },
+    {
+      "author": "Avanza Bank",
+      "username": "avanza-bank",
+      "profile_url": "https://www.linkedin.com/company/avanza-bank/posts",
+      "year": "2026",
+      "date": "2026-06-15",
+      "snippet": "Nyhet! Nu kan över 2 miljoner sparare dela sina portföljer och strategier med varandra på…",
+      "url": "https://www.linkedin.com/posts/avanza-bank_nyhet-nu-kan-%C3%B6ver-2-miljoner-sparare-dela-ugcPost-7472205841652441088-9aR7?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 146,
+      "comments": 7
+    },
+    {
+      "author": "Joakim Jardenberg",
+      "username": "jardenberg",
+      "profile_url": "https://www.linkedin.com/in/jardenberg?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAABn9SYBLm5RtSvtZ5sfZ9u28eluY1oClP4",
+      "year": "2026",
+      "date": "2026-06-14",
+      "snippet": "Det här med att Anthropic har tvingats stänga ner Fable är inte främst ett AI-problem.…",
+      "url": "https://www.linkedin.com/posts/jardenberg_det-h%C3%A4r-med-att-anthropic-har-tvingats-st%C3%A4nga-activity-7471823865321717761-6vfn?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 139,
+      "comments": 22
+    },
+    {
+      "author": "Gergely Orosz",
+      "username": "gergelyorosz",
+      "profile_url": "https://www.linkedin.com/in/gergelyorosz?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAIk0KwBsmE3oBadWSg2ettxmEyKbqZKG34",
+      "year": "2026",
+      "date": "2026-06-13",
+      "snippet": "Well this is massive, with lots of implications: 1. Every non-US company sees how they…",
+      "url": "https://www.linkedin.com/posts/gergelyorosz_well-this-is-massive-with-lots-of-implications-activity-7471491467199512576-1HTh?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 1989,
+      "comments": 173
+    },
+    {
+      "author": "Kent Beck",
+      "username": "kentbeck",
+      "profile_url": "https://www.linkedin.com/in/kentbeck?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAFlPOkBAAoncAIKYnP3lnFuMLTeYSAaR3s",
+      "year": "2026",
+      "date": "2026-06-12",
+      "snippet": "I've been coding with the genie for a while. Here’s what I see. I ask…",
+      "url": "https://www.linkedin.com/posts/kentbeck_the-ai-engineering-report-2026-the-ai-acceleration-activity-7471011017670512640-MKH4?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 2629,
+      "comments": 162
+    },
+    {
+      "author": "Simon Wardley",
+      "username": "simonwardley",
+      "profile_url": "https://www.linkedin.com/in/simonwardley?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAMdmABJzOgMdp87Sult7wsvr-uY-ZW3l4",
+      "year": "2026",
+      "date": "2026-06-11",
+      "snippet": "X: Why are you so negative about AI? Me: I'm not, quite the opposite. But…",
+      "url": "https://www.linkedin.com/posts/simonwardley_x-why-are-you-so-negative-about-ai-me-activity-7470445958707892224-_5od?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 176,
+      "comments": 22
+    },
+    {
+      "author": "Martin Fowler",
+      "username": "martin-fowler-com",
+      "profile_url": "https://www.linkedin.com/in/martin-fowler-com?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAEsWzu4BCKcU2ySOkGmHbKdaCZbimvN-0yA",
+      "year": "2026",
+      "date": "2026-06-09",
+      "snippet": "Fragments: Dodgy metrics for AI usage, history of tech removing jobs, benchmarking closed and open…",
+      "url": "https://www.linkedin.com/posts/martin-fowler-com_fragments-june-2-activity-7467506770241048578-tHG_?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 464,
+      "comments": 21
+    },
+    {
+      "author": "Avanza Bank",
+      "username": "avanza-bank",
+      "profile_url": "https://www.linkedin.com/company/avanza-bank/posts",
+      "year": "2026",
+      "date": "2026-06-08",
+      "snippet": "🩸 Blodomloppet Sverige avklarat! Lite mjölksyra, mycket endorfiner och ett galet starkt gäng. Vissa jagade…",
+      "url": "https://www.linkedin.com/posts/avanza-bank_lifeatavanza-blodomloppet-avanza-activity-7469727827509125121-oUQk?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 128,
+      "comments": 1
+    },
+    {
+      "author": "Gergely Orosz",
+      "username": "gergelyorosz",
+      "profile_url": "https://www.linkedin.com/in/gergelyorosz?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAIk0KwBsmE3oBadWSg2ettxmEyKbqZKG34",
+      "year": "2026",
+      "date": "2026-06-03",
+      "snippet": "We see that AI tools amplify good engineering cultures, and bad. So it is rational…",
+      "url": "https://www.linkedin.com/posts/gergelyorosz_we-see-that-ai-tools-amplify-good-engineering-activity-7467891380305072128-n0xR?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 812,
+      "comments": 65
+    },
+    {
+      "author": "Gregor Hohpe",
+      "username": "ghohpe",
+      "profile_url": "https://www.linkedin.com/in/ghohpe?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAADMZ0BDKCmI9lFuuQ_q31EDBKxnZA5igg",
+      "year": "2026",
+      "date": "2026-05-31",
+      "snippet": "#Platforms turn central departments from bottleneck to multiplier. That's a powerful maneuver, but deep down…",
+      "url": "https://www.linkedin.com/posts/ghohpe_platforms-activity-7458469892623790080-K9Rg?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 111,
+      "comments": 14
+    },
+    {
+      "author": "Kent Beck",
+      "username": "kentbeck",
+      "profile_url": "https://www.linkedin.com/in/kentbeck?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAFlPOkBAAoncAIKYnP3lnFuMLTeYSAaR3s",
+      "year": "2026",
+      "date": "2026-05-15",
+      "snippet": "Juniors are more valuable than ever, both for what they can accomplish now (properly supervised)…",
+      "url": "https://www.linkedin.com/posts/kentbeck_juniors-are-more-valuable-than-ever-both-activity-7461092148982026240-HMvK?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 364,
+      "comments": 28
+    },
+    {
+      "author": "Addy Osmani",
+      "username": "addyosmani",
+      "profile_url": "https://www.linkedin.com/in/addyosmani?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAGXfeABZZsHYLPYGlkS7eoFikrNAYkiEHg",
+      "year": "2026",
+      "date": "2026-05-08",
+      "snippet": "Agent Skills just crossed 31,000 stars on GitHub! 🌟 I'm incredibly grateful to see this…",
+      "url": "https://www.linkedin.com/posts/addyosmani_ai-programming-softwareengineering-activity-7458040442337619968-8H7P?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 1870,
+      "comments": 97
+    },
+    {
+      "author": "Martin Klaunzer",
+      "username": "martin-klaunzer",
+      "profile_url": "https://www.linkedin.com/in/martin-klaunzer?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAA-qBF4Bd_6gGUjnqQmTi2Y06hmYTanC8UU",
+      "year": "2026",
+      "date": "2026-05-06",
+      "snippet": "Something has been nagging at me lately, and I finally wrote it down. AI coding…",
+      "url": "https://www.linkedin.com/posts/martin-klaunzer_something-has-been-nagging-at-me-lately-ugcPost-7456250712142876672-EPYd?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 57,
+      "comments": 5
+    },
+    {
+      "author": "Avanza Bank",
+      "username": "avanza-bank",
+      "profile_url": "https://www.linkedin.com/company/avanza-bank/posts",
+      "year": "2026",
+      "date": "2026-04-21",
+      "snippet": "Med 26 års erfarenhet, Sveriges nöjdaste sparare 16 (!) år i rad och fler än…",
+      "url": "https://www.linkedin.com/posts/avanza-bank_med-26-%C3%A5rs-erfarenhet-sveriges-n%C3%B6jdaste-activity-7452232972176416769-oH-H?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 694,
+      "comments": 24
+    },
+    {
+      "author": "Simon Wardley",
+      "username": "simonwardley",
+      "profile_url": "https://www.linkedin.com/in/simonwardley?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAMdmABJzOgMdp87Sult7wsvr-uY-ZW3l4",
+      "year": "2026",
+      "date": "2026-04-19",
+      "snippet": "X: SaaS is dead. Me: Oh dear. I suppose your argument is it's quicker to…",
+      "url": "https://www.linkedin.com/posts/simonwardley_x-saas-is-dead-me-oh-dear-i-suppose-activity-7451359540291338241-NXwR?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 252,
+      "comments": 13
+    },
+    {
+      "author": "Gregor Hohpe",
+      "username": "ghohpe",
+      "profile_url": "https://www.linkedin.com/in/ghohpe?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAADMZ0BDKCmI9lFuuQ_q31EDBKxnZA5igg",
+      "year": "2026",
+      "date": "2026-04-16",
+      "snippet": "If you don't think of development teams as #customers, you don't have a product. If…",
+      "url": "https://www.linkedin.com/posts/ghohpe_customers-product-platform-activity-7450521559515115520-IPsp?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 164,
+      "comments": 4
+    },
+    {
+      "author": "Jakob Huldt",
+      "username": "jakob-huldt-a7299a8",
+      "profile_url": "https://www.linkedin.com/in/jakob-huldt-a7299a8?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAGRznYBhAENF05d9p1WWhzybfESLyHNXXc",
+      "year": "2026",
+      "date": "2026-04-15",
+      "snippet": "https://lnkd.in/djH-WT9A Nu söker vi en Engineering Manager till plattformsarean på Avanza. Det här är en…",
+      "url": "https://www.linkedin.com/posts/activity-7450099434991857664-C4i3?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 43,
+      "comments": 0
+    },
+    {
+      "author": "Gergely Szilágyi",
+      "username": "gergely-szilagyi-sweden",
+      "profile_url": "https://www.linkedin.com/in/gergely-szilagyi-sweden?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAqbRw0BZZ-G4DcSmQMhVb1GGC8A30EXUlw",
+      "year": "2026",
+      "date": "2026-04-01",
+      "snippet": "Excited to share that my first tech blog article has just been published on the…",
+      "url": "https://www.linkedin.com/posts/gergely-szilagyi-sweden_beyond-the-launchpad-rethinking-cloud-landing-activity-7445171453164986368-WPqy?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG5ZA8QBbL0z40SNBZ42XQuvSMm9FM5CSRs",
+      "reactions": 28,
+      "comments": 0
+    },
+    {
+      "author": "Andy Yen",
+      "username": "andy-yen-03a9676",
+      "profile_url": "https://www.linkedin.com/in/andy-yen-03a9676?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAE1oW4BnJr0lf3AyrP5FRLRY8fmqe6TZ-0",
+      "year": "2026",
+      "date": "2026-02-26",
+      "snippet": "This is probably going to get me banned in Brussels, but we should talk about…",
+      "url": "https://www.linkedin.com/posts/andy-yen-03a9676_chatcontrol-activity-7432451526046052352-wXhu?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGtTsB4BstAWjVGJMwKMh8NGjeA28UuZCyw",
+      "reactions": 1507,
+      "comments": 67
+    },
+    {
+      "author": "Jason Gorman",
+      "username": "jasongorman",
+      "profile_url": "https://www.linkedin.com/in/jasongorman?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAAZ0YB3lOLHvevZZvRUt9HYgx41BiQEG8",
+      "year": "2026",
+      "date": "2026-02-11",
+      "snippet": "Feb 11th 2001 - exactly 25 years ago - was the first day of a…",
+      "url": "https://www.linkedin.com/posts/jasongorman_feb-11th-2001-exactly-25-years-ago-was-activity-7427294723687624704-a3Fh?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGqPb9IBHuXCEQPSncg51fW76Pu1ItryQfE",
+      "reactions": 616,
+      "comments": 108
+    },
+    {
+      "author": "Kent Beck",
+      "username": "kentbeck",
+      "profile_url": "https://www.linkedin.com/in/kentbeck?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAFlPOkBAAoncAIKYnP3lnFuMLTeYSAaR3s",
+      "year": "2026",
+      "date": "2026-02-04",
+      "snippet": "Listening to VCs talk about AI value, you'd think the only thing it's good for…",
+      "url": "https://www.linkedin.com/posts/kentbeck_listening-to-vcs-talk-about-ai-value-youd-activity-7424889074475425792-u-z0?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGpp194B1bj393JDQMgpcvI34lUSS3YDONo",
+      "reactions": 511,
+      "comments": 41
+    },
+    {
+      "author": "Max Planck Institute for Security and Privacy (MPI-SP)",
+      "username": "max-planck-institute-for-security-and-privacy",
+      "profile_url": "https://www.linkedin.com/company/max-planck-institute-for-security-and-privacy/posts",
+      "year": "2026",
+      "date": "2026-02-04",
+      "snippet": "🔍What is Chat Control? There is a lot of discussion in the news about the…",
+      "url": "https://www.linkedin.com/posts/max-planck-institute-for-security-and-privacy_eu-chatcontrol-privacy-ugcPost-7380879668050202624-xck5?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGpIS-ABmWiPm6qhdBgLWrL_Tl6fSunZwmg",
+      "reactions": 222,
+      "comments": 7
+    },
+    {
+      "author": "John Cutler",
+      "username": "johnpcutler",
+      "profile_url": "https://www.linkedin.com/in/johnpcutler?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAABkgVcByXwZ4Zke2hKjaekv4qJxDWQeqsY",
+      "year": "2026",
+      "date": "2026-01-29",
+      "snippet": "Putting \"agile fatigue\" into context... I've heard many leaders talk about \"agile fatigue\" recently, and…",
+      "url": "https://www.linkedin.com/posts/johnpcutler_putting-agile-fatigue-into-context-activity-7420969626618060800-5CXP?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGogZkcBfs8JxRTyilMhp9bbBduYQRz0FaY",
+      "reactions": 160,
+      "comments": 18
+    },
+    {
+      "author": "Hannes Fassold",
+      "username": "hannes-fassold-0385977a",
+      "profile_url": "https://www.linkedin.com/in/hannes-fassold-0385977a?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAABDQ5GwBmX6sB5yqxKRNvHBPQG4yARNiJB4",
+      "year": "2026",
+      "date": "2026-01-21",
+      "snippet": "Amazing moment on French TV. A French judge explains how Trump sent people from the…",
+      "url": "https://www.linkedin.com/posts/hannes-fassold-0385977a_amazing-moment-on-french-tv-a-french-judge-ugcPost-7419483665476378628-byj_?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGnR2hgBjr6Zgre18l5IvHYhxoxFm-U6r1E",
+      "reactions": 2314,
+      "comments": 275
+    },
+    {
+      "author": "Gregor Hohpe",
+      "username": "ghohpe",
+      "profile_url": "https://www.linkedin.com/in/ghohpe?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAADMZ0BDKCmI9lFuuQ_q31EDBKxnZA5igg",
+      "year": "2026",
+      "date": "2026-01-15",
+      "snippet": "Any architect in large organizations will know this scenario: project teams always have budget to…",
+      "url": "https://www.linkedin.com/posts/ghohpe_platform-activity-7417648691940872192-CO-M?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGmlKvEBU5FVgFvO_d9K_p9qgijgoACQolY",
+      "reactions": 743,
+      "comments": 50
+    },
+    {
+      "author": "Robert Reich",
+      "username": "robert-reich-6339b569",
+      "profile_url": "https://www.linkedin.com/in/robert-reich-6339b569?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAA6QXEcB1lQsJoZOKN-xeya-mdDjXr0Sy6g",
+      "year": "2026",
+      "date": "2026-01-07",
+      "snippet": "A direct line connects Trump’s attempted coup five years ago with his incursion into Venezuela…",
+      "url": "https://www.linkedin.com/posts/robert-reich-6339b569_this-is-the-real-danger-posed-by-trump-activity-7414365450194620417-Sjfy?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGmLcncBEIppNKgue0VT73TI2Q7dB2JutKY",
+      "reactions": 249,
+      "comments": 53
+    },
+    {
+      "author": "Małgorzata Wasiukiewicz-Rogulska",
+      "username": "ma%C5%82gorzata-wasiukiewicz-rogulska-343a4b14",
+      "profile_url": "https://www.linkedin.com/in/ma%C5%82gorzata-wasiukiewicz-rogulska-343a4b14?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAMAiCMBcZ3vSmxsaDa3FBJwLp4oS989Kr4",
+      "year": "2026",
+      "date": "2026-01-05",
+      "snippet": "Donald Tusk : No-one will take seriously a weak and divided Europe: neither enemy nor…",
+      "url": "https://www.linkedin.com/posts/ma%C5%82gorzata-wasiukiewicz-rogulska-343a4b14_donald-tusk-no-one-will-take-seriously-activity-7413883903549251584-kBVG?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGl8ogQBo6RNwrlhh_ge3vfgVzK2gAUWaBg",
+      "reactions": 770,
+      "comments": 58
+    },
+    {
+      "author": "Stefan Oelrich",
+      "username": "stefan-oelrich-b87a765",
+      "profile_url": "https://www.linkedin.com/in/stefan-oelrich-b87a765?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAEMLhcBQKtqZ4JHdun0fMPNACtrJRXWV4g",
+      "year": "2026",
+      "date": "2026-01-01",
+      "snippet": "🇪🇺 Europe — let’s get our act together in 2026 🇪🇺 With 2025 in the…",
+      "url": "https://www.linkedin.com/posts/stefan-oelrich-b87a765_europe-lets-get-our-act-together-activity-7412479865482027009-RkUt?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGl8ogQBo6RNwrlhh_ge3vfgVzK2gAUWaBg",
+      "reactions": 555,
+      "comments": 19
+    },
+    {
+      "author": "Aura Salla",
+      "username": "aurasalla",
+      "profile_url": "https://www.linkedin.com/in/aurasalla?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAV2nUMB1B7N1RdO9CsYW0m8JFuJrBCbhtM",
+      "year": "2025",
+      "date": "2025-12-10",
+      "snippet": "Last week I asked Commissioner Henna Virkkunen about high-risk vendors in ICT infrastructure and the…",
+      "url": "https://www.linkedin.com/posts/aurasalla_last-week-i-asked-commissioner-henna-virkkunen-ugcPost-7404445405515710465-R8kn?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGjC-9UBcWMqJCFjZNmJnS8pA9AD4MVdYXk",
+      "reactions": 186,
+      "comments": 20
+    },
+    {
+      "author": "John Cutler",
+      "username": "johnpcutler",
+      "profile_url": "https://www.linkedin.com/in/johnpcutler?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAABkgVcByXwZ4Zke2hKjaekv4qJxDWQeqsY",
+      "year": "2025",
+      "date": "2025-12-07",
+      "snippet": "Imagine if a restaurant behaved like your average product team. The kitchen is packed. Everyone…",
+      "url": "https://www.linkedin.com/posts/johnpcutler_imagine-if-a-restaurant-behaved-like-your-activity-7403183762223910913-PjL5?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGisTzoBlLD4NsEHGHU2evhqFBIK4U52-J0",
+      "reactions": 3402,
+      "comments": 168
+    },
+    {
+      "author": "Aura Salla",
+      "username": "aurasalla",
+      "profile_url": "https://www.linkedin.com/in/aurasalla?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAV2nUMB1B7N1RdO9CsYW0m8JFuJrBCbhtM",
+      "year": "2025",
+      "date": "2025-11-27",
+      "snippet": "Europe regulated itself out of the tech game a decade ago. For far too long,…",
+      "url": "https://www.linkedin.com/posts/aurasalla_europe-regulated-itself-out-of-the-tech-game-ugcPost-7399784575964581888-94wM?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGgeHnAB46NIXUQXNfm5kQA_rNEaf0hgQf8",
+      "reactions": 446,
+      "comments": 164
+    },
+    {
+      "author": "Aura Salla",
+      "username": "aurasalla",
+      "profile_url": "https://www.linkedin.com/in/aurasalla?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAV2nUMB1B7N1RdO9CsYW0m8JFuJrBCbhtM",
+      "year": "2025",
+      "date": "2025-11-20",
+      "snippet": "👆 Europe is finally treating defence as a strategic responsibility. If Europe wants to lead…",
+      "url": "https://www.linkedin.com/posts/aurasalla_europe-is-finally-treating-defence-as-activity-7397268982132523026-kXPz?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGenysoBQFym12KWMFXamevcyNAUYaUwj_4",
+      "reactions": 183,
+      "comments": 10
+    },
+    {
+      "author": "Benjamin A.",
+      "username": "benjamin-aktas",
+      "profile_url": "https://www.linkedin.com/in/benjamin-aktas?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAC0ktcBtCkub7Vh3WDeYBZLHj64eDUdskw",
+      "year": "2025",
+      "date": "2025-11-18",
+      "snippet": "At SEB, we take a structured approach to evaluating SaaS through different tools that uncover…",
+      "url": "https://www.linkedin.com/posts/benjamin-aktas_evaluating-saas-activity-7396522725407625217-hazT?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGRiwcsBgmwskwCdRMMRFMX5bKyKpS1YEq0",
+      "reactions": 31,
+      "comments": 3
+    },
+    {
+      "author": "Aura Salla",
+      "username": "aurasalla",
+      "profile_url": "https://www.linkedin.com/in/aurasalla?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAV2nUMB1B7N1RdO9CsYW0m8JFuJrBCbhtM",
+      "year": "2025",
+      "date": "2025-11-12",
+      "snippet": "The Commission will publish next week its Digital Omnibus - what can we expect: 💡…",
+      "url": "https://www.linkedin.com/posts/aurasalla_killthechatcontrolforgood-digital-data-activity-7394283416541761536-L5Yu?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGdSSGcBgmBFLgdDW8KpAmYIG5brDU_eOs4",
+      "reactions": 563,
+      "comments": 96
+    },
+    {
+      "author": "Corey Quinn",
+      "username": "coquinn",
+      "profile_url": "https://www.linkedin.com/in/coquinn?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAD7ciEBGVCp3m50-5sdPXL70GJw7TDNHVE",
+      "year": "2025",
+      "date": "2025-10-27",
+      "snippet": "My second column for The Register has been published, because I'm growing extremely tired of…",
+      "url": "https://www.linkedin.com/posts/coquinn_aws-outage-myths-vs-reality-activity-7388635665267113985-ow7U?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGVDWoYBHoyHuvPgxjE0LmlhOL_MJEDC-Cg",
+      "reactions": 367,
+      "comments": 24
+    },
+    {
+      "author": "Aura Salla",
+      "username": "aurasalla",
+      "profile_url": "https://www.linkedin.com/in/aurasalla?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAV2nUMB1B7N1RdO9CsYW0m8JFuJrBCbhtM",
+      "year": "2025",
+      "date": "2025-10-23",
+      "snippet": "📣 Here’s my take on the Commission’s 2026 Work Programme. This is a bureaucratic policy…",
+      "url": "https://www.linkedin.com/posts/aurasalla_28regime-tech-digital-activity-7387059302299066368-m_t5?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGRI-5UBYO1g5n1dZdATuVxJqYWNzWoIBIk",
+      "reactions": 407,
+      "comments": 41
+    },
+    {
+      "author": "Aura Salla",
+      "username": "aurasalla",
+      "profile_url": "https://www.linkedin.com/in/aurasalla?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAV2nUMB1B7N1RdO9CsYW0m8JFuJrBCbhtM",
+      "year": "2025",
+      "date": "2025-10-09",
+      "snippet": "The European Commission’s AI strategy launched yesterday is yet again repeating the same problems without…",
+      "url": "https://www.linkedin.com/posts/aurasalla_data-sovereignty-ai-ugcPost-7381947088487493633-UQ-i?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGUtnCEB_BnSlSElIopE5xLNGGycW4mRHlE",
+      "reactions": 631,
+      "comments": 82
+    },
+    {
+      "author": "Aura Salla",
+      "username": "aurasalla",
+      "profile_url": "https://www.linkedin.com/in/aurasalla?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAV2nUMB1B7N1RdO9CsYW0m8JFuJrBCbhtM",
+      "year": "2025",
+      "date": "2025-10-08",
+      "snippet": "The European Commission just launched its Apply AI strategy. My initial thoughts: are you serious?…",
+      "url": "https://www.linkedin.com/posts/aurasalla_ai-tech-data-activity-7381617337604620288-6EzU?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGQ-gKkBAqVQfbZMqDVGZ_JiC1Rm4iD24Lg",
+      "reactions": 2044,
+      "comments": 262
+    },
+    {
+      "author": "GDG Cloud Stockholm",
+      "username": "",
+      "profile_url": "https://www.linkedin.com/company/gdg-cloud-stockholm/posts",
+      "year": "2025",
+      "date": "2025-09-29",
+      "snippet": "What an inspiring evening at GDG Cloud Stockholm visits SEB: Automation, Rust & Cost Optimization!…",
+      "url": "https://www.linkedin.com/posts/gdg-cloud-stockholm_what-an-inspiring-evening-at-gdg-cloud-stockholm-ugcPost-7378429603859734528-Oizw?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGWmuuUBnKxvjngtwpfcFlK_IJaImBDstIw",
+      "reactions": 80,
+      "comments": 0
+    },
+    {
+      "author": "Gergely Szilágyi",
+      "username": "gergely-szilagyi-sweden",
+      "profile_url": "https://www.linkedin.com/in/gergely-szilagyi-sweden?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAqbRw0BZZ-G4DcSmQMhVb1GGC8A30EXUlw",
+      "year": "2025",
+      "date": "2025-09-26",
+      "snippet": "It was a privilege to present at yesterday’s GDG Cloud Stockholm meetup together with the…",
+      "url": "https://www.linkedin.com/posts/gergely-szilagyi-sweden_gdg-googledevelopers-seblife-ugcPost-7377281546191429632-Y0cY?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGWmuuUBnKxvjngtwpfcFlK_IJaImBDstIw",
+      "reactions": 67,
+      "comments": 2
+    },
+    {
+      "author": "Emanuel Karlsten",
+      "username": "emanuelkarlsten",
+      "profile_url": "https://www.linkedin.com/in/emanuelkarlsten?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAA3Uw0BsKlA9S3O5IzNK15HT0VICvdcII8",
+      "year": "2025",
+      "date": "2025-09-15",
+      "snippet": "Vill du skicka bilder till någon på internet? Då måste du först godkänna att staten…",
+      "url": "https://www.linkedin.com/posts/emanuelkarlsten_emanuel-karlsten-f%C3%B6rst%C3%A5r-sveriges-regering-activity-7372563249709453312-xGsE?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGVJC6UByYj3z5NLRKC6kme-GRWIIkA0fcc",
+      "reactions": 799,
+      "comments": 96
+    },
+    {
+      "author": "Aura Salla",
+      "username": "aurasalla",
+      "profile_url": "https://www.linkedin.com/in/aurasalla?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAV2nUMB1B7N1RdO9CsYW0m8JFuJrBCbhtM",
+      "year": "2025",
+      "date": "2025-09-10",
+      "snippet": "Europe claims to defend the open Internet while authoritarian Russia and China push the opposite:…",
+      "url": "https://www.linkedin.com/posts/aurasalla_csam-chatcontrol-ugcPost-7371054149599330304-bmvH?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGVJC6UByYj3z5NLRKC6kme-GRWIIkA0fcc",
+      "reactions": 2484,
+      "comments": 207
+    },
+    {
+      "author": "Aura Salla",
+      "username": "aurasalla",
+      "profile_url": "https://www.linkedin.com/in/aurasalla?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAV2nUMB1B7N1RdO9CsYW0m8JFuJrBCbhtM",
+      "year": "2025",
+      "date": "2025-08-11",
+      "snippet": "Thank you for all your messages and let me assure that I hear and understand…",
+      "url": "https://www.linkedin.com/posts/aurasalla_chatcontrol-csam-csam-activity-7360575751525494784-CjzR?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGSllVsBY721c7Pxki7DKAXo7EXFcBUmhgE",
+      "reactions": 3506,
+      "comments": 316
+    },
+    {
+      "author": "Gergely Szilágyi",
+      "username": "gergely-szilagyi-sweden",
+      "profile_url": "https://www.linkedin.com/in/gergely-szilagyi-sweden?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAqbRw0BZZ-G4DcSmQMhVb1GGC8A30EXUlw",
+      "year": "2025",
+      "date": "2025-06-10",
+      "snippet": "Exciting things are happening at the Avicii Arena! Tomorrow at 9:00 AM, William Milisic and…",
+      "url": "https://www.linkedin.com/posts/gergely-szilagyi-sweden_googlecloudsummitnordics-googlecloud-gcp-ugcPost-7338273831700066305-_3Zl?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGIKaUYBwbisP3V05cjEpV-_t5olgOfPRGI",
+      "reactions": 126,
+      "comments": 5
+    },
+    {
+      "author": "Marijn Markus",
+      "username": "marijnmarkus",
+      "profile_url": "https://www.linkedin.com/in/marijnmarkus?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAABz2UjsBIg2VT_AcUyN3kYKIaK8i0K0pzf0",
+      "year": "2025",
+      "date": "2025-04-08",
+      "snippet": "❗️ The #economics expert Ron Vara, upon which Trump based Tariffs 𝐝𝐨𝐞𝐬𝐧'𝐭 𝐞𝐱𝐢𝐬𝐭. \"A fake…",
+      "url": "https://www.linkedin.com/posts/marijnmarkus_economics-usa-journalism-ugcPost-7314771058862022656-SI_G?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGFEzcEB0TK4ZQZTrUUgOrxtCiZSMCel2PA",
+      "reactions": 1747,
+      "comments": 260
+    },
+    {
+      "author": "Ursula von der Leyen",
+      "username": "ursula-von-der-leyen",
+      "profile_url": "https://www.linkedin.com/in/ursula-von-der-leyen?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAC9t7NIBcdtQHhTWVV25CbaB7E6s729cTMQ",
+      "year": "2025",
+      "date": "2025-04-03",
+      "snippet": "I would like to speak to my fellow Europeans ↓",
+      "url": "https://www.linkedin.com/posts/ursula-von-der-leyen_i-would-like-to-speak-to-my-fellow-europeans-ugcPost-7313428922103197696-BQJG?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGBN-S8BhssPGZCriK5y5J8JP4IJRJpYfl0",
+      "reactions": 9944,
+      "comments": 574
+    },
+    {
+      "author": "Pernilla Johnsson",
+      "username": "",
+      "profile_url": "",
+      "year": "2024",
+      "date": "2024-02-01",
+      "snippet": "hashtag#allakanstarta hashtag#allakandriva.Ung Företagsamhet är för tredje (3!) året nominerad till Nobels Fredspris. Imponerande. Stort GRATTIS…",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7158835190247628801/",
+      "reactions": 0,
+      "comments": 0
+    },
+    {
+      "author": "Tonni Hult",
+      "username": "",
+      "profile_url": "",
+      "year": "2022",
+      "date": "2022-10-12",
+      "snippet": "Do you want to know more about the cloud journey going on at SEB? Do…",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:6985947372618952704/",
+      "reactions": 0,
+      "comments": 0
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{%- comment -%}
+Overview of the people reposted in the LinkedIn archive. Every figure comes
+from _data/repost-authors.json, which is derived from the archive itself, so
+the two can only disagree if that file was edited without the data being
+rebuilt.
+{%- endcomment -%}
+{%- assign summary = site.data.repost-authors.summary -%}
+{%- if summary == nil -%}
+<p>The figures are rebuilt from the LinkedIn archive and are not available right now.</p>
+{%- else -%}
+<div class="archive-overview">
+  <div class="archive-summary">
+    <span><b>{{ summary.total }}</b> reposts</span>
+    <span><b>{{ summary.authors }}</b> people</span>
+    <span><b>{{ summary.repeated_authors }}</b> more than once</span>
+    <span><b>{{ summary.first_year }}&ndash;{{ summary.last_year }}</b> covered</span>
+  </div>
+  <ul class="year-bars">
+    {%- for year in summary.years %}
+    {%- assign bar_width = year.total | times: 100 | divided_by: summary.busiest_year -%}
+    <li>
+      <a class="year-label" href="{{ '/linkedin/' | append: year.year | append: '.html' | relative_url }}">{{ year.year }}</a>
+      <span class="bar-track">
+        <span class="bar-fill" style="width: {{ bar_width }}%">
+          <span class="seg-repost" style="width: 100%"></span>
+        </span>
+      </span>
+      <span class="year-figures">
+        {{ year.total }} repost{% if year.total != 1 %}s{% endif %}
+      </span>
+    </li>
+    {%- endfor %}
+  </ul>
+  <p class="archive-key">
+    <i class="k-repost"></i> reposted from someone else
+  </p>
+  {%- if summary.top_authors.size > 0 %}
+  <h2 class="overview-heading">People reposted more than once</h2>
+  <ul class="author-tally">
+    {%- for author in summary.top_authors %}
+    <li><a href="#author-{{ author.slug }}"><span class="tally-count">{{ author.count }}</span> {{ author.name | escape }}</a></li>
+    {%- endfor %}
+  </ul>
+  <div class="author-books">
+    {%- for author in summary.top_authors %}
+    <h3 id="author-{{ author.slug }}">
+      {%- assign profile_scheme = author.profile_url | slice: 0, 8 -%}
+      {%- if profile_scheme == "https://" %}
+      <a href="{{ author.profile_url | escape }}" target="_blank" rel="noopener noreferrer">{{ author.name | escape }}</a>
+      {%- else %}
+      {{ author.name | escape }}
+      {%- endif %}
+      <span class="author-count">{{ author.count }} posts</span>
+    </h3>
+    <ul>
+      {%- for post in author.posts %}
+      <li>
+        {%- if post.url != "" %}
+        <a href="{{ post.url | escape }}" target="_blank" rel="noopener noreferrer">{{ post.snippet | escape }}</a>
+        {%- else %}
+        {{ post.snippet | escape }}
+        {%- endif %}
+        <span class="book-year">{{ post.date }}{% if post.reactions > 0 or post.comments > 0 %}, {{ post.reactions }} reactions, {{ post.comments }} comments{% endif %}</span>
+      </li>
+      {%- endfor %}
+    </ul>
+    {%- endfor %}
+  </div>
+  {%- endif %}
+</div>
+{%- endif -%}

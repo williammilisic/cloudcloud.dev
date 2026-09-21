@@ -12,6 +12,7 @@ Back to [main](../).
 
 The archive is split one page per year so that no single page has to carry it
 all. The {{ latest_count }} most recent posts are below; use the year links
-above or the chart for everything else.
+above or the chart for everything else. People I have reposted more than once
+are counted on [Reposts in numbers]({{ '/repoststats.html' | relative_url }}).
 
 {% include linkedin-post-cards.html limit=latest_count %}
