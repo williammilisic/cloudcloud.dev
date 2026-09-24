@@ -2368,7 +2368,8 @@
   },
   "2026-09-20-4ff639d0d7.jpg": {
     "also_at": [
-      "/dms/image/sync/v2/D4D27AQHBgIFu6RN9mw/articleshare-shrink_1280_800/B4EaDFCcnNGgAY-/0/1790012150215"
+      "/dms/image/sync/v2/D4D27AQHBgIFu6RN9mw/articleshare-shrink_1280_800/B4EaDFCcnNGgAY-/0/1790012150215",
+      "/dms/image/sync/v2/D4D27AQHBgIFu6RN9mw/articleshare-shrink_1280_800/B56aDPQ0lCGQAc-/0/1790183689398"
     ],
     "bytes": 81644,
     "path": "/dms/image/sync/v2/D4D27AQHBgIFu6RN9mw/articleshare-shrink_1280_800/B4DaC59ob1KIAg-/0/1789826336749",
@@ -2386,5 +2387,14 @@
     "saved": "2026-09-23",
     "sha256": "0cb070381c45ee06662326975d4382b31477f2d241cfcee2c04ba346cf9c356f",
     "url": "https://media.licdn.com/dms/image/v2/D4D22AQEnyWP-QyGoSw/feedshare-shrink_1280/B4DaDIkZlnJ0AM-/0/1790071380656?e=1792022400&v=beta&t=vijY8RWN9TN7JWHzdbcHrWqeWw_6xYV0uDwNTZTCGvQ"
+  },
+  "2026-09-23-a13f0a81f8.jpg": {
+    "bytes": 142763,
+    "path": "D5622AQFnu2VPJfZ2zg",
+    "post_url": "https://www.linkedin.com/posts/addyosmani_ai-programming-softwareengineering-activity-7508582435929116673-74Ei",
+    "posted": "2026-09-23",
+    "saved": "2026-09-24",
+    "sha256": "93bc459b1efebbb6bf91e89f90b52642fbb2ca424c0bc6babdd2296fc560e87f",
+    "url": "https://media.licdn.com/dms/image/v2/D5622AQFnu2VPJfZ2zg/feedshare-image-high-res/B56aDPX73MIwAY-/0/1790185553745?e=1792022400&v=beta&t=tDm3E0YW3iKFL2aqUP_xU3ieUukQZYv-2k-d073xpjM"
   }
 }
