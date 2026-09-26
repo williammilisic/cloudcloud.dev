@@ -2369,6 +2369,7 @@
   "2026-09-20-4ff639d0d7.jpg": {
     "also_at": [
       "/dms/image/sync/v2/D4D27AQHBgIFu6RN9mw/articleshare-shrink_1280_800/B4DaDUuPVdKoAY-/0/1790275287737",
+      "/dms/image/sync/v2/D4D27AQHBgIFu6RN9mw/articleshare-shrink_1280_800/B4DaDZrNCSJ0AY-/0/1790358383045",
       "/dms/image/sync/v2/D4D27AQHBgIFu6RN9mw/articleshare-shrink_1280_800/B4EaDFCcnNGgAY-/0/1790012150215",
       "/dms/image/sync/v2/D4D27AQHBgIFu6RN9mw/articleshare-shrink_1280_800/B56aDPQ0lCGQAc-/0/1790183689398"
     ],
@@ -2397,5 +2398,23 @@
     "saved": "2026-09-24",
     "sha256": "93bc459b1efebbb6bf91e89f90b52642fbb2ca424c0bc6babdd2296fc560e87f",
     "url": "https://media.licdn.com/dms/image/v2/D5622AQFnu2VPJfZ2zg/feedshare-image-high-res/B56aDPX73MIwAY-/0/1790185553745?e=1792022400&v=beta&t=tDm3E0YW3iKFL2aqUP_xU3ieUukQZYv-2k-d073xpjM"
+  },
+  "2026-09-25-76b286b19a.jpg": {
+    "bytes": 224572,
+    "path": "D4D22AQEDHRKFLA2Zzw",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_lidingaemloppet-30k-ai-activity-7509316049515954177-MZ9K",
+    "posted": "2026-09-25",
+    "saved": "2026-09-26",
+    "sha256": "34a8cde249819491acfb1321a0f6b1593fff9711ae0aa08cbb2803b83a47ae90",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQEDHRKFLA2Zzw/feedshare-shrink_1280/B4DaDZzJ0PJUAM-/0/1790360460984?e=1792022400&v=beta&t=9f0k15jLd1chy4rUiYM83-rmAzrgTMqK4X7yK07VDuo"
+  },
+  "2026-09-25-edb91af551.mp4": {
+    "bytes": 5094651,
+    "path": "/playlist/vid/v2/D4D05AQGDJBTJNocNpA/mp4-720p-30fp-crf28/B4DaDTvwaMHMCE-/0/1790258917707",
+    "post_url": "https://www.linkedin.com/posts/avanza-bank_lifeatavanza-kultur-techatavanza-ugcPost-7508890094355943424-i-5i",
+    "posted": "2026-09-25",
+    "saved": "2026-09-26",
+    "sha256": "8242b721a273730e7845e42b39413d99850fde1016a375240446729b3c583131",
+    "url": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGDJBTJNocNpA/mp4-720p-30fp-crf28/B4DaDTvwaMHMCE-/0/1790258917707?e=1790996400&v=beta&t=0UTFod4B7cUrWk02A30wrOnljd4bxiOcZ16FRTKSssI"
   }
 }
