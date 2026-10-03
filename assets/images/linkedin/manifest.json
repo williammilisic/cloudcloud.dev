@@ -2212,6 +2212,7 @@
   },
   "2026-08-13-996dfceaa5.jpg": {
     "also_at": [
+      "/dms/image/sync/v2/D4D27AQGjTK6GbYPO2A/articleshare-shrink_1280_800/B4DaD8VE0PIkAg-/0/1790939779444",
       "/dms/image/sync/v2/D4D27AQH3bY8zfGjlIQ/articleshare-shrink_1280_800/B4DZ9BHpA1GwAg-/0/1783503950338"
     ],
     "bytes": 62750,
@@ -2435,5 +2436,14 @@
     "saved": "2026-09-27",
     "sha256": "196d7e70fb06d0d8fb5962d87e4b9ffee7e2c91f50c47cd1b0fd714b13602dce",
     "url": "https://media.licdn.com/dms/image/v2/D4D22AQE2skUf2dhINg/feedshare-shrink_1280/B4DaDe0J0vHsAQ-/0/1790444610049?e=1792022400&v=beta&t=uo9Y0fkKld9Gfmyqrrw9vsVPxxEQn_i-WYet69dE3eM"
+  },
+  "2026-10-02-223568ca6c.jpg": {
+    "bytes": 305569,
+    "path": "D4D22AQGT-oo7MEaPVQ",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_employeeretention-purpose-meaningfulwork-activity-7511863129883086848-_UVD",
+    "posted": "2026-10-02",
+    "saved": "2026-10-03",
+    "sha256": "45a7174eb21fcc8308f17d2e9ac81d521fa6cd5c52258e3b3498decd87d46252",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQGT-oo7MEaPVQ/feedshare-shrink_1280/B4DaD9_tV3LMAM-/0/1790967731986?e=1792627200&v=beta&t=2Kjivzfaad9h5x6uA8bboCWT6zDqowHQ379TlUfZ1qQ"
   }
 }
