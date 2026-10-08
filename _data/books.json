@@ -1,17 +1,17 @@
 {
   "summary": {
-    "total": 115,
-    "reviewed": 88,
+    "total": 116,
+    "reviewed": 89,
     "rereads": 2,
-    "authors": 126,
+    "authors": 127,
     "first_year": "2018",
     "last_year": "2026",
     "busiest_year": 23,
     "years": [
       {
         "year": "2026",
-        "total": 14,
-        "reviewed": 14
+        "total": 15,
+        "reviewed": 15
       },
       {
         "year": "2025",
@@ -560,6 +560,25 @@
     ]
   },
   "books": [
+    {
+      "title": "The Innovator",
+      "author": "Clayton M. Christensen",
+      "authors": [
+        "Clayton M. Christensen"
+      ],
+      "month": "October",
+      "year": "2026",
+      "section_year": "2026",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_innovation-strategy-theinnovatorsdilemma-activity-7513670227847716865-_KSI"
+        }
+      ]
+    },
     {
       "title": "The Nvidia Way",
       "author": "Tae Kim",
