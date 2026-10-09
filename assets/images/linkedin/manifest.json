@@ -2474,6 +2474,9 @@
     "url": "https://media.licdn.com/dms/image/v2/D4D22AQEWmIYAqybqOg/feedshare-shrink_1280/B4DaECIKM_KMAM-/0/1791037056417?e=1792627200&v=beta&t=mhDj8jxzWzPpV4RVQMNOdznloEPbjD2D4hIgO-Eyfwg"
   },
   "2026-10-07-10e62b95f0.jpg": {
+    "also_at": [
+      "D4E22AQGjAMdarL4Y-g"
+    ],
     "bytes": 71944,
     "path": "D4D22AQEfzt-I6mHinw",
     "post_url": "https://www.linkedin.com/posts/williammilisic_innovation-strategy-theinnovatorsdilemma-activity-7513670227847716865-_KSI",
@@ -2490,5 +2493,23 @@
     "saved": "2026-10-08",
     "sha256": "d8955f4944a73bd3edfac3869d4b48ade35dd4eb57772d00da948af2b211c390",
     "url": "https://media.licdn.com/dms/image/v2/D4E22AQFNj3_O8ZMTLA/feedshare-shrink_1280/B4EaEUwo03JQAM-/0/1791349657437?e=1793232000&v=beta&t=Ix5uPF4uN-Wq6WWFuZiz9oYEiYoOc2_MHpKn3R0QAh0"
+  },
+  "2026-10-08-d1a1bb4b07.jpg": {
+    "bytes": 199277,
+    "path": "D4D22AQFtrCeMPBzs_g",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_finops-avanza-productandtech-activity-7514022361499873280-V61-",
+    "posted": "2026-10-08",
+    "saved": "2026-10-09",
+    "sha256": "c0c42bbd5fc3f96d5e27986b6704f2e84a030883b1d2dcf79791931891bcabd2",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQFtrCeMPBzs_g/feedshare-image-high-res/B4DaEcrhIfGsAU-/0/1791482533038?e=1793232000&v=beta&t=InHON5nsojhUrpDLvZMob_N3GwW7d5ldIgWuDNAk1c0"
+  },
+  "2026-10-08-ec804f98ca.jpg": {
+    "bytes": 249278,
+    "path": "D4E22AQFq6WGHHNOTxw",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_developerexperience-techculture-engineering-activity-7513832917031112704-c3Ou",
+    "posted": "2026-10-08",
+    "saved": "2026-10-09",
+    "sha256": "8bf0047b544ff68aad0c8124bfe87b11fa85eee1c210d20fe530f1203b091cf1",
+    "url": "https://media.licdn.com/dms/image/v2/D4E22AQFq6WGHHNOTxw/feedshare-shrink_1280/B4EaEZ_OK0HwAM-/0/1791437366526?e=1793232000&v=beta&t=qHd1JcGwObiPfo0myblRozyGnuMSfMHMsq1Gd8bwI08"
   }
 }

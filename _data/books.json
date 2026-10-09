@@ -1,7 +1,7 @@
 {
   "summary": {
-    "total": 116,
-    "reviewed": 89,
+    "total": 117,
+    "reviewed": 90,
     "rereads": 2,
     "authors": 127,
     "first_year": "2018",
@@ -10,8 +10,8 @@
     "years": [
       {
         "year": "2026",
-        "total": 15,
-        "reviewed": 15
+        "total": 16,
+        "reviewed": 16
       },
       {
         "year": "2025",
@@ -368,6 +368,25 @@
         ]
       },
       {
+        "name": "Clayton M. Christensen",
+        "count": 2,
+        "slug": "clayton-m-christensen",
+        "books": [
+          {
+            "title": "The Innovator",
+            "year": "2026",
+            "note": "",
+            "url": "https://www.linkedin.com/posts/williammilisic_innovation-strategy-theinnovatorsdilemma-activity-7513824317424582656-2KmW"
+          },
+          {
+            "title": "The Innovator",
+            "year": "2026",
+            "note": "",
+            "url": "https://www.linkedin.com/posts/williammilisic_innovation-strategy-theinnovatorsdilemma-activity-7513670227847716865-_KSI"
+          }
+        ]
+      },
+      {
         "name": "Greg McKeown",
         "count": 2,
         "slug": "greg-mckeown",
@@ -560,6 +579,25 @@
     ]
   },
   "books": [
+    {
+      "title": "The Innovator",
+      "author": "Clayton M. Christensen",
+      "authors": [
+        "Clayton M. Christensen"
+      ],
+      "month": "October",
+      "year": "2026",
+      "section_year": "2026",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_innovation-strategy-theinnovatorsdilemma-activity-7513824317424582656-2KmW"
+        }
+      ]
+    },
     {
       "title": "The Innovator",
       "author": "Clayton M. Christensen",
