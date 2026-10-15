@@ -95,6 +95,21 @@ def trim_to_name(author):
     return ' '.join(kept).strip(' .,')
 
 
+# A quoted title may contain apostrophes (Innovator's, World's). Matching with
+# [^'\"]+ stops at the first of those, so double-quoted spans are taken as a
+# whole, and single-quoted spans are only the fallback for titles that have no
+# apostrophe inside.
+QUOTED_TITLE = r'(?:"([^"]+)"|\'([^\']+)\')'
+
+
+def first_quoted_title(text):
+    """Return the first quote-delimited title in text, or None."""
+    m = re.search(QUOTED_TITLE, text)
+    if not m:
+        return None
+    return (m.group(1) or m.group(2)).strip()
+
+
 def parse_title_author(text):
     clean_text = text.replace('”', '"').replace('“', '"').replace('’', "'").replace('‘', "'")
     lines = [line.strip() for line in clean_text.split('\n') if line.strip()]
@@ -107,18 +122,30 @@ def parse_title_author(text):
     text_sample = " ".join(lines[:3])
     
     # 1. "I just finished [Author]'s [latest/new/classic] book, [Title]" or similar
-    m = re.search(r'(?:finished|read|listened to)\s+([A-Z][a-zA-Z\u00C0-\u024F\s\.\-]+?)(?:\'s|\s+latest|\s+classic|\s+new|\s+book)*\s+(?:book,?\s+)?["\']([^"\']+)["\']', text_sample, re.IGNORECASE)
+    m = re.search(
+        r'(?:finished|read|listened to)\s+([A-Z][a-zA-Z\u00C0-\u024F\s\.\-]+?)'
+        r'(?:\'s|\s+latest|\s+classic|\s+new|\s+book)*\s+(?:book,?\s+)?'
+        + QUOTED_TITLE,
+        text_sample,
+        re.IGNORECASE,
+    )
     if m:
         author = m.group(1).strip()
-        title = m.group(2).strip()
+        title = (m.group(2) or m.group(3)).strip()
         author = re.sub(r'^(?:listening to|the audiobook|audiobook|reading|read)\s+', '', author, flags=re.IGNORECASE).strip()
         return title, trim_to_name(author)
 
     # 2. "Just finished [Title] by [Author]"
-    m = re.search(r'(?:finished|read|listened to)\s+(?:the\s+audiobook\s+|the\s+book\s+)?["\']([^"\']+)["\']\s+by\s+([A-Z][a-zA-Z\u00C0-\u024F\s\.\-]+)', text_sample, re.IGNORECASE)
+    m = re.search(
+        r'(?:finished|read|listened to)\s+(?:the\s+audiobook\s+|the\s+book\s+)?'
+        + QUOTED_TITLE
+        + r'\s+by\s+([A-Z][a-zA-Z\u00C0-\u024F\s\.\-]+)',
+        text_sample,
+        re.IGNORECASE,
+    )
     if m:
-        title = m.group(1).strip()
-        author = m.group(2).strip().split('\n')[0].split(',')[0].strip()
+        title = (m.group(1) or m.group(2)).strip()
+        author = m.group(3).strip().split('\n')[0].split(',')[0].strip()
         return title, trim_to_name(author)
 
     # 3. "finished [Title] by [Author]" without quotes
@@ -129,9 +156,8 @@ def parse_title_author(text):
         return title, trim_to_name(author)
 
     # 4. Fallback: extract title from quotes in first line
-    quotes = re.findall(r'["\']([^"\']+)["\']', first_line)
-    if quotes:
-        title = quotes[0].strip()
+    title = first_quoted_title(first_line)
+    if title:
         # Try finding "by Author"
         m_by = re.search(r'by\s+([A-Z][a-zA-Z\u00C0-\u024F\s\.\-]+)', first_line)
         if m_by:

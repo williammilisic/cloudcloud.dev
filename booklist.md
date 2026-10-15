@@ -5,11 +5,9 @@ Back to [main](index.md) &middot; see the list [in numbers](bookstats.md).
 <br/>
 ## 2026
 
-* **The Innovator**
+* **The Innovator's Dilemma**
 <br/>By: Clayton M. Christensen<br/>October 2026 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_innovation-strategy-theinnovatorsdilemma-activity-7513824317424582656-2KmW)
-
-* **The Innovator**
-<br/>By: Clayton M. Christensen<br/>October 2026 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_innovation-strategy-theinnovatorsdilemma-activity-7513670227847716865-_KSI)
+<!-- duplicate review activity-7513670227847716865 -->
 
 * **The Nvidia Way**
 <br/>By: Tae Kim<br/>September 2026 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_thenvidiaway-toyotaway-jensenhuang-activity-7503683517738815488-EzUW)
