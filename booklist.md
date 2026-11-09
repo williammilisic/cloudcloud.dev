@@ -5,6 +5,9 @@ Back to [main](index.md) &middot; see the list [in numbers](bookstats.md).
 <br/>
 ## 2026
 
+* **Twilight of Democracy**
+<br/>By: Anne Applebaum<br/>November 2026 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_twilightofdemocracy-anneapplebaum-democracy-activity-7525160250086207488-wz0o)
+
 * **The Innovator's Dilemma**
 <br/>By: Clayton M. Christensen<br/>October 2026 <br/>[LinkedIn review](https://www.linkedin.com/posts/williammilisic_innovation-strategy-theinnovatorsdilemma-activity-7513824317424582656-2KmW)
 <!-- duplicate review activity-7513670227847716865 -->

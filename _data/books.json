@@ -1,7 +1,7 @@
 {
   "summary": {
-    "total": 116,
-    "reviewed": 89,
+    "total": 117,
+    "reviewed": 90,
     "rereads": 2,
     "authors": 127,
     "first_year": "2018",
@@ -10,8 +10,8 @@
     "years": [
       {
         "year": "2026",
-        "total": 15,
-        "reviewed": 15
+        "total": 16,
+        "reviewed": 16
       },
       {
         "year": "2025",
@@ -349,6 +349,25 @@
         ]
       },
       {
+        "name": "Anne Applebaum",
+        "count": 2,
+        "slug": "anne-applebaum",
+        "books": [
+          {
+            "title": "Twilight of Democracy",
+            "year": "2026",
+            "note": "",
+            "url": "https://www.linkedin.com/posts/williammilisic_twilightofdemocracy-anneapplebaum-democracy-activity-7525160250086207488-wz0o"
+          },
+          {
+            "title": "Autocracy Inc. - The Dictators who want to run the World",
+            "year": "2026",
+            "note": "",
+            "url": "https://www.linkedin.com/posts/williammilisic_autocracyinc-anneapplebaum-democracy-activity-7439589191828557824-fBw2"
+          }
+        ]
+      },
+      {
         "name": "Ben Horowitz",
         "count": 2,
         "slug": "ben-horowitz",
@@ -560,6 +579,25 @@
     ]
   },
   "books": [
+    {
+      "title": "Twilight of Democracy",
+      "author": "Anne Applebaum",
+      "authors": [
+        "Anne Applebaum"
+      ],
+      "month": "November",
+      "year": "2026",
+      "section_year": "2026",
+      "note": "",
+      "reread": false,
+      "reviewed": true,
+      "links": [
+        {
+          "label": "LinkedIn review",
+          "url": "https://www.linkedin.com/posts/williammilisic_twilightofdemocracy-anneapplebaum-democracy-activity-7525160250086207488-wz0o"
+        }
+      ]
+    },
     {
       "title": "The Innovator's Dilemma",
       "author": "Clayton M. Christensen",
