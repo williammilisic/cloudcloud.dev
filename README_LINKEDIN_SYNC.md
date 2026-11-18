@@ -1,28 +1,35 @@
-# Sync LinkedIn posts older than 1 year
+# LinkedIn archive sync
 
-This provides a GitHub Actions workflow + Python script to fetch your LinkedIn UGC posts and create markdown files for all posts older than 1 year (configurable). The workflow runs monthly and commits the generated files to a branch so you can review or merge them.
+Daily automation keeps the LinkedIn post archive, book reviews, and related stats in sync on `main`.
 
-Required secrets (set in the repository settings -> Secrets):
-- LINKEDIN_ACCESS_TOKEN: OAuth2 access token with the required LinkedIn permissions (UGC read, shares, etc.). Tokens from LinkedIn OAuth need appropriate scopes (r_liteprofile, r_ugc, w_member_social if posting, etc.). Use a long-lived token or refresh flow for production.
-- LINKEDIN_AUTHOR_URN: Your LinkedIn author URN, e.g. `urn:li:person:XXXXXXXX`.
+## Workflow
 
-How it works:
-1. The action runs `scripts/sync_linkedin.py`.
-2. The script pages through the LinkedIn UGC posts for the provided author, filters posts older than 365 days (CUTOFF_DAYS), and writes one markdown file per post into `posts/`.
-3. The workflow commits and pushes changes to branch `sync/linkedin-old-posts`.
+[`.github/workflows/update-linkedin-posts.yml`](.github/workflows/update-linkedin-posts.yml) runs every day at 00:00 UTC (and on `workflow_dispatch`).
 
-Customizations:
-- Change the schedule cron in `.github/workflows/sync-linkedin.yml`.
-- Change cutoff by setting CUTOFF_DAYS env in the workflow (e.g., 730 for 2 years).
-- Change storage target (S3, Google Drive) by modifying the script to upload instead of committing files.
+It:
 
-Notes and gotchas:
-- LinkedIn API limits and scopes: ensure your app/token has the right permissions to read UGC/shares.
-- The script uses a simple heuristic to extract text and media; you may need to adapt it for complex post formats (video, multiple images, reshared content).
-- For production reliability consider implementing token refresh, better pagination error handling, retries, and rate-limit handling.
+1. Fetches recent profile posts from RapidAPI
+2. Merges them into [`_data/linkedin-posts.json`](_data/linkedin-posts.json) via [`scripts/merge_linkedin_posts.py`](scripts/merge_linkedin_posts.py)
+3. Downloads new post images via [`scripts/download_post_media.py`](scripts/download_post_media.py) (CDN links expire in roughly 30 days)
+4. Syncs book reviews into [`booklist.md`](booklist.md) via [`scripts/update_booklist.py`](scripts/update_booklist.py)
+5. Rebuilds book and repost stats
+6. Commits and pushes when anything changed
 
-If you'd like, I can:
-- Adapt the script to sync to S3 instead of committing to the repo.
-- Add token refresh (OAuth) flow or instructions for creating a long-lived token.
-- Harden parsing for more LinkedIn post types (videos, reshared content, documents).
-- Create a PR that adds these files to your repository and configures the workflow.
+## Required secret
+
+- `RAPIDAPI_LINKEDIN_DATA_API_KEY` — API key for the RapidAPI LinkedIn scraper used by the fetch step
+
+## Related scripts
+
+| Script | Role |
+| --- | --- |
+| `merge_linkedin_posts.py` | Additive merge into the JSON archive |
+| `download_post_media.py` | Save images under `assets/images/linkedin/` |
+| `update_booklist.py` | Pull book-review activity into `booklist.md` |
+| `build_book_stats.py` / `build_repost_stats.py` | Rebuild derived figures |
+| `import_shares_export.py` | Optional one-off: restore full text (and missing posts) from an official LinkedIn data export |
+
+## Manual runs
+
+- Re-run the sync: Actions → **Update LinkedIn Posts & Booklist** → Run workflow
+- After hand-editing `booklist.md`: Actions → **Refresh Book Stats**, or run `scripts/build_book_stats.py` locally
