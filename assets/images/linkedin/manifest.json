@@ -2727,5 +2727,23 @@
     "saved": "2026-11-27",
     "sha256": "46a749cd81fa31762e9f2dafaf8f3bf0e855e7e04a5b54aae4c21bc40be06037",
     "url": "https://media.licdn.com/dms/image/v2/D4D22AQFojh4n3WC9qQ/feedshare-shrink_800/B4DaIVBUCMJ8Ag-/0/1795648995874?e=1797465600&v=beta&t=egZvO9kBqHm4Eeg5bg4wMybjnXx4a9us5z2XTwtsQlY"
+  },
+  "2026-11-27-5d1c49885c.jpg": {
+    "bytes": 71065,
+    "path": "/dms/image/sync/v2/D4D27AQG8MZr91Qo8mQ/articleshare-shrink_1280_800/B4DaIdo10OJ8Ag-/0/1795793576245",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_platform-engineer-team-observability-activity-7532104497481900032-GcRk",
+    "posted": "2026-11-27",
+    "saved": "2026-11-28",
+    "sha256": "db17fd97a0b2e4c2928243b7be18159f3ddaf2555df9f7e068b316b3050ff5d1",
+    "url": "https://media.licdn.com/dms/image/sync/v2/D4D27AQG8MZr91Qo8mQ/articleshare-shrink_1280_800/B4DaIdo10OJ8Ag-/0/1795793576245?e=1796450400&v=beta&t=eiW4tthFqmh3IyiHopstu0d1EGcUH5m9ySz8RLWIm2Y"
+  },
+  "2026-11-27-b1ac01752b.jpg": {
+    "bytes": 36090,
+    "path": "D4D22AQGBE-m6hPRaRQ",
+    "post_url": "https://www.linkedin.com/posts/williammilisic_blackfriday-funfact-activity-7531967905538654208-WIIL",
+    "posted": "2026-11-27",
+    "saved": "2026-11-28",
+    "sha256": "c25fa17e77645517b3b722276165b7ad005ee977cd083d33635620cf20dc8acc",
+    "url": "https://media.licdn.com/dms/image/v2/D4D22AQGBE-m6hPRaRQ/feedshare-shrink_1280/B4DaIbs5dhJUAI-/0/1795761084664?e=1797465600&v=beta&t=Ux1wl8PlTHLPZYvgrXRV-9mG-Zq9K-vsXRu0vqOdEIA"
   }
 }
